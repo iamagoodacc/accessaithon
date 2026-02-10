@@ -27,10 +27,14 @@ def flatten(xss: Iterable[Iterable[T]]) -> list[T]:
 def collect_handle(
         hand_landmarks: HandLandmarkerResult,
         pose_landmarks: PoseLandmarkerResult,
-        img: cv2.typing.MatLike
 ):
-    # layout: left hand_landmarks + right hand_landmarks + pose landmarks
-    landmarks = []
+    """ layout: left hand_landmarks + right hand_landmarks + pose landmarks """
+
+    used_pose_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], map(lambda idx: pose_landmarks.pose_landmarks[idx], POSE_LANDMARKS_IDX_LIST)))
+    # all relative to this location
+    base_position = used_pose_landmarks[0]
+
+    assert len(used_pose_landmarks) == len(POSE_LANDMARKS_IDX_LIST)
 
     handedness: list[list[Category]] = hand_landmarks.handedness
     left = None
@@ -43,26 +47,20 @@ def collect_handle(
         else:
             right = landmarks
 
-    lefthand_landmarks = []
     if left is None:
-        lefthand_landmarks = [0] * NUM_LANDMARKS_IN_HAND * DIMENSIONS
+        lefthand_landmarks = [[0] * DIMENSIONS] * NUM_LANDMARKS_IN_HAND
     else:
-        lefthand_landmarks = flatten(map(lambda landmark: [landmark.x, landmark.y, landmark.z], left))
+        lefthand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], left))
 
-    assert len(lefthand_landmarks) == NUM_LANDMARKS_IN_HAND * DIMENSIONS
+    assert len(lefthand_landmarks) == NUM_LANDMARKS_IN_HAND
 
-    righthand_landmarks = []
     if right is None:
-        righthand_landmarks = [0] * NUM_LANDMARKS_IN_HAND * DIMENSIONS
+        righthand_landmarks = [[0] *  DIMENSIONS] * NUM_LANDMARKS_IN_HAND
     else:
-        righthand_landmarks = flatten(map(lambda landmark: [landmark.x, landmark.y, landmark.z], left))
+        righthand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], right))
 
-    assert len(righthand_landmarks) == NUM_LANDMARKS_IN_HAND * DIMENSIONS
-
-    used_pose_landmarks = flatten(map(lambda landmark: [landmark.x, landmark.y, landmark.z], map(lambda idx: pose_landmarks.pose_landmarks[idx], POSE_LANDMARKS_IDX_LIST)))
-
-    assert len(used_pose_landmarks) == len(POSE_LANDMARKS_IDX_LIST) * DIMENSIONS
+    assert len(righthand_landmarks) == NUM_LANDMARKS_IN_HAND
 
     landmarks = lefthand_landmarks + righthand_landmarks + used_pose_landmarks
 
-    return
+    return flatten(map(lambda landmark: map(lambda pair: pair[0] - pair[1], zip(landmark,base_position)), landmarks))

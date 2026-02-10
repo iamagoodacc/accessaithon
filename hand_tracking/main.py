@@ -12,7 +12,7 @@ def main_handle(
         img: cv2.typing.MatLike
 ):
     render_handle(hand_landmarks, pose_landmarks, img)
-    collect_handle(hand_landmarks, pose_landmarks, img)
+    collect_handle(hand_landmarks, pose_landmarks)
 
 def render_handle(
     hand_landmarks: HandLandmarkerResult,
