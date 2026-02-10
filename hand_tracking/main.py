@@ -1,7 +1,7 @@
 import cv2
 from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
-from training import collect_handle
+from data import collect_handle
 
 from video import run
 

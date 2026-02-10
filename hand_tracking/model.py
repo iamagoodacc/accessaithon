@@ -46,7 +46,7 @@ class RecognitionModel(nn.Module):
 
         return out
 
-def train(model: RecognitionModel, num_epochs: int, learning_rate: float, x_train: torch.FloatTensor, y_train: torch.FloatTensor):
+def train(model: RecognitionModel, num_epochs: int, learning_rate: float, x_train: torch.LongTensor, y_train: torch.LongTensor):
     """
     :param model:
     :param num_epochs:
@@ -56,7 +56,7 @@ def train(model: RecognitionModel, num_epochs: int, learning_rate: float, x_trai
     """
 
     # mean squared error
-    criterion = nn.MSELoss()
+    criterion = nn.CrossEntropyLoss()
     # updates the weights every time
     optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 

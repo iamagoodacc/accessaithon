@@ -1,66 +1,44 @@
-from typing import Iterable, TypeVar
-
-import cv2
+import numpy as np
 import torch
-from mediapipe.tasks.python.components.containers.category import Category
-from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
-from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
+from model import RecognitionModel, train
 
-DIMENSIONS = 3
-NUM_LANDMARKS_IN_HAND = 21
+SIGNS = ["hello", "yes"]
 
-POSE_LANDMARKS_HEAD_START_IDX = 0
-POSE_LANDMARKS_HEAD_END_IDX = 10
+x_data = []
+y_data = []
 
-# we use the head, shoulders, and arm joints
-POSE_LANDMARKS_SHOULDER_IDX = [11, 13]
-POSE_LANDMARKS_ARMS_IDX = [13, 14, 15, 16]
-POSE_LANDMARKS_IDX_LIST = list(range(POSE_LANDMARKS_HEAD_START_IDX, POSE_LANDMARKS_HEAD_END_IDX + 1)) + POSE_LANDMARKS_SHOULDER_IDX + POSE_LANDMARKS_ARMS_IDX
+for label_idx, sign in enumerate(SIGNS):
+    data = np.load(f"data/{sign}.npy")   # shape: (20, 30, num_features)
+    x_data.append(data)
+    y_data.extend([label_idx] * len(data))   # 0 for hello, 1 for next sign, etc.
 
-T = TypeVar('T')
-def flatten(xss: Iterable[Iterable[T]]) -> list[T]:
-    return [x
-     for xs in xss
-     for x in xs
-     ]
+x_data = np.concatenate(x_data, axis=0)     # shape: (total_samples, 30, num_features)
+y_data = np.array(y_data)                    # shape: (total_samples,)
 
-def collect_handle(
-        hand_landmarks: HandLandmarkerResult,
-        pose_landmarks: PoseLandmarkerResult,
-):
-    """ layout: left hand_landmarks + right hand_landmarks + pose landmarks """
+x_train = torch.tensor(x_data, dtype=torch.float32)
+y_train = torch.tensor(y_data, dtype=torch.long)    # long for classification
 
-    used_pose_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], map(lambda idx: pose_landmarks.pose_landmarks[idx], POSE_LANDMARKS_IDX_LIST)))
-    # all relative to this location
-    base_position = used_pose_landmarks[0]
+print(f"x_train shape: {x_train.shape}")
+print(f"y_train shape: {y_train.shape}")
 
-    assert len(used_pose_landmarks) == len(POSE_LANDMARKS_IDX_LIST)
+input_size  = x_train.shape[2]   # num_features per frame
+output_size = len(SIGNS)         # one output per sign
 
-    handedness: list[list[Category]] = hand_landmarks.handedness
-    left = None
-    right = None
+model = RecognitionModel(
+    input_size=input_size,
+    hidden_size=128,
+    num_layers=2,
+    output_size=output_size,
+    dropout=0.2
+)
 
-    for landmarks, hand in zip(hand_landmarks.hand_landmarks, handedness):
-        label = hand[0].category_name  # "Left" or "Right"
-        if label == "Left":
-            left = landmarks
-        else:
-            right = landmarks
+train(
+    model=model,
+    num_epochs=100,
+    learning_rate=0.001,
+    x_train=x_train,
+    y_train=y_train
+)
 
-    if left is None:
-        lefthand_landmarks = [[0] * DIMENSIONS] * NUM_LANDMARKS_IN_HAND
-    else:
-        lefthand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], left))
-
-    assert len(lefthand_landmarks) == NUM_LANDMARKS_IN_HAND
-
-    if right is None:
-        righthand_landmarks = [[0] *  DIMENSIONS] * NUM_LANDMARKS_IN_HAND
-    else:
-        righthand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], right))
-
-    assert len(righthand_landmarks) == NUM_LANDMARKS_IN_HAND
-
-    landmarks = lefthand_landmarks + righthand_landmarks + used_pose_landmarks
-
-    return flatten(map(lambda landmark: map(lambda pair: pair[0] - pair[1], zip(landmark,base_position)), landmarks))
+torch.save(model.state_dict(), "recognition_model.pth")
+print("Model saved")

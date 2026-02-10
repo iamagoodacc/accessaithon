@@ -3,7 +3,6 @@ import cv2
 import mediapipe as mp
 import os
 import urllib.request
-from mediapipe.tasks.python.components.containers.landmark import NormalizedLandmark
 from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
 
