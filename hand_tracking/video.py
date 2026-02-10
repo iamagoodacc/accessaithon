@@ -4,16 +4,18 @@ import mediapipe as mp
 import os
 import urllib.request
 from mediapipe.tasks.python.components.containers.landmark import NormalizedLandmark
+from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
+from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
 
 MODELS = {
     "hand": (
         "hand_landmarker.task",
         "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
     ),
-    "face": (
-        "face_landmarker.task",
-        "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task"
-    ),
+    # "face": (
+    #     "face_landmarker.task",
+    #     "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task"
+    # ),
     "pose": (
         "pose_landmarker.task",
         "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task"
@@ -31,9 +33,8 @@ def download_models():
 
 def run(handle: Callable[
     [
-        list[list[NormalizedLandmark]],  # hand_landmarks
-        list[list[NormalizedLandmark]],  # face_landmarks
-        list[list[NormalizedLandmark]],  # pose_landmarks
+        HandLandmarkerResult,  # hand_landmarks
+        PoseLandmarkerResult,  # pose_landmarks
         cv2.typing.MatLike
     ],
     None
@@ -49,16 +50,6 @@ def run(handle: Callable[
                 delegate=mp.tasks.BaseOptions.Delegate.CPU
             ),
             num_hands=2,
-            running_mode=mp.tasks.vision.RunningMode.IMAGE
-        )
-    )
-
-    face_detector = mp.tasks.vision.FaceLandmarker.create_from_options(
-        mp.tasks.vision.FaceLandmarkerOptions(
-            base_options=mp.tasks.BaseOptions(
-                model_asset_path=MODELS["face"][0],
-                delegate=mp.tasks.BaseOptions.Delegate.CPU
-            ),
             running_mode=mp.tasks.vision.RunningMode.IMAGE
         )
     )
@@ -81,13 +72,11 @@ def run(handle: Callable[
             mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=img_rgb)
 
             hand_result = hand_detector.detect(mp_image)
-            face_result = face_detector.detect(mp_image)
             pose_result = pose_detector.detect(mp_image)
 
             handle(
-                hand_result.hand_landmarks,
-                face_result.face_landmarks,
-                pose_result.pose_landmarks,
+                hand_result,
+                pose_result,
                 img
             )
 
