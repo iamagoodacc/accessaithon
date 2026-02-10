@@ -8,12 +8,19 @@ import urllib.request
 from mediapipe.tasks.python.components.containers.landmark import NormalizedLandmark
 
 
-def run(handle: Callable[[list[list[NormalizedLandmark]], cv2.typing.MatLike], None]):
-    model_path = 'hand_landmarker.task'
-    if not os.path.exists(model_path):
+def run(handle: Callable[[list[list[NormalizedLandmark]], list[list[NormalizedLandmark]], cv2.typing.MatLike], None]):
+    hand_model_path = 'hand_landmarker.task'
+    if not os.path.exists(hand_model_path):
         print("Downloading hand landmarker model...")
         url = "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
-        urllib.request.urlretrieve(url, model_path)
+        urllib.request.urlretrieve(url, hand_model_path)
+        print("Model downloaded successfully!")
+
+    face_model_path = 'face_detector.model'
+    if not os.path.exists(face_model_path):
+        print("Downloading face recognition model...")
+        url = "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task"
+        urllib.request.urlretrieve(url, "face_landmarker.task")
         print("Model downloaded successfully!")
 
     cap = cv2.VideoCapture(0)
@@ -24,7 +31,11 @@ def run(handle: Callable[[list[list[NormalizedLandmark]], cv2.typing.MatLike], N
         num_hands=2,
         running_mode=mp.tasks.vision.RunningMode.IMAGE
     )
-    detector = mp.tasks.vision.HandLandmarker.create_from_options(options)
+    hand_detector = mp.tasks.vision.HandLandmarker.create_from_options(options)
+
+    face_base_options = mp.tasks.BaseOptions(model_asset_path='face_landmarker.task')
+    face_options = mp.tasks.vision.FaceLandmarkerOptions(base_options=face_base_options)
+    face_detector = mp.tasks.vision.FaceLandmarker.create_from_options(face_options)
 
     while True:
         success, img = cap.read()
@@ -34,10 +45,11 @@ def run(handle: Callable[[list[list[NormalizedLandmark]], cv2.typing.MatLike], N
 
             mp_image = mp.Image(image_format=mp.ImageFormat.SRGB, data=img_rgb)
 
-            detection_result = detector.detect(mp_image)
+            hand_detection_result = hand_detector.detect(mp_image)
+            face_detection_result = face_detector.detect(mp_image)
 
-            if detection_result.hand_landmarks:
-                handle(detection_result.hand_landmarks, img)
+            if hand_detection_result.hand_landmarks and face_detection_result.face_landmarks:
+                handle(hand_detection_result.hand_landmarks, face_detection_result.face_landmarks, img)
 
             cv2.imshow('Image', img)
 
