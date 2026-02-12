@@ -2,7 +2,7 @@ from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
 import cv2
 import numpy as np
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
-from main import render_handle
+from utils import render_handle
 from data import collect_handle
 from video import run
 import os

@@ -3,10 +3,12 @@ import cv2
 import numpy as np
 import torch
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
-from main import render_handle
+from utils import render_handle
 from data import collect_handle
 from model import RecognitionModel
 from video import run
+import os
+import sys
 
 SIGNS = ["hello", "yes"]
 FRAMES_PER_SEQUENCE = 30
@@ -17,9 +19,21 @@ recording = False
 prediction = "..."
 confidence = 0.0
 
+# Check if training data exists
+if not os.path.exists(f"data/{SIGNS[0]}.npy"):
+    print("ERROR: Training data not found!")
+    print("Please run 'python collect_data.py' first to collect training data.")
+    sys.exit(1)
+
 # figure out input size from saved data
 sample_data = np.load(f"data/{SIGNS[0]}.npy")
 input_size = sample_data.shape[2]
+
+# Check if model exists
+if not os.path.exists("recognition_model.pth"):
+    print("ERROR: Trained model not found!")
+    print("Please run 'python training.py' to train the model first.")
+    sys.exit(1)
 
 model = RecognitionModel(
     input_size=input_size,

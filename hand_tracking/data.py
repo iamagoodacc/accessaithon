@@ -28,6 +28,10 @@ def collect_handle(
 ) -> list[float]:
     """ layout: left hand_landmarks + right hand_landmarks + pose landmarks """
 
+    # Check if pose landmarks are available
+    if not pose_landmarks.pose_landmarks or len(pose_landmarks.pose_landmarks) == 0:
+        raise ValueError("No pose landmarks detected")
+
     used_pose_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], map(lambda idx: pose_landmarks.pose_landmarks[0][idx], POSE_LANDMARKS_IDX_LIST)))
     # all relative to this location
     base_position = used_pose_landmarks[0]
@@ -46,14 +50,16 @@ def collect_handle(
             right = landmarks
 
     if left is None:
-        left_hand_landmarks = [[0] * DIMENSIONS] * NUM_LANDMARKS_IN_HAND
+        # Fix: Create separate zero lists for each landmark (not reference to same list)
+        left_hand_landmarks = [[0, 0, 0] for _ in range(NUM_LANDMARKS_IN_HAND)]
     else:
         left_hand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], left))
 
     assert len(left_hand_landmarks) == NUM_LANDMARKS_IN_HAND
 
     if right is None:
-        right_hand_landmarks = [[0] *  DIMENSIONS] * NUM_LANDMARKS_IN_HAND
+        # Fix: Create separate zero lists for each landmark (not reference to same list)
+        right_hand_landmarks = [[0, 0, 0] for _ in range(NUM_LANDMARKS_IN_HAND)]
     else:
         right_hand_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], right))
 
