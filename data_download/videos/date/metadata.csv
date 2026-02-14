@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65442,aslsignbank,90,0,val,25,1,-1,184,17,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DA/DATE-370.mp4,date_0000_aslsignbank_65442.mp4,failed
+3,14734,signingsavvy,11,0,test,25,1,-1,72,12,207,192,https://www.signingsavvy.com/signs/mp4/14/14219.mp4,date_0003_signingsavvy_14734.mp4,ok
+7,14728,startasl,36,0,train,25,1,-1,236,19,525,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/date.mp4,date_0007_startasl_14728.mp4,ok
+8,14738,aslu,5,0,train,25,1,-1,89,23,431,360,https://www.youtube.com/watch?v=OsSeA2Zk26Y,date_0008_aslu_14738.mp4,failed
+10,14740,aslpro,72,0,train,25,1,-1,8,8,230,240,http://www.aslpro.com/main/d/date_person.swf,date_0010_aslpro_14740.mp4,skipped_swf
+11,14741,aslsearch,12,0,val,25,1,-1,183,54,542,400,http://www.aslsearch.com/signs/videos/date.mp4,date_0011_aslsearch_14741.mp4,ok
+12,14729,signschool,31,0,train,25,1,-1,412,62,993,717,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Dessert%252C%20Dating.mp4,date_0012_signschool_14729.mp4,ok
+15,14732,handspeak,14,0,train,25,1,-1,92,6,461,480,https://www.handspeak.com/word/d/date-courtship.mp4,date_0015_handspeak_14732.mp4,failed

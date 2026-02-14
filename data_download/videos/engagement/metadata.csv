@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19190,asl5200,9,0,val,25,1556,1622,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,engagement_0000_asl5200_19190.mp4,failed
+1,67622,asllex,109,0,test,25,1,-1,91,6,381,360,https://youtu.be/Sby0gj8kSPQ,engagement_0001_asllex_67622.mp4,failed
+3,19192,signingsavvy,10,0,train,25,1,-1,87,17,226,192,https://www.signingsavvy.com/signs/mp4/22/22119.mp4,engagement_0003_signingsavvy_19192.mp4,ok
+4,19193,signingsavvy,10,0,train,25,1,-1,87,22,226,192,https://www.signingsavvy.com/signs/mp4/22/22120.mp4,engagement_0004_signingsavvy_19193.mp4,ok
+5,19194,signingsavvy,10,0,train,25,1,-1,89,24,226,192,https://www.signingsavvy.com/signs/mp4/22/22122.mp4,engagement_0005_signingsavvy_19194.mp4,ok
+6,19195,aslu,5,0,val,25,1,-1,24,23,470,360,https://www.youtube.com/watch?v=CDP5hEbk-sQ,engagement_0006_aslu_19195.mp4,failed
+7,19196,aslpro,54,0,train,25,1,-1,12,0,234,240,http://www.aslpro.com//main/e/engagement.swf,engagement_0007_aslpro_19196.mp4,skipped_swf
+8,19197,aslsearch,12,0,train,25,1,-1,142,70,543,400,http://www.aslsearch.com/signs/videos/engaged.mp4,engagement_0008_aslsearch_19197.mp4,ok

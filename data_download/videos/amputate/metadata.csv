@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02429,spreadthesign,2,0,test,25,1,-1,57,20,267,240,https://media.spreadthesign.com/video/mp4/13/91695.mp4,amputate_0000_spreadthesign_02429.mp4,ok
+1,02430,signschool,39,0,val,25,1,-1,582,115,1666,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Amputate-w4LXaODN7Is.mp4,amputate_0001_signschool_02430.mp4,ok
+2,02431,asldeafined,15,0,train,25,1,-1,116,18,557,480,https://media.asldeafined.com/vocabulary/1527807865.3099.mp4,amputate_0002_asldeafined_02431.mp4,ok
+3,02432,handspeak,14,0,train,25,1,-1,59,28,554,480,https://www.handspeak.com/word/a/amputate-leg.mp4,amputate_0003_handspeak_02432.mp4,failed
+4,02433,handspeak,14,0,train,25,1,-1,134,18,538,480,https://www.handspeak.com/word/a/amputate.mp4,amputate_0004_handspeak_02433.mp4,failed
+5,02434,signingsavvy,11,0,train,25,1,-1,29,12,236,192,https://www.signingsavvy.com/signs/mp4/1/1090.mp4,amputate_0005_signingsavvy_02434.mp4,ok
+6,02435,aslsearch,12,0,train,25,1,-1,178,46,547,400,http://www.aslsearch.com/signs/videos/amputate.mp4,amputate_0006_aslsearch_02435.mp4,ok

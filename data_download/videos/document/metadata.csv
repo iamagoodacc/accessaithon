@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17031,asl5200,9,0,val,25,3870,3932,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,document_0000_asl5200_17031.mp4,failed
+1,65505,aslsignbank,102,0,test,25,1,-1,172,17,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DO/DOCUMENT-1265.mp4,document_0001_aslsignbank_65505.mp4,failed
+2,17036,spreadthesign,2,0,train,25,1,-1,79,35,247,240,https://media.spreadthesign.com/video/mp4/13/93312.mp4,document_0002_spreadthesign_17036.mp4,ok
+3,17037,signschool,6,0,train,25,1,-1,540,53,1557,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Document%2C%20Record%2C%20Write%20It%20Down-wu0iDkKWgJo.mp4,document_0003_signschool_17037.mp4,ok
+4,17038,asldeafined,21,0,train,25,1,-1,80,7,572,480,https://media.asldeafined.com/vocabulary/1467772578.1422.mp4,document_0004_asldeafined_17038.mp4,ok
+5,17039,asldeafined,13,0,val,25,1,-1,112,0,519,480,https://media.asldeafined.com/vocabulary/1468723544.417.mp4,document_0005_asldeafined_17039.mp4,ok
+7,17041,signingsavvy,11,0,train,25,1,-1,75,8,210,192,https://www.signingsavvy.com/signs/mp4/5/5899.mp4,document_0007_signingsavvy_17041.mp4,ok
+8,17042,aslsearch,12,0,train,25,1,-1,183,62,560,400,http://www.aslsearch.com/signs/videos/document.mp4,document_0008_aslsearch_17042.mp4,ok

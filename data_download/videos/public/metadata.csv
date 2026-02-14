@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45186,asl5200,9,0,test,25,6649,6705,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,public_0000_asl5200_45186.mp4,failed
+3,45193,signschool,45,0,val,25,1,-1,623,138,1480,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hearing%2C%20Public-QTXYOo6ZB8I.mp4,public_0003_signschool_45193.mp4,ok
+4,45194,asldeafined,13,0,train,25,1,-1,104,0,612,480,https://media.asldeafined.com/vocabulary/1468757216.4764.mp4,public_0004_asldeafined_45194.mp4,ok
+6,45196,signingsavvy,11,0,train,25,1,-1,62,17,218,192,https://www.signingsavvy.com/signs/mp4/6/6412.mp4,public_0006_signingsavvy_45196.mp4,ok
+7,45197,aslpro,24,0,train,25,1,-1,20,11,196,240,http://www.aslpro.com/main/p/public.swf,public_0007_aslpro_45197.mp4,skipped_swf
+8,45198,aslsearch,41,0,train,25,1,-1,223,38,509,400,http://www.aslsearch.com/signs/videos/public.mp4,public_0008_aslsearch_45198.mp4,ok
+9,45199,aslsearch,41,0,train,25,1,-1,223,38,509,400,http://www.aslsearch.com/signs/videos/public.mp4,public_0009_aslsearch_45199.mp4,ok

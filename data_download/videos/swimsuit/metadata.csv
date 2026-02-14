@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56367,asldeafined,40,0,val,25,1,-1,60,12,630,480,https://media.asldeafined.com/vocabulary/1489411491.1114.mp4,swimsuit_0000_asldeafined_56367.mp4,ok
+1,56368,handspeak,20,0,test,25,1,-1,48,1,257,240,https://www.handspeak.com/word/s/swimsuit-bottom.mp4,swimsuit_0001_handspeak_56368.mp4,failed
+2,56369,handspeak,20,0,train,25,1,-1,55,0,269,240,https://www.handspeak.com/word/s/swimsuit-torso.mp4,swimsuit_0002_handspeak_56369.mp4,failed
+3,56370,signingsavvy,11,0,train,25,1,-1,32,0,247,192,https://www.signingsavvy.com/signs/mp4/14/14894.mp4,swimsuit_0003_signingsavvy_56370.mp4,ok
+4,56371,signingsavvy,11,0,train,25,1,-1,50,0,245,192,https://www.signingsavvy.com/signs/mp4/14/14895.mp4,swimsuit_0004_signingsavvy_56371.mp4,ok
+5,56372,signingsavvy,11,0,val,25,1,-1,52,1,249,192,https://www.signingsavvy.com/signs/mp4/14/14896.mp4,swimsuit_0005_signingsavvy_56372.mp4,ok
+6,56373,signingsavvy,11,0,train,25,1,-1,62,12,227,192,https://www.signingsavvy.com/signs/mp4/14/14897.mp4,swimsuit_0006_signingsavvy_56373.mp4,ok
+7,56374,aslpro,72,0,train,25,1,-1,10,6,248,240,http://www.aslpro.com/main/s/swimsuit.swf,swimsuit_0007_aslpro_56374.mp4,skipped_swf

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,07699,signschool,32,0,test,25,1,-1,427,48,1647,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Breeze%2C%20Light%20Wind-8RyXcDC8pvY.mp4,breeze_0002_signschool_07699.mp4,ok
+4,07701,handspeak,20,0,val,25,1,-1,78,19,460,360,https://www.handspeak.com/word/b/breeze.mp4,breeze_0004_handspeak_07701.mp4,failed
+5,07702,signingsavvy,10,0,train,25,1,-1,53,21,259,192,https://www.signingsavvy.com/signs/mp4/22/22975.mp4,breeze_0005_signingsavvy_07702.mp4,ok
+6,07703,signingsavvy,10,0,train,25,1,-1,50,12,268,192,https://www.signingsavvy.com/signs/mp4/23/23830.mp4,breeze_0006_signingsavvy_07703.mp4,ok
+7,07704,aslu,5,0,train,25,1,-1,268,27,1083,720,https://www.youtube.com/watch?v=RA04zvXojYA,breeze_0007_aslu_07704.mp4,failed
+8,07705,aslpro,16,0,train,25,1,-1,0,17,253,240,http://www.aslpro.com/main/b/breeze.swf,breeze_0008_aslpro_07705.mp4,skipped_swf
+9,07706,aslsearch,12,0,train,25,1,-1,139,55,631,400,http://www.aslsearch.com/signs/videos/breezy.mp4,breeze_0009_aslsearch_07706.mp4,ok

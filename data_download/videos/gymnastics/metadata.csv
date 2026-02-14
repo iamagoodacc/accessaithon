@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,26062,startasl,38,0,test,25,1,-1,416,55,850,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/gymnastics.mp4,gymnastics_0001_startasl_26062.mp4,ok
+2,26063,signschool,45,0,val,25,1,-1,566,133,1589,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Gymnastics-0fESuP0TDaM.mp4,gymnastics_0002_signschool_26063.mp4,ok
+4,26065,handspeak,14,0,train,25,1,-1,78,14,278,240,https://www.handspeak.com/word/g/gymnastics2.mp4,gymnastics_0004_handspeak_26065.mp4,failed
+5,26066,handspeak,14,0,train,25,1,-1,49,9,254,240,https://www.handspeak.com/word/g/gymnastics.mp4,gymnastics_0005_handspeak_26066.mp4,failed
+6,26067,signingsavvy,11,0,train,25,1,-1,61,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6814.mp4,gymnastics_0006_signingsavvy_26067.mp4,ok
+7,26068,aslu,5,0,train,25,1,-1,335,40,1054,720,https://www.youtube.com/watch?v=Px0zcwM6mIo,gymnastics_0007_aslu_26068.mp4,failed
+8,26069,aslsearch,12,0,train,25,1,-1,179,61,546,400,http://www.aslsearch.com/signs/videos/gymnastics.mp4,gymnastics_0008_aslsearch_26069.mp4,ok

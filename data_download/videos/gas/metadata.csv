@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65802,aslsignbank,94,0,val,25,1,-1,142,20,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GA/GAS-843.mp4,gas_0000_aslsignbank_65802.mp4,failed
+1,24127,aslsearch,12,0,test,25,1,-1,168,53,529,400,http://www.aslsearch.com/signs/videos/gas.mp4,gas_0001_aslsearch_24127.mp4,ok
+2,24119,elementalasl,19,0,train,25,1,-1,62,7,230,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/gas.mov,gas_0002_elementalasl_24119.mp4,ok
+3,67705,asllex,109,0,train,25,1,-1,125,20,393,360,https://youtu.be/hZSP_fRyH4s,gas_0003_asllex_67705.mp4,failed
+4,24120,startasl,38,0,train,25,1,-1,370,49,797,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/gas.mp4,gas_0004_startasl_24120.mp4,ok
+5,24121,signschool,32,0,val,25,1,-1,470,80,1521,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Gas-u3-_YUN9eXE.mp4,gas_0005_signschool_24121.mp4,ok
+6,24122,asldeafined,21,0,train,25,1,-1,74,16,587,480,https://media.asldeafined.com/vocabulary/1468515133.715.mp4,gas_0006_asldeafined_24122.mp4,ok
+9,24125,signingsavvy,10,0,train,25,1,-1,79,27,206,192,https://www.signingsavvy.com/signs/mp4/23/23414.mp4,gas_0009_signingsavvy_24125.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18069,spreadthesign,35,0,test,25,1,-1,60,1,262,240,https://media.spreadthesign.com/video/mp4/13/399485.mp4,dvd_0000_spreadthesign_18069.mp4,ok
+1,18070,startasl,38,0,val,25,1,-1,422,56,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dvd.mp4,dvd_0001_startasl_18070.mp4,ok
+2,18071,asldeafined,21,0,train,25,1,-1,77,12,533,480,https://media.asldeafined.com/vocabulary/1468207019.1947.mp4,dvd_0002_asldeafined_18071.mp4,ok
+3,18072,handspeak,14,0,train,25,1,-1,61,11,269,240,https://www.handspeak.com/word/d/dvd-fs.mp4,dvd_0003_handspeak_18072.mp4,failed
+4,18073,signingsavvy,11,0,train,25,1,-1,71,12,213,192,https://www.signingsavvy.com/signs/mp4/8/8762.mp4,dvd_0004_signingsavvy_18073.mp4,ok
+5,18074,aslu,5,0,train,25,1,-1,355,38,942,720,https://www.youtube.com/watch?v=6Id718dKsf8,dvd_0005_aslu_18074.mp4,failed
+6,18075,aslu,5,0,train,25,1,-1,327,18,940,720,https://www.youtube.com/watch?v=DcVqsWa3NNs,dvd_0006_aslu_18075.mp4,failed

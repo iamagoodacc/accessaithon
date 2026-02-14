@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10388,asl5200,9,0,test,25,2700,2762,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,chicago_0000_asl5200_10388.mp4,failed
+1,67494,asllex,109,0,val,25,1,-1,87,18,375,360,https://youtu.be/12RPQTexDYU,chicago_0001_asllex_67494.mp4,failed
+2,10389,asldeafined,59,0,train,25,1,-1,96,18,513,480,https://media.asldeafined.com/vocabulary/1466732063.2344.mp4,chicago_0002_asldeafined_10389.mp4,ok
+3,10390,handspeak,14,0,train,25,1,-1,33,16,269,240,https://www.handspeak.com/word/c/chicago.mp4,chicago_0003_handspeak_10390.mp4,failed
+4,10391,signingsavvy,10,0,train,25,1,-1,82,18,214,192,https://www.signingsavvy.com/signs/mp4/22/22135.mp4,chicago_0004_signingsavvy_10391.mp4,ok
+5,10392,aslpro,16,0,train,25,1,-1,27,8,222,240,http://www.aslpro.com/main/c/chicago.swf,chicago_0005_aslpro_10392.mp4,skipped_swf
+6,10393,aslsearch,12,0,train,25,1,-1,183,54,559,400,http://www.aslsearch.com/signs/videos/chicago.mp4,chicago_0006_aslsearch_10393.mp4,ok

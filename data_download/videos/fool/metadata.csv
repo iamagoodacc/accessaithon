@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65754,aslsignbank,106,0,test,25,1,-1,188,33,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOOL-1491.mp4,fool_0000_aslsignbank_65754.mp4,failed
+2,22780,signingsavvy,10,0,val,25,1,-1,94,22,202,192,https://www.signingsavvy.com/signs/mp4/23/23337.mp4,fool_0002_signingsavvy_22780.mp4,ok
+4,22772,spreadthesign,28,0,train,25,1,-1,51,7,260,240,https://media.spreadthesign.com/video/mp4/13/482561.mp4,fool_0004_spreadthesign_22772.mp4,ok
+6,22783,aslsearch,12,0,train,25,1,-1,186,47,541,400,http://www.aslsearch.com/signs/videos/trick.mp4,fool_0006_aslsearch_22783.mp4,ok
+8,22774,asldeafined,21,0,train,25,1,-1,172,34,525,480,https://media.asldeafined.com/vocabulary/1513521868.3960.mp4,fool_0008_asldeafined_22774.mp4,ok
+9,22775,handspeak,14,0,train,25,1,-1,44,7,250,240,https://www.handspeak.com/word/f/fool2.mp4,fool_0009_handspeak_22775.mp4,failed
+10,22776,handspeak,14,0,train,25,1,-1,85,16,248,240,https://www.handspeak.com/word/f/fool-joke.mp4,fool_0010_handspeak_22776.mp4,failed

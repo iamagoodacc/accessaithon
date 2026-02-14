@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21837,asl5200,9,0,test,25,1372,1428,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,finance_0000_asl5200_21837.mp4,failed
+1,21838,spreadthesign,2,0,val,25,1,-1,80,28,236,240,https://media.spreadthesign.com/video/mp4/13/89589.mp4,finance_0001_spreadthesign_21838.mp4,ok
+2,21839,signschool,32,0,train,25,1,-1,766,68,1623,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Finance-LrGK65-LIOA.mp4,finance_0002_signschool_21839.mp4,ok
+3,21840,handspeak,14,0,train,25,1,-1,67,6,260,240,https://www.handspeak.com/word/f/finances.mp4,finance_0003_handspeak_21840.mp4,failed
+4,21841,signingsavvy,11,0,train,25,1,-1,76,17,213,192,https://www.signingsavvy.com/signs/mp4/6/6398.mp4,finance_0004_signingsavvy_21841.mp4,ok
+5,21842,aslpro,25,0,train,25,1,-1,6,7,244,240,http://www.aslpro.com/main/f/finance.swf,finance_0005_aslpro_21842.mp4,skipped_swf
+6,21843,aslsearch,41,0,train,25,1,-1,200,39,462,400,http://www.aslsearch.com/signs/videos/finance.mp4,finance_0006_aslsearch_21843.mp4,ok

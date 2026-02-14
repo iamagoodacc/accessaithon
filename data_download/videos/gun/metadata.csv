@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26010,asl5200,9,0,val,25,2288,2317,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,gun_0000_asl5200_26010.mp4,failed
+1,26012,spreadthesign,2,0,test,25,1,-1,49,52,226,240,https://media.spreadthesign.com/video/mp4/13/93110.mp4,gun_0001_spreadthesign_26012.mp4,ok
+2,67736,asllex,109,0,train,25,1,-1,93,19,363,360,https://youtu.be/saih4S5W558,gun_0002_asllex_67736.mp4,failed
+3,26013,asldeafined,21,0,train,25,1,-1,88,9,541,480,https://media.asldeafined.com/vocabulary/1468551210.8493.mp4,gun_0003_asldeafined_26013.mp4,ok
+4,26014,handspeak,20,0,train,25,1,-1,128,5,540,480,https://www.handspeak.com/word/g/gun.mp4,gun_0004_handspeak_26014.mp4,failed
+6,26016,signingsavvy,11,0,val,25,1,-1,78,15,218,192,https://www.signingsavvy.com/signs/mp4/6/6819.mp4,gun_0006_signingsavvy_26016.mp4,ok
+7,26017,aslpro,16,0,train,25,1,-1,39,21,218,240,http://www.aslpro.com/main/g/gun.swf,gun_0007_aslpro_26017.mp4,skipped_swf
+8,26018,aslsearch,12,0,train,25,1,-1,170,65,537,400,http://www.aslsearch.com/signs/videos/gun.mp4,gun_0008_aslsearch_26018.mp4,ok

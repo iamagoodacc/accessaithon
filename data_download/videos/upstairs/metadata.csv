@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60966,asl5200,9,0,test,25,613,665,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,upstairs_0000_asl5200_60966.mp4,failed
+1,60967,signschool,4,0,val,25,1,-1,647,10,1632,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Upstairs-5z5Qf1SQgmc.mp4,upstairs_0001_signschool_60967.mp4,ok
+2,60968,asldeafined,13,0,train,25,1,-1,85,0,525,480,https://media.asldeafined.com/vocabulary/1468925415.4777.mp4,upstairs_0002_asldeafined_60968.mp4,ok
+3,60969,handspeak,14,0,train,25,1,-1,81,36,572,480,https://www.handspeak.com/word/u/upstairs.mp4,upstairs_0003_handspeak_60969.mp4,failed
+4,60970,signingsavvy,10,0,train,25,1,-1,48,1,217,192,https://www.signingsavvy.com/signs/mp4/23/23997.mp4,upstairs_0004_signingsavvy_60970.mp4,ok
+6,60972,aslu,5,0,train,25,1,-1,351,37,969,720,https://www.youtube.com/watch?v=LQ0PcUNB_IM,upstairs_0006_aslu_60972.mp4,failed
+7,60973,nabboud,65,0,train,25,1,-1,318,89,836,720,https://www.youtube.com/watch?v=xY8NeQaXUSA,upstairs_0007_nabboud_60973.mp4,failed

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15741,asl5200,9,0,test,25,1835,1887,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,design_0000_asl5200_15741.mp4,failed
+1,65468,aslsignbank,90,0,val,25,1,-1,187,15,499,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DESIGN-561.mp4,design_0001_aslsignbank_65468.mp4,failed
+2,15750,spreadthesign,0,0,train,25,1,-1,61,13,253,240,https://media.spreadthesign.com/video/mp4/13/58605.mp4,design_0002_spreadthesign_15750.mp4,ok
+3,15751,asldeafined,59,0,train,25,1,-1,111,17,516,480,https://media.asldeafined.com/vocabulary/1466908424.6429.mp4,design_0003_asldeafined_15751.mp4,ok
+4,15752,handspeak,14,0,train,25,1,-1,45,1,265,240,https://www.handspeak.com/word/d/design.mp4,design_0004_handspeak_15752.mp4,failed
+5,15753,signingsavvy,11,0,train,25,1,-1,71,17,216,192,https://www.signingsavvy.com/signs/mp4/6/6772.mp4,design_0005_signingsavvy_15753.mp4,ok
+7,15755,aslsearch,12,0,train,25,1,-1,191,60,535,400,http://www.aslsearch.com/signs/videos/design.mp4,design_0007_aslsearch_15755.mp4,ok

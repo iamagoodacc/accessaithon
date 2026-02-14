@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65964,aslsignbank,90,0,test,25,1,-1,155,16,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IR/IRON-366.mp4,iron_0000_aslsignbank_65964.mp4,failed
+1,30603,aslsearch,41,0,val,25,1,-1,189,45,509,400,http://www.aslsearch.com/signs/videos/ironing.mp4,iron_0001_aslsearch_30603.mp4,ok
+3,30595,startasl,38,0,train,25,1,-1,295,53,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/iron.mp4,iron_0003_startasl_30595.mp4,ok
+4,67798,asllex,109,0,train,25,1,-1,81,35,380,360,https://youtu.be/4eOyHjL3Ce0,iron_0004_asllex_67798.mp4,failed
+5,30596,asldeafined,21,0,train,25,1,-1,21,14,558,480,https://media.asldeafined.com/vocabulary/1468668486.3737.mp4,iron_0005_asldeafined_30596.mp4,ok
+9,30600,aslpro,16,0,train,25,1,-1,0,0,220,240,http://www.aslpro.com/main/i/iron_electric.swf,iron_0009_aslpro_30600.mp4,skipped_swf
+10,30601,aslpro,25,0,train,25,1,-1,0,0,243,234,http://www.aslpro.com/main/i/iron_household.swf,iron_0010_aslpro_30601.mp4,skipped_swf

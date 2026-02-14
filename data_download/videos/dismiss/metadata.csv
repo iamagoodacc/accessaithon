@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16699,asl5200,9,0,val,25,3439,3475,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dismiss_0000_asl5200_16699.mp4,failed
+1,16703,spreadthesign,33,0,test,25,1,-1,31,20,255,240,https://media.spreadthesign.com/video/mp4/13/96243.mp4,dismiss_0001_spreadthesign_16703.mp4,ok
+2,16704,signschool,4,0,train,25,1,-1,339,46,1676,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Excused%2C%20Dismiss-U59S2U_woUE.mp4,dismiss_0002_signschool_16704.mp4,ok
+3,16705,handspeak,14,0,train,25,1,-1,56,16,263,240,https://www.handspeak.com/word/d/dismiss-excuse.mp4,dismiss_0003_handspeak_16705.mp4,failed
+4,16706,handspeak,14,0,train,25,1,-1,35,1,270,240,https://www.handspeak.com/word/d/dismiss-letgo.mp4,dismiss_0004_handspeak_16706.mp4,failed
+5,16707,signingsavvy,11,0,val,25,1,-1,59,15,217,192,https://www.signingsavvy.com/signs/mp4/6/6253.mp4,dismiss_0005_signingsavvy_16707.mp4,ok
+6,16708,aslpro,16,0,train,25,1,-1,0,20,230,240,http://www.aslpro.com/main/d/dismiss.swf,dismiss_0006_aslpro_16708.mp4,skipped_swf
+7,16709,aslsearch,12,0,train,25,1,-1,185,62,554,400,http://www.aslsearch.com/signs/videos/dismiss.mp4,dismiss_0007_aslsearch_16709.mp4,ok

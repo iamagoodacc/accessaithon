@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69417,aslbrick,116,0,val,25,1,-1,222,0,1063,720,http://aslbricks.org/New/ASL-Videos/octopus.mp4,octopus_0000_aslbrick_69417.mp4,ok
+1,66222,aslsignbank,103,0,test,25,1,-1,104,31,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OC/OCTOPUS-1551.mp4,octopus_0001_aslsignbank_66222.mp4,failed
+2,39369,spreadthesign,2,0,train,25,1,-1,68,32,245,240,https://media.spreadthesign.com/video/mp4/13/91528.mp4,octopus_0002_spreadthesign_39369.mp4,ok
+3,39370,signschool,31,0,train,25,1,-1,727,136,1644,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Octopus-aLy71_KdK-4.mp4,octopus_0003_signschool_39370.mp4,ok
+4,39371,handspeak,14,0,train,25,1,-1,25,0,530,480,https://www.handspeak.com/word/o/octopus.mp4,octopus_0004_handspeak_39371.mp4,failed
+6,39373,aslu,5,0,val,25,1,-1,280,59,929,720,https://www.youtube.com/watch?v=1m16_yIwZS4,octopus_0006_aslu_39373.mp4,failed
+7,39374,aslpro,30,0,train,25,1,-1,0,11,233,240,http://www.aslpro.com/main/o/octopus.swf,octopus_0007_aslpro_39374.mp4,skipped_swf
+8,39375,aslsearch,12,0,train,25,1,-1,176,51,538,400,http://www.aslsearch.com/signs/videos/octopus.mp4,octopus_0008_aslsearch_39375.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33402,asl5200,9,0,val,25,1758,1817,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lip_0000_asl5200_33402.mp4,failed
+1,33403,spreadthesign,2,0,test,25,1,-1,50,4,266,240,https://media.spreadthesign.com/video/mp4/13/246060.mp4,lip_0001_spreadthesign_33403.mp4,ok
+2,33404,asldeafined,13,0,train,25,1,-1,143,0,508,480,https://media.asldeafined.com/vocabulary/1468712020.7260.mp4,lip_0002_asldeafined_33404.mp4,ok
+3,33405,handspeak,20,0,train,25,1,-1,170,10,513,360,https://www.handspeak.com/word/l/lip.mp4,lip_0003_handspeak_33405.mp4,failed
+4,33406,handspeak,20,0,train,25,1,-1,177,9,523,360,https://www.handspeak.com/word/l/lips.mp4,lip_0004_handspeak_33406.mp4,failed
+5,33407,signingsavvy,11,0,val,25,1,-1,67,14,221,192,https://www.signingsavvy.com/signs/mp4/1/1959.mp4,lip_0005_signingsavvy_33407.mp4,ok
+7,33409,aslu,5,0,train,25,1,-1,295,38,919,720,https://www.youtube.com/watch?v=uaITrsZigQk,lip_0007_aslu_33409.mp4,failed
+8,33410,aslsearch,41,0,train,25,1,-1,235,43,487,400,http://www.aslsearch.com/signs/videos/lip.mp4,lip_0008_aslsearch_33410.mp4,ok

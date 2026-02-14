@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54829,asl5200,9,0,test,25,8773,8869,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stir_0000_asl5200_54829.mp4,failed
+1,54837,aslsearch,41,0,val,25,1,-1,196,35,502,400,http://www.aslsearch.com/signs/videos/stir.mp4,stir_0001_aslsearch_54837.mp4,ok
+3,67247,asllex,109,0,train,25,1,-1,18,20,404,360,https://youtu.be/PLsxt3NLiSs,stir_0003_asllex_67247.mp4,failed
+5,54831,handspeak,20,0,train,25,1,-1,34,11,262,240,https://www.handspeak.com/word/s/stir.mp4,stir_0005_handspeak_54831.mp4,failed
+6,54832,signingsavvy,11,0,train,25,1,-1,46,13,216,192,https://www.signingsavvy.com/signs/mp4/9/9709.mp4,stir_0006_signingsavvy_54832.mp4,ok
+7,54833,signingsavvy,11,0,train,25,1,-1,48,12,210,192,https://www.signingsavvy.com/signs/mp4/9/9710.mp4,stir_0007_signingsavvy_54833.mp4,ok
+8,54834,signingsavvy,11,0,train,25,1,-1,50,13,219,192,https://www.signingsavvy.com/signs/mp4/9/9711.mp4,stir_0008_signingsavvy_54834.mp4,ok

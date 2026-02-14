@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58663,asl5200,9,0,test,25,3212,3285,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tobacco_0000_asl5200_58663.mp4,failed
+1,67312,asllex,109,0,val,25,1,-1,154,19,423,360,https://youtu.be/VgvWG6owGkA,tobacco_0001_asllex_67312.mp4,failed
+2,58664,elementalasl,19,0,train,25,1,-1,77,10,246,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/tobacco.mov,tobacco_0002_elementalasl_58664.mp4,ok
+3,58665,spreadthesign,2,0,train,25,1,-1,59,13,230,240,https://media.spreadthesign.com/video/mp4/13/90091.mp4,tobacco_0003_spreadthesign_58665.mp4,ok
+4,58666,handspeak,14,0,train,25,1,-1,119,0,528,480,https://www.handspeak.com/word/t/tobacco.mp4,tobacco_0004_handspeak_58666.mp4,failed
+5,58667,signingsavvy,11,0,train,25,1,-1,73,12,229,192,https://www.signingsavvy.com/signs/mp4/4/4553.mp4,tobacco_0005_signingsavvy_58667.mp4,ok
+7,58669,aslsearch,12,0,train,25,1,-1,170,52,530,400,http://www.aslsearch.com/signs/videos/tobacco.mp4,tobacco_0007_aslsearch_58669.mp4,ok

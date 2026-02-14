@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54529,asl5200,9,0,val,25,8309,8368,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,statistics_0000_asl5200_54529.mp4,failed
+1,54530,signschool,4,0,test,25,1,-1,633,71,1592,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Statistics-_mfWrTUkZzA.mp4,statistics_0001_signschool_54530.mp4,ok
+2,54531,signschool,73,0,train,25,1,-1,410,18,771,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20statistics-QE_XwWQGZkA.mp4,statistics_0002_signschool_54531.mp4,ok
+3,54532,handspeak,20,0,train,25,1,-1,34,0,280,240,https://www.handspeak.com/word/s/statistics.mp4,statistics_0003_handspeak_54532.mp4,failed
+4,54533,signingsavvy,11,0,train,25,1,-1,70,11,209,192,https://www.signingsavvy.com/signs/mp4/9/9385.mp4,statistics_0004_signingsavvy_54533.mp4,ok
+5,54534,aslu,5,0,val,25,1,-1,323,32,1015,720,https://www.youtube.com/watch?v=YmwLY53DY7o,statistics_0005_aslu_54534.mp4,failed
+6,54535,aslpro,25,0,train,25,1,-1,0,7,239,240,http://www.aslpro.com/main/s/statistics.swf,statistics_0006_aslpro_54535.mp4,skipped_swf
+7,54536,aslsearch,41,0,train,25,1,-1,236,35,494,400,http://www.aslsearch.com/signs/videos/statistics.mp4,statistics_0007_aslsearch_54536.mp4,ok

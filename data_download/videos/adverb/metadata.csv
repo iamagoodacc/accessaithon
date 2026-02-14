@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01263,asl5200,9,0,test,25,913,983,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,adverb_0000_asl5200_01263.mp4,failed
+1,01264,elementalasl,43,0,val,25,1,-1,82,9,222,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/adverb.mov,adverb_0001_elementalasl_01264.mp4,ok
+2,01265,spreadthesign,2,0,train,25,1,-1,70,4,257,240,https://media.spreadthesign.com/video/mp4/13/118352.mp4,adverb_0002_spreadthesign_01265.mp4,ok
+3,01266,asldeafined,13,0,train,25,1,-1,98,27,507,480,https://media.asldeafined.com/vocabulary/1466170840.3051.mp4,adverb_0003_asldeafined_01266.mp4,ok
+4,01267,handspeak,20,0,train,25,1,-1,139,0,485,360,https://www.handspeak.com/word/a/adverb.mp4,adverb_0004_handspeak_01267.mp4,failed
+5,01268,signingsavvy,11,0,train,25,1,-1,69,19,209,191,https://www.signingsavvy.com/signs/mp4/8/8656.mp4,adverb_0005_signingsavvy_01268.mp4,ok
+6,01269,aslpro,16,0,train,25,1,-1,21,21,201,240,http://www.aslpro.com/main/a/adverb.swf,adverb_0006_aslpro_01269.mp4,skipped_swf

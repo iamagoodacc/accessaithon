@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02634,asl5200,9,0,test,25,2780,2822,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,annoy_0000_asl5200_02634.mp4,failed
+2,02652,aslpro,16,0,val,25,1,-1,23,18,220,240,http://www.aslpro.com/main/a/annoy.swf,annoy_0002_aslpro_02652.mp4,skipped_swf
+3,02643,spreadthesign,37,0,train,25,1,-1,59,0,232,240,https://media.spreadthesign.com/video/mp4/13/455425.mp4,annoy_0003_spreadthesign_02643.mp4,ok
+4,02653,aslsearch,41,0,train,25,1,-1,240,36,490,400,http://www.aslsearch.com/signs/videos/annoy.mp4,annoy_0004_aslsearch_02653.mp4,ok
+5,02644,signschool,6,0,train,25,1,-1,743,48,1610,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Annoy%2C%20Pester-1gSZNhfWT3s.mp4,annoy_0005_signschool_02644.mp4,ok
+6,02645,asldeafined,34,0,train,25,1,-1,113,74,506,480,https://media.asldeafined.com/vocabulary/1546572573.9251.mp4,annoy_0006_asldeafined_02645.mp4,ok
+7,02646,handspeak,20,0,train,25,1,-1,90,14,442,360,https://www.handspeak.com/word/a/annoy.mp4,annoy_0007_handspeak_02646.mp4,failed

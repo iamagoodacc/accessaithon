@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,09215,asl5200,9,0,val,25,982,1034,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,careless_0000_asl5200_09215.mp4,failed
+1,70201,northtexas,121,0,test,25,5682,5805,136,37,454,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,careless_0001_northtexas_70201.mp4,failed
+2,09224,aslpro,24,0,train,25,1,-1,6,16,214,240,http://www.aslpro.com/main/c/careless.swf,careless_0002_aslpro_09224.mp4,skipped_swf
+4,09216,asldeafined,59,0,train,25,1,-1,101,20,527,480,https://media.asldeafined.com/vocabulary/1466727534.8230.mp4,careless_0004_asldeafined_09216.mp4,ok
+5,09217,handspeak,20,0,train,25,1,-1,160,0,515,360,https://www.handspeak.com/word/c/careless2.mp4,careless_0005_handspeak_09217.mp4,failed
+7,09219,handspeak,20,0,val,25,1,-1,152,0,520,360,https://www.handspeak.com/word/c/careless.mp4,careless_0007_handspeak_09219.mp4,failed
+8,09220,signingsavvy,10,0,train,25,1,-1,73,14,207,192,https://www.signingsavvy.com/signs/mp4/22/22204.mp4,careless_0008_signingsavvy_09220.mp4,ok
+10,09222,aslu,5,0,train,25,1,-1,339,29,939,720,https://www.youtube.com/watch?v=_NnngT9_tl8,careless_0010_aslu_09222.mp4,failed

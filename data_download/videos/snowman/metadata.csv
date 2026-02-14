@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66520,aslsignbank,108,0,val,25,1,-1,170,30,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOWMAN-1083.mp4,snowman_0000_aslsignbank_66520.mp4,failed
+1,66521,aslsignbank,108,0,test,25,1,-1,172,40,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOWMAN-1084.mp4,snowman_0001_aslsignbank_66521.mp4,failed
+2,52871,spreadthesign,2,0,train,25,1,-1,39,4,278,240,https://media.spreadthesign.com/video/mp4/13/116934.mp4,snowman_0002_spreadthesign_52871.mp4,ok
+4,52873,handspeak,14,0,train,25,1,-1,305,0,1091,720,https://www.handspeak.com/word/s/snowman.mp4,snowman_0004_handspeak_52873.mp4,failed
+5,52874,signingsavvy,10,0,train,25,1,-1,69,3,239,192,https://www.signingsavvy.com/signs/mp4/23/23163.mp4,snowman_0005_signingsavvy_52874.mp4,ok
+6,52875,aslu,5,0,val,25,1,-1,316,18,988,720,https://www.youtube.com/watch?v=20gCN9CwvDo,snowman_0006_aslu_52875.mp4,failed
+7,52876,aslpro,72,0,train,25,1,-1,5,0,247,240,http://www.aslpro.com/main/s/snowman.swf,snowman_0007_aslpro_52876.mp4,skipped_swf
+8,52877,aslsearch,12,0,train,25,1,-1,201,51,563,400,http://www.aslsearch.com/signs/videos/snowman.mp4,snowman_0008_aslsearch_52877.mp4,ok

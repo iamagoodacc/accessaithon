@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,15118,aslu,5,0,val,25,1,-1,68,22,481,360,https://www.youtube.com/watch?v=SYgjCBtyolY,decrease_0002_aslu_15118.mp4,failed
+4,15110,elementalasl,66,0,test,25,1,-1,92,14,225,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/decrease.mov,decrease_0004_elementalasl_15110.mp4,ok
+5,15120,aslsearch,41,0,train,25,1,-1,245,46,509,400,http://www.aslsearch.com/signs/videos/decrease.mp4,decrease_0005_aslsearch_15120.mp4,ok
+6,15111,spreadthesign,0,0,train,25,1,-1,63,15,281,240,https://media.spreadthesign.com/video/mp4/13/65956.mp4,decrease_0006_spreadthesign_15111.mp4,ok
+7,15112,signschool,4,0,train,25,1,-1,622,30,1753,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Decrease-3fQ8X_TCp4w.mp4,decrease_0007_signschool_15112.mp4,ok
+9,15114,handspeak,20,0,val,25,1,-1,37,0,543,480,https://www.handspeak.com/word/d/decrease2.mp4,decrease_0009_handspeak_15114.mp4,failed
+10,15115,handspeak,20,0,train,25,1,-1,106,5,551,480,https://www.handspeak.com/word/d/decrease.mp4,decrease_0010_handspeak_15115.mp4,failed
+11,15116,signingsavvy,11,0,train,25,1,-1,60,9,217,192,https://www.signingsavvy.com/signs/mp4/9/9577.mp4,decrease_0011_signingsavvy_15116.mp4,ok

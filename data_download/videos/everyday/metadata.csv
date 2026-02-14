@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19812,asl5200,9,0,val,25,2653,2719,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,everyday_0000_asl5200_19812.mp4,failed
+1,19816,asldeafined,21,0,test,25,1,-1,88,4,557,480,https://media.asldeafined.com/vocabulary/1468377836.5622.mp4,everyday_0001_asldeafined_19816.mp4,ok
+2,19817,handspeak,14,0,train,25,1,-1,59,5,277,240,https://www.handspeak.com/word/e/every-day.mp4,everyday_0002_handspeak_19817.mp4,failed
+3,70040,northtexas,121,0,train,25,5165,5278,152,21,474,480,https://www.youtube.com/watch?v=sErq0TJMKEo,everyday_0003_northtexas_70040.mp4,failed
+4,69070,lillybauer,113,0,train,25,1,114,220,39,993,720,https://www.youtube.com/watch?v=YPeDtBRE0Mg,everyday_0004_lillybauer_69070.mp4,failed
+5,19820,aslsearch,12,0,val,25,1,-1,180,55,543,400,http://www.aslsearch.com/signs/videos/everyday.mp4,everyday_0005_aslsearch_19820.mp4,ok
+6,19813,spreadthesign,37,0,train,25,1,-1,67,0,246,240,https://media.spreadthesign.com/video/mp4/13/455238.mp4,everyday_0006_spreadthesign_19813.mp4,ok
+7,19818,signingsavvy,11,0,train,25,1,-1,71,7,216,192,https://www.signingsavvy.com/signs/mp4/5/5855.mp4,everyday_0007_signingsavvy_19818.mp4,ok

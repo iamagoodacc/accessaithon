@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66376,aslsignbank,103,0,val,25,1,-1,146,29,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RECENT-235.mp4,recent_0000_aslsignbank_66376.mp4,failed
+1,66377,aslsignbank,103,0,test,25,1,-1,146,34,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RECENT-236.mp4,recent_0001_aslsignbank_66377.mp4,failed
+2,46500,spreadthesign,2,0,train,25,1,-1,66,7,234,240,https://media.spreadthesign.com/video/mp4/13/116488.mp4,recent_0002_spreadthesign_46500.mp4,ok
+3,46501,signschool,4,0,train,25,1,-1,787,67,1656,1060,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Recent%202-Qw-snC3esZI.mp4,recent_0003_signschool_46501.mp4,ok
+4,46502,signschool,4,0,train,25,1,-1,782,78,1644,1061,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Recent-2I1Frd3R190.mp4,recent_0004_signschool_46502.mp4,ok
+5,46503,asldeafined,13,0,val,25,1,-1,124,0,506,480,https://media.asldeafined.com/vocabulary/1468758632.1366.mp4,recent_0005_asldeafined_46503.mp4,ok
+7,46505,aslpro,87,0,train,25,1,-1,17,7,219,240,http://www.aslpro.com/main/r/recent.swf,recent_0007_aslpro_46505.mp4,skipped_swf
+8,46506,aslsearch,12,0,train,25,1,-1,193,67,552,400,http://www.aslsearch.com/signs/videos/just2.mp4,recent_0008_aslsearch_46506.mp4,ok

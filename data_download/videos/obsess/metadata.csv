@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66221,aslsignbank,97,0,test,25,1,-1,159,29,455,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OB/OBSESS-1552.mp4,obsess_0000_aslsignbank_66221.mp4,failed
+1,39253,signschool,39,0,val,25,1,-1,802,48,1782,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Obsessed%202-6I25qeV_nt8.mp4,obsess_0001_signschool_39253.mp4,ok
+2,39254,signschool,39,0,train,25,1,-1,783,42,1868,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Obsessed-XyqUP43P-08.mp4,obsess_0002_signschool_39254.mp4,ok
+3,39255,signschool,39,0,train,25,1,-1,796,50,1793,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Think%20Obsess%20Assimilated%202-iPK202MXnq8.mp4,obsess_0003_signschool_39255.mp4,ok
+4,39256,signschool,39,0,train,25,1,-1,779,47,1782,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Think%20Obsess%20Assimilated-ptFqjRmj644.mp4,obsess_0004_signschool_39256.mp4,ok
+5,39257,signingsavvy,11,0,train,25,1,-1,56,11,219,192,https://www.signingsavvy.com/signs/mp4/2/2185.mp4,obsess_0005_signingsavvy_39257.mp4,ok
+6,39258,aslsearch,12,0,train,25,1,-1,183,63,558,400,http://www.aslsearch.com/signs/videos/dwell.mp4,obsess_0006_aslsearch_39258.mp4,ok

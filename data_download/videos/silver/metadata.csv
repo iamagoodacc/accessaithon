@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+3,51725,aslpro,24,0,val,25,1,-1,7,14,203,240,http://www.aslpro.com/main/s/silver.swf,silver_0003_aslpro_51725.mp4,skipped_swf
+4,51716,spreadthesign,0,0,test,25,1,-1,31,3,248,240,https://media.spreadthesign.com/video/mp4/13/58472.mp4,silver_0004_spreadthesign_51716.mp4,ok
+5,67203,asllex,109,0,train,25,1,-1,72,12,362,360,https://youtu.be/U8FGfq0ShOU,silver_0005_asllex_67203.mp4,failed
+6,51726,aslsearch,12,0,train,25,1,-1,167,51,554,400,http://www.aslsearch.com/signs/videos/silver.mp4,silver_0006_aslsearch_51726.mp4,ok
+7,51717,signschool,4,0,train,25,1,-1,294,76,1581,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Silver%202-ZmnoC59zpCg.mp4,silver_0007_signschool_51717.mp4,ok
+8,51718,signschool,4,0,val,25,1,-1,310,82,1570,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Silver-cYJnFuo5YOI.mp4,silver_0008_signschool_51718.mp4,ok
+9,51719,asldeafined,13,0,train,25,1,-1,113,0,519,480,https://media.asldeafined.com/vocabulary/1468767116.66.mp4,silver_0009_asldeafined_51719.mp4,ok
+11,51721,signingsavvy,10,0,train,25,1,-1,58,18,214,192,https://www.signingsavvy.com/signs/mp4/22/22183.mp4,silver_0011_signingsavvy_51721.mp4,ok

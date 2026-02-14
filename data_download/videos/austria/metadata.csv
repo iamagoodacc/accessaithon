@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04200,spreadthesign,37,0,test,25,1,-1,69,0,246,240,https://media.spreadthesign.com/video/mp4/13/455288.mp4,austria_0000_spreadthesign_04200.mp4,ok
+1,04201,startasl,38,0,val,25,1,-1,445,51,832,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/austria.mp4,austria_0001_startasl_04201.mp4,ok
+2,04202,signschool,45,0,train,25,1,-1,587,106,1487,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Austria-d9DVaZTwDBg.mp4,austria_0002_signschool_04202.mp4,ok
+3,04203,asldeafined,21,0,train,25,1,-1,111,33,551,480,https://media.asldeafined.com/vocabulary/1553865021.6052.mp4,austria_0003_asldeafined_04203.mp4,ok
+4,04204,handspeak,20,0,train,25,1,-1,111,11,497,479,https://www.handspeak.com/word/a/austria2.mp4,austria_0004_handspeak_04204.mp4,failed
+5,04205,handspeak,20,0,train,25,1,-1,113,14,500,477,https://www.handspeak.com/word/a/austria.mp4,austria_0005_handspeak_04205.mp4,failed
+7,04207,aslu,5,0,train,25,1,-1,355,42,992,720,https://www.youtube.com/watch?v=FpR-ii38Cbg,austria_0007_aslu_04207.mp4,failed

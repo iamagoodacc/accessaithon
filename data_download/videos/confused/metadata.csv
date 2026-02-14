@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65395,aslsignbank,102,0,val,25,1,-1,129,17,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONFUSED-1124.mp4,confused_0000_aslsignbank_65395.mp4,failed
+1,65396,aslsignbank,102,0,test,25,1,-1,475,65,1425,1080,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONFUSED-2320.mp4,confused_0001_aslsignbank_65396.mp4,failed
+2,12612,spreadthesign,2,0,train,25,1,-1,47,13,223,240,https://media.spreadthesign.com/video/mp4/13/93908.mp4,confused_0002_spreadthesign_12612.mp4,ok
+3,12613,signschool,46,0,train,25,1,-1,139,13,886,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Confused-VJvLrvWCgHU.mp4,confused_0003_signschool_12613.mp4,ok
+4,12614,asldeafined,59,0,train,25,1,-1,112,8,525,480,https://media.asldeafined.com/vocabulary/1466901994.6285.mp4,confused_0004_asldeafined_12614.mp4,ok
+5,12615,handspeak,20,0,val,25,1,-1,24,0,547,480,https://www.handspeak.com/word/c/confused.mp4,confused_0005_handspeak_12615.mp4,failed
+8,12618,aslu,5,0,train,25,1,-1,269,28,974,720,https://www.youtube.com/watch?v=LJzalFEVIDc,confused_0008_aslu_12618.mp4,failed
+9,12619,aslsearch,41,0,train,25,1,-1,227,42,513,400,http://www.aslsearch.com/signs/videos/confuse.mp4,confused_0009_aslsearch_12619.mp4,ok

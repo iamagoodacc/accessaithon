@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32419,asl5200,9,0,test,25,471,550,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,laundry_0000_asl5200_32419.mp4,failed
+1,32421,startasl,38,0,val,25,1,-1,391,56,864,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/laundry.mp4,laundry_0001_startasl_32421.mp4,ok
+2,32422,asldeafined,34,0,train,25,1,-1,183,72,607,480,https://media.asldeafined.com/vocabulary/1546574288.4943.mp4,laundry_0002_asldeafined_32422.mp4,ok
+3,32423,handspeak,14,0,train,25,1,-1,15,7,301,240,https://www.handspeak.com/word/l/laundry.mp4,laundry_0003_handspeak_32423.mp4,failed
+4,32424,signingsavvy,10,0,train,25,1,-1,52,19,216,192,https://www.signingsavvy.com/signs/mp4/24/24009.mp4,laundry_0004_signingsavvy_32424.mp4,ok
+6,32426,aslu,5,0,train,25,1,-1,248,47,948,720,https://www.youtube.com/watch?v=BHBj0fMBO1c,laundry_0006_aslu_32426.mp4,failed
+7,32427,aslsearch,12,0,train,25,1,-1,159,53,564,400,http://www.aslsearch.com/signs/videos/laundry.mp4,laundry_0007_aslsearch_32427.mp4,ok

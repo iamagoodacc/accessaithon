@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,46164,asl5200,9,0,test,25,496,562,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,rather_0000_asl5200_46164.mp4,failed
+1,46165,spreadthesign,2,0,val,25,1,-1,70,0,247,240,https://media.spreadthesign.com/video/mp4/13/400857.mp4,rather_0001_spreadthesign_46165.mp4,ok
+2,46166,asldeafined,13,0,train,25,1,-1,155,0,520,480,https://media.asldeafined.com/vocabulary/1468758263.7863.mp4,rather_0002_asldeafined_46166.mp4,ok
+3,46167,handspeak,20,0,train,25,1,-1,340,0,1057,720,https://www.handspeak.com/word/r/rather-prefer.mp4,rather_0003_handspeak_46167.mp4,failed
+6,46170,signingsavvy,11,0,train,25,1,-1,77,16,211,192,https://www.signingsavvy.com/signs/mp4/9/9023.mp4,rather_0006_signingsavvy_46170.mp4,ok
+8,46172,aslpro,25,0,train,25,1,-1,0,8,234,240,http://www.aslpro.com/main/r/rather.swf,rather_0008_aslpro_46172.mp4,skipped_swf
+9,46173,aslsearch,12,0,train,25,1,-1,193,54,544,400,http://www.aslsearch.com/signs/videos/prefer.mp4,rather_0009_aslsearch_46173.mp4,ok

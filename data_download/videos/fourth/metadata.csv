@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23237,asl5200,9,0,val,25,2723,2779,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,fourth_0000_asl5200_23237.mp4,failed
+1,65774,aslsignbank,106,0,test,25,1,-1,168,31,497,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOURTH-1499.mp4,fourth_0001_aslsignbank_65774.mp4,failed
+2,23239,spreadthesign,37,0,train,25,1,-1,41,0,246,240,https://media.spreadthesign.com/video/mp4/13/456361.mp4,fourth_0002_spreadthesign_23239.mp4,ok
+3,23240,asldeafined,21,0,train,25,1,-1,160,24,633,540,https://media.asldeafined.com/vocabulary/1546368154.3302.mp4,fourth_0003_asldeafined_23240.mp4,ok
+4,23241,handspeak,14,0,train,25,1,-1,52,10,271,240,https://www.handspeak.com/word/f/fourth-ordinal.mp4,fourth_0004_handspeak_23241.mp4,failed
+6,23243,signingsavvy,11,0,val,25,1,-1,90,16,224,192,https://www.signingsavvy.com/signs/mp4/8/8420.mp4,fourth_0006_signingsavvy_23243.mp4,ok
+8,23245,aslu,5,0,train,25,1,-1,328,31,938,720,https://www.youtube.com/watch?v=1cTHsO46Y-8,fourth_0008_aslu_23245.mp4,failed
+9,23246,aslsearch,12,0,train,25,1,-1,174,50,549,400,http://www.aslsearch.com/signs/videos/fourth.mp4,fourth_0009_aslsearch_23246.mp4,ok

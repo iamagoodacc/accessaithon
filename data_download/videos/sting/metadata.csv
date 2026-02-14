@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54804,asl5200,9,0,test,25,8630,8679,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sting_0000_asl5200_54804.mp4,failed
+1,54805,signschool,4,0,val,25,1,-1,666,54,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sting-6YabbKKhBks.mp4,sting_0001_signschool_54805.mp4,ok
+2,54806,handspeak,14,0,train,25,1,-1,78,14,255,240,https://www.handspeak.com/word/s/sting-bite.mp4,sting_0002_handspeak_54806.mp4,failed
+3,54807,signingsavvy,11,0,train,25,1,-1,60,12,227,192,https://www.signingsavvy.com/signs/mp4/2/2896.mp4,sting_0003_signingsavvy_54807.mp4,ok
+4,54808,aslu,5,0,train,25,1,-1,247,31,1026,720,https://www.youtube.com/watch?v=mSnoTVT9c8g,sting_0004_aslu_54808.mp4,failed
+5,54809,aslpro,24,0,train,25,1,-1,8,10,209,240,http://www.aslpro.com/main/s/sting.swf,sting_0005_aslpro_54809.mp4,skipped_swf
+6,54810,aslsearch,41,0,train,25,1,-1,229,35,507,400,http://www.aslsearch.com/signs/videos/sting.mp4,sting_0006_aslsearch_54810.mp4,ok

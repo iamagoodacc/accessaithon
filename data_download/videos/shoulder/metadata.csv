@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51273,asl5200,9,0,val,25,3638,3690,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,shoulder_0000_asl5200_51273.mp4,failed
+1,66472,aslsignbank,103,0,test,25,1,-1,107,17,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SH/SHOULDER-1044.mp4,shoulder_0001_aslsignbank_66472.mp4,failed
+2,51276,spreadthesign,2,0,train,25,1,-1,40,3,268,240,https://media.spreadthesign.com/video/mp4/13/245293.mp4,shoulder_0002_spreadthesign_51276.mp4,ok
+3,67194,asllex,109,0,train,25,1,-1,88,2,407,360,https://youtu.be/8tSLhAnaPho,shoulder_0003_asllex_67194.mp4,failed
+4,51277,handspeak,14,0,train,25,1,-1,55,11,265,240,https://www.handspeak.com/word/s/shoulder-right.mp4,shoulder_0004_handspeak_51277.mp4,failed
+5,51278,signingsavvy,11,0,val,25,1,-1,43,11,229,192,https://www.signingsavvy.com/signs/mp4/7/7057.mp4,shoulder_0005_signingsavvy_51278.mp4,ok
+7,51280,aslpro,87,0,train,25,1,-1,26,20,216,240,http://www.aslpro.com/main/s/shoulder.swf,shoulder_0007_aslpro_51280.mp4,skipped_swf
+8,51281,aslsearch,12,0,train,25,1,-1,148,51,542,400,http://www.aslsearch.com/signs/videos/shoulder.mp4,shoulder_0008_aslsearch_51281.mp4,ok

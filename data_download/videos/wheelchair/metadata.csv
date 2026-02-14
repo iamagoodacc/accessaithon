@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,63044,signschool,4,0,test,25,1,-1,415,86,1811,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wheelchair-TuccL0Qbi7w.mp4,wheelchair_0002_signschool_63044.mp4,ok
+3,63045,handspeak,20,0,val,25,1,-1,73,0,565,480,https://www.handspeak.com/word/w/wheelchair.mp4,wheelchair_0003_handspeak_63045.mp4,failed
+4,63046,signingsavvy,11,0,train,25,1,-1,35,10,259,192,https://www.signingsavvy.com/signs/mp4/4/4101.mp4,wheelchair_0004_signingsavvy_63046.mp4,ok
+5,63047,signingsavvy,11,0,train,25,1,-1,39,13,248,192,https://www.signingsavvy.com/signs/mp4/5/5233.mp4,wheelchair_0005_signingsavvy_63047.mp4,ok
+6,63048,aslu,5,0,train,25,1,-1,190,43,1017,720,https://www.youtube.com/watch?v=j5962WtxLvs,wheelchair_0006_aslu_63048.mp4,failed
+7,63049,aslpro,84,0,train,25,1,-1,0,1,264,240,http://www.aslpro.com//main/w/wheelchair.swf,wheelchair_0007_aslpro_63049.mp4,skipped_swf
+8,63050,aslsearch,12,0,train,25,1,-1,163,62,625,400,http://www.aslsearch.com/signs/videos/wheelchair.mp4,wheelchair_0008_aslsearch_63050.mp4,ok

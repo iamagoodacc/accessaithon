@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22609,asl5200,9,0,val,25,2105,2157,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,flute_0000_asl5200_22609.mp4,failed
+1,65747,aslsignbank,106,0,test,25,1,-1,184,29,548,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FL/FLUTE-1485.mp4,flute_0001_aslsignbank_65747.mp4,failed
+2,22610,spreadthesign,2,0,train,25,1,-1,67,36,255,240,https://media.spreadthesign.com/video/mp4/13/93038.mp4,flute_0002_spreadthesign_22610.mp4,ok
+3,22611,signschool,4,0,train,25,1,-1,555,66,1572,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Flute-5z8GeiFIgjI.mp4,flute_0003_signschool_22611.mp4,ok
+4,22612,asldeafined,21,0,train,25,1,-1,5,13,554,480,https://media.asldeafined.com/vocabulary/1468512994.9973.mp4,flute_0004_asldeafined_22612.mp4,ok
+5,22613,handspeak,14,0,val,25,1,-1,86,16,284,240,https://www.handspeak.com/word/f/flute.mp4,flute_0005_handspeak_22613.mp4,failed
+6,22614,signingsavvy,10,0,train,25,1,-1,60,19,208,192,https://www.signingsavvy.com/signs/mp4/23/23148.mp4,flute_0006_signingsavvy_22614.mp4,ok
+7,22615,aslsearch,12,0,train,25,1,-1,186,48,543,400,http://www.aslsearch.com/signs/videos/flute.mp4,flute_0007_aslsearch_22615.mp4,ok

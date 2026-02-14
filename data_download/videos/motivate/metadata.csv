@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66148,aslsignbank,97,0,test,25,1,-1,188,29,465,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MOTIVATE-1589.mp4,motivate_0000_aslsignbank_66148.mp4,failed
+1,36969,spreadthesign,37,0,val,25,1,-1,71,0,240,240,https://media.spreadthesign.com/video/mp4/13/457042.mp4,motivate_0001_spreadthesign_36969.mp4,ok
+2,36970,signschool,4,0,train,25,1,-1,739,63,1651,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Eager%2C%20Motivate%2C%20Zealous-spAKD_HWqKY.mp4,motivate_0002_signschool_36970.mp4,ok
+3,36971,asldeafined,13,0,train,25,1,-1,154,0,532,480,https://media.asldeafined.com/vocabulary/1468716800.3168.mp4,motivate_0003_asldeafined_36971.mp4,ok
+5,36973,signingsavvy,11,0,train,25,1,-1,71,13,209,192,https://www.signingsavvy.com/signs/mp4/9/9355.mp4,motivate_0005_signingsavvy_36973.mp4,ok
+6,36974,aslpro,30,0,train,25,1,-1,5,10,228,240,http://www.aslpro.com/main/m/motivate.swf,motivate_0006_aslpro_36974.mp4,skipped_swf
+7,36975,aslsearch,12,0,train,25,1,-1,184,52,523,400,http://www.aslsearch.com/signs/videos/motivate.mp4,motivate_0007_aslsearch_36975.mp4,ok

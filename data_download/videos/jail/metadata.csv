@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,30870,asl5200,9,0,val,25,74,116,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,jail_0000_asl5200_30870.mp4,failed
+1,30881,aslu,5,0,test,25,1,-1,229,0,985,720,https://www.youtube.com/watch?v=uUZuVINkjWI,jail_0001_aslu_30881.mp4,failed
+3,30873,spreadthesign,37,0,train,25,1,-1,66,0,251,240,https://media.spreadthesign.com/video/mp4/13/458052.mp4,jail_0003_spreadthesign_30873.mp4,ok
+6,30875,signschool,32,0,train,25,1,-1,760,70,1599,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Jail-XduNBmM4tLo.mp4,jail_0006_signschool_30875.mp4,ok
+7,30876,asldeafined,21,0,train,25,1,-1,60,10,568,480,https://media.asldeafined.com/vocabulary/1468668769.3429.mp4,jail_0007_asldeafined_30876.mp4,ok
+8,30877,handspeak,20,0,val,25,1,-1,62,10,242,240,https://www.handspeak.com/word/j/jail.mp4,jail_0008_handspeak_30877.mp4,failed
+9,30878,signingsavvy,10,0,train,25,1,-1,88,20,204,192,https://www.signingsavvy.com/signs/mp4/23/23926.mp4,jail_0009_signingsavvy_30878.mp4,ok
+10,30879,signingsavvy,10,0,train,25,1,-1,86,20,205,192,https://www.signingsavvy.com/signs/mp4/23/23927.mp4,jail_0010_signingsavvy_30879.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15647,asl5200,9,0,val,25,1625,1724,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,depressed_0000_asl5200_15647.mp4,failed
+1,70111,northtexas,121,0,test,25,1978,2096,147,21,515,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,depressed_0001_northtexas_70111.mp4,failed
+2,65466,aslsignbank,102,0,train,25,1,-1,162,13,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DEPRESSED-1248.mp4,depressed_0002_aslsignbank_65466.mp4,failed
+3,15648,startasl,38,0,train,25,1,-1,418,54,830,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/depressed.mp4,depressed_0003_startasl_15648.mp4,ok
+4,15649,signschool,31,0,train,25,1,-1,590,131,1550,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Devastated-9G7Jh2SJkb8.mp4,depressed_0004_signschool_15649.mp4,ok
+5,15650,asldeafined,59,0,val,25,1,-1,74,28,559,480,https://media.asldeafined.com/vocabulary/1466908225.8103.mp4,depressed_0005_asldeafined_15650.mp4,ok
+6,15651,handspeak,14,0,train,25,1,-1,82,27,267,240,https://www.handspeak.com/word/d/depressed.mp4,depressed_0006_handspeak_15651.mp4,failed
+7,15652,signingsavvy,11,0,train,25,1,-1,66,9,226,192,https://www.signingsavvy.com/signs/mp4/14/14580.mp4,depressed_0007_signingsavvy_15652.mp4,ok

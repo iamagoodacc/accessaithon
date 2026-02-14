@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66177,aslsignbank,97,0,val,25,1,-1,165,30,448,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NI/NINETEEN-1567.mp4,nineteen_0000_aslsignbank_66177.mp4,failed
+1,66178,aslsignbank,97,0,test,25,1,-1,145,32,460,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NI/NINETEEN-1568.mp4,nineteen_0001_aslsignbank_66178.mp4,failed
+2,38396,spreadthesign,2,0,train,25,1,-1,53,2,242,240,https://media.spreadthesign.com/video/mp4/13/111068.mp4,nineteen_0002_spreadthesign_38396.mp4,ok
+3,38397,handspeak,14,0,train,25,1,-1,37,0,292,240,https://www.handspeak.com/word/n/nineteen.mp4,nineteen_0003_handspeak_38397.mp4,failed
+4,38398,signingsavvy,11,0,train,25,1,-1,78,18,215,192,https://www.signingsavvy.com/signs/mp4/11/11019.mp4,nineteen_0004_signingsavvy_38398.mp4,ok
+5,38399,signingsavvy,10,0,val,25,1,-1,64,18,212,192,https://www.signingsavvy.com/signs/mp4/24/24071.mp4,nineteen_0005_signingsavvy_38399.mp4,ok
+7,38401,signingsavvy,10,0,train,25,1,-1,85,18,209,192,https://www.signingsavvy.com/signs/mp4/24/24079.mp4,nineteen_0007_signingsavvy_38401.mp4,ok
+8,38402,aslpro,83,0,train,25,1,-1,0,17,214,240,http://www.aslpro.com/main/n/nineteen.swf,nineteen_0008_aslpro_38402.mp4,skipped_swf

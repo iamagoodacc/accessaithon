@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,03797,asl5200,9,0,test,25,4300,4342,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,assume_0000_asl5200_03797.mp4,failed
+1,03799,spreadthesign,2,0,val,25,1,-1,33,3,249,240,https://media.spreadthesign.com/video/mp4/13/122603.mp4,assume_0001_spreadthesign_03799.mp4,ok
+2,03800,asldeafined,13,0,train,25,1,-1,110,27,501,480,https://media.asldeafined.com/vocabulary/1466646064.1591.mp4,assume_0002_asldeafined_03800.mp4,ok
+3,03801,handspeak,14,0,train,25,1,-1,131,42,513,480,https://www.handspeak.com/word/a/assume.mp4,assume_0003_handspeak_03801.mp4,failed
+4,03802,signingsavvy,11,0,train,25,1,-1,73,13,220,192,https://www.signingsavvy.com/signs/mp4/6/6157.mp4,assume_0004_signingsavvy_03802.mp4,ok
+6,03804,aslpro,30,0,train,25,1,-1,4,17,231,240,http://www.aslpro.com/main/a/assume.swf,assume_0006_aslpro_03804.mp4,skipped_swf
+7,03805,aslsearch,12,0,train,25,1,-1,202,47,556,400,http://www.aslsearch.com/signs/videos/assume.mp4,assume_0007_aslsearch_03805.mp4,ok

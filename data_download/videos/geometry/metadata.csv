@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24343,spreadthesign,2,0,test,25,1,-1,60,41,243,240,https://media.spreadthesign.com/video/mp4/13/93079.mp4,geometry_0000_spreadthesign_24343.mp4,ok
+1,24344,signschool,4,0,val,25,1,-1,660,71,1572,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Geometry-g8GwsH1KtfY.mp4,geometry_0001_signschool_24344.mp4,ok
+2,24345,asldeafined,21,0,train,25,1,-1,119,12,539,480,https://media.asldeafined.com/vocabulary/1468515529.3008.mp4,geometry_0002_asldeafined_24345.mp4,ok
+3,24346,handspeak,20,0,train,25,1,-1,57,8,266,240,https://www.handspeak.com/word/g/geometry.mp4,geometry_0003_handspeak_24346.mp4,failed
+4,24347,signingsavvy,10,0,train,25,1,-1,94,18,208,192,https://www.signingsavvy.com/signs/mp4/22/22138.mp4,geometry_0004_signingsavvy_24347.mp4,ok
+5,24348,aslpro,24,0,train,25,1,-1,27,9,207,240,http://www.aslpro.com/main/g/geometry.swf,geometry_0005_aslpro_24348.mp4,skipped_swf
+6,24349,aslsearch,41,0,train,25,1,-1,225,41,479,400,http://www.aslsearch.com/signs/videos/geometry.mp4,geometry_0006_aslsearch_24349.mp4,ok

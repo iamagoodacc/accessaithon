@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35306,spreadthesign,56,0,test,25,1,-1,31,0,268,240,https://media.spreadthesign.com/video/mp4/13/48586.mp4,meaning_0000_spreadthesign_35306.mp4,ok
+1,35307,signschool,31,0,val,25,1,-1,750,71,1728,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meaning-B__IgGoSizs.mp4,meaning_0001_signschool_35307.mp4,ok
+3,35309,handspeak,20,0,train,25,1,-1,22,0,534,480,https://www.handspeak.com/word/m/meaning.mp4,meaning_0003_handspeak_35309.mp4,failed
+4,35310,aslu,5,0,train,25,1,-1,265,46,940,720,https://www.youtube.com/watch?v=moMl2Po7R1o,meaning_0004_aslu_35310.mp4,failed
+5,35311,scott,82,0,train,25,1,-1,192,1,887,720,https://www.youtube.com/watch?v=u--RjZH30e4,meaning_0005_scott_35311.mp4,failed
+6,35312,aslu,5,0,train,25,1,-1,44,2,487,360,https://www.youtube.com/watch?v=V6M1l8-JcLA,meaning_0006_aslu_35312.mp4,failed
+7,35313,aslu,5,0,train,25,1,-1,197,0,987,720,https://www.youtube.com/watch?v=V6M1l8-JcLA,meaning_0007_aslu_35313.mp4,failed

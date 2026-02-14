@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02008,spreadthesign,2,0,test,25,1,-1,69,6,240,240,https://media.spreadthesign.com/video/mp4/13/118409.mp4,alligator_0000_spreadthesign_02008.mp4,ok
+1,02009,signschool,31,0,val,25,1,-1,689,131,1409,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Alligator-L4NRfJmp58E.mp4,alligator_0001_signschool_02009.mp4,ok
+2,02010,asldeafined,13,0,train,25,1,-1,86,7,528,480,https://media.asldeafined.com/vocabulary/1466173069.583.mp4,alligator_0002_asldeafined_02010.mp4,ok
+3,02011,handspeak,20,0,train,25,1,-1,223,36,524,360,https://www.handspeak.com/word/a/alligator.mp4,alligator_0003_handspeak_02011.mp4,failed
+4,02012,signingsavvy,11,0,train,25,1,-1,89,19,208,192,https://www.signingsavvy.com/signs/mp4/7/7311.mp4,alligator_0004_signingsavvy_02012.mp4,ok
+5,02013,aslpro,49,0,train,25,1,-1,13,5,226,240,http://www.aslpro.com/main/a/alligator.swf,alligator_0005_aslpro_02013.mp4,skipped_swf
+6,02014,aslsearch,41,0,train,25,1,-1,247,38,500,400,http://www.aslsearch.com/signs/videos/alligator.mp4,alligator_0006_aslsearch_02014.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50703,asl5200,9,0,val,25,2771,2817,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,several_0000_asl5200_50703.mp4,failed
+1,70307,northtexas,121,0,test,25,1362,1479,106,25,270,240,https://www.youtube.com/watch?v=pc0-gVEETVg,several_0001_northtexas_70307.mp4,failed
+2,66458,aslsignbank,103,0,train,25,1,-1,162,33,481,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SE/SEVERAL-1026.mp4,several_0002_aslsignbank_66458.mp4,failed
+3,50704,spreadthesign,2,0,train,25,1,-1,59,7,233,240,https://media.spreadthesign.com/video/mp4/13/116835.mp4,several_0003_spreadthesign_50704.mp4,ok
+4,50705,asldeafined,13,0,train,25,1,-1,143,0,511,480,https://media.asldeafined.com/vocabulary/1468765533.5995.mp4,several_0004_asldeafined_50705.mp4,ok
+5,50706,handspeak,14,0,val,25,1,-1,42,5,286,240,https://www.handspeak.com/word/s/several.mp4,several_0005_handspeak_50706.mp4,failed
+6,50707,signingsavvy,11,0,train,25,1,-1,84,16,231,192,https://www.signingsavvy.com/signs/mp4/7/7949.mp4,several_0006_signingsavvy_50707.mp4,ok
+7,50708,aslpro,24,0,train,25,1,-1,28,15,195,240,http://www.aslpro.com/main/s/several.swf,several_0007_aslpro_50708.mp4,skipped_swf

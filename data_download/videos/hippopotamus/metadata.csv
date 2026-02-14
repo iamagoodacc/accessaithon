@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27534,signschool,31,0,val,25,1,-1,693,100,1406,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hippopotamus-ImzBJ8kQENQ.mp4,hippopotamus_0000_signschool_27534.mp4,ok
+1,27535,asldeafined,40,0,test,25,1,-1,50,15,611,480,https://media.asldeafined.com/vocabulary/1488916175.9185.mp4,hippopotamus_0001_asldeafined_27535.mp4,ok
+2,27536,handspeak,14,0,train,25,1,-1,75,13,240,240,https://www.handspeak.com/word/h/hippopotamus2.mp4,hippopotamus_0002_handspeak_27536.mp4,failed
+3,27537,handspeak,14,0,train,25,1,-1,72,10,239,240,https://www.handspeak.com/word/h/hippopotamus.mp4,hippopotamus_0003_handspeak_27537.mp4,failed
+5,27539,aslu,5,0,train,25,1,-1,297,13,915,720,https://www.youtube.com/watch?v=GZvZV7Hsfkg,hippopotamus_0005_aslu_27539.mp4,failed
+6,27540,aslu,5,0,val,25,1,-1,316,19,913,720,https://www.youtube.com/watch?v=pcNFwKaZ0XA,hippopotamus_0006_aslu_27540.mp4,failed
+7,27541,aslpro,16,0,train,25,1,-1,28,8,225,240,http://www.aslpro.com/main/h/hippopotamus.swf,hippopotamus_0007_aslpro_27541.mp4,skipped_swf
+8,27542,aslsearch,12,0,train,25,1,-1,185,52,560,400,http://www.aslsearch.com/signs/videos/hippopotamus.mp4,hippopotamus_0008_aslsearch_27542.mp4,ok

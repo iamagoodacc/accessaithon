@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26483,spreadthesign,2,0,test,25,1,-1,42,47,261,240,https://media.spreadthesign.com/video/mp4/13/93121.mp4,hanukkah_0000_spreadthesign_26483.mp4,ok
+1,68948,lillybauer,112,0,val,25,1,47,365,26,959,720,https://www.youtube.com/watch?v=usk0m_vrLHw,hanukkah_0001_lillybauer_68948.mp4,failed
+2,26484,signschool,32,0,train,25,1,-1,382,51,1054,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hanukkah-Wnch9QVP3tU.mp4,hanukkah_0002_signschool_26484.mp4,ok
+3,26485,asldeafined,21,0,train,25,1,-1,40,8,579,480,https://media.asldeafined.com/vocabulary/1468579500.5063.mp4,hanukkah_0003_asldeafined_26485.mp4,ok
+4,26486,handspeak,20,0,train,25,1,-1,15,1,290,240,https://www.handspeak.com/word/h/hannukhah.mp4,hanukkah_0004_handspeak_26486.mp4,failed
+5,26487,signingsavvy,11,0,train,25,1,-1,47,13,229,192,https://www.signingsavvy.com/signs/mp4/6/6815.mp4,hanukkah_0005_signingsavvy_26487.mp4,ok
+6,26488,aslu,5,0,train,25,1,-1,307,24,1001,720,https://www.youtube.com/watch?v=wXk1nupiUDg,hanukkah_0006_aslu_26488.mp4,failed

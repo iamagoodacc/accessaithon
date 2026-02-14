@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44018,asl5200,9,0,test,25,3944,3983,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,poverty_0000_asl5200_44018.mp4,failed
+1,44019,spreadthesign,78,0,val,25,1,-1,70,34,258,240,https://media.spreadthesign.com/video/mp4/13/91817.mp4,poverty_0001_spreadthesign_44019.mp4,ok
+2,44020,signschool,31,0,train,25,1,-1,501,68,1039,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Poor%252C%20Poverty.mp4,poverty_0002_signschool_44020.mp4,ok
+3,44021,handspeak,20,0,train,25,1,-1,201,0,522,360,https://www.handspeak.com/word/p/poverty2.mp4,poverty_0003_handspeak_44021.mp4,failed
+4,44022,handspeak,14,0,train,25,1,-1,51,0,245,240,https://www.handspeak.com/word/p/poverty.mp4,poverty_0004_handspeak_44022.mp4,failed
+5,44023,signingsavvy,11,0,train,25,1,-1,64,15,199,192,https://www.signingsavvy.com/signs/mp4/2/2404.mp4,poverty_0005_signingsavvy_44023.mp4,ok
+6,44024,aslsearch,12,0,train,25,1,-1,186,55,551,400,http://www.aslsearch.com/signs/videos/poor.mp4,poverty_0006_aslsearch_44024.mp4,ok

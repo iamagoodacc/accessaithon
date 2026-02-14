@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11929,asl5200,9,0,test,25,4514,4553,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,comma_0000_asl5200_11929.mp4,failed
+1,11930,spreadthesign,33,0,val,25,1,-1,65,26,238,240,https://media.spreadthesign.com/video/mp4/13/96070.mp4,comma_0001_spreadthesign_11930.mp4,ok
+2,11931,signschool,4,0,train,25,1,-1,643,74,1628,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Comma-mM2cAKQ0lMI.mp4,comma_0002_signschool_11931.mp4,ok
+3,11932,handspeak,20,0,train,25,1,-1,104,19,468,360,https://www.handspeak.com/word/c/comma.mp4,comma_0003_handspeak_11932.mp4,failed
+4,11933,signingsavvy,11,0,train,25,1,-1,66,14,220,192,https://www.signingsavvy.com/signs/mp4/4/4099.mp4,comma_0004_signingsavvy_11933.mp4,ok
+5,11934,aslpro,25,0,train,25,1,-1,0,9,253,240,http://www.aslpro.com/main/c/comma.swf,comma_0005_aslpro_11934.mp4,skipped_swf
+6,11935,aslsearch,12,0,train,25,1,-1,186,62,550,400,http://www.aslsearch.com/signs/videos/comma.mp4,comma_0006_aslsearch_11935.mp4,ok

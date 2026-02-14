@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14772,asl5200,9,0,test,25,337,383,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dawn_0000_asl5200_14772.mp4,failed
+1,14773,spreadthesign,78,0,val,25,1,-1,66,0,261,240,https://media.spreadthesign.com/video/mp4/13/399461.mp4,dawn_0001_spreadthesign_14773.mp4,ok
+2,14774,asldeafined,13,0,train,25,1,-1,143,0,594,480,https://media.asldeafined.com/vocabulary/1468898042.6393.mp4,dawn_0002_asldeafined_14774.mp4,ok
+3,14775,handspeak,20,0,train,25,1,-1,55,18,464,360,https://www.handspeak.com/word/d/dawn-sunrise.mp4,dawn_0003_handspeak_14775.mp4,failed
+4,14776,aslpro,16,0,train,25,1,-1,25,21,208,240,http://www.aslpro.com/main/d/dawn.swf,dawn_0004_aslpro_14776.mp4,skipped_swf
+5,14777,aslsearch,12,0,train,25,1,-1,159,54,549,400,http://www.aslsearch.com/signs/videos/dawn.mp4,dawn_0005_aslsearch_14777.mp4,ok
+6,14778,aslsearch,12,0,train,25,1,-1,159,54,549,400,http://www.aslsearch.com/signs/videos/dawn.mp4,dawn_0006_aslsearch_14778.mp4,ok

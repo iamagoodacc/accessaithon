@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63779,asl5200,9,0,val,25,3575,3631,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,worker_0000_asl5200_63779.mp4,failed
+1,66805,aslsignbank,88,0,test,25,1,-1,169,14,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WO/WORKER-1451.mp4,worker_0001_aslsignbank_66805.mp4,failed
+2,63780,spreadthesign,2,0,train,25,1,-1,75,30,230,240,https://media.spreadthesign.com/video/mp4/13/92802.mp4,worker_0002_spreadthesign_63780.mp4,ok
+3,63781,asldeafined,13,0,train,25,1,-1,121,3,533,480,https://media.asldeafined.com/vocabulary/1468929099.8116.mp4,worker_0003_asldeafined_63781.mp4,ok
+4,63782,handspeak,20,0,train,25,1,-1,62,13,266,240,https://www.handspeak.com/word/w/worker.mp4,worker_0004_handspeak_63782.mp4,failed
+5,63783,signingsavvy,11,0,val,25,1,-1,79,14,240,192,https://www.signingsavvy.com/signs/mp4/8/8395.mp4,worker_0005_signingsavvy_63783.mp4,ok
+6,63784,aslpro,84,0,train,25,1,-1,16,0,206,240,http://www.aslpro.com/main/w/worker.swf,worker_0006_aslpro_63784.mp4,skipped_swf
+7,63785,aslsearch,41,0,train,25,1,-1,228,37,499,400,http://www.aslsearch.com/signs/videos/worker.mp4,worker_0007_aslsearch_63785.mp4,ok

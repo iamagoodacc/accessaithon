@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52180,asl5200,9,0,test,25,5032,5071,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,skip_0000_asl5200_52180.mp4,failed
+1,66504,aslsignbank,108,0,val,25,1,-1,179,44,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SK/SKIP-1073.mp4,skip_0001_aslsignbank_66504.mp4,failed
+2,52181,asldeafined,13,0,train,25,1,-1,144,0,583,480,https://media.asldeafined.com/vocabulary/1468767650.4809.mp4,skip_0002_asldeafined_52181.mp4,ok
+3,52182,handspeak,14,0,train,25,1,-1,30,15,274,240,https://www.handspeak.com/word/s/skip-class2.mp4,skip_0003_handspeak_52182.mp4,failed
+4,52183,handspeak,14,0,train,25,1,-1,27,14,273,240,https://www.handspeak.com/word/s/skip-class.mp4,skip_0004_handspeak_52183.mp4,failed
+6,52185,signingsavvy,10,0,train,25,1,-1,71,25,233,192,https://www.signingsavvy.com/signs/mp4/22/22245.mp4,skip_0006_signingsavvy_52185.mp4,ok
+9,52188,aslsearch,12,0,train,25,1,-1,212,51,575,400,http://www.aslsearch.com/signs/videos/skip.mp4,skip_0009_aslsearch_52188.mp4,ok

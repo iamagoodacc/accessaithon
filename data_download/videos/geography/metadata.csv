@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24328,asl5200,9,0,val,25,410,466,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,geography_0000_asl5200_24328.mp4,failed
+1,24329,elementalasl,19,0,test,25,1,-1,57,12,237,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/geography.mov,geography_0001_elementalasl_24329.mp4,ok
+2,24330,spreadthesign,35,0,train,25,1,-1,32,0,290,240,https://media.spreadthesign.com/video/mp4/13/51918.mp4,geography_0002_spreadthesign_24330.mp4,ok
+3,24331,signschool,4,0,train,25,1,-1,425,39,1629,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Earth-usRyg0odYTo.mp4,geography_0003_signschool_24331.mp4,ok
+4,24332,asldeafined,21,0,train,25,1,-1,119,13,600,480,https://media.asldeafined.com/vocabulary/1468515494.1947.mp4,geography_0004_asldeafined_24332.mp4,ok
+6,24334,signingsavvy,10,0,val,25,1,-1,53,26,218,192,https://www.signingsavvy.com/signs/mp4/22/22315.mp4,geography_0006_signingsavvy_24334.mp4,ok
+7,24335,signingsavvy,10,0,train,25,1,-1,52,24,207,192,https://www.signingsavvy.com/signs/mp4/22/22316.mp4,geography_0007_signingsavvy_24335.mp4,ok
+9,24337,aslsearch,41,0,train,25,1,-1,208,42,493,400,http://www.aslsearch.com/signs/videos/geography.mp4,geography_0009_aslsearch_24337.mp4,ok

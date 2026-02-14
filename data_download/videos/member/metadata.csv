@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35573,asl5200,9,0,val,25,1078,1120,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,member_0000_asl5200_35573.mp4,failed
+2,35574,spreadthesign,2,0,test,25,1,-1,83,35,248,240,https://media.spreadthesign.com/video/mp4/13/92864.mp4,member_0002_spreadthesign_35574.mp4,ok
+3,35575,signschool,4,0,train,25,1,-1,729,58,1567,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Member-AAYndYjV2nY.mp4,member_0003_signschool_35575.mp4,ok
+4,35576,asldeafined,13,0,train,25,1,-1,124,0,503,480,https://media.asldeafined.com/vocabulary/1468714811.9113.mp4,member_0004_asldeafined_35576.mp4,ok
+5,35577,handspeak,14,0,train,25,1,-1,63,8,277,240,https://www.handspeak.com/word/m/member.mp4,member_0005_handspeak_35577.mp4,failed
+6,35578,signingsavvy,11,0,val,25,1,-1,65,13,224,192,https://www.signingsavvy.com/signs/mp4/5/5588.mp4,member_0006_signingsavvy_35578.mp4,ok
+7,35579,aslu,5,0,train,25,1,-1,166,13,488,360,https://www.youtube.com/watch?v=D0p4WZk2tSE,member_0007_aslu_35579.mp4,failed
+9,35581,aslsearch,12,0,train,25,1,-1,159,52,552,400,http://www.aslsearch.com/signs/videos/member.mp4,member_0009_aslsearch_35581.mp4,ok

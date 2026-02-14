@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50192,asl5200,9,0,test,25,1805,1894,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,seldom_0000_asl5200_50192.mp4,failed
+1,50193,handspeak,14,0,val,25,1,-1,58,9,257,240,https://www.handspeak.com/word/s/seldom2.mp4,seldom_0001_handspeak_50193.mp4,failed
+2,50194,handspeak,14,0,train,25,1,-1,57,7,253,240,https://www.handspeak.com/word/s/seldom.mp4,seldom_0002_handspeak_50194.mp4,failed
+6,50198,signingsavvy,11,0,train,25,1,-1,57,7,207,192,https://www.signingsavvy.com/signs/mp4/9/9889.mp4,seldom_0006_signingsavvy_50198.mp4,ok
+7,50199,signingsavvy,11,0,train,25,1,-1,48,7,208,192,https://www.signingsavvy.com/signs/mp4/9/9890.mp4,seldom_0007_signingsavvy_50199.mp4,ok
+8,50200,aslpro,25,0,train,25,1,-1,0,6,231,240,http://www.aslpro.com/main/s/seldom.swf,seldom_0008_aslpro_50200.mp4,skipped_swf
+9,50201,aslsearch,12,0,train,25,1,-1,209,50,558,400,http://www.aslsearch.com/signs/videos/seldom.mp4,seldom_0009_aslsearch_50201.mp4,ok

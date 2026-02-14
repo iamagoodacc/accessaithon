@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56072,asl5200,9,0,val,25,10720,10782,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,surgeon_0000_asl5200_56072.mp4,failed
+1,67266,asllex,109,0,test,25,1,-1,110,13,406,360,https://youtu.be/WyxGyhlhT6g,surgeon_0001_asllex_67266.mp4,failed
+2,56073,startasl,38,0,train,25,1,-1,349,52,787,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/surgeon.mp4,surgeon_0002_startasl_56073.mp4,ok
+3,56074,handspeak,20,0,train,25,1,-1,69,15,249,240,https://www.handspeak.com/word/s/surgeon2.mp4,surgeon_0003_handspeak_56074.mp4,failed
+4,56075,handspeak,20,0,train,25,1,-1,69,15,249,240,https://www.handspeak.com/word/s/surgeon.mp4,surgeon_0004_handspeak_56075.mp4,failed
+5,56076,signingsavvy,11,0,val,25,1,-1,56,0,234,192,https://www.signingsavvy.com/signs/mp4/5/5790.mp4,surgeon_0005_signingsavvy_56076.mp4,ok
+6,56077,aslpro,72,0,train,25,1,-1,23,6,221,240,http://www.aslpro.com/main/s/surgeon.swf,surgeon_0006_aslpro_56077.mp4,skipped_swf
+7,56078,aslsearch,41,0,train,25,1,-1,237,38,540,400,http://www.aslsearch.com/signs/videos/surgeon.mp4,surgeon_0007_aslsearch_56078.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31874,asl5200,9,0,val,25,577,623,0,0,360,240,https://www.youtube.com/watch?v=D2Vg3lKjX78,knock_0000_asl5200_31874.mp4,failed
+1,31886,aslsearch,12,0,test,25,1,-1,181,63,544,400,http://www.aslsearch.com/signs/videos/knock.mp4,knock_0001_aslsearch_31886.mp4,ok
+2,66001,aslsignbank,96,0,train,25,1,-1,202,32,511,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KN/KNOCK-1696.mp4,knock_0002_aslsignbank_66001.mp4,failed
+5,31880,handspeak,20,0,train,25,1,-1,107,0,524,480,https://www.handspeak.com/word/k/knock2.mp4,knock_0005_handspeak_31880.mp4,failed
+7,31882,signingsavvy,11,0,train,25,1,-1,76,18,219,192,https://www.signingsavvy.com/signs/mp4/1/1880.mp4,knock_0007_signingsavvy_31882.mp4,ok
+8,31883,aslu,5,0,val,25,1,-1,314,49,985,720,https://www.youtube.com/watch?v=AalI8nSDH58,knock_0008_aslu_31883.mp4,failed
+9,31884,aslu,5,0,train,25,1,-1,375,50,941,720,https://www.youtube.com/watch?v=ZDcvpZjYqt0,knock_0009_aslu_31884.mp4,failed
+10,31885,aslpro,25,0,train,25,1,-1,14,9,250,240,http://www.aslpro.com/main/k/knock.swf,knock_0010_aslpro_31885.mp4,skipped_swf

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21368,asl5200,9,0,val,25,883,935,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,federal_0000_asl5200_21368.mp4,failed
+1,21370,spreadthesign,2,0,test,25,1,-1,39,37,254,240,https://media.spreadthesign.com/video/mp4/13/93003.mp4,federal_0001_spreadthesign_21370.mp4,ok
+2,21371,signschool,4,0,train,25,1,-1,528,18,1638,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Federal-o8KJXM7MwTY.mp4,federal_0002_signschool_21371.mp4,ok
+3,21372,handspeak,20,0,train,25,1,-1,5,8,290,240,https://www.handspeak.com/word/f/federal.mp4,federal_0003_handspeak_21372.mp4,failed
+4,21373,signingsavvy,11,0,train,25,1,-1,48,0,212,192,https://www.signingsavvy.com/signs/mp4/8/8713.mp4,federal_0004_signingsavvy_21373.mp4,ok
+5,21374,aslu,5,0,val,25,1,-1,261,24,940,720,https://www.youtube.com/watch?v=62oEAbCAX9E,federal_0005_aslu_21374.mp4,failed
+6,21375,aslpro,83,0,train,25,1,-1,4,12,204,240,http://www.aslpro.com/main/f/federal.swf,federal_0006_aslpro_21375.mp4,skipped_swf
+7,21376,aslsearch,41,0,train,25,1,-1,182,36,477,400,http://www.aslsearch.com/signs/videos/federal.mp4,federal_0007_aslsearch_21376.mp4,ok

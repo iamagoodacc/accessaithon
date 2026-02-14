@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65558,aslsignbank,104,0,val,25,1,-1,195,9,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/E(/E(come-here)-1907.mp4,come here_0000_aslsignbank_65558.mp4,failed
+4,11862,signschool,4,0,test,25,1,-1,805,77,1622,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here%202-rl1otBdmKok.mp4,come here_0004_signschool_11862.mp4,ok
+5,11872,signingsavvy,11,0,train,25,1,-1,79,10,214,192,https://www.signingsavvy.com/signs/mp4/9/9902.mp4,come here_0005_signingsavvy_11872.mp4,ok
+7,11863,signschool,4,0,train,25,1,-1,861,70,1604,1063,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here%203%20copy-TxWTZaxzJCQ.mp4,come here_0007_signschool_11863.mp4,ok
+8,11864,signschool,4,0,train,25,1,-1,788,71,1689,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here%203-PDKBPKFqDSQ.mp4,come here_0008_signschool_11864.mp4,ok
+9,11865,signschool,4,0,val,25,1,-1,858,64,1589,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here%204-2ed-6UmzKSw.mp4,come here_0009_signschool_11865.mp4,ok
+10,11866,signschool,4,0,train,25,1,-1,794,73,1632,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here-4NlI22JSfRs.mp4,come here_0010_signschool_11866.mp4,ok
+11,11867,signschool,6,0,train,25,1,-1,725,53,1473,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Come%20Here-HhV8ynVx5Js.mp4,come here_0011_signschool_11867.mp4,ok

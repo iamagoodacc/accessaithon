@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17958,asl5200,9,0,test,25,4857,4886,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,due_0000_asl5200_17958.mp4,failed
+1,65552,aslsignbank,102,0,val,25,1,-1,176,18,498,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DU/DUE-1282.mp4,due_0001_aslsignbank_65552.mp4,failed
+2,17959,spreadthesign,2,0,train,25,1,-1,71,15,263,240,https://media.spreadthesign.com/video/mp4/13/154564.mp4,due_0002_spreadthesign_17959.mp4,ok
+3,17960,asldeafined,21,0,train,25,1,-1,59,13,524,480,https://media.asldeafined.com/vocabulary/1468206919.4575.mp4,due_0003_asldeafined_17960.mp4,ok
+4,17961,asldeafined,59,0,train,25,1,-1,139,29,522,480,https://media.asldeafined.com/vocabulary/1522768985.13.mp4,due_0004_asldeafined_17961.mp4,ok
+7,17964,signingsavvy,11,0,train,25,1,-1,82,18,208,192,https://www.signingsavvy.com/signs/mp4/9/9124.mp4,due_0007_signingsavvy_17964.mp4,ok
+8,17965,aslsearch,12,0,train,25,1,-1,175,53,523,400,http://www.aslsearch.com/signs/videos/due.mp4,due_0008_aslsearch_17965.mp4,ok

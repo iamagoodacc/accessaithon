@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58070,asl5200,9,0,val,25,2383,2419,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,this_0000_asl5200_58070.mp4,failed
+1,69507,aslbrick,118,0,test,25,1,-1,302,44,887,720,http://aslbricks.org/New/ASL-Videos/this.mp4,this_0001_aslbrick_69507.mp4,ok
+2,58077,signingsavvy,11,0,train,25,1,-1,74,15,210,192,https://www.signingsavvy.com/signs/mp4/9/9272.mp4,this_0002_signingsavvy_58077.mp4,ok
+4,58079,aslu,5,0,train,25,1,-1,323,34,925,720,https://www.youtube.com/watch?v=hfa0GQG-LYA,this_0004_aslu_58079.mp4,failed
+5,66628,aslsignbank,98,0,train,25,1,-1,168,34,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THIS-1215.mp4,this_0005_aslsignbank_66628.mp4,failed
+6,58080,aslpro,25,0,val,25,1,-1,0,10,225,240,http://www.aslpro.com/main/t/this.swf,this_0006_aslpro_58080.mp4,skipped_swf
+9,58072,asldeafined,13,0,train,25,1,-1,172,0,562,480,https://media.asldeafined.com/vocabulary/1468944976.9077.mp4,this_0009_asldeafined_58072.mp4,ok
+11,58074,handspeak,14,0,train,25,1,-1,147,0,557,480,https://www.handspeak.com/word/t/this.mp4,this_0011_handspeak_58074.mp4,failed

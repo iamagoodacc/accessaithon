@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53035,asl5200,9,0,test,25,6143,6205,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sofa_0000_asl5200_53035.mp4,failed
+1,53037,spreadthesign,28,0,val,25,1,-1,39,0,276,240,https://media.spreadthesign.com/video/mp4/13/485655.mp4,sofa_0001_spreadthesign_53037.mp4,ok
+2,53038,startasl,38,0,train,25,1,-1,415,64,851,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sofa.mp4,sofa_0002_startasl_53038.mp4,ok
+3,53039,asldeafined,59,0,train,25,1,-1,92,21,535,480,https://media.asldeafined.com/vocabulary/1466903670.285.mp4,sofa_0003_asldeafined_53039.mp4,ok
+4,53040,handspeak,14,0,train,25,1,-1,50,1,291,240,https://www.handspeak.com/word/s/sofa.mp4,sofa_0004_handspeak_53040.mp4,failed
+5,53041,signingsavvy,11,0,train,25,1,-1,71,11,216,192,https://www.signingsavvy.com/signs/mp4/8/8681.mp4,sofa_0005_signingsavvy_53041.mp4,ok
+6,53042,aslpro,25,0,train,25,1,-1,0,6,249,240,http://www.aslpro.com/main/s/sofa.swf,sofa_0006_aslpro_53042.mp4,skipped_swf

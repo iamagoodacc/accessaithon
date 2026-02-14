@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57566,asl5200,9,0,test,25,1335,1387,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,texas_0000_asl5200_57566.mp4,failed
+1,57567,signschool,39,0,val,25,1,-1,860,58,1728,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Texas-Kz7MQQ35XaE.mp4,texas_0001_signschool_57567.mp4,ok
+2,57568,asldeafined,13,0,train,25,1,-1,129,0,523,480,https://media.asldeafined.com/vocabulary/1468944037.3795.mp4,texas_0002_asldeafined_57568.mp4,ok
+3,57569,handspeak,20,0,train,25,1,-1,105,7,494,360,https://www.handspeak.com/word/t/texas.mp4,texas_0003_handspeak_57569.mp4,failed
+4,57570,signingsavvy,11,0,train,25,1,-1,73,12,212,192,https://www.signingsavvy.com/signs/mp4/9/9475.mp4,texas_0004_signingsavvy_57570.mp4,ok
+5,57571,aslpro,49,0,train,25,1,-1,34,16,215,240,http://www.aslpro.com/main/t/texas_1.swf,texas_0005_aslpro_57571.mp4,skipped_swf
+6,57572,aslpro,49,0,train,25,1,-1,37,16,213,240,http://www.aslpro.com/main/t/texas_2.swf,texas_0006_aslpro_57572.mp4,skipped_swf

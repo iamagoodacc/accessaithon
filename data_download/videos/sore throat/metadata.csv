@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53340,spreadthesign,2,0,val,25,1,-1,68,4,236,240,https://media.spreadthesign.com/video/mp4/13/116953.mp4,sore throat_0000_spreadthesign_53340.mp4,ok
+1,53341,startasl,38,0,test,25,1,-1,441,52,831,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sore-throat2.mp4,sore throat_0001_startasl_53341.mp4,ok
+3,53343,signschool,60,0,train,25,1,-1,351,33,745,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sore%20Throat-LL1fx8KoKi0.mp4,sore throat_0003_signschool_53343.mp4,ok
+4,53344,asldeafined,13,0,train,25,1,-1,142,0,536,480,https://media.asldeafined.com/vocabulary/1468776684.2185.mp4,sore throat_0004_asldeafined_53344.mp4,ok
+5,53345,asldeafined,34,0,train,25,1,-1,200,71,500,480,https://media.asldeafined.com/vocabulary/1546575110.61.mp4,sore throat_0005_asldeafined_53345.mp4,ok
+6,53346,handspeak,14,0,val,25,1,-1,83,14,253,240,https://www.handspeak.com/word/s/sore-throat.mp4,sore throat_0006_handspeak_53346.mp4,failed
+7,53347,signingsavvy,11,0,train,25,1,-1,70,14,211,192,https://www.signingsavvy.com/signs/mp4/9/9242.mp4,sore throat_0007_signingsavvy_53347.mp4,ok
+8,53348,aslpro,84,0,train,25,1,-1,3,2,218,240,http://www.aslpro.com/main/s/sore_throat.swf,sore throat_0008_aslpro_53348.mp4,skipped_swf

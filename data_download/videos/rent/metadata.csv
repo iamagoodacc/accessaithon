@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47269,asl5200,9,0,val,25,1952,1994,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,rent_0000_asl5200_47269.mp4,failed
+1,47271,spreadthesign,26,0,test,25,1,-1,72,20,240,240,https://media.spreadthesign.com/video/mp4/13/310947.mp4,rent_0001_spreadthesign_47271.mp4,ok
+2,47272,signschool,4,0,train,25,1,-1,417,24,1112,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Every%20Month%20copy.mp4,rent_0002_signschool_47272.mp4,ok
+3,47273,asldeafined,13,0,train,25,1,-1,91,0,536,480,https://media.asldeafined.com/vocabulary/1468759725.5009.mp4,rent_0003_asldeafined_47273.mp4,ok
+5,47275,handspeak,14,0,train,25,1,-1,31,19,246,240,https://www.handspeak.com/word/r/rent.mp4,rent_0005_handspeak_47275.mp4,failed
+7,47277,signingsavvy,11,0,val,25,1,-1,57,12,217,192,https://www.signingsavvy.com/signs/mp4/7/7374.mp4,rent_0007_signingsavvy_47277.mp4,ok
+8,47278,aslpro,83,0,train,25,1,-1,0,14,225,240,http://www.aslpro.com/main/r/rent.swf,rent_0008_aslpro_47278.mp4,skipped_swf
+9,47279,aslsearch,41,0,train,25,1,-1,198,44,479,400,http://www.aslsearch.com/signs/videos/rent.mp4,rent_0009_aslsearch_47279.mp4,ok

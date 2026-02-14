@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29789,asl5200,9,0,val,25,1027,1076,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,innocent_0000_asl5200_29789.mp4,failed
+2,29791,signschool,4,0,test,25,1,-1,468,39,1560,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Innocent-QjD8ciVZChw.mp4,innocent_0002_signschool_29791.mp4,ok
+3,29792,asldeafined,21,0,train,25,1,-1,65,16,576,480,https://media.asldeafined.com/vocabulary/1468667094.211.mp4,innocent_0003_asldeafined_29792.mp4,ok
+5,29794,signingsavvy,11,0,train,25,1,-1,71,10,226,192,https://www.signingsavvy.com/signs/mp4/14/14446.mp4,innocent_0005_signingsavvy_29794.mp4,ok
+6,29795,aslu,5,0,train,25,1,-1,305,38,1023,720,https://www.youtube.com/watch?v=3fGCxCqS36s,innocent_0006_aslu_29795.mp4,failed
+7,29796,aslu,5,0,val,25,1,-1,345,30,981,720,https://www.youtube.com/watch?v=hRoJygM0Vp4,innocent_0007_aslu_29796.mp4,failed
+8,29797,aslpro,16,0,train,25,1,-1,10,7,246,240,http://www.aslpro.com/main/i/innocent.swf,innocent_0008_aslpro_29797.mp4,skipped_swf
+9,29798,aslsearch,12,0,train,25,1,-1,166,55,543,400,http://www.aslsearch.com/signs/videos/innocent.mp4,innocent_0009_aslsearch_29798.mp4,ok

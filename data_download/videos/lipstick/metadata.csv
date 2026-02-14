@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33422,asl5200,9,0,val,25,1818,1894,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lipstick_0000_asl5200_33422.mp4,failed
+1,67850,asllex,109,0,test,25,1,-1,104,13,373,360,https://youtu.be/XQPQ_89cD70,lipstick_0001_asllex_67850.mp4,failed
+2,33423,spreadthesign,2,0,train,25,1,-1,54,35,252,240,https://media.spreadthesign.com/video/mp4/13/89850.mp4,lipstick_0002_spreadthesign_33423.mp4,ok
+3,33424,signschool,4,0,train,25,1,-1,681,52,1553,1062,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lipstick%2C%20Chapstick-HlAXboGg5fc.mp4,lipstick_0003_signschool_33424.mp4,ok
+4,33425,handspeak,20,0,train,25,1,-1,58,0,271,240,https://www.handspeak.com/word/l/lipstick.mp4,lipstick_0004_handspeak_33425.mp4,failed
+5,33426,signingsavvy,11,0,val,25,1,-1,79,15,220,192,https://www.signingsavvy.com/signs/mp4/1/1960.mp4,lipstick_0005_signingsavvy_33426.mp4,ok
+6,33427,aslpro,72,0,train,25,1,-1,12,3,222,240,http://www.aslpro.com/main/l/lipstick_applying.swf,lipstick_0006_aslpro_33427.mp4,skipped_swf
+8,33429,aslsearch,41,0,train,25,1,-1,242,45,493,400,http://www.aslsearch.com/signs/videos/lipstick.mp4,lipstick_0008_aslsearch_33429.mp4,ok

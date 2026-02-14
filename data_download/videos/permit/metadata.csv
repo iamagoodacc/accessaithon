@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42136,asl5200,9,0,test,25,1511,1557,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,permit_0000_asl5200_42136.mp4,failed
+2,42144,aslu,5,0,val,25,1,-1,297,29,985,720,https://www.youtube.com/watch?v=i8tVIw8CsTs,permit_0002_aslu_42144.mp4,failed
+3,42145,aslu,5,0,train,25,1,-1,352,53,967,720,https://www.youtube.com/watch?v=LTahaWJpZLc,permit_0003_aslu_42145.mp4,failed
+6,42148,aslsearch,12,0,train,25,1,-1,177,57,576,400,http://www.aslsearch.com/signs/videos/permit.mp4,permit_0006_aslsearch_42148.mp4,ok
+7,42137,spreadthesign,37,0,train,25,1,-1,31,0,277,240,https://media.spreadthesign.com/video/mp4/13/457729.mp4,permit_0007_spreadthesign_42137.mp4,ok
+8,42138,signschool,32,0,train,25,1,-1,620,54,1802,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Allow%2C%20Permission-wr8dPM7bL8Y.mp4,permit_0008_signschool_42138.mp4,ok
+12,42142,signingsavvy,10,0,train,25,1,-1,72,15,219,192,https://www.signingsavvy.com/signs/mp4/24/24153.mp4,permit_0012_signingsavvy_42142.mp4,ok

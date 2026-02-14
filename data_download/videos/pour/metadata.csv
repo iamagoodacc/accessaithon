@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43999,signschool,31,0,val,25,1,-1,697,96,1551,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pitcher%2C%20Pour-b9vXlZgo4xs.mp4,pour_0000_signschool_43999.mp4,ok
+2,44007,signingsavvy,11,0,test,25,1,-1,61,12,220,192,https://www.signingsavvy.com/signs/mp4/7/7128.mp4,pour_0002_signingsavvy_44007.mp4,ok
+5,44010,aslpro,25,0,train,25,1,-1,0,3,252,240,http://www.aslpro.com/main/p/pour.swf,pour_0005_aslpro_44010.mp4,skipped_swf
+6,44011,aslsearch,12,0,train,25,1,-1,188,55,557,400,http://www.aslsearch.com/signs/videos/pour.mp4,pour_0006_aslsearch_44011.mp4,ok
+7,44000,signschool,6,0,train,25,1,-1,517,75,1599,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pour%203-ybxyFC4PoyU.mp4,pour_0007_signschool_44000.mp4,ok
+8,44001,signschool,32,0,val,25,1,-1,574,81,1501,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pour-SJIavnHI8cw.mp4,pour_0008_signschool_44001.mp4,ok
+10,44003,handspeak,20,0,train,25,1,-1,31,0,546,480,https://www.handspeak.com/word/p/pour-container.mp4,pour_0010_handspeak_44003.mp4,failed
+11,44004,handspeak,14,0,train,25,1,-1,21,0,537,480,https://www.handspeak.com/word/p/pour-pitcher.mp4,pour_0011_handspeak_44004.mp4,failed

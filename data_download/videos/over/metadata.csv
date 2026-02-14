@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,40559,spreadthesign,26,0,val,25,1,-1,63,15,251,240,https://media.spreadthesign.com/video/mp4/13/307710.mp4,over_0000_spreadthesign_40559.mp4,ok
+2,40568,aslpro,87,0,test,25,1,-1,17,17,233,240,http://www.aslpro.com/main/o/over.swf,over_0002_aslpro_40568.mp4,skipped_swf
+3,40569,aslsearch,12,0,train,25,1,-1,169,57,535,400,http://www.aslsearch.com/signs/videos/cross.mp4,over_0003_aslsearch_40569.mp4,ok
+5,40560,signschool,4,0,train,25,1,-1,669,38,1665,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20End%2C%20Complete%2C%20Over%2C%20Finished-Y8kF63nbYEc.mp4,over_0005_signschool_40560.mp4,ok
+6,40561,asldeafined,13,0,train,25,1,-1,94,0,588,480,https://media.asldeafined.com/vocabulary/1468722842.4588.mp4,over_0006_asldeafined_40561.mp4,ok
+7,40562,handspeak,14,0,val,25,1,-1,20,0,558,480,https://www.handspeak.com/word/o/over.mp4,over_0007_handspeak_40562.mp4,failed
+10,40565,signingsavvy,11,0,train,25,1,-1,69,15,209,192,https://www.signingsavvy.com/signs/mp4/6/6335.mp4,over_0010_signingsavvy_40565.mp4,ok
+11,40566,signingsavvy,11,0,train,25,1,-1,62,10,216,192,https://www.signingsavvy.com/signs/mp4/9/9396.mp4,over_0011_signingsavvy_40566.mp4,ok

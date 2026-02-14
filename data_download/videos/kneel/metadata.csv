@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31832,asl5200,9,0,val,25,480,526,0,0,360,240,https://www.youtube.com/watch?v=D2Vg3lKjX78,kneel_0000_asl5200_31832.mp4,failed
+1,67819,asllex,109,0,test,25,1,-1,45,23,390,360,https://youtu.be/WxgPXgAblQE,kneel_0001_asllex_67819.mp4,failed
+2,31833,spreadthesign,2,0,train,25,1,-1,5,3,254,240,https://media.spreadthesign.com/video/mp4/13/399758.mp4,kneel_0002_spreadthesign_31833.mp4,ok
+3,31834,asldeafined,21,0,train,25,1,-1,33,14,561,480,https://media.asldeafined.com/vocabulary/1468670764.1981.mp4,kneel_0003_asldeafined_31834.mp4,ok
+4,31835,handspeak,20,0,train,25,1,-1,0,0,541,480,https://www.handspeak.com/word/k/kneel.mp4,kneel_0004_handspeak_31835.mp4,failed
+5,31836,signingsavvy,10,0,val,25,1,-1,77,27,198,192,https://www.signingsavvy.com/signs/mp4/22/22932.mp4,kneel_0005_signingsavvy_31836.mp4,ok
+6,31837,aslpro,25,0,train,25,1,-1,0,7,247,240,http://www.aslpro.com/main/k/kneel.swf,kneel_0006_aslpro_31837.mp4,skipped_swf
+7,31838,aslsearch,12,0,train,25,1,-1,174,65,553,400,http://www.aslsearch.com/signs/videos/kneel.mp4,kneel_0007_aslsearch_31838.mp4,ok

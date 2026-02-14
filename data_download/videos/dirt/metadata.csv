@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16392,asl5200,9,0,val,25,3073,3112,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dirt_0000_asl5200_16392.mp4,failed
+1,70374,northtexas,121,0,test,25,3962,4067,106,20,480,480,https://www.youtube.com/watch?v=Z25ng9maolE,dirt_0001_northtexas_70374.mp4,failed
+2,16394,spreadthesign,8,0,train,25,1,-1,72,0,234,240,https://media.spreadthesign.com/video/mp4/13/456731.mp4,dirt_0002_spreadthesign_16394.mp4,ok
+4,16396,signschool,52,0,train,25,1,-1,350,14,806,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20dirty%202-F9CzOjI2MPo.mp4,dirt_0004_signschool_16396.mp4,ok
+5,16397,signingsavvy,11,0,train,25,1,-1,55,11,204,192,https://www.signingsavvy.com/signs/mp4/14/14236.mp4,dirt_0005_signingsavvy_16397.mp4,ok
+6,16398,signingsavvy,11,0,val,25,1,-1,65,10,218,192,https://www.signingsavvy.com/signs/mp4/8/8860.mp4,dirt_0006_signingsavvy_16398.mp4,ok
+7,16399,aslpro,44,0,train,25,1,-1,0,4,217,240,http://www.aslpro.com/main/d/dirt.swf,dirt_0007_aslpro_16399.mp4,skipped_swf
+8,16400,aslsearch,41,0,train,25,1,-1,223,49,486,400,http://www.aslsearch.com/signs/videos/dirty.mp4,dirt_0008_aslsearch_16400.mp4,ok

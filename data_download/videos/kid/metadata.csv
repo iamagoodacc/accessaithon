@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65991,aslsignbank,90,0,test,25,1,-1,164,14,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KI/KID-163.mp4,kid_0000_aslsignbank_65991.mp4,failed
+1,31621,aslsearch,41,0,val,25,1,-1,218,48,497,400,http://www.aslsearch.com/signs/videos/kid.mp4,kid_0001_aslsearch_31621.mp4,ok
+2,31612,spreadthesign,33,0,train,25,1,-1,55,20,258,240,https://media.spreadthesign.com/video/mp4/13/96647.mp4,kid_0002_spreadthesign_31612.mp4,ok
+3,67814,asllex,109,0,train,25,1,-1,86,23,378,360,https://youtu.be/LjrHbGsSxtg,kid_0003_asllex_67814.mp4,failed
+4,31613,signschool,4,0,train,25,1,-1,476,63,1531,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Kid-9fW3v6gWc8E.mp4,kid_0004_signschool_31613.mp4,ok
+5,31614,asldeafined,21,0,train,25,1,-1,91,14,582,480,https://media.asldeafined.com/vocabulary/1468670253.2906.mp4,kid_0005_asldeafined_31614.mp4,ok
+10,31620,aslpro,24,0,train,25,1,-1,10,14,203,240,http://www.aslpro.com/main/k/kid.swf,kid_0010_aslpro_31620.mp4,skipped_swf

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07126,asl5200,9,0,test,25,3710,3789,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bookstore_0000_asl5200_07126.mp4,failed
+1,70227,northtexas,121,0,val,25,1157,1282,157,38,423,360,https://www.youtube.com/watch?v=4Nh1iFv2BMc,bookstore_0001_northtexas_70227.mp4,failed
+2,07127,startasl,38,0,train,25,1,-1,402,55,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bookstore.mp4,bookstore_0002_startasl_07127.mp4,ok
+3,07128,asldeafined,59,0,train,25,1,-1,91,21,573,480,https://media.asldeafined.com/vocabulary/1466684385.91.mp4,bookstore_0003_asldeafined_07128.mp4,ok
+4,07129,handspeak,14,0,train,25,1,-1,49,0,310,240,https://www.handspeak.com/word/b/bookstore.mp4,bookstore_0004_handspeak_07129.mp4,failed
+5,07130,signingsavvy,11,0,train,25,1,-1,70,16,222,192,https://www.signingsavvy.com/signs/mp4/7/7409.mp4,bookstore_0005_signingsavvy_07130.mp4,ok
+6,07131,aslsearch,12,0,train,25,1,-1,135,53,561,400,http://www.aslsearch.com/signs/videos/bookstore.mp4,bookstore_0006_aslsearch_07131.mp4,ok

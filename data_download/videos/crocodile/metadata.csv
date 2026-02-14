@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65425,aslsignbank,88,0,test,25,1,-1,171,0,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CR/CROCODILE-403.mp4,crocodile_0000_aslsignbank_65425.mp4,failed
+1,14011,asldeafined,13,0,val,25,1,-1,86,7,528,480,https://media.asldeafined.com/vocabulary/1466173069.583.mp4,crocodile_0001_asldeafined_14011.mp4,ok
+2,67543,asllex,109,0,train,25,1,-1,91,12,364,360,https://youtu.be/lAxTaACtidc,crocodile_0002_asllex_67543.mp4,failed
+3,14012,handspeak,20,0,train,25,1,-1,69,9,272,240,https://www.handspeak.com/word/c/crocodile.mp4,crocodile_0003_handspeak_14012.mp4,failed
+4,14013,signingsavvy,11,0,train,25,1,-1,89,19,208,192,https://www.signingsavvy.com/signs/mp4/7/7311.mp4,crocodile_0004_signingsavvy_14013.mp4,ok
+5,14014,aslpro,72,0,train,25,1,-1,13,5,226,240,http://www.aslpro.com/main/c/crocodile.swf,crocodile_0005_aslpro_14014.mp4,skipped_swf
+6,14015,aslsearch,12,0,train,25,1,-1,178,21,542,400,http://www.aslsearch.com/signs/videos/crocodile.mp4,crocodile_0006_aslsearch_14015.mp4,ok

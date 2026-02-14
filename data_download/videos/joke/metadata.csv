@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31177,asldeafined,21,0,val,25,1,-1,106,16,548,480,https://media.asldeafined.com/vocabulary/1468669533.449.mp4,joke_0000_asldeafined_31177.mp4,ok
+2,31179,handspeak,14,0,test,25,1,-1,75,16,264,240,https://www.handspeak.com/word/j/joke.mp4,joke_0002_handspeak_31179.mp4,failed
+4,31181,signingsavvy,10,0,train,25,1,-1,79,21,208,192,https://www.signingsavvy.com/signs/mp4/23/23329.mp4,joke_0004_signingsavvy_31181.mp4,ok
+5,31182,signingsavvy,10,0,train,25,1,-1,73,21,212,192,https://www.signingsavvy.com/signs/mp4/23/23330.mp4,joke_0005_signingsavvy_31182.mp4,ok
+6,31183,signingsavvy,10,0,train,25,1,-1,66,28,213,192,https://www.signingsavvy.com/signs/mp4/23/23331.mp4,joke_0006_signingsavvy_31183.mp4,ok
+7,31184,aslu,5,0,val,25,1,-1,268,29,962,720,https://www.youtube.com/watch?v=-1SxWYSJKac,joke_0007_aslu_31184.mp4,failed
+8,31185,aslpro,24,0,train,25,1,-1,29,16,195,240,http://www.aslpro.com/main/j/joke.swf,joke_0008_aslpro_31185.mp4,skipped_swf
+9,31186,aslsearch,41,0,train,25,1,-1,248,54,510,400,http://www.aslsearch.com/signs/videos/joke.mp4,joke_0009_aslsearch_31186.mp4,ok

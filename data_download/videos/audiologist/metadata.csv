@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04128,asl5200,9,0,test,25,4731,4820,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,audiologist_0000_asl5200_04128.mp4,failed
+1,04129,spreadthesign,2,0,val,25,1,-1,59,19,246,240,https://media.spreadthesign.com/video/mp4/13/94075.mp4,audiologist_0001_spreadthesign_04129.mp4,ok
+2,04130,asldeafined,13,0,train,25,1,-1,95,18,560,480,https://media.asldeafined.com/vocabulary/1466646734.4010.mp4,audiologist_0002_asldeafined_04130.mp4,ok
+3,04131,handspeak,14,0,train,25,1,-1,161,6,522,360,https://www.handspeak.com/word/a/audiologist.mp4,audiologist_0003_handspeak_04131.mp4,failed
+4,04132,signingsavvy,11,0,train,25,1,-1,41,5,228,192,https://www.signingsavvy.com/signs/mp4/14/14437.mp4,audiologist_0004_signingsavvy_04132.mp4,ok
+5,04133,nabboud,62,0,train,25,1,-1,40,0,720,720,https://www.youtube.com/watch?v=qFeZGwhXcLU,audiologist_0005_nabboud_04133.mp4,failed
+6,04134,aslsearch,12,0,train,25,1,-1,157,49,573,399,http://www.aslsearch.com/signs/videos/audiologist.mp4,audiologist_0006_aslsearch_04134.mp4,ok

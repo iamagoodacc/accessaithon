@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39074,asl5200,9,0,test,25,1922,1971,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,nun_0000_asl5200_39074.mp4,failed
+1,39076,spreadthesign,2,0,val,25,1,-1,62,38,264,240,https://media.spreadthesign.com/video/mp4/13/92966.mp4,nun_0001_spreadthesign_39076.mp4,ok
+2,39077,signschool,4,0,train,25,1,-1,625,54,1661,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Nun-UGzCH3hZo00.mp4,nun_0002_signschool_39077.mp4,ok
+3,39078,handspeak,14,0,train,25,1,-1,52,10,276,240,https://www.handspeak.com/word/n/nun.mp4,nun_0003_handspeak_39078.mp4,failed
+5,39080,signingsavvy,11,0,train,25,1,-1,37,2,242,192,https://www.signingsavvy.com/signs/mp4/9/9376.mp4,nun_0005_signingsavvy_39080.mp4,ok
+6,39081,aslpro,30,0,train,25,1,-1,0,1,246,240,http://www.aslpro.com/main/n/nun.swf,nun_0006_aslpro_39081.mp4,skipped_swf
+7,39082,aslsearch,12,0,train,25,1,-1,192,62,568,400,http://www.aslsearch.com/signs/videos/nun.mp4,nun_0007_aslsearch_39082.mp4,ok

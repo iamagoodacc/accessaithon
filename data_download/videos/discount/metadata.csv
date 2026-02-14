@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16540,asl5200,9,0,test,25,3259,3308,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,discount_0000_asl5200_16540.mp4,failed
+1,16541,signschool,4,0,val,25,1,-1,568,52,1669,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Discount-TclNJGDB9Y8.mp4,discount_0001_signschool_16541.mp4,ok
+2,16542,asldeafined,13,0,train,25,1,-1,123,2,530,480,https://media.asldeafined.com/vocabulary/1468758919.1432.mp4,discount_0002_asldeafined_16542.mp4,ok
+3,16543,handspeak,20,0,train,25,1,-1,0,0,538,480,https://www.handspeak.com/word/d/discount.mp4,discount_0003_handspeak_16543.mp4,failed
+4,16544,signingsavvy,10,0,train,25,1,-1,84,17,233,192,https://www.signingsavvy.com/signs/mp4/22/22592.mp4,discount_0004_signingsavvy_16544.mp4,ok
+5,16545,aslpro,25,0,train,25,1,-1,4,10,249,240,http://www.aslpro.com/main/d/discount.swf,discount_0005_aslpro_16545.mp4,skipped_swf
+6,16546,aslsearch,41,0,train,25,1,-1,240,50,499,400,http://www.aslsearch.com/signs/videos/discount.mp4,discount_0006_aslsearch_16546.mp4,ok

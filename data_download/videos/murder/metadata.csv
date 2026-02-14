@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37302,asl5200,9,0,test,25,2493,2539,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,murder_0000_asl5200_37302.mp4,failed
+1,37305,spreadthesign,2,0,val,25,1,-1,53,0,257,240,https://media.spreadthesign.com/video/mp4/13/110520.mp4,murder_0001_spreadthesign_37305.mp4,ok
+2,37306,asldeafined,13,0,train,25,1,-1,152,0,540,480,https://media.asldeafined.com/vocabulary/1468717431.7717.mp4,murder_0002_asldeafined_37306.mp4,ok
+3,37307,handspeak,14,0,train,25,1,-1,43,0,272,240,https://www.handspeak.com/word/m/murder.mp4,murder_0003_handspeak_37307.mp4,failed
+4,37308,signingsavvy,11,0,train,25,1,-1,71,10,208,192,https://www.signingsavvy.com/signs/mp4/6/6060.mp4,murder_0004_signingsavvy_37308.mp4,ok
+5,37309,aslpro,87,0,train,25,1,-1,4,18,214,240,http://www.aslpro.com/main/m/murder.swf,murder_0005_aslpro_37309.mp4,skipped_swf
+6,37310,aslsearch,41,0,train,25,1,-1,244,45,504,400,http://www.aslsearch.com/signs/videos/kill.mp4,murder_0006_aslsearch_37310.mp4,ok

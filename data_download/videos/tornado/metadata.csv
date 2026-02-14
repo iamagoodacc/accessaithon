@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58968,asl5200,9,0,val,25,4129,4201,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tornado_0000_asl5200_58968.mp4,failed
+2,58972,signschool,31,0,test,25,1,-1,353,59,1747,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tornado%202-pxYMDtoNQt4.mp4,tornado_0002_signschool_58972.mp4,ok
+7,58977,asldeafined,13,0,train,25,1,-1,68,0,562,480,https://media.asldeafined.com/vocabulary/1468946155.2235.mp4,tornado_0007_asldeafined_58977.mp4,ok
+8,67316,asllex,109,0,train,25,1,-1,52,3,397,360,https://youtu.be/Ovv4I0r8-6s,tornado_0008_asllex_67316.mp4,failed
+9,58978,handspeak,14,0,train,25,1,-1,4,0,569,480,https://www.handspeak.com/word/t/tornado.mp4,tornado_0009_handspeak_58978.mp4,failed
+10,58979,signingsavvy,11,0,val,25,1,-1,55,7,217,192,https://www.signingsavvy.com/signs/mp4/14/14599.mp4,tornado_0010_signingsavvy_58979.mp4,ok
+11,58980,signingsavvy,11,0,train,25,1,-1,60,8,217,192,https://www.signingsavvy.com/signs/mp4/14/14600.mp4,tornado_0011_signingsavvy_58980.mp4,ok
+14,58983,aslsearch,12,0,train,25,1,-1,142,50,537,400,http://www.aslsearch.com/signs/videos/tornado.mp4,tornado_0014_aslsearch_58983.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52651,startasl,38,0,test,25,1,-1,432,58,825,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/smoking.mp4,smoking_0000_startasl_52651.mp4,ok
+1,67218,asllex,109,0,val,25,1,-1,96,27,383,360,https://youtu.be/vvwpMkT6vnE,smoking_0001_asllex_67218.mp4,failed
+2,52652,aslu,5,0,train,25,1,-1,87,1,467,360,https://www.youtube.com/watch?v=KzcsPzBo_P8,smoking_0002_aslu_52652.mp4,failed
+3,52653,aslpro,25,0,train,25,1,-1,0,8,237,240,http://www.aslpro.com/main/s/smoke.swf,smoking_0003_aslpro_52653.mp4,skipped_swf
+4,52654,aslpro,84,0,train,25,1,-1,0,5,244,240,http://www.aslpro.com/main/s/smoking_cigar.swf,smoking_0004_aslpro_52654.mp4,skipped_swf
+5,52655,aslpro,84,0,train,25,1,-1,0,4,209,240,http://www.aslpro.com/main/s/smoking_pipe.swf,smoking_0005_aslpro_52655.mp4,skipped_swf
+6,52656,aslsearch,12,0,train,25,1,-1,207,53,563,400,http://www.aslsearch.com/signs/videos/smoke-a-cigarette.mp4,smoking_0006_aslsearch_52656.mp4,ok

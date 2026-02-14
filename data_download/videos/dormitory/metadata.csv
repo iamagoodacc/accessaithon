@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17360,asl5200,9,0,val,25,4190,4249,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dormitory_0000_asl5200_17360.mp4,failed
+1,65522,aslsignbank,102,0,test,25,1,-1,167,15,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DO/DORMITORY-1273.mp4,dormitory_0001_aslsignbank_65522.mp4,failed
+2,67584,asllex,109,0,train,25,1,-1,151,19,421,360,https://youtu.be/FF2EFMe5poA,dormitory_0002_asllex_67584.mp4,failed
+3,17361,spreadthesign,0,0,train,25,1,-1,52,0,252,240,https://media.spreadthesign.com/video/mp4/13/58419.mp4,dormitory_0003_spreadthesign_17361.mp4,ok
+4,17362,asldeafined,21,0,train,25,1,-1,45,11,527,480,https://media.asldeafined.com/vocabulary/1467773261.8614.mp4,dormitory_0004_asldeafined_17362.mp4,ok
+5,17363,handspeak,14,0,val,25,1,-1,192,5,532,360,https://www.handspeak.com/word/d/dormitory.mp4,dormitory_0005_handspeak_17363.mp4,failed
+6,17364,signingsavvy,11,0,train,25,1,-1,53,10,217,192,https://www.signingsavvy.com/signs/mp4/8/8691.mp4,dormitory_0006_signingsavvy_17364.mp4,ok
+7,17365,aslsearch,41,0,train,25,1,-1,238,43,490,400,http://www.aslsearch.com/signs/videos/dorm.mp4,dormitory_0007_aslsearch_17365.mp4,ok

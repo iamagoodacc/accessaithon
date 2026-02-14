@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53457,spreadthesign,63,0,val,25,1,-1,48,0,250,240,https://media.spreadthesign.com/video/mp4/13/50819.mp4,south america_0000_spreadthesign_53457.mp4,ok
+1,53458,startasl,38,0,test,25,1,-1,438,56,826,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south-america.mp4,south america_0001_startasl_53458.mp4,ok
+2,53459,signschool,4,0,train,25,1,-1,610,50,1581,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South%20America%202-1aIYTsywonw.mp4,south america_0002_signschool_53459.mp4,ok
+3,53460,asldeafined,13,0,train,25,1,-1,102,0,536,480,https://media.asldeafined.com/vocabulary/1468842105.3625.mp4,south america_0003_asldeafined_53460.mp4,ok
+4,53461,handspeak,14,0,train,25,1,-1,56,0,522,480,https://www.handspeak.com/word/s/south-america2.mp4,south america_0004_handspeak_53461.mp4,failed
+5,53462,handspeak,14,0,val,25,1,-1,17,0,604,480,https://www.handspeak.com/word/s/south-america.mp4,south america_0005_handspeak_53462.mp4,failed
+6,53463,signingsavvy,11,0,train,25,1,-1,52,10,226,192,https://www.signingsavvy.com/signs/mp4/2/2831.mp4,south america_0006_signingsavvy_53463.mp4,ok
+7,53464,aslsearch,12,0,train,25,1,-1,187,51,548,400,http://www.aslsearch.com/signs/videos/south-america.mp4,south america_0007_aslsearch_53464.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66748,aslsignbank,100,0,val,25,1,-1,199,21,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WA/WASH-FACE-1412.mp4,wash face_0000_aslsignbank_66748.mp4,failed
+1,62343,handspeak,20,0,test,25,1,-1,58,16,273,240,https://www.handspeak.com/word/w/wash-face2.mp4,wash face_0001_handspeak_62343.mp4,failed
+2,62344,handspeak,20,0,train,25,1,-1,51,14,280,240,https://www.handspeak.com/word/w/wash-face3.mp4,wash face_0002_handspeak_62344.mp4,failed
+3,62345,handspeak,20,0,train,25,1,-1,57,15,275,240,https://www.handspeak.com/word/w/wash-face4.mp4,wash face_0003_handspeak_62345.mp4,failed
+4,62346,handspeak,20,0,train,25,1,-1,71,15,253,240,https://www.handspeak.com/word/w/wash-face.mp4,wash face_0004_handspeak_62346.mp4,failed
+5,62347,nabboud,51,0,val,25,1,-1,326,73,907,720,https://www.youtube.com/watch?v=A6gU1E6dA70,wash face_0005_nabboud_62347.mp4,failed
+6,62348,nabboud,51,0,train,25,1,-1,335,72,906,720,https://www.youtube.com/watch?v=YvXAHfXxiEM,wash face_0006_nabboud_62348.mp4,failed
+7,62349,aslsearch,41,0,train,25,1,-1,242,38,506,400,http://www.aslsearch.com/signs/videos/wash-face.mp4,wash face_0007_aslsearch_62349.mp4,ok

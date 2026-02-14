@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25869,asl5200,9,0,val,25,2075,2124,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,grow up_0000_asl5200_25869.mp4,failed
+1,25871,asldeafined,21,0,test,25,1,-1,17,0,561,480,https://media.asldeafined.com/vocabulary/1468550880.910.mp4,grow up_0001_asldeafined_25871.mp4,ok
+2,68063,valencia-asl,109,0,train,25,1,-1,88,0,1210,720,https://www.youtube.com/watch?v=Zf4bqJpGTpI,grow up_0002_valencia-asl_68063.mp4,failed
+3,65863,aslsignbank,94,0,train,25,1,-1,96,17,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GR/GROW-UP-735.mp4,grow up_0003_aslsignbank_65863.mp4,failed
+5,25873,handspeak,14,0,train,25,1,-1,61,8,282,240,https://www.handspeak.com/word/g/growup-raise.mp4,grow up_0005_handspeak_25873.mp4,failed
+6,25874,signingsavvy,11,0,val,25,1,-1,35,2,213,192,https://www.signingsavvy.com/signs/mp4/9/9266.mp4,grow up_0006_signingsavvy_25874.mp4,ok
+7,25875,aslu,5,0,train,25,1,-1,223,41,952,720,https://www.youtube.com/watch?v=hNj04ToIMkg,grow up_0007_aslu_25875.mp4,failed
+8,25876,aslsearch,41,0,train,25,1,-1,210,42,494,400,http://www.aslsearch.com/signs/videos/grow-up.mp4,grow up_0008_aslsearch_25876.mp4,ok

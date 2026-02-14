@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53251,asl5200,9,0,test,25,6582,6644,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,somewhere_0000_asl5200_53251.mp4,failed
+1,53252,spreadthesign,26,0,val,25,1,-1,64,8,242,240,https://media.spreadthesign.com/video/mp4/13/307755.mp4,somewhere_0001_spreadthesign_53252.mp4,ok
+2,53253,asldeafined,13,0,train,25,1,-1,113,0,567,480,https://media.asldeafined.com/vocabulary/1468776528.4393.mp4,somewhere_0002_asldeafined_53253.mp4,ok
+3,53254,handspeak,20,0,train,25,1,-1,33,8,276,240,https://www.handspeak.com/word/s/somewhere.mp4,somewhere_0003_handspeak_53254.mp4,failed
+4,53255,signingsavvy,11,0,train,25,1,-1,68,11,216,192,https://www.signingsavvy.com/signs/mp4/9/9891.mp4,somewhere_0004_signingsavvy_53255.mp4,ok
+5,53256,aslu,5,0,train,25,1,-1,296,32,937,720,https://www.youtube.com/watch?v=iAGfS8hJTGA,somewhere_0005_aslu_53256.mp4,failed
+6,53257,aslsearch,12,0,train,25,1,-1,115,48,567,400,http://www.aslsearch.com/signs/videos/somewhere.mp4,somewhere_0006_aslsearch_53257.mp4,ok

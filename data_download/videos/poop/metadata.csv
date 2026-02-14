@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66311,aslsignbank,101,0,test,25,1,-1,204,11,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POOP-916.mp4,poop_0000_aslsignbank_66311.mp4,failed
+1,43671,signschool,52,0,val,25,1,-1,367,14,813,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20poop-nd5FxzIzYnE.mp4,poop_0001_signschool_43671.mp4,ok
+2,43672,asldeafined,59,0,train,25,1,-1,138,21,515,480,https://media.asldeafined.com/vocabulary/1522677946.3609.mp4,poop_0002_asldeafined_43672.mp4,ok
+3,43673,handspeak,14,0,train,25,1,-1,65,10,264,240,https://www.handspeak.com/word/p/poop-feces.mp4,poop_0003_handspeak_43673.mp4,failed
+4,43674,signingsavvy,11,0,train,25,1,-1,89,14,229,192,https://www.signingsavvy.com/signs/mp4/8/8214.mp4,poop_0004_signingsavvy_43674.mp4,ok
+6,43676,aslu,5,0,train,25,1,-1,339,69,886,720,https://www.youtube.com/watch?v=vKIoVBFQc7E,poop_0006_aslu_43676.mp4,failed
+7,43677,aslsearch,12,0,train,25,1,-1,202,62,568,400,http://www.aslsearch.com/signs/videos/crap.mp4,poop_0007_aslsearch_43677.mp4,ok

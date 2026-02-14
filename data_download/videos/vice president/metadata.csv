@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61587,asl5200,9,0,test,25,373,428,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,vice president_0000_asl5200_61587.mp4,failed
+1,61588,spreadthesign,2,0,val,25,1,-1,37,48,226,240,https://media.spreadthesign.com/video/mp4/13/90171.mp4,vice president_0001_spreadthesign_61588.mp4,ok
+3,61590,signschool,4,0,train,25,1,-1,536,61,1625,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Vice%20President%202-8FEA1saP89A.mp4,vice president_0003_signschool_61590.mp4,ok
+4,61591,handspeak,20,0,train,25,1,-1,9,8,263,240,https://www.handspeak.com/word/v/vice-president.mp4,vice president_0004_handspeak_61591.mp4,failed
+5,61592,signingsavvy,11,0,train,25,1,-1,48,5,222,192,https://www.signingsavvy.com/signs/mp4/8/8749.mp4,vice president_0005_signingsavvy_61592.mp4,ok
+7,61594,aslpro,24,0,train,25,1,-1,0,18,210,240,http://www.aslpro.com/main/v/vice_president.swf,vice president_0007_aslpro_61594.mp4,skipped_swf
+8,61595,aslsearch,12,0,train,25,1,-1,161,52,561,400,http://www.aslsearch.com/signs/videos/vice-president2.mp4,vice president_0008_aslsearch_61595.mp4,ok

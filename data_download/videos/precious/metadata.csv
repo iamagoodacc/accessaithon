@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44166,asl5200,9,0,test,25,4348,4410,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,precious_0000_asl5200_44166.mp4,failed
+1,44175,aslsearch,12,0,val,25,1,-1,191,57,561,400,http://www.aslsearch.com/signs/videos/care2.mp4,precious_0001_aslsearch_44175.mp4,ok
+2,66321,aslsignbank,101,0,train,25,1,-1,212,6,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PRECIOUS-923.mp4,precious_0002_aslsignbank_66321.mp4,failed
+3,44167,spreadthesign,2,0,train,25,1,-1,80,8,263,240,https://media.spreadthesign.com/video/mp4/13/116387.mp4,precious_0003_spreadthesign_44167.mp4,ok
+4,44168,signschool,31,0,train,25,1,-1,739,121,1515,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cherish%2C%20Precious-MpcsMbSUUGo.mp4,precious_0004_signschool_44168.mp4,ok
+7,44171,handspeak,14,0,train,25,1,-1,93,0,556,480,https://www.handspeak.com/word/p/precious.mp4,precious_0007_handspeak_44171.mp4,failed
+8,44172,signingsavvy,10,0,train,25,1,-1,101,23,213,192,https://www.signingsavvy.com/signs/mp4/22/22881.mp4,precious_0008_signingsavvy_44172.mp4,ok

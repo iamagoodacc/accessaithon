@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,40658,asl5200,9,0,val,25,1644,1703,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,owl_0000_asl5200_40658.mp4,failed
+1,66256,aslsignbank,97,0,test,25,1,-1,170,31,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OW/OWL-1523.mp4,owl_0001_aslsignbank_66256.mp4,failed
+2,67955,asllex,109,0,train,25,1,-1,63,21,404,360,https://youtu.be/qjEH5OeRz14,owl_0002_asllex_67955.mp4,failed
+3,40659,spreadthesign,56,0,train,25,1,-1,29,0,267,240,https://media.spreadthesign.com/video/mp4/13/49170.mp4,owl_0003_spreadthesign_40659.mp4,ok
+4,40660,signschool,4,0,train,25,1,-1,570,78,1686,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Owl-VkmKwhAnHJk.mp4,owl_0004_signschool_40660.mp4,ok
+5,40661,asldeafined,13,0,val,25,1,-1,107,0,540,480,https://media.asldeafined.com/vocabulary/1468722972.8289.mp4,owl_0005_asldeafined_40661.mp4,ok
+6,40662,handspeak,14,0,train,25,1,-1,50,17,263,240,https://www.handspeak.com/word/o/owl.mp4,owl_0006_handspeak_40662.mp4,failed
+8,40664,aslsearch,12,0,train,25,1,-1,189,61,563,400,http://www.aslsearch.com/signs/videos/owl.mp4,owl_0008_aslsearch_40664.mp4,ok

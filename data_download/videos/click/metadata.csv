@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11103,spreadthesign,2,0,test,25,1,-1,54,13,251,240,https://media.spreadthesign.com/video/mp4/13/153249.mp4,click_0000_spreadthesign_11103.mp4,ok
+1,11113,aslsearch,12,0,val,25,1,-1,182,70,543,400,http://www.aslsearch.com/signs/videos/click.mp4,click_0001_aslsearch_11113.mp4,ok
+2,11104,signschool,45,0,train,25,1,-1,687,129,1468,1063,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Touch%2C%20Silly%20You-gj6GCDmK9mU.mp4,click_0002_signschool_11104.mp4,ok
+3,11105,asldeafined,59,0,train,25,1,-1,101,21,533,480,https://media.asldeafined.com/vocabulary/1466899005.5188.mp4,click_0003_asldeafined_11105.mp4,ok
+4,11106,handspeak,14,0,train,25,1,-1,72,2,270,240,https://www.handspeak.com/word/c/click-computer2.mp4,click_0004_handspeak_11106.mp4,failed
+5,11107,handspeak,14,0,train,25,1,-1,75,0,271,240,https://www.handspeak.com/word/c/click-computer.mp4,click_0005_handspeak_11107.mp4,failed
+9,11112,aslu,5,0,train,25,1,-1,294,47,954,720,https://www.youtube.com/watch?v=Kil9YAHeXnI,click_0009_aslu_11112.mp4,failed

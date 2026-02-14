@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15631,spreadthesign,2,0,val,25,1,-1,31,3,269,240,https://media.spreadthesign.com/video/mp4/13/244340.mp4,deposit_0000_spreadthesign_15631.mp4,ok
+1,15632,signschool,32,0,test,25,1,-1,676,79,1615,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tape%2C%20Deposit-O_vG7MMoSLE.mp4,deposit_0001_signschool_15632.mp4,ok
+2,15633,asldeafined,59,0,train,25,1,-1,128,18,534,480,https://media.asldeafined.com/vocabulary/1466908150.3077.mp4,deposit_0002_asldeafined_15633.mp4,ok
+3,15634,handspeak,20,0,train,25,1,-1,48,0,524,480,https://www.handspeak.com/word/d/deposit.mp4,deposit_0003_handspeak_15634.mp4,failed
+4,15635,signingsavvy,11,0,train,25,1,-1,66,11,213,192,https://www.signingsavvy.com/signs/mp4/9/9941.mp4,deposit_0004_signingsavvy_15635.mp4,ok
+5,15636,aslu,5,0,val,25,1,-1,83,15,429,360,https://www.youtube.com/watch?v=MI5O36P8wLE,deposit_0005_aslu_15636.mp4,failed
+6,15637,aslpro,24,0,train,25,1,-1,5,7,209,240,http://www.aslpro.com/main/d/deposit.swf,deposit_0006_aslpro_15637.mp4,skipped_swf
+7,15638,aslsearch,12,0,train,25,1,-1,181,63,539,400,http://www.aslsearch.com/signs/videos/deposit.mp4,deposit_0007_aslsearch_15638.mp4,ok

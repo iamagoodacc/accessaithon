@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44137,asl5200,9,0,val,25,4191,4280,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,preach_0000_asl5200_44137.mp4,failed
+1,44147,spreadthesign,2,0,test,25,1,-1,17,0,269,240,https://media.spreadthesign.com/video/mp4/13/244852.mp4,preach_0001_spreadthesign_44147.mp4,ok
+2,44148,signschool,32,0,train,25,1,-1,666,81,1605,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Preach-T-a0FWBHcrY.mp4,preach_0002_signschool_44148.mp4,ok
+3,44149,asldeafined,13,0,train,25,1,-1,98,0,512,480,https://media.asldeafined.com/vocabulary/1468765373.1721.mp4,preach_0003_asldeafined_44149.mp4,ok
+4,44150,handspeak,20,0,train,25,1,-1,83,0,544,480,https://www.handspeak.com/word/p/preach.mp4,preach_0004_handspeak_44150.mp4,failed
+5,44151,signingsavvy,11,0,val,25,1,-1,69,14,217,192,https://www.signingsavvy.com/signs/mp4/5/5591.mp4,preach_0005_signingsavvy_44151.mp4,ok
+6,44152,aslpro,30,0,train,25,1,-1,0,10,220,240,http://www.aslpro.com/main/p/preach.swf,preach_0006_aslpro_44152.mp4,skipped_swf
+7,44153,aslsearch,12,0,train,25,1,-1,167,52,547,400,http://www.aslsearch.com/signs/videos/sermon.mp4,preach_0007_aslsearch_44153.mp4,ok

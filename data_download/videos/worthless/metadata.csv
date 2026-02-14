@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63916,asl5200,9,0,val,25,3882,3924,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,worthless_0000_asl5200_63916.mp4,failed
+1,66812,aslsignbank,88,0,test,25,1,-1,167,12,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WO/WORTHLESS-1463.mp4,worthless_0001_aslsignbank_66812.mp4,failed
+2,63917,signschool,31,0,train,25,1,-1,583,147,1426,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Worthless-PSQGvFvq9Ss.mp4,worthless_0002_signschool_63917.mp4,ok
+3,63918,asldeafined,13,0,train,25,1,-1,89,0,556,480,https://media.asldeafined.com/vocabulary/1468929246.1574.mp4,worthless_0003_asldeafined_63918.mp4,ok
+4,63919,handspeak,20,0,train,25,1,-1,91,0,472,360,https://www.handspeak.com/word/w/worthless.mp4,worthless_0004_handspeak_63919.mp4,failed
+5,63920,signingsavvy,11,0,val,25,1,-1,60,13,223,192,https://www.signingsavvy.com/signs/mp4/3/3199.mp4,worthless_0005_signingsavvy_63920.mp4,ok
+6,63921,aslu,5,0,train,25,1,-1,325,58,1104,720,https://www.youtube.com/watch?v=kLW1WeAQvK4,worthless_0006_aslu_63921.mp4,failed
+7,63922,aslsearch,41,0,train,25,1,-1,213,38,515,400,http://www.aslsearch.com/signs/videos/worthless.mp4,worthless_0007_aslsearch_63922.mp4,ok

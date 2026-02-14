@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57705,asl5200,9,0,val,25,1549,1605,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,theater_0000_asl5200_57705.mp4,failed
+1,69026,lillybauer,115,0,test,25,1,102,303,76,1007,720,https://www.youtube.com/watch?v=XGIJ_W6n0a0,theater_0001_lillybauer_69026.mp4,failed
+2,67298,asllex,109,0,train,25,1,-1,83,19,394,360,https://youtu.be/RHymLOHQeZk,theater_0002_asllex_67298.mp4,failed
+3,57706,spreadthesign,56,0,train,25,1,-1,27,0,292,240,https://media.spreadthesign.com/video/mp4/13/50891.mp4,theater_0003_spreadthesign_57706.mp4,ok
+4,57707,asldeafined,13,0,train,25,1,-1,68,0,560,480,https://media.asldeafined.com/vocabulary/1468944300.7969.mp4,theater_0004_asldeafined_57707.mp4,ok
+6,57709,signingsavvy,11,0,val,25,1,-1,64,11,231,192,https://www.signingsavvy.com/signs/mp4/6/6372.mp4,theater_0006_signingsavvy_57709.mp4,ok
+8,57711,aslpro,72,0,train,25,1,-1,13,7,243,240,http://www.aslpro.com/main/t/theater.swf,theater_0008_aslpro_57711.mp4,skipped_swf
+9,57712,aslsearch,12,0,train,25,1,-1,184,49,558,399,http://www.aslsearch.com/signs/videos/show2.mp4,theater_0009_aslsearch_57712.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20670,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,f_0000_asl5200_20670.mp4,failed
+1,66044,aslsignbank,96,0,val,25,1,-1,201,33,536,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-F-1671.mp4,f_0001_aslsignbank_66044.mp4,failed
+2,21568,asldeafined,21,0,train,25,1,-1,123,35,578,480,https://media.asldeafined.com/vocabulary/1528811116.918.mp4,f_0002_asldeafined_21568.mp4,ok
+3,21569,handspeak,20,0,train,25,1,-1,124,14,459,360,https://www.handspeak.com/word/f/f-abc.mp4,f_0003_handspeak_21569.mp4,failed
+4,21570,signingsavvy,11,0,train,25,1,-1,86,6,215,192,https://www.signingsavvy.com/signs/mp4/10/10005.mp4,f_0004_signingsavvy_21570.mp4,ok
+5,21571,aslpro,30,0,train,25,1,-1,8,10,228,240,http://www.aslpro.com//main/f/f.swf,f_0005_aslpro_21571.mp4,skipped_swf
+6,21572,aslsearch,41,0,train,25,1,-1,226,34,488,400,http://www.aslsearch.com/signs/videos/f.mp4,f_0006_aslsearch_21572.mp4,ok

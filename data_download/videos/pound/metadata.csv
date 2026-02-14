@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43986,spreadthesign,2,0,val,25,1,-1,55,7,248,240,https://media.spreadthesign.com/video/mp4/13/116380.mp4,pound_0000_spreadthesign_43986.mp4,ok
+1,43995,aslpro,24,0,test,25,1,-1,23,17,201,240,http://www.aslpro.com/main/p/pound.swf,pound_0001_aslpro_43995.mp4,skipped_swf
+2,43996,aslsearch,41,0,train,25,1,-1,228,34,486,400,http://www.aslsearch.com/signs/videos/scale.mp4,pound_0002_aslsearch_43996.mp4,ok
+3,43987,signschool,31,0,train,25,1,-1,670,122,1538,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pound%2C%20Weight-JXc1QqQOWeM.mp4,pound_0003_signschool_43987.mp4,ok
+4,43988,asldeafined,13,0,train,25,1,-1,168,0,555,480,https://media.asldeafined.com/vocabulary/1468755089.3394.mp4,pound_0004_asldeafined_43988.mp4,ok
+5,43989,asldeafined,13,0,val,25,1,-1,112,0,559,480,https://media.asldeafined.com/vocabulary/1468927665.7928.mp4,pound_0005_asldeafined_43989.mp4,ok
+8,43992,handspeak,20,0,train,25,1,-1,135,10,515,360,https://www.handspeak.com/word/p/pound-weight.mp4,pound_0008_handspeak_43992.mp4,failed
+10,43994,signingsavvy,11,0,train,25,1,-1,75,16,216,192,https://www.signingsavvy.com/signs/mp4/8/8105.mp4,pound_0010_signingsavvy_43994.mp4,ok

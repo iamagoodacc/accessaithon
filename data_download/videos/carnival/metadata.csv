@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,09256,asl5200,9,0,test,25,1035,1134,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,carnival_0000_asl5200_09256.mp4,failed
+1,09259,spreadthesign,2,0,val,25,1,-1,35,0,274,240,https://media.spreadthesign.com/video/mp4/13/125801.mp4,carnival_0001_spreadthesign_09259.mp4,ok
+2,09260,startasl,38,0,train,25,1,-1,411,70,805,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/carnival.mp4,carnival_0002_startasl_09260.mp4,ok
+3,09261,asldeafined,21,0,train,25,1,-1,117,37,576,480,https://media.asldeafined.com/vocabulary/1553865705.9680.mp4,carnival_0003_asldeafined_09261.mp4,ok
+4,09262,signingsavvy,11,0,train,25,1,-1,40,6,241,192,https://www.signingsavvy.com/signs/mp4/1/1303.mp4,carnival_0004_signingsavvy_09262.mp4,ok
+5,09263,aslpro,25,0,train,25,1,-1,0,4,248,240,http://www.aslpro.com/main/c/carnival.swf,carnival_0005_aslpro_09263.mp4,skipped_swf
+6,09264,aslsearch,41,0,train,25,1,-1,228,40,477,400,http://www.aslsearch.com/signs/videos/carnival.mp4,carnival_0006_aslsearch_09264.mp4,ok

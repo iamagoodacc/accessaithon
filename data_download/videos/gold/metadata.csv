@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24978,asl5200,9,0,val,25,1067,1113,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,gold_0000_asl5200_24978.mp4,failed
+1,24995,handspeak,20,0,test,25,1,-1,57,0,562,480,https://www.handspeak.com/word/g/gold.mp4,gold_0001_handspeak_24995.mp4,failed
+2,24996,signingsavvy,11,0,train,25,1,-1,50,11,230,192,https://www.signingsavvy.com/signs/mp4/7/7062.mp4,gold_0002_signingsavvy_24996.mp4,ok
+3,24997,nabboud,68,0,train,25,1,-1,335,71,887,720,https://www.youtube.com/watch?v=1QJT9gUN0Vs,gold_0003_nabboud_24997.mp4,failed
+5,24989,spreadthesign,2,0,train,25,1,-1,72,41,233,240,https://media.spreadthesign.com/video/mp4/13/93091.mp4,gold_0005_spreadthesign_24989.mp4,ok
+6,67717,asllex,109,0,val,25,1,-1,73,23,374,360,https://youtu.be/xnA9DqV1qHE,gold_0006_asllex_67717.mp4,failed
+9,24990,signschool,4,0,train,25,1,-1,372,69,1557,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20California%2C%20Gold-nssRtX90_Ds.mp4,gold_0009_signschool_24990.mp4,ok
+10,24991,signschool,39,0,train,25,1,-1,801,60,1722,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20California-5Q0SCrk6bb0.mp4,gold_0010_signschool_24991.mp4,ok

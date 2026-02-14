@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22973,asl5200,9,0,test,25,2522,2578,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,forgive_0000_asl5200_22973.mp4,failed
+1,22974,spreadthesign,2,0,val,25,1,-1,70,36,229,240,https://media.spreadthesign.com/video/mp4/13/93050.mp4,forgive_0001_spreadthesign_22974.mp4,ok
+2,22975,signschool,4,0,train,25,1,-1,339,46,1676,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Excused%2C%20Dismiss-U59S2U_woUE.mp4,forgive_0002_signschool_22975.mp4,ok
+3,22976,asldeafined,21,0,train,25,1,-1,77,13,560,480,https://media.asldeafined.com/vocabulary/1468513504.2992.mp4,forgive_0003_asldeafined_22976.mp4,ok
+4,22977,handspeak,14,0,train,25,1,-1,67,11,259,240,https://www.handspeak.com/word/f/forgive.mp4,forgive_0004_handspeak_22977.mp4,failed
+5,22978,signingsavvy,11,0,train,25,1,-1,78,12,237,192,https://www.signingsavvy.com/signs/mp4/6/6961.mp4,forgive_0005_signingsavvy_22978.mp4,ok
+7,22980,aslsearch,41,0,train,25,1,-1,228,42,502,400,http://www.aslsearch.com/signs/videos/repent.mp4,forgive_0007_aslsearch_22980.mp4,ok

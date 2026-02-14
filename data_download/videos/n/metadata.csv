@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37512,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,n_0000_asl5200_37512.mp4,failed
+1,66052,aslsignbank,96,0,val,25,1,-1,203,34,511,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-N-1664.mp4,n_0001_aslsignbank_66052.mp4,failed
+2,38265,asldeafined,21,0,train,25,1,-1,156,41,585,478,https://media.asldeafined.com/vocabulary/1528811743.8237.mp4,n_0002_asldeafined_38265.mp4,ok
+3,38266,handspeak,20,0,train,25,1,-1,135,13,465,360,https://www.handspeak.com/word/n/n-abc.mp4,n_0003_handspeak_38266.mp4,failed
+4,38267,signingsavvy,11,0,train,25,1,-1,83,7,220,192,https://www.signingsavvy.com/signs/mp4/10/10013.mp4,n_0004_signingsavvy_38267.mp4,ok
+5,38268,aslpro,30,0,train,25,1,-1,8,12,228,240,http://www.aslpro.com//main/n/n.swf,n_0005_aslpro_38268.mp4,skipped_swf
+6,38269,aslsearch,12,0,train,25,1,-1,205,52,581,400,http://www.aslsearch.com/signs/videos/n.mp4,n_0006_aslsearch_38269.mp4,ok

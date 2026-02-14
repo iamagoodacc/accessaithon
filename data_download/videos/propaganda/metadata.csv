@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44957,asl5200,9,0,test,25,6137,6206,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,propaganda_0000_asl5200_44957.mp4,failed
+1,44958,spreadthesign,77,0,val,25,1,-1,33,0,296,240,https://media.spreadthesign.com/video/mp4/13/185923.mp4,propaganda_0001_spreadthesign_44958.mp4,ok
+2,44959,handspeak,20,0,train,25,1,-1,98,5,506,360,https://www.handspeak.com/word/p/propaganda-false.mp4,propaganda_0002_handspeak_44959.mp4,failed
+3,44960,handspeak,14,0,train,25,1,-1,0,0,637,360,https://www.handspeak.com/word/p/propaganda-manipulate.mp4,propaganda_0003_handspeak_44960.mp4,failed
+4,44961,handspeak,20,0,train,25,1,-1,0,6,619,360,https://www.handspeak.com/word/p/propaganda.mp4,propaganda_0004_handspeak_44961.mp4,failed
+5,44962,signingsavvy,11,0,train,25,1,-1,54,10,221,192,https://www.signingsavvy.com/signs/mp4/9/9962.mp4,propaganda_0005_signingsavvy_44962.mp4,ok
+6,44963,aslpro,87,0,train,25,1,-1,18,18,224,240,http://www.aslpro.com/main/p/propaganda.swf,propaganda_0006_aslpro_44963.mp4,skipped_swf

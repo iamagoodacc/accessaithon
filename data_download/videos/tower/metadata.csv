@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59131,asl5200,9,0,val,25,4492,4561,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tower_0000_asl5200_59131.mp4,failed
+1,59133,asldeafined,21,0,test,25,1,-1,73,0,600,480,https://media.asldeafined.com/vocabulary/1553871635.3856.mp4,tower_0001_asldeafined_59133.mp4,ok
+2,59134,handspeak,14,0,train,25,1,-1,29,14,289,240,https://www.handspeak.com/word/t/tower-building.mp4,tower_0002_handspeak_59134.mp4,failed
+3,59135,signingsavvy,11,0,train,25,1,-1,50,9,235,192,https://www.signingsavvy.com/signs/mp4/4/4041.mp4,tower_0003_signingsavvy_59135.mp4,ok
+4,59136,aslu,5,0,train,25,1,-1,348,30,1199,720,https://www.youtube.com/watch?v=3cvl0DgJ9NI,tower_0004_aslu_59136.mp4,failed
+5,59137,aslu,5,0,val,25,1,-1,332,12,1009,720,https://www.youtube.com/watch?v=mnkfyONGx8k,tower_0005_aslu_59137.mp4,failed
+6,59138,aslpro,87,0,train,25,1,-1,0,19,242,240,http://www.aslpro.com/main/t/tower.swf,tower_0006_aslpro_59138.mp4,skipped_swf
+7,59139,aslsearch,12,0,train,25,1,-1,192,46,562,400,http://www.aslsearch.com/signs/videos/tower.mp4,tower_0007_aslsearch_59139.mp4,ok

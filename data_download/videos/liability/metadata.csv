@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32999,asl5200,9,0,test,25,1315,1367,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,liability_0000_asl5200_32999.mp4,failed
+1,33000,spreadthesign,2,0,val,25,1,-1,37,4,266,240,https://media.spreadthesign.com/video/mp4/13/246074.mp4,liability_0001_spreadthesign_33000.mp4,ok
+2,33001,signschool,32,0,train,25,1,-1,466,48,1644,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Accountable%2C%20Liability%2C%20Responsible-Gt52TLMYLYc.mp4,liability_0002_signschool_33001.mp4,ok
+3,33002,asldeafined,13,0,train,25,1,-1,136,0,569,480,https://media.asldeafined.com/vocabulary/1468711311.3693.mp4,liability_0003_asldeafined_33002.mp4,ok
+4,33003,signingsavvy,11,0,train,25,1,-1,50,5,216,192,https://www.signingsavvy.com/signs/mp4/5/5977.mp4,liability_0004_signingsavvy_33003.mp4,ok
+5,33004,aslpro,24,0,train,25,1,-1,20,6,231,240,http://www.aslpro.com//main/l/liability.swf,liability_0005_aslpro_33004.mp4,skipped_swf
+6,33005,aslsearch,41,0,train,25,1,-1,185,43,479,400,http://www.aslsearch.com/signs/videos/liability.mp4,liability_0006_aslsearch_33005.mp4,ok

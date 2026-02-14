@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08510,asldeafined,59,0,test,25,1,-1,116,21,526,480,https://media.asldeafined.com/vocabulary/1466725686.9085.mp4,bye_0000_asldeafined_08510.mp4,ok
+1,08511,handspeak,20,0,val,25,1,-1,66,0,546,480,https://www.handspeak.com/word/b/bye-wave.mp4,bye_0001_handspeak_08511.mp4,failed
+2,08512,signingsavvy,10,0,train,25,1,-1,73,18,210,192,https://www.signingsavvy.com/signs/mp4/22/22741.mp4,bye_0002_signingsavvy_08512.mp4,ok
+4,08514,signingsavvy,10,0,train,25,1,-1,75,20,211,192,https://www.signingsavvy.com/signs/mp4/22/22865.mp4,bye_0004_signingsavvy_08514.mp4,ok
+5,08515,signingsavvy,10,0,train,25,1,-1,78,22,212,192,https://www.signingsavvy.com/signs/mp4/22/22866.mp4,bye_0005_signingsavvy_08515.mp4,ok
+6,08516,aslpro,25,0,train,25,1,-1,0,12,245,240,http://www.aslpro.com/main/b/bye.swf,bye_0006_aslpro_08516.mp4,skipped_swf
+7,08517,aslsearch,41,0,train,25,1,-1,231,39,486,400,http://www.aslsearch.com/signs/videos/bye.mp4,bye_0007_aslsearch_08517.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,41559,signingsavvy,11,0,test,25,1,-1,56,12,234,192,https://www.signingsavvy.com/signs/mp4/7/7373.mp4,pause_0002_signingsavvy_41559.mp4,ok
+3,41560,aslu,5,0,val,25,1,-1,51,19,484,360,https://www.youtube.com/watch?v=nXNDkpmyOTY,pause_0003_aslu_41560.mp4,failed
+4,41561,aslu,5,0,train,25,1,-1,136,3,525,360,https://www.youtube.com/watch?v=RS8gp0O6vj0,pause_0004_aslu_41561.mp4,failed
+6,41563,aslsearch,12,0,train,25,1,-1,151,51,555,400,http://www.aslsearch.com/signs/videos/break3.mp4,pause_0006_aslsearch_41563.mp4,ok
+8,41553,spreadthesign,37,0,train,25,1,-1,39,0,270,240,https://media.spreadthesign.com/video/mp4/13/457699.mp4,pause_0008_spreadthesign_41553.mp4,ok
+9,41554,signschool,31,0,train,25,1,-1,638,137,1772,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pause%2C%20Suspend%2C%20Hold-YsKzhsOjeS0.mp4,pause_0009_signschool_41554.mp4,ok
+10,41555,asldeafined,13,0,train,25,1,-1,42,0,579,480,https://media.asldeafined.com/vocabulary/1468724469.3639.mp4,pause_0010_asldeafined_41555.mp4,ok

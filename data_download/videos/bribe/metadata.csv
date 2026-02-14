@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07715,asl5200,9,0,test,25,4692,4758,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bribe_0000_asl5200_07715.mp4,failed
+1,07716,spreadthesign,2,0,val,25,1,-1,47,8,265,240,https://media.spreadthesign.com/video/mp4/13/125542.mp4,bribe_0001_spreadthesign_07716.mp4,ok
+2,07717,handspeak,14,0,train,25,1,-1,53,14,251,240,https://www.handspeak.com/word/b/bribe.mp4,bribe_0002_handspeak_07717.mp4,failed
+3,07718,signingsavvy,11,0,train,25,1,-1,54,13,224,192,https://www.signingsavvy.com/signs/mp4/1/1262.mp4,bribe_0003_signingsavvy_07718.mp4,ok
+4,07719,aslu,5,0,train,25,1,-1,368,30,1022,720,https://www.youtube.com/watch?v=wQzaFOCtuXE,bribe_0004_aslu_07719.mp4,failed
+5,07720,aslpro,30,0,train,25,1,-1,0,17,235,240,http://www.aslpro.com/main/b/bribe.swf,bribe_0005_aslpro_07720.mp4,skipped_swf
+6,07721,aslsearch,12,0,train,25,1,-1,207,54,584,400,http://www.aslsearch.com/signs/videos/bribe.mp4,bribe_0006_aslsearch_07721.mp4,ok

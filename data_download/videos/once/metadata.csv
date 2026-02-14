@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39674,asl5200,9,0,val,25,771,817,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,once_0000_asl5200_39674.mp4,failed
+1,66227,aslsignbank,97,0,test,25,1,-1,180,30,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ON/ONCE-1546.mp4,once_0001_aslsignbank_66227.mp4,failed
+2,39679,spreadthesign,2,0,train,25,1,-1,25,2,270,240,https://media.spreadthesign.com/video/mp4/13/245891.mp4,once_0002_spreadthesign_39679.mp4,ok
+3,39680,asldeafined,13,0,train,25,1,-1,76,0,516,480,https://media.asldeafined.com/vocabulary/1468721659.6930.mp4,once_0003_asldeafined_39680.mp4,ok
+4,39681,handspeak,14,0,train,25,1,-1,55,8,245,240,https://www.handspeak.com/word/o/once.mp4,once_0004_handspeak_39681.mp4,failed
+5,39682,signingsavvy,10,0,val,25,1,-1,69,15,206,192,https://www.signingsavvy.com/signs/mp4/23/23887.mp4,once_0005_signingsavvy_39682.mp4,ok
+8,39685,aslpro,24,0,train,25,1,-1,27,24,208,240,http://www.aslpro.com/main/o/once.swf,once_0008_aslpro_39685.mp4,skipped_swf
+9,39686,aslsearch,12,0,train,25,1,-1,209,50,558,400,http://www.aslsearch.com/signs/videos/seldom.mp4,once_0009_aslsearch_39686.mp4,ok

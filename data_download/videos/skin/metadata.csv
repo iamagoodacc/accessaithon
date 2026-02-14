@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52156,asl5200,9,0,val,25,4938,4984,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,skin_0000_asl5200_52156.mp4,failed
+1,52167,aslsearch,12,0,test,25,1,-1,205,55,562,400,http://www.aslsearch.com/signs/videos/skin.mp4,skin_0001_aslsearch_52167.mp4,ok
+2,52158,spreadthesign,77,0,train,25,1,-1,60,0,271,240,https://media.spreadthesign.com/video/mp4/13/185278.mp4,skin_0002_spreadthesign_52158.mp4,ok
+3,52159,signschool,4,0,train,25,1,-1,719,83,1625,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Skin%202-HRC3L6VAl3U.mp4,skin_0003_signschool_52159.mp4,ok
+4,52160,signschool,4,0,train,25,1,-1,659,76,1642,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Skin-HheUtnT-cbM.mp4,skin_0004_signschool_52160.mp4,ok
+5,52161,asldeafined,13,0,val,25,1,-1,140,0,515,480,https://media.asldeafined.com/vocabulary/1468767631.1819.mp4,skin_0005_asldeafined_52161.mp4,ok
+7,52163,signingsavvy,11,0,train,25,1,-1,80,14,223,192,https://www.signingsavvy.com/signs/mp4/7/7274.mp4,skin_0007_signingsavvy_52163.mp4,ok
+9,52165,aslu,5,0,train,25,1,-1,328,39,953,720,https://www.youtube.com/watch?v=-IAvO3C9b8k,skin_0009_aslu_52165.mp4,failed

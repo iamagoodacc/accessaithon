@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11839,asl5200,9,0,val,25,4421,4460,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,come_0000_asl5200_11839.mp4,failed
+1,69275,aslbrick,115,0,test,25,1,-1,140,37,943,720,http://aslbricks.org/New/ASL-Videos/come.mp4,come_0001_aslbrick_69275.mp4,ok
+3,11884,aslsearch,12,0,train,25,1,-1,178,59,534,400,http://www.aslsearch.com/signs/videos/come.mp4,come_0003_aslsearch_11884.mp4,ok
+5,11876,spreadthesign,56,0,train,25,1,-1,63,13,261,240,https://media.spreadthesign.com/video/mp4/13/399315.mp4,come_0005_spreadthesign_11876.mp4,ok
+7,11877,signschool,31,0,train,25,1,-1,540,64,1480,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20To%20Come-T815w96_jns.mp4,come_0007_signschool_11877.mp4,ok
+8,11878,asldeafined,59,0,val,25,1,-1,84,27,590,480,https://media.asldeafined.com/vocabulary/1466900105.5607.mp4,come_0008_asldeafined_11878.mp4,ok
+9,11879,handspeak,20,0,train,25,1,-1,40,3,602,480,https://www.handspeak.com/word/c/come2.mp4,come_0009_handspeak_11879.mp4,failed
+12,11882,signingsavvy,11,0,train,25,1,-1,82,14,230,192,https://www.signingsavvy.com/signs/mp4/7/7175.mp4,come_0012_signingsavvy_11882.mp4,ok

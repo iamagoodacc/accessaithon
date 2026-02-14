@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28050,asl5200,9,0,test,25,2212,2248,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,host_0000_asl5200_28050.mp4,failed
+6,28056,signschool,6,0,val,25,1,-1,667,57,1605,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Adopt%2C%20Host-RVhtwm64uyk.mp4,host_0006_signschool_28056.mp4,ok
+8,28067,signingsavvy,11,0,train,25,1,-1,66,17,220,192,https://www.signingsavvy.com/signs/mp4/9/9094.mp4,host_0008_signingsavvy_28067.mp4,ok
+10,28069,aslsearch,41,0,train,25,1,-1,256,36,521,400,http://www.aslsearch.com/signs/videos/adopt.mp4,host_0010_aslsearch_28069.mp4,ok
+11,28057,signschool,46,0,train,25,1,-1,175,0,1385,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Host-379faVY_wzA.mp4,host_0011_signschool_28057.mp4,ok
+12,28058,asldeafined,13,0,train,25,1,-1,75,22,584,480,https://media.asldeafined.com/vocabulary/1466170437.4315.mp4,host_0012_asldeafined_28058.mp4,ok
+13,28059,handspeak,14,0,train,25,1,-1,29,0,320,240,https://www.handspeak.com/word/h/host-event.mp4,host_0013_handspeak_28059.mp4,failed

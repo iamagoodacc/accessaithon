@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04049,asl5200,9,0,test,25,4500,4556,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,attorney_0000_asl5200_04049.mp4,failed
+1,04050,spreadthesign,2,0,val,25,1,-1,66,5,251,240,https://media.spreadthesign.com/video/mp4/13/122833.mp4,attorney_0001_spreadthesign_04050.mp4,ok
+2,04051,asldeafined,13,0,train,25,1,-1,142,0,561,480,https://media.asldeafined.com/vocabulary/1468671558.6003.mp4,attorney_0002_asldeafined_04051.mp4,ok
+3,04052,handspeak,20,0,train,25,1,-1,123,22,463,360,https://www.handspeak.com/word/a/attorney.mp4,attorney_0003_handspeak_04052.mp4,failed
+4,04053,signingsavvy,11,0,train,25,1,-1,53,7,218,192,https://www.signingsavvy.com/signs/mp4/14/14170.mp4,attorney_0004_signingsavvy_04053.mp4,ok
+5,04054,aslpro,18,0,train,25,1,-1,13,3,211,240,http://www.aslpro.com/main/a/attorney.swf,attorney_0005_aslpro_04054.mp4,skipped_swf
+6,04055,aslsearch,41,0,train,25,1,-1,237,38,526,400,http://www.aslsearch.com/signs/videos/attorney.mp4,attorney_0006_aslsearch_04055.mp4,ok

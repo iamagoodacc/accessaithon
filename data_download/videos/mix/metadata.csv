@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66133,aslsignbank,97,0,val,25,1,-1,180,28,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MIX-1601.mp4,mix_0000_aslsignbank_66133.mp4,failed
+1,36460,signingsavvy,11,0,test,25,1,-1,65,12,209,192,https://www.signingsavvy.com/signs/mp4/9/9714.mp4,mix_0001_signingsavvy_36460.mp4,ok
+2,36461,aslpro,87,0,train,25,1,-1,5,20,211,240,http://www.aslpro.com/main/m/mix.swf,mix_0002_aslpro_36461.mp4,skipped_swf
+3,36452,elementalasl,66,0,train,25,1,-1,82,6,220,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/mixture.mov,mix_0003_elementalasl_36452.mp4,ok
+4,36462,aslsearch,41,0,train,25,1,-1,208,36,505,400,http://www.aslsearch.com/signs/videos/scramble.mp4,mix_0004_aslsearch_36462.mp4,ok
+5,36453,spreadthesign,37,0,val,25,1,-1,28,0,263,240,https://media.spreadthesign.com/video/mp4/13/457018.mp4,mix_0005_spreadthesign_36453.mp4,ok
+6,36454,asldeafined,21,0,train,25,1,-1,129,38,516,480,https://media.asldeafined.com/vocabulary/1520783041.3699.mp4,mix_0006_asldeafined_36454.mp4,ok
+7,36455,handspeak,14,0,train,25,1,-1,50,11,258,240,https://www.handspeak.com/word/m/mix.mp4,mix_0007_handspeak_36455.mp4,failed

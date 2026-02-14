@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24130,spreadthesign,29,0,val,25,1,-1,61,3,286,240,https://media.spreadthesign.com/video/mp4/13/72928.mp4,gasoline_0000_spreadthesign_24130.mp4,ok
+1,24131,asldeafined,21,0,test,25,1,-1,74,16,587,480,https://media.asldeafined.com/vocabulary/1468515133.715.mp4,gasoline_0001_asldeafined_24131.mp4,ok
+3,24133,handspeak,20,0,train,25,1,-1,8,0,508,480,https://www.handspeak.com/word/g/gas.mp4,gasoline_0003_handspeak_24133.mp4,failed
+4,24134,handspeak,14,0,train,25,1,-1,89,0,478,360,https://www.handspeak.com/word/g/gasoline.mp4,gasoline_0004_handspeak_24134.mp4,failed
+6,24136,signingsavvy,10,0,train,25,1,-1,79,27,206,192,https://www.signingsavvy.com/signs/mp4/23/23414.mp4,gasoline_0006_signingsavvy_24136.mp4,ok
+7,24137,aslu,5,0,val,25,1,-1,208,4,957,720,https://www.youtube.com/watch?v=RzYnyNm-t_4,gasoline_0007_aslu_24137.mp4,failed
+8,24138,aslpro,83,0,train,25,1,-1,0,17,228,240,http://www.aslpro.com/main/g/gasoline.swf,gasoline_0008_aslpro_24138.mp4,skipped_swf
+9,24139,aslsearch,12,0,train,25,1,-1,168,53,529,400,http://www.aslsearch.com/signs/videos/gas.mp4,gasoline_0009_aslsearch_24139.mp4,ok

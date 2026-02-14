@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66173,aslsignbank,97,0,test,25,1,-1,153,31,451,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NI/NINE-1570.mp4,nine_0000_aslsignbank_66173.mp4,failed
+1,38373,spreadthesign,1,0,val,25,1,-1,49,0,263,240,https://media.spreadthesign.com/video/mp4/13/357180.mp4,nine_0001_spreadthesign_38373.mp4,ok
+2,38374,signschool,6,0,train,25,1,-1,627,116,1493,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%209-2guCgS9_uhg.mp4,nine_0002_signschool_38374.mp4,ok
+3,38375,handspeak,14,0,train,25,1,-1,33,0,304,240,https://www.handspeak.com/word/n/nine.mp4,nine_0003_handspeak_38375.mp4,failed
+4,38376,signingsavvy,11,0,train,25,1,-1,76,16,216,192,https://www.signingsavvy.com/signs/mp4/11/11009.mp4,nine_0004_signingsavvy_38376.mp4,ok
+5,38377,aslpro,30,0,train,25,1,-1,0,18,218,240,http://www.aslpro.com/main/n/nine.swf,nine_0005_aslpro_38377.mp4,skipped_swf
+6,38378,aslsearch,41,0,train,25,1,-1,251,33,500,400,http://www.aslsearch.com/signs/videos/nine.mp4,nine_0006_aslsearch_38378.mp4,ok

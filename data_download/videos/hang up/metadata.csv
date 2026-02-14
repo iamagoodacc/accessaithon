@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65877,aslsignbank,106,0,test,25,1,-1,96,35,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HA/HANG-UP-1841.mp4,hang up_0000_aslsignbank_65877.mp4,failed
+1,26472,aslsearch,12,0,val,25,1,-1,186,53,555,400,http://www.aslsearch.com/signs/videos/hang-up.mp4,hang up_0001_aslsearch_26472.mp4,ok
+2,26463,signschool,31,0,train,25,1,-1,657,155,1512,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hang%20Up%202-6PICwxA_cbI.mp4,hang up_0002_signschool_26463.mp4,ok
+3,26464,signschool,31,0,train,25,1,-1,734,149,1590,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hang%20Up-6VIqQw4CWYc.mp4,hang up_0003_signschool_26464.mp4,ok
+5,26466,handspeak,14,0,train,25,1,-1,43,6,260,240,https://www.handspeak.com/word/h/hangup-on.mp4,hang up_0005_handspeak_26466.mp4,failed
+6,26467,handspeak,14,0,train,25,1,-1,15,11,258,240,https://www.handspeak.com/word/h/hangup-phone2.mp4,hang up_0006_handspeak_26467.mp4,failed
+7,26468,handspeak,14,0,train,25,1,-1,49,9,254,240,https://www.handspeak.com/word/h/hangup-phone.mp4,hang up_0007_handspeak_26468.mp4,failed

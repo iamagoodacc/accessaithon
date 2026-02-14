@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45524,asl5200,9,0,test,25,7132,7174,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,put off_0000_asl5200_45524.mp4,failed
+1,45525,asldeafined,13,0,val,25,1,-1,142,0,546,480,https://media.asldeafined.com/vocabulary/1468754965.788.mp4,put off_0001_asldeafined_45525.mp4,ok
+2,45526,asldeafined,13,0,train,25,1,-1,139,0,531,480,https://media.asldeafined.com/vocabulary/1468756474.6417.mp4,put off_0002_asldeafined_45526.mp4,ok
+3,45527,handspeak,14,0,train,25,1,-1,52,8,256,240,https://www.handspeak.com/word/p/put-off.mp4,put off_0003_handspeak_45527.mp4,failed
+5,45529,signingsavvy,11,0,train,25,1,-1,82,17,216,192,https://www.signingsavvy.com/signs/mp4/6/6586.mp4,put off_0005_signingsavvy_45529.mp4,ok
+6,45530,signingsavvy,11,0,train,25,1,-1,78,14,216,192,https://www.signingsavvy.com/signs/mp4/6/6589.mp4,put off_0006_signingsavvy_45530.mp4,ok
+8,45532,aslsearch,12,0,train,25,1,-1,197,62,548,400,http://www.aslsearch.com/signs/videos/delay.mp4,put off_0008_aslsearch_45532.mp4,ok

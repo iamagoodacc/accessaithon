@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41077,asl5200,9,0,val,25,427,469,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,paragraph_0000_asl5200_41077.mp4,failed
+1,41078,spreadthesign,2,0,test,25,1,-1,65,7,256,240,https://media.spreadthesign.com/video/mp4/13/116209.mp4,paragraph_0001_spreadthesign_41078.mp4,ok
+2,41079,signschool,31,0,train,25,1,-1,542,78,1432,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stanza%2C%20Paragraph%2C%20Module-JV3nh38SVks.mp4,paragraph_0002_signschool_41079.mp4,ok
+3,41080,asldeafined,13,0,train,25,1,-1,112,0,525,480,https://media.asldeafined.com/vocabulary/1468724194.8390.mp4,paragraph_0003_asldeafined_41080.mp4,ok
+4,41081,handspeak,14,0,train,25,1,-1,126,0,511,480,https://www.handspeak.com/word/p/paragraph.mp4,paragraph_0004_handspeak_41081.mp4,failed
+5,41082,signingsavvy,10,0,val,25,1,-1,82,21,197,192,https://www.signingsavvy.com/signs/mp4/22/22167.mp4,paragraph_0005_signingsavvy_41082.mp4,ok
+6,41083,aslpro,30,0,train,25,1,-1,0,7,223,240,http://www.aslpro.com/main/p/paragraph.swf,paragraph_0006_aslpro_41083.mp4,skipped_swf
+7,41084,aslsearch,12,0,train,25,1,-1,188,54,557,400,http://www.aslsearch.com/signs/videos/chapter.mp4,paragraph_0007_aslsearch_41084.mp4,ok

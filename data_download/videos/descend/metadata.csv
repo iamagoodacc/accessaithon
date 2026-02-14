@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15691,asl5200,9,0,test,25,1725,1771,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,descend_0000_asl5200_15691.mp4,failed
+1,15704,signingsavvy,10,0,val,25,1,-1,43,9,258,192,https://www.signingsavvy.com/signs/mp4/24/24330.mp4,descend_0001_signingsavvy_15704.mp4,ok
+2,15695,spreadthesign,8,0,train,25,1,-1,25,0,245,240,https://media.spreadthesign.com/video/mp4/13/456710.mp4,descend_0002_spreadthesign_15695.mp4,ok
+3,15696,handspeak,20,0,train,25,1,-1,93,0,473,360,https://www.handspeak.com/word/d/descend-down.mp4,descend_0003_handspeak_15696.mp4,failed
+5,15698,handspeak,14,0,train,25,1,-1,81,0,475,360,https://www.handspeak.com/word/d/descend-plane.mp4,descend_0005_handspeak_15698.mp4,failed
+8,15701,signingsavvy,10,0,train,25,1,-1,31,10,220,192,https://www.signingsavvy.com/signs/mp4/24/24296.mp4,descend_0008_signingsavvy_15701.mp4,ok
+9,15702,signingsavvy,10,0,train,25,1,-1,61,15,214,192,https://www.signingsavvy.com/signs/mp4/24/24298.mp4,descend_0009_signingsavvy_15702.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29841,asl5200,9,0,val,25,1077,1146,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,insect_0000_asl5200_29841.mp4,failed
+1,29842,elementalasl,19,0,test,25,1,-1,84,12,231,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/insect.mov,insect_0001_elementalasl_29842.mp4,ok
+2,29843,spreadthesign,0,0,train,25,1,-1,59,7,248,240,https://media.spreadthesign.com/video/mp4/13/73329.mp4,insect_0002_spreadthesign_29843.mp4,ok
+3,29844,signschool,32,0,train,25,1,-1,760,76,1568,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Insect-4rxVCC-Pliw.mp4,insect_0003_signschool_29844.mp4,ok
+4,29845,handspeak,20,0,train,25,1,-1,54,1,513,480,https://www.handspeak.com/word/i/insect.mp4,insect_0004_handspeak_29845.mp4,failed
+6,29847,signingsavvy,11,0,val,25,1,-1,85,16,219,192,https://www.signingsavvy.com/signs/mp4/7/7324.mp4,insect_0006_signingsavvy_29847.mp4,ok
+7,29848,aslpro,72,0,train,25,1,-1,24,0,225,240,http://www.aslpro.com/main/i/insect.swf,insect_0007_aslpro_29848.mp4,skipped_swf
+8,29849,aslsearch,12,0,train,25,1,-1,190,59,540,400,http://www.aslsearch.com/signs/videos/insect.mp4,insect_0008_aslsearch_29849.mp4,ok

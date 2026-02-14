@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,68502,lillybauer,115,0,test,25,1,61,334,3,916,720,https://www.youtube.com/watch?v=gtI2Ha3fKX8,grey_0001_lillybauer_68502.mp4,failed
+2,68062,valencia-asl,111,0,val,25,1,-1,185,0,665,480,https://www.youtube.com/watch?v=X65eLJc9_OM,grey_0002_valencia-asl_68062.mp4,failed
+3,25714,asldeafined,21,0,train,25,1,-1,94,10,554,480,https://media.asldeafined.com/vocabulary/1468550615.6627.mp4,grey_0003_asldeafined_25714.mp4,ok
+4,25715,scott,47,0,train,25,1,-1,307,11,944,720,https://www.youtube.com/watch?v=DCfZax-zBWk,grey_0004_scott_25715.mp4,failed
+6,25717,aslu,5,0,train,25,1,-1,302,42,990,720,https://www.youtube.com/watch?v=KYd1QImWeTw,grey_0006_aslu_25717.mp4,failed
+8,25719,nabboud,68,0,train,25,1,-1,304,71,956,720,https://www.youtube.com/watch?v=vI_EiEt5Yg0,grey_0008_nabboud_25719.mp4,failed
+10,25721,aslsearch,12,0,train,25,1,-1,172,56,524,400,http://www.aslsearch.com/signs/videos/gray.mp4,grey_0010_aslsearch_25721.mp4,ok

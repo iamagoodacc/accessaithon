@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12004,asl5200,9,0,test,25,4611,4670,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,committee_0000_asl5200_12004.mp4,failed
+1,65383,aslsignbank,102,0,val,25,1,-1,157,16,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COMMITTEE-1089.mp4,committee_0001_aslsignbank_65383.mp4,failed
+2,12005,spreadthesign,35,0,train,25,1,-1,32,0,276,240,https://media.spreadthesign.com/video/mp4/13/51702.mp4,committee_0002_spreadthesign_12005.mp4,ok
+3,12006,asldeafined,59,0,train,25,1,-1,98,12,529,480,https://media.asldeafined.com/vocabulary/1466900442.6472.mp4,committee_0003_asldeafined_12006.mp4,ok
+4,12007,handspeak,14,0,train,25,1,-1,51,21,256,240,https://www.handspeak.com/word/c/committee.mp4,committee_0004_handspeak_12007.mp4,failed
+5,12008,signingsavvy,11,0,train,25,1,-1,77,14,228,192,https://www.signingsavvy.com/signs/mp4/7/7769.mp4,committee_0005_signingsavvy_12008.mp4,ok
+7,12010,aslsearch,12,0,train,25,1,-1,173,55,540,400,http://www.aslsearch.com/signs/videos/committee.mp4,committee_0007_aslsearch_12010.mp4,ok

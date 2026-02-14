@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50356,asl5200,9,0,val,25,2134,2183,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,senior_0000_asl5200_50356.mp4,failed
+1,50372,aslsearch,41,0,test,25,1,-1,231,59,515,400,http://www.aslsearch.com/signs/videos/senior2.mp4,senior_0001_aslsearch_50372.mp4,ok
+2,50363,spreadthesign,28,0,train,25,1,-1,48,0,274,240,https://media.spreadthesign.com/video/mp4/13/486594.mp4,senior_0002_spreadthesign_50363.mp4,ok
+3,50364,signschool,39,0,train,25,1,-1,872,65,1759,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Senior%202-kP975hEinrY.mp4,senior_0003_signschool_50364.mp4,ok
+4,50365,signschool,39,0,train,25,1,-1,750,64,1728,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Senior%203-0-7PCfQKIJY.mp4,senior_0004_signschool_50365.mp4,ok
+6,50367,asldeafined,13,0,val,25,1,-1,103,0,519,480,https://media.asldeafined.com/vocabulary/1468765160.9398.mp4,senior_0006_asldeafined_50367.mp4,ok
+9,50370,signingsavvy,11,0,train,25,1,-1,64,14,218,192,https://www.signingsavvy.com/signs/mp4/14/14817.mp4,senior_0009_signingsavvy_50370.mp4,ok
+10,50371,aslpro,83,0,train,25,1,-1,0,16,240,240,http://www.aslpro.com/main/s/senior.swf,senior_0010_aslpro_50371.mp4,skipped_swf

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,67037,asllex,109,0,val,25,1,-1,145,19,423,360,https://youtu.be/A5pKgtt-d5E,wander_0001_asllex_67037.mp4,failed
+2,62229,spreadthesign,2,0,test,25,1,-1,59,15,232,240,https://media.spreadthesign.com/video/mp4/13/90195.mp4,wander_0002_spreadthesign_62229.mp4,ok
+3,62230,signschool,31,0,train,25,1,-1,669,154,1424,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wander%2C%20Amble%2C%20One%20Person%20Walking-z87dqQmd3Yw.mp4,wander_0003_signschool_62230.mp4,ok
+4,62231,asldeafined,15,0,train,25,1,-1,117,31,547,480,https://media.asldeafined.com/vocabulary/1499872957.648.mp4,wander_0004_asldeafined_62231.mp4,ok
+5,62232,handspeak,20,0,train,25,1,-1,72,0,286,240,https://www.handspeak.com/word/w/wander.mp4,wander_0005_handspeak_62232.mp4,failed
+7,62234,signingsavvy,11,0,val,25,1,-1,49,7,224,192,https://www.signingsavvy.com/signs/mp4/14/14501.mp4,wander_0007_signingsavvy_62234.mp4,ok
+8,62235,aslpro,30,0,train,25,1,-1,2,14,215,240,http://www.aslpro.com/main/w/wander.swf,wander_0008_aslpro_62235.mp4,skipped_swf
+9,62236,aslsearch,41,0,train,25,1,-1,239,37,527,400,http://www.aslsearch.com/signs/videos/astray.mp4,wander_0009_aslsearch_62236.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,66494,aslsignbank,105,0,test,25,1,-1,144,0,455,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SIXTEEN-3096.mp4,sixteen_0001_aslsignbank_66494.mp4,failed
+2,51979,spreadthesign,2,0,val,25,1,-1,76,5,238,240,https://media.spreadthesign.com/video/mp4/13/116887.mp4,sixteen_0002_spreadthesign_51979.mp4,ok
+4,51981,signingsavvy,11,0,train,25,1,-1,79,17,213,192,https://www.signingsavvy.com/signs/mp4/11/11016.mp4,sixteen_0004_signingsavvy_51981.mp4,ok
+5,51982,signingsavvy,10,0,train,25,1,-1,64,19,210,192,https://www.signingsavvy.com/signs/mp4/24/24068.mp4,sixteen_0005_signingsavvy_51982.mp4,ok
+7,51984,signingsavvy,10,0,train,25,1,-1,80,17,207,192,https://www.signingsavvy.com/signs/mp4/24/24076.mp4,sixteen_0007_signingsavvy_51984.mp4,ok
+8,51985,aslpro,83,0,train,25,1,-1,0,18,215,240,http://www.aslpro.com/main/s/sixteen.swf,sixteen_0008_aslpro_51985.mp4,skipped_swf
+9,51986,aslsearch,12,0,train,25,1,-1,207,53,564,400,http://www.aslsearch.com/signs/videos/sixteen.mp4,sixteen_0009_aslsearch_51986.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47645,spreadthesign,56,0,val,25,1,-1,32,0,270,240,https://media.spreadthesign.com/video/mp4/13/49281.mp4,responsible_0000_spreadthesign_47645.mp4,ok
+1,47646,asldeafined,13,0,test,25,1,-1,98,0,571,480,https://media.asldeafined.com/vocabulary/1468760442.1111.mp4,responsible_0001_asldeafined_47646.mp4,ok
+2,47647,handspeak,14,0,train,25,1,-1,20,0,312,240,https://www.handspeak.com/word/r/responsible.mp4,responsible_0002_handspeak_47647.mp4,failed
+3,47648,signingsavvy,10,0,train,25,1,-1,76,22,196,192,https://www.signingsavvy.com/signs/mp4/22/22609.mp4,responsible_0003_signingsavvy_47648.mp4,ok
+4,47649,aslu,5,0,train,25,1,-1,262,43,983,720,https://www.youtube.com/watch?v=Qmzg74JQGYk,responsible_0004_aslu_47649.mp4,failed
+5,47650,aslu,5,0,val,25,1,-1,271,33,951,720,https://www.youtube.com/watch?v=RRBsVdi17yI,responsible_0005_aslu_47650.mp4,failed
+6,47651,aslpro,87,0,train,25,1,-1,13,7,227,240,http://www.aslpro.com/main/r/responsible.swf,responsible_0006_aslpro_47651.mp4,skipped_swf
+7,47652,aslsearch,41,0,train,25,1,-1,166,40,482,400,http://www.aslsearch.com/signs/videos/responsible.mp4,responsible_0007_aslsearch_47652.mp4,ok

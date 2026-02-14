@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31072,asl5200,9,0,test,25,347,429,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,jewelry_0000_asl5200_31072.mp4,failed
+1,65978,aslsignbank,96,0,val,25,1,-1,176,32,535,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/JE/JEWELRY-1707.mp4,jewelry_0001_aslsignbank_65978.mp4,failed
+2,31077,signschool,32,0,train,25,1,-1,562,63,1838,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Jewelry%202-1QExxwdFd8s.mp4,jewelry_0002_signschool_31077.mp4,ok
+3,31078,signschool,32,0,train,25,1,-1,534,61,1805,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Jewelry-FJPV-IHTwBI.mp4,jewelry_0003_signschool_31078.mp4,ok
+4,31079,asldeafined,21,0,train,25,1,-1,97,15,577,480,https://media.asldeafined.com/vocabulary/1468669184.4289.mp4,jewelry_0004_asldeafined_31079.mp4,ok
+5,31080,signingsavvy,11,0,train,25,1,-1,38,10,248,192,https://www.signingsavvy.com/signs/mp4/1/1843.mp4,jewelry_0005_signingsavvy_31080.mp4,ok
+7,31082,aslsearch,12,0,train,25,1,-1,185,56,565,400,http://www.aslsearch.com/signs/videos/jewelry.mp4,jewelry_0007_aslsearch_31082.mp4,ok

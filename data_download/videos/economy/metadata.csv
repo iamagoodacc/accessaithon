@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18370,elementalasl,19,0,val,25,1,-1,96,9,243,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/economy.mov,economy_0000_elementalasl_18370.mp4,ok
+1,18371,spreadthesign,2,0,test,25,1,-1,81,20,236,240,https://media.spreadthesign.com/video/mp4/13/89586.mp4,economy_0001_spreadthesign_18371.mp4,ok
+2,18372,asldeafined,21,0,train,25,1,-1,92,17,558,480,https://media.asldeafined.com/vocabulary/1468347852.7488.mp4,economy_0002_asldeafined_18372.mp4,ok
+3,18373,handspeak,14,0,train,25,1,-1,78,7,257,240,https://www.handspeak.com/word/e/economy.mp4,economy_0003_handspeak_18373.mp4,failed
+4,18374,signingsavvy,11,0,train,25,1,-1,66,13,216,192,https://www.signingsavvy.com/signs/mp4/1/1477.mp4,economy_0004_signingsavvy_18374.mp4,ok
+5,18375,aslu,5,0,val,25,1,-1,334,47,955,720,https://www.youtube.com/watch?v=MOdpmPBfI0M,economy_0005_aslu_18375.mp4,failed
+6,18376,aslpro,16,0,train,25,1,-1,30,20,202,240,http://www.aslpro.com/main/e/economy.swf,economy_0006_aslpro_18376.mp4,skipped_swf
+7,18377,aslsearch,12,0,train,25,1,-1,193,54,542,400,http://www.aslsearch.com/signs/videos/economy.mp4,economy_0007_aslsearch_18377.mp4,ok

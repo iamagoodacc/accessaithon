@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11418,spreadthesign,56,0,test,25,1,-1,55,26,269,237,https://media.spreadthesign.com/video/mp4/13/47463.mp4,clumsy_0000_spreadthesign_11418.mp4,ok
+1,11419,signschool,39,0,val,25,1,-1,520,128,1659,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Awkward%20with%20Something%202-_1z840LkeAI.mp4,clumsy_0001_signschool_11419.mp4,ok
+2,11420,asldeafined,13,0,train,25,1,-1,88,20,535,480,https://media.asldeafined.com/vocabulary/1466647757.9860.mp4,clumsy_0002_asldeafined_11420.mp4,ok
+3,11421,handspeak,20,0,train,25,1,-1,129,21,479,360,https://www.handspeak.com/word/c/clumsy.mp4,clumsy_0003_handspeak_11421.mp4,failed
+4,11422,signingsavvy,10,0,train,25,1,-1,58,22,219,192,https://www.signingsavvy.com/signs/mp4/23/23207.mp4,clumsy_0004_signingsavvy_11422.mp4,ok
+5,11423,aslpro,16,0,train,25,1,-1,13,22,234,240,http://www.aslpro.com/main/c/clumsy.swf,clumsy_0005_aslpro_11423.mp4,skipped_swf
+6,11424,aslsearch,12,0,train,25,1,-1,170,56,570,400,http://www.aslsearch.com/signs/videos/clumsy.mp4,clumsy_0006_aslsearch_11424.mp4,ok

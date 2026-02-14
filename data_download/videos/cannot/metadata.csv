@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65301,aslsignbank,90,0,test,25,1,-1,156,15,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CANNOT-427.mp4,cannot_0000_aslsignbank_65301.mp4,failed
+1,08970,asldeafined,59,0,val,25,1,-1,80,17,536,480,https://media.asldeafined.com/vocabulary/1466726467.3085.mp4,cannot_0001_asldeafined_08970.mp4,ok
+2,08967,signschool,70,0,train,25,1,-1,271,11,746,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20can%27t-rfCaJNjIIhk.mp4,cannot_0002_signschool_08967.mp4,ok
+3,08968,signschool,32,0,train,25,1,-1,784,72,1658,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cannot-aNaFcdPFJLo.mp4,cannot_0003_signschool_08968.mp4,ok
+4,08971,handspeak,20,0,train,25,1,-1,154,2,547,360,https://www.handspeak.com/word/c/cannot.mp4,cannot_0004_handspeak_08971.mp4,failed
+5,08972,signingsavvy,11,0,train,25,1,-1,64,16,218,192,https://www.signingsavvy.com/signs/mp4/9/9140.mp4,cannot_0005_signingsavvy_08972.mp4,ok
+7,08974,aslsearch,12,0,train,25,1,-1,167,55,558,400,http://www.aslsearch.com/signs/videos/cannot.mp4,cannot_0007_aslsearch_08974.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,28085,signschool,6,0,test,25,1,-1,619,77,1563,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hot%20Dog-GRyHhWy9lqE.mp4,hot dog_0002_signschool_28085.mp4,ok
+3,28088,handspeak,14,0,val,25,1,-1,65,20,229,240,https://www.handspeak.com/word/h/hot-dog2.mp4,hot dog_0003_handspeak_28088.mp4,failed
+4,28089,handspeak,14,0,train,25,1,-1,64,23,230,240,https://www.handspeak.com/word/h/hot-dog.mp4,hot dog_0004_handspeak_28089.mp4,failed
+5,28096,aslsearch,12,0,train,25,1,-1,189,51,542,400,http://www.aslsearch.com/signs/videos/hot-dog2.mp4,hot dog_0005_aslsearch_28096.mp4,ok
+6,28082,spreadthesign,37,0,train,25,1,-1,40,0,245,240,https://media.spreadthesign.com/video/mp4/13/456598.mp4,hot dog_0006_spreadthesign_28082.mp4,ok
+7,28087,asldeafined,21,0,train,25,1,-1,37,7,547,480,https://media.asldeafined.com/vocabulary/1468638654.2517.mp4,hot dog_0007_asldeafined_28087.mp4,ok
+10,28091,signingsavvy,11,0,train,25,1,-1,68,14,210,192,https://www.signingsavvy.com/signs/mp4/9/9071.mp4,hot dog_0010_signingsavvy_28091.mp4,ok

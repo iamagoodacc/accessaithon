@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08642,asl5200,9,0,val,25,232,298,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,calculus_0000_asl5200_08642.mp4,failed
+1,08643,spreadthesign,56,0,test,25,1,-1,41,0,287,240,https://media.spreadthesign.com/video/mp4/13/51274.mp4,calculus_0001_spreadthesign_08643.mp4,ok
+2,08644,signschool,4,0,train,25,1,-1,653,75,1586,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Calculus-BDw_4k4E6q0.mp4,calculus_0002_signschool_08644.mp4,ok
+3,08645,asldeafined,59,0,train,25,1,-1,101,5,546,480,https://media.asldeafined.com/vocabulary/1466726036.7086.mp4,calculus_0003_asldeafined_08645.mp4,ok
+4,08646,handspeak,14,0,train,25,1,-1,61,7,255,240,https://www.handspeak.com/word/c/calculus.mp4,calculus_0004_handspeak_08646.mp4,failed
+5,08647,signingsavvy,11,0,val,25,1,-1,78,16,210,192,https://www.signingsavvy.com/signs/mp4/6/6481.mp4,calculus_0005_signingsavvy_08647.mp4,ok
+6,08648,aslpro,30,0,train,25,1,-1,22,21,209,240,http://www.aslpro.com/main/c/calculus.swf,calculus_0006_aslpro_08648.mp4,skipped_swf
+7,08649,aslsearch,12,0,train,25,1,-1,179,54,569,400,http://www.aslsearch.com/signs/videos/calculus.mp4,calculus_0007_aslsearch_08649.mp4,ok

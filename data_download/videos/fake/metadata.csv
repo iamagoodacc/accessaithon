@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20860,asl5200,9,0,val,25,221,263,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,fake_0000_asl5200_20860.mp4,failed
+3,20868,signingsavvy,11,0,test,25,1,-1,69,13,214,192,https://www.signingsavvy.com/signs/mp4/8/8920.mp4,fake_0003_signingsavvy_20868.mp4,ok
+4,20869,signingsavvy,11,0,train,25,1,-1,69,13,214,192,https://www.signingsavvy.com/signs/mp4/8/8920.mp4,fake_0004_signingsavvy_20869.mp4,ok
+5,65674,aslsignbank,94,0,train,25,1,-1,168,19,449,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FA/FAKE-732.mp4,fake_0005_aslsignbank_65674.mp4,failed
+7,20871,aslpro,16,0,train,25,1,-1,17,5,222,240,http://www.aslpro.com/main/f/fake.swf,fake_0007_aslpro_20871.mp4,skipped_swf
+8,20872,aslsearch,41,0,val,25,1,-1,221,35,477,400,http://www.aslsearch.com/signs/videos/fake.mp4,fake_0008_aslsearch_20872.mp4,ok
+9,20861,spreadthesign,2,0,train,25,1,-1,81,33,230,240,https://media.spreadthesign.com/video/mp4/13/92990.mp4,fake_0009_spreadthesign_20861.mp4,ok
+10,20862,signschool,4,0,train,25,1,-1,565,56,1754,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Fake%2C%20False-ogNUNChfJE4.mp4,fake_0010_signschool_20862.mp4,ok

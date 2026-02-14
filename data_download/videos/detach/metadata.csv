@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15840,asl5200,9,0,val,25,2094,2136,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,detach_0000_asl5200_15840.mp4,failed
+1,15844,spreadthesign,0,0,test,25,1,-1,41,15,271,240,https://media.spreadthesign.com/video/mp4/13/58606.mp4,detach_0001_spreadthesign_15844.mp4,ok
+2,15845,asldeafined,21,0,train,25,1,-1,79,13,552,480,https://media.asldeafined.com/vocabulary/1467770740.1482.mp4,detach_0002_asldeafined_15845.mp4,ok
+3,15846,handspeak,20,0,train,25,1,-1,104,0,545,360,https://www.handspeak.com/word/d/detachable.mp4,detach_0003_handspeak_15846.mp4,failed
+4,15847,handspeak,14,0,train,25,1,-1,77,3,472,360,https://www.handspeak.com/word/d/detachment.mp4,detach_0004_handspeak_15847.mp4,failed
+5,15848,handspeak,14,0,val,25,1,-1,147,9,535,360,https://www.handspeak.com/word/d/detach.mp4,detach_0005_handspeak_15848.mp4,failed
+6,15849,signingsavvy,11,0,train,25,1,-1,80,8,228,192,https://www.signingsavvy.com/signs/mp4/14/14499.mp4,detach_0006_signingsavvy_15849.mp4,ok
+7,15850,aslsearch,12,0,train,25,1,-1,189,55,544,400,http://www.aslsearch.com/signs/videos/detach.mp4,detach_0007_aslsearch_15850.mp4,ok

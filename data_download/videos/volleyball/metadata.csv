@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61946,asl5200,9,0,test,25,879,935,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,volleyball_0000_asl5200_61946.mp4,failed
+1,61953,signingsavvy,11,0,val,25,1,-1,57,0,237,192,https://www.signingsavvy.com/signs/mp4/6/6436.mp4,volleyball_0001_signingsavvy_61953.mp4,ok
+6,67030,asllex,109,0,train,25,1,-1,80,0,431,360,https://youtu.be/MNxwwe6Zcck,volleyball_0006_asllex_67030.mp4,failed
+7,61947,spreadthesign,56,0,train,25,1,-1,20,0,291,240,https://media.spreadthesign.com/video/mp4/13/50940.mp4,volleyball_0007_spreadthesign_61947.mp4,ok
+8,61948,startasl,38,0,train,25,1,-1,445,66,864,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/volleyball.mp4,volleyball_0008_startasl_61948.mp4,ok
+10,61950,asldeafined,13,0,train,25,1,-1,72,0,609,480,https://media.asldeafined.com/vocabulary/1468926751.7713.mp4,volleyball_0010_asldeafined_61950.mp4,ok
+12,61952,signingsavvy,11,0,train,25,1,-1,57,0,229,192,https://www.signingsavvy.com/signs/mp4/6/6435.mp4,volleyball_0012_signingsavvy_61952.mp4,ok

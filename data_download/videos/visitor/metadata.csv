@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61825,asl5200,9,0,val,25,616,688,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,visitor_0000_asl5200_61825.mp4,failed
+1,66732,aslsignbank,100,0,test,25,1,-1,197,28,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/VI/VISITOR-1398.mp4,visitor_0001_aslsignbank_66732.mp4,failed
+2,61826,spreadthesign,28,0,train,25,1,-1,48,1,280,240,https://media.spreadthesign.com/video/mp4/13/481449.mp4,visitor_0002_spreadthesign_61826.mp4,ok
+3,61827,asldeafined,13,0,train,25,1,-1,141,0,556,480,https://media.asldeafined.com/vocabulary/1468926624.1747.mp4,visitor_0003_asldeafined_61827.mp4,ok
+4,61828,handspeak,14,0,train,25,1,-1,169,0,528,360,https://www.handspeak.com/word/v/visitor.mp4,visitor_0004_handspeak_61828.mp4,failed
+5,61829,signingsavvy,11,0,val,25,1,-1,66,9,226,192,https://www.signingsavvy.com/signs/mp4/14/14525.mp4,visitor_0005_signingsavvy_61829.mp4,ok
+6,61830,aslu,5,0,train,25,1,-1,299,22,958,720,https://www.youtube.com/watch?v=-MxgEkFNPdw,visitor_0006_aslu_61830.mp4,failed
+7,61831,aslsearch,41,0,train,25,1,-1,227,38,484,400,http://www.aslsearch.com/signs/videos/visitor.mp4,visitor_0007_aslsearch_61831.mp4,ok

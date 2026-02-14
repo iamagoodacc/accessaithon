@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48684,spreadthesign,2,0,val,25,1,-1,25,15,250,240,https://media.spreadthesign.com/video/mp4/13/89938.mp4,rubber_0000_spreadthesign_48684.mp4,ok
+1,48685,startasl,38,0,test,25,1,-1,411,57,809,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/rubber2.mp4,rubber_0001_startasl_48685.mp4,ok
+2,48686,asldeafined,13,0,train,25,1,-1,155,3,525,480,https://media.asldeafined.com/vocabulary/1468761542.8510.mp4,rubber_0002_asldeafined_48686.mp4,ok
+3,48687,handspeak,14,0,train,25,1,-1,57,16,257,240,https://www.handspeak.com/word/r/rubber.mp4,rubber_0003_handspeak_48687.mp4,failed
+4,48688,signingsavvy,11,0,train,25,1,-1,61,6,217,192,https://www.signingsavvy.com/signs/mp4/14/14920.mp4,rubber_0004_signingsavvy_48688.mp4,ok
+5,48689,aslu,5,0,val,25,1,-1,260,52,935,718,https://www.youtube.com/watch?v=zTXqsnLbE-M,rubber_0005_aslu_48689.mp4,failed
+6,48690,aslpro,87,0,train,25,1,-1,18,7,224,240,http://www.aslpro.com/main/r/rubber.swf,rubber_0006_aslpro_48690.mp4,skipped_swf
+7,48691,aslsearch,12,0,train,25,1,-1,168,51,532,400,http://www.aslsearch.com/signs/videos/rubber.mp4,rubber_0007_aslsearch_48691.mp4,ok

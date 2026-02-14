@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,11292,aslpro,49,0,test,25,1,-1,0,6,246,240,http://www.aslpro.com//main/c/closet_wardrobe.swf,closet_0002_aslpro_11292.mp4,skipped_swf
+3,11293,aslsearch,12,0,val,25,1,-1,157,51,582,400,http://www.aslsearch.com/signs/videos/closet.mp4,closet_0003_aslsearch_11293.mp4,ok
+6,11284,spreadthesign,26,0,train,25,1,-1,64,14,260,240,https://media.spreadthesign.com/video/mp4/13/308829.mp4,closet_0006_spreadthesign_11284.mp4,ok
+7,11285,startasl,38,0,train,25,1,-1,402,55,817,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/closet.mp4,closet_0007_startasl_11285.mp4,ok
+8,11286,signschool,45,0,train,25,1,-1,469,142,1652,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Closet%2C%20Locker-nE-YLUXWp6E.mp4,closet_0008_signschool_11286.mp4,ok
+9,11287,asldeafined,59,0,train,25,1,-1,88,10,622,480,https://media.asldeafined.com/vocabulary/1466899276.1972.mp4,closet_0009_asldeafined_11287.mp4,ok
+10,11288,handspeak,20,0,train,25,1,-1,105,17,517,360,https://www.handspeak.com/word/c/closet.mp4,closet_0010_handspeak_11288.mp4,failed

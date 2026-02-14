@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41692,asl5200,9,0,val,25,941,1023,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,peanut butter_0000_asl5200_41692.mp4,failed
+1,66272,aslsignbank,101,0,test,25,1,-1,182,9,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PEANUT-BUTTER-880.mp4,peanut butter_0001_aslsignbank_66272.mp4,failed
+2,41693,spreadthesign,2,0,train,25,1,-1,71,14,247,240,https://media.spreadthesign.com/video/mp4/13/116255.mp4,peanut butter_0002_spreadthesign_41693.mp4,ok
+3,41694,asldeafined,13,0,train,25,1,-1,143,0,505,480,https://media.asldeafined.com/vocabulary/1468724667.7915.mp4,peanut butter_0003_asldeafined_41694.mp4,ok
+4,41695,handspeak,86,0,train,25,1,-1,72,17,284,240,https://www.handspeak.com/word/p/peanut-butter.mp4,peanut butter_0004_handspeak_41695.mp4,failed
+5,41696,signingsavvy,10,0,val,25,1,-1,87,23,196,192,https://www.signingsavvy.com/signs/mp4/22/22547.mp4,peanut butter_0005_signingsavvy_41696.mp4,ok
+6,41697,aslpro,44,0,train,25,1,-1,16,3,245,240,http://www.aslpro.com//main/p/peanut_butter.swf,peanut butter_0006_aslpro_41697.mp4,skipped_swf
+7,41698,aslsearch,12,0,train,25,1,-1,176,53,541,400,http://www.aslsearch.com/signs/videos/peanut-butter.mp4,peanut butter_0007_aslsearch_41698.mp4,ok

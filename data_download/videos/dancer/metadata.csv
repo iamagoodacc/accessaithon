@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14634,asl5200,9,0,test,25,127,186,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dancer_0000_asl5200_14634.mp4,failed
+1,65436,aslsignbank,95,0,val,25,1,-1,153,9,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DA/DANCER-2645.mp4,dancer_0001_aslsignbank_65436.mp4,failed
+2,67551,asllex,109,0,train,25,1,-1,92,12,404,360,https://youtu.be/TdTdQchgGog,dancer_0002_asllex_67551.mp4,failed
+3,14635,spreadthesign,8,0,train,25,1,-1,49,0,246,240,https://media.spreadthesign.com/video/mp4/13/456091.mp4,dancer_0003_spreadthesign_14635.mp4,ok
+4,14636,asldeafined,15,0,train,25,1,-1,129,69,603,540,https://media.asldeafined.com/vocabulary/1546362672.5441.mp4,dancer_0004_asldeafined_14636.mp4,ok
+5,14637,handspeak,14,0,train,25,1,-1,52,14,266,240,https://www.handspeak.com/word/d/dancer.mp4,dancer_0005_handspeak_14637.mp4,failed
+6,14638,signingsavvy,10,0,train,25,1,-1,65,18,230,192,https://www.signingsavvy.com/signs/mp4/22/22604.mp4,dancer_0006_signingsavvy_14638.mp4,ok

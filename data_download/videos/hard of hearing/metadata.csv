@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26584,asl5200,9,0,val,25,568,627,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hard of hearing_0000_asl5200_26584.mp4,failed
+2,26591,signingsavvy,11,0,test,25,1,-1,71,11,211,192,https://www.signingsavvy.com/signs/mp4/8/8684.mp4,hard of hearing_0002_signingsavvy_26591.mp4,ok
+3,68066,valencia-asl,109,0,train,25,1,-1,168,0,1055,720,https://www.youtube.com/watch?v=1Y971ZVqcIg,hard of hearing_0003_valencia-asl_68066.mp4,failed
+4,26585,spreadthesign,8,0,train,25,1,-1,40,0,248,240,https://media.spreadthesign.com/video/mp4/13/456556.mp4,hard of hearing_0004_spreadthesign_26585.mp4,ok
+5,26586,signschool,4,0,train,25,1,-1,652,62,1541,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hard%20of%20Hearing-DJZWj9XlF5I.mp4,hard of hearing_0005_signschool_26586.mp4,ok
+6,26592,nabboud,69,0,val,25,1,-1,398,53,837,720,https://www.youtube.com/watch?v=vaF2-549kUs,hard of hearing_0006_nabboud_26592.mp4,failed
+7,26587,asldeafined,21,0,train,25,1,-1,88,17,519,480,https://media.asldeafined.com/vocabulary/1468579665.5443.mp4,hard of hearing_0007_asldeafined_26587.mp4,ok
+8,26593,aslsearch,12,0,train,25,1,-1,151,51,546,400,http://www.aslsearch.com/signs/videos/hard-of-hearing.mp4,hard of hearing_0008_aslsearch_26593.mp4,ok

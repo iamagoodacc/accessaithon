@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19653,asl5200,9,0,val,25,2259,2331,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,eternity_0000_asl5200_19653.mp4,failed
+1,19654,spreadthesign,2,0,test,25,1,-1,62,13,236,240,https://media.spreadthesign.com/video/mp4/13/91383.mp4,eternity_0001_spreadthesign_19654.mp4,ok
+2,19655,signschool,4,0,train,25,1,-1,656,45,1694,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Eternity-lV8oSoW95vY.mp4,eternity_0002_signschool_19655.mp4,ok
+3,19656,asldeafined,21,0,train,25,1,-1,78,15,578,480,https://media.asldeafined.com/vocabulary/1468377379.4355.mp4,eternity_0003_asldeafined_19656.mp4,ok
+4,19657,signingsavvy,11,0,train,25,1,-1,74,1,220,192,https://www.signingsavvy.com/signs/mp4/14/14869.mp4,eternity_0004_signingsavvy_19657.mp4,ok
+5,19658,aslu,5,0,val,25,1,-1,229,49,916,720,https://www.youtube.com/watch?v=rgcVVI28f_o,eternity_0005_aslu_19658.mp4,failed
+6,19659,aslpro,30,0,train,25,1,-1,0,16,223,240,http://www.aslpro.com/main/e/eternity.swf,eternity_0006_aslpro_19659.mp4,skipped_swf
+7,19660,aslsearch,41,0,train,25,1,-1,230,42,495,400,http://www.aslsearch.com/signs/videos/eternal.mp4,eternity_0007_aslsearch_19660.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57596,spreadthesign,2,0,val,25,1,-1,60,4,278,240,https://media.spreadthesign.com/video/mp4/13/243967.mp4,thailand_0000_spreadthesign_57596.mp4,ok
+1,57597,signschool,45,0,test,25,1,-1,436,104,1416,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Thailand-EWxe5YCLz30.mp4,thailand_0001_signschool_57597.mp4,ok
+2,57598,asldeafined,13,0,train,25,1,-1,109,0,510,480,https://media.asldeafined.com/vocabulary/1468944163.111.mp4,thailand_0002_asldeafined_57598.mp4,ok
+3,57599,handspeak,14,0,train,25,1,-1,70,0,569,477,https://www.handspeak.com/word/t/thailand.mp4,thailand_0003_handspeak_57599.mp4,failed
+4,57600,signingsavvy,11,0,train,25,1,-1,55,13,222,192,https://www.signingsavvy.com/signs/mp4/2/2993.mp4,thailand_0004_signingsavvy_57600.mp4,ok
+5,57601,signingsavvy,11,0,val,25,1,-1,48,13,212,192,https://www.signingsavvy.com/signs/mp4/4/4995.mp4,thailand_0005_signingsavvy_57601.mp4,ok
+6,57602,aslu,5,0,train,25,1,-1,270,21,935,720,https://www.youtube.com/watch?v=bf9535mCBDI,thailand_0006_aslu_57602.mp4,failed
+7,57603,aslsearch,12,0,train,25,1,-1,157,53,545,400,http://www.aslsearch.com/signs/videos/thailand.mp4,thailand_0007_aslsearch_57603.mp4,ok

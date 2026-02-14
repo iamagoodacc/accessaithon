@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12636,spreadthesign,56,0,test,25,1,-1,62,13,256,240,https://media.spreadthesign.com/video/mp4/13/399322.mp4,congratulations_0000_spreadthesign_12636.mp4,ok
+1,67523,asllex,109,0,val,25,1,-1,101,9,387,360,https://youtu.be/GW424UjxwfA,congratulations_0001_asllex_67523.mp4,failed
+2,12637,signingsavvy,11,0,train,25,1,-1,105,15,224,192,https://www.signingsavvy.com/signs/mp4/8/8297.mp4,congratulations_0002_signingsavvy_12637.mp4,ok
+3,12638,signingsavvy,11,0,train,25,1,-1,100,16,235,192,https://www.signingsavvy.com/signs/mp4/8/8298.mp4,congratulations_0003_signingsavvy_12638.mp4,ok
+4,12639,aslu,5,0,train,25,1,-1,289,24,970,720,https://www.youtube.com/watch?v=C0HCP1b8zJk,congratulations_0004_aslu_12639.mp4,failed
+5,12640,aslpro,54,0,train,25,1,-1,17,0,231,240,http://www.aslpro.com//main/c/congratulations.swf,congratulations_0005_aslpro_12640.mp4,skipped_swf
+6,12641,aslsearch,41,0,train,25,1,-1,241,45,506,400,http://www.aslsearch.com/signs/videos/congratulate.mp4,congratulations_0006_aslsearch_12641.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19512,spreadthesign,26,0,test,25,1,-1,71,16,246,240,https://media.spreadthesign.com/video/mp4/13/311465.mp4,eraser_0000_spreadthesign_19512.mp4,ok
+1,67629,asllex,109,0,val,25,1,-1,98,16,388,360,https://youtu.be/24jiibHaswo,eraser_0001_asllex_67629.mp4,failed
+2,19513,startasl,38,0,train,25,1,-1,416,56,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/eraser.mp4,eraser_0002_startasl_19513.mp4,ok
+3,19514,signschool,4,0,train,25,1,-1,407,52,1064,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Erase.mp4,eraser_0003_signschool_19514.mp4,ok
+4,19515,asldeafined,59,0,train,25,1,-1,130,26,524,480,https://media.asldeafined.com/vocabulary/1553866501.668.mp4,eraser_0004_asldeafined_19515.mp4,ok
+5,19516,handspeak,20,0,train,25,1,-1,96,2,491,360,https://www.handspeak.com/word/e/eraser.mp4,eraser_0005_handspeak_19516.mp4,failed
+6,19517,signingsavvy,11,0,train,25,1,-1,78,17,221,192,https://www.signingsavvy.com/signs/mp4/3/3891.mp4,eraser_0006_signingsavvy_19517.mp4,ok

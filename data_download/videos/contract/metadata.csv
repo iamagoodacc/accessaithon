@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12986,asl5200,9,0,val,25,5716,5758,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,contract_0000_asl5200_12986.mp4,failed
+1,12987,asldeafined,59,0,test,25,1,-1,74,25,539,480,https://media.asldeafined.com/vocabulary/1466902727.1961.mp4,contract_0001_asldeafined_12987.mp4,ok
+2,12988,handspeak,20,0,train,25,1,-1,97,13,560,480,https://www.handspeak.com/word/c/contract.mp4,contract_0002_handspeak_12988.mp4,failed
+4,12990,signingsavvy,11,0,train,25,1,-1,71,17,214,192,https://www.signingsavvy.com/signs/mp4/9/9200.mp4,contract_0004_signingsavvy_12990.mp4,ok
+5,12991,aslu,5,0,train,25,1,-1,198,28,1037,720,https://www.youtube.com/watch?v=2woJmLgFt6Y,contract_0005_aslu_12991.mp4,failed
+6,12992,aslu,5,0,val,25,1,-1,268,37,975,720,https://www.youtube.com/watch?v=GlNPrxYeGKM,contract_0006_aslu_12992.mp4,failed
+7,12993,aslpro,24,0,train,25,1,-1,11,13,222,240,http://www.aslpro.com/main/c/contract.swf,contract_0007_aslpro_12993.mp4,skipped_swf
+8,12994,aslsearch,12,0,train,25,1,-1,189,61,545,400,http://www.aslsearch.com/signs/videos/contract.mp4,contract_0008_aslsearch_12994.mp4,ok

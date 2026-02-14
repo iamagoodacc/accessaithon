@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18727,spreadthesign,77,0,test,25,1,-1,65,0,272,240,https://media.spreadthesign.com/video/mp4/13/184742.mp4,electricity_0000_spreadthesign_18727.mp4,ok
+1,18728,spreadthesign,0,0,val,25,1,-1,45,13,261,240,https://media.spreadthesign.com/video/mp4/13/63611.mp4,electricity_0001_spreadthesign_18728.mp4,ok
+2,18729,signschool,32,0,train,25,1,-1,641,79,1660,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Electricity%2C%20Battery-uJb8HOhTnto.mp4,electricity_0002_signschool_18729.mp4,ok
+4,18731,handspeak,14,0,train,25,1,-1,47,0,290,240,https://www.handspeak.com/word/e/electricity.mp4,electricity_0004_handspeak_18731.mp4,failed
+5,18732,signingsavvy,11,0,train,25,1,-1,77,14,238,192,https://www.signingsavvy.com/signs/mp4/7/7944.mp4,electricity_0005_signingsavvy_18732.mp4,ok
+6,18733,aslpro,72,0,train,25,1,-1,76,3,279,240,http://www.aslpro.com/main/e/electricity.swf,electricity_0006_aslpro_18733.mp4,skipped_swf
+7,18734,aslsearch,12,0,train,25,1,-1,175,56,544,400,http://www.aslsearch.com/signs/videos/electric.mp4,electricity_0007_aslsearch_18734.mp4,ok

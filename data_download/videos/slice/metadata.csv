@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52372,asl5200,9,0,val,25,5289,5348,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,slice_0000_asl5200_52372.mp4,failed
+1,52380,aslu,5,0,test,25,1,-1,85,7,435,360,https://www.youtube.com/watch?v=JGMRW0Py_L8,slice_0001_aslu_52380.mp4,failed
+3,66505,aslsignbank,108,0,train,25,1,-1,192,43,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SL/SLICE-1074.mp4,slice_0003_aslsignbank_66505.mp4,failed
+4,52382,aslsearch,12,0,train,25,1,-1,163,52,546,400,http://www.aslsearch.com/signs/videos/slice.mp4,slice_0004_aslsearch_52382.mp4,ok
+5,52373,spreadthesign,2,0,train,25,1,-1,80,26,245,240,https://media.spreadthesign.com/video/mp4/13/91633.mp4,slice_0005_spreadthesign_52373.mp4,ok
+8,52376,handspeak,14,0,val,25,1,-1,65,10,237,240,https://www.handspeak.com/word/s/slice-cut.mp4,slice_0008_handspeak_52376.mp4,failed
+10,52378,signingsavvy,11,0,train,25,1,-1,67,11,204,192,https://www.signingsavvy.com/signs/mp4/9/9708.mp4,slice_0010_signingsavvy_52378.mp4,ok
+11,52379,aslu,5,0,train,25,1,-1,348,68,1011,720,https://www.youtube.com/watch?v=ESNqUkNFvkI,slice_0011_aslu_52379.mp4,failed

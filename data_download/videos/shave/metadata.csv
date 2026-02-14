@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50890,asl5200,9,0,val,25,3117,3209,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,shave_0000_asl5200_50890.mp4,failed
+2,50902,signingsavvy,11,0,test,25,1,-1,50,12,215,192,https://www.signingsavvy.com/signs/mp4/9/9664.mp4,shave_0002_signingsavvy_50902.mp4,ok
+3,50903,aslpro,83,0,train,25,1,-1,0,17,233,240,http://www.aslpro.com/main/s/shave.swf,shave_0003_aslpro_50903.mp4,skipped_swf
+5,67186,asllex,109,0,train,25,1,-1,71,10,376,360,https://youtu.be/GeovUH8tZCo,shave_0005_asllex_67186.mp4,failed
+6,50904,aslsearch,41,0,train,25,1,-1,250,34,500,400,http://www.aslsearch.com/signs/videos/shave.mp4,shave_0006_aslsearch_50904.mp4,ok
+7,50895,startasl,38,0,val,25,1,-1,414,60,824,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/shave.mp4,shave_0007_startasl_50895.mp4,ok
+8,50896,signschool,31,0,train,25,1,-1,679,134,1504,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Shave%202-CW0Zq9AmZn0.mp4,shave_0008_signschool_50896.mp4,ok
+10,50898,handspeak,14,0,train,25,1,-1,44,7,261,240,https://www.handspeak.com/word/s/shave-chin.mp4,shave_0010_handspeak_50898.mp4,failed

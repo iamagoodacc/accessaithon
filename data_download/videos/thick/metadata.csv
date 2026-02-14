@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+3,57899,aslu,5,0,val,25,1,-1,322,19,945,720,https://www.youtube.com/watch?v=JFuewx99kL0,thick_0003_aslu_57899.mp4,failed
+4,57890,spreadthesign,77,0,test,25,1,-1,51,0,270,240,https://media.spreadthesign.com/video/mp4/13/184992.mp4,thick_0004_spreadthesign_57890.mp4,ok
+5,57900,aslpro,24,0,train,25,1,-1,0,19,201,240,http://www.aslpro.com/main/t/thick.swf,thick_0005_aslpro_57900.mp4,skipped_swf
+6,57901,aslsearch,12,0,train,25,1,-1,157,53,526,400,http://www.aslsearch.com/signs/videos/thick.mp4,thick_0006_aslsearch_57901.mp4,ok
+8,57892,signschool,4,0,train,25,1,-1,505,42,1634,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Thick-155cu5JF5eo.mp4,thick_0008_signschool_57892.mp4,ok
+9,57893,signschool,6,0,val,25,1,-1,523,67,1444,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Thick%2C%20Fat-aW1ldBr5be8.mp4,thick_0009_signschool_57893.mp4,ok
+10,57894,handspeak,76,0,train,25,1,-1,129,3,459,346,https://www.handspeak.com/word/t/thick-erikwitteborg.mp4,thick_0010_handspeak_57894.mp4,failed
+12,57896,signingsavvy,11,0,train,25,1,-1,50,8,221,192,https://www.signingsavvy.com/signs/mp4/14/14835.mp4,thick_0012_signingsavvy_57896.mp4,ok

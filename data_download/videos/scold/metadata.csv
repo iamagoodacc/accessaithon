@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49666,asl5200,9,0,val,25,1144,1200,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,scold_0000_asl5200_49666.mp4,failed
+1,65577,aslsignbank,104,0,test,25,1,-1,195,7,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/E(/E(scold)-1889.mp4,scold_0001_aslsignbank_65577.mp4,failed
+4,49670,handspeak,20,0,train,25,1,-1,108,4,515,360,https://www.handspeak.com/word/s/scold-harshly.mp4,scold_0004_handspeak_49670.mp4,failed
+5,49671,handspeak,14,0,train,25,1,-1,69,10,259,240,https://www.handspeak.com/word/s/scold.mp4,scold_0005_handspeak_49671.mp4,failed
+6,49672,signingsavvy,11,0,train,25,1,-1,69,11,209,192,https://www.signingsavvy.com/signs/mp4/9/9494.mp4,scold_0006_signingsavvy_49672.mp4,ok
+7,49673,signingsavvy,11,0,val,25,1,-1,73,13,209,192,https://www.signingsavvy.com/signs/mp4/9/9495.mp4,scold_0007_signingsavvy_49673.mp4,ok
+8,49674,aslpro,25,0,train,25,1,-1,0,10,232,240,http://www.aslpro.com/main/s/scold.swf,scold_0008_aslpro_49674.mp4,skipped_swf
+9,49675,aslsearch,41,0,train,25,1,-1,228,35,487,400,http://www.aslsearch.com/signs/videos/scold.mp4,scold_0009_aslsearch_49675.mp4,ok

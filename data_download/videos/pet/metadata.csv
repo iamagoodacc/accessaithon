@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66283,aslsignbank,101,0,val,25,1,-1,206,10,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PET-891.mp4,pet_0000_aslsignbank_66283.mp4,failed
+1,42316,aslu,5,0,test,25,1,-1,363,38,939,720,https://www.youtube.com/watch?v=qYdMu8jveAU,pet_0001_aslu_42316.mp4,failed
+2,42317,aslpro,24,0,train,25,1,-1,24,21,222,240,http://www.aslpro.com/main/p/pet.swf,pet_0002_aslpro_42317.mp4,skipped_swf
+3,42308,spreadthesign,2,0,train,25,1,-1,63,7,251,240,https://media.spreadthesign.com/video/mp4/13/116285.mp4,pet_0003_spreadthesign_42308.mp4,ok
+4,42318,aslsearch,12,0,train,25,1,-1,197,58,556,400,http://www.aslsearch.com/signs/videos/pet.mp4,pet_0004_aslsearch_42318.mp4,ok
+5,42309,startasl,38,0,val,25,1,-1,398,58,809,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/pet.mp4,pet_0005_startasl_42309.mp4,ok
+7,42311,handspeak,14,0,train,25,1,-1,58,5,262,240,https://www.handspeak.com/word/p/pet.mp4,pet_0007_handspeak_42311.mp4,failed
+10,42314,signingsavvy,11,0,train,25,1,-1,74,17,209,192,https://www.signingsavvy.com/signs/mp4/7/7518.mp4,pet_0010_signingsavvy_42314.mp4,ok

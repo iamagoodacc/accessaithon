@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55910,spreadthesign,2,0,test,25,1,-1,38,10,239,240,https://media.spreadthesign.com/video/mp4/13/117097.mp4,superman_0000_spreadthesign_55910.mp4,ok
+1,55911,asldeafined,13,0,val,25,1,-1,61,0,523,480,https://media.asldeafined.com/vocabulary/1468898153.2350.mp4,superman_0001_asldeafined_55911.mp4,ok
+2,55913,signingsavvy,11,0,train,25,1,-1,45,8,222,192,https://www.signingsavvy.com/signs/mp4/2/2938.mp4,superman_0002_signingsavvy_55913.mp4,ok
+3,55914,aslu,5,0,train,25,1,-1,314,15,938,720,https://www.youtube.com/watch?v=LlPKbHAPyNU,superman_0003_aslu_55914.mp4,failed
+4,55915,aslu,5,0,train,25,1,-1,288,22,947,720,https://www.youtube.com/watch?v=qqpxEL92yq0,superman_0004_aslu_55915.mp4,failed
+5,55916,aslpro,87,0,train,25,1,-1,0,18,217,240,http://www.aslpro.com/main/s/superman.swf,superman_0005_aslpro_55916.mp4,skipped_swf
+6,55917,aslsearch,41,0,train,25,1,-1,219,36,489,400,http://www.aslsearch.com/signs/videos/superman.mp4,superman_0006_aslsearch_55917.mp4,ok

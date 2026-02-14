@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61845,asl5200,9,0,test,25,689,758,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,visualize_0000_asl5200_61845.mp4,failed
+1,66733,aslsignbank,107,0,val,25,1,-1,156,12,509,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/VI/VISUALIZE-579.mp4,visualize_0001_aslsignbank_66733.mp4,failed
+2,61846,elementalasl,19,0,train,25,1,-1,63,0,256,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/visualize.mov,visualize_0002_elementalasl_61846.mp4,ok
+4,61848,asldeafined,21,0,train,25,1,-1,9,0,590,480,https://media.asldeafined.com/vocabulary/1468665373.7557.mp4,visualize_0004_asldeafined_61848.mp4,ok
+5,61849,handspeak,20,0,train,25,1,-1,114,0,582,360,https://www.handspeak.com/word/v/visualization.mp4,visualize_0005_handspeak_61849.mp4,failed
+6,61850,signingsavvy,11,0,train,25,1,-1,38,0,246,192,https://www.signingsavvy.com/signs/mp4/8/8914.mp4,visualize_0006_signingsavvy_61850.mp4,ok
+7,61851,aslsearch,12,0,train,25,1,-1,164,33,590,400,http://www.aslsearch.com/signs/videos/imagine.mp4,visualize_0007_aslsearch_61851.mp4,ok

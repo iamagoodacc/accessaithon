@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44176,elementalasl,19,0,test,25,1,-1,48,5,319,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/precipitation.mov,precipitation_0000_elementalasl_44176.mp4,ok
+1,44177,asldeafined,13,0,val,25,1,-1,109,0,584,480,https://media.asldeafined.com/vocabulary/1468758059.4199.mp4,precipitation_0001_asldeafined_44177.mp4,ok
+2,44178,signingsavvy,11,0,train,25,1,-1,54,0,238,192,https://www.signingsavvy.com/signs/mp4/14/14605.mp4,precipitation_0002_signingsavvy_44178.mp4,ok
+3,44179,signingsavvy,11,0,train,25,1,-1,54,0,237,192,https://www.signingsavvy.com/signs/mp4/14/14606.mp4,precipitation_0003_signingsavvy_44179.mp4,ok
+4,44180,signingsavvy,10,0,train,25,1,-1,41,7,248,192,https://www.signingsavvy.com/signs/mp4/22/22993.mp4,precipitation_0004_signingsavvy_44180.mp4,ok
+5,44181,aslpro,72,0,train,25,1,-1,11,0,233,240,http://www.aslpro.com/main/p/precipitation.swf,precipitation_0005_aslpro_44181.mp4,skipped_swf
+6,44182,aslsearch,12,0,train,25,1,-1,184,55,567,400,http://www.aslsearch.com/signs/videos/precipitation.mp4,precipitation_0006_aslsearch_44182.mp4,ok

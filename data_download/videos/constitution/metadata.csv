@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12806,asl5200,9,0,val,25,5560,5599,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,constitution_0000_asl5200_12806.mp4,failed
+1,12809,elementalasl,19,0,test,25,1,-1,98,11,252,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/constitution.mov,constitution_0001_elementalasl_12809.mp4,ok
+2,12810,signschool,4,0,train,25,1,-1,637,32,1662,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Constitution%202%2C%20Commandement-usSMP-dGtJE.mp4,constitution_0002_signschool_12810.mp4,ok
+3,12811,signschool,4,0,train,25,1,-1,504,51,1622,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Constitution-WInChW7l7u4.mp4,constitution_0003_signschool_12811.mp4,ok
+4,12812,asldeafined,21,0,train,25,1,-1,91,13,547,480,https://media.asldeafined.com/vocabulary/1467682982.2072.mp4,constitution_0004_asldeafined_12812.mp4,ok
+5,12813,handspeak,20,0,val,25,1,-1,77,0,558,480,https://www.handspeak.com/word/c/constitution.mp4,constitution_0005_handspeak_12813.mp4,failed
+6,12814,signingsavvy,11,0,train,25,1,-1,79,9,215,192,https://www.signingsavvy.com/signs/mp4/6/6040.mp4,constitution_0006_signingsavvy_12814.mp4,ok
+7,12815,aslsearch,12,0,train,25,1,-1,193,60,555,400,http://www.aslsearch.com/signs/videos/constitution.mp4,constitution_0007_aslsearch_12815.mp4,ok

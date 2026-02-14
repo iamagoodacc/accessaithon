@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32519,asl5200,9,0,test,25,641,697,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,leader_0000_asl5200_32519.mp4,failed
+4,32530,aslsearch,41,0,val,25,1,-1,241,46,519,400,http://www.aslsearch.com/signs/videos/leader.mp4,leader_0004_aslsearch_32530.mp4,ok
+5,32520,elementalasl,19,0,train,25,1,-1,98,12,252,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/leader.mov,leader_0005_elementalasl_32520.mp4,ok
+6,32521,spreadthesign,8,0,train,25,1,-1,69,0,237,240,https://media.spreadthesign.com/video/mp4/13/457507.mp4,leader_0006_spreadthesign_32521.mp4,ok
+7,32522,startasl,38,0,train,25,1,-1,415,59,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/leader.mp4,leader_0007_startasl_32522.mp4,ok
+8,32523,asldeafined,13,0,train,25,1,-1,152,0,550,480,https://media.asldeafined.com/vocabulary/1468671642.3599.mp4,leader_0008_asldeafined_32523.mp4,ok
+9,32524,handspeak,20,0,train,25,1,-1,122,0,549,480,https://www.handspeak.com/word/l/leader.mp4,leader_0009_handspeak_32524.mp4,failed

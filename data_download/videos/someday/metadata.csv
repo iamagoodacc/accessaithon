@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,53196,asldeafined,13,0,test,25,1,-1,120,0,536,480,https://media.asldeafined.com/vocabulary/1468776400.4761.mp4,someday_0001_asldeafined_53196.mp4,ok
+3,53198,signingsavvy,11,0,val,25,1,-1,68,7,220,192,https://www.signingsavvy.com/signs/mp4/14/14736.mp4,someday_0003_signingsavvy_53198.mp4,ok
+4,53199,signingsavvy,11,0,train,25,1,-1,68,0,220,192,https://www.signingsavvy.com/signs/mp4/14/14737.mp4,someday_0004_signingsavvy_53199.mp4,ok
+5,53200,signingsavvy,11,0,train,25,1,-1,63,0,223,192,https://www.signingsavvy.com/signs/mp4/14/14738.mp4,someday_0005_signingsavvy_53200.mp4,ok
+6,53201,aslu,5,0,train,25,1,-1,79,23,427,360,https://www.youtube.com/watch?v=2vFCNEVr2uE,someday_0006_aslu_53201.mp4,failed
+7,53202,aslu,5,0,train,25,1,-1,251,0,967,720,https://www.youtube.com/watch?v=VHP823jOw8c,someday_0007_aslu_53202.mp4,failed
+8,53203,aslsearch,12,0,train,25,1,-1,200,53,566,400,http://www.aslsearch.com/signs/videos/someday.mp4,someday_0008_aslsearch_53203.mp4,ok

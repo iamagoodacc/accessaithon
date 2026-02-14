@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17352,spreadthesign,2,0,val,25,1,-1,71,37,234,240,https://media.spreadthesign.com/video/mp4/13/93319.mp4,dorm_0000_spreadthesign_17352.mp4,ok
+1,17353,startasl,36,0,test,25,1,-1,204,17,518,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dorm.mp4,dorm_0001_startasl_17353.mp4,ok
+2,17354,signschool,4,0,train,25,1,-1,493,48,1586,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dorm-DfTqikhbs8Q.mp4,dorm_0002_signschool_17354.mp4,ok
+3,17355,asldeafined,21,0,train,25,1,-1,45,11,527,480,https://media.asldeafined.com/vocabulary/1467773261.8614.mp4,dorm_0003_asldeafined_17355.mp4,ok
+4,17356,signingsavvy,11,0,train,25,1,-1,53,10,217,192,https://www.signingsavvy.com/signs/mp4/8/8691.mp4,dorm_0004_signingsavvy_17356.mp4,ok
+5,17357,aslu,5,0,val,25,1,-1,318,31,935,720,https://www.youtube.com/watch?v=0Jv0eD-mEfM,dorm_0005_aslu_17357.mp4,failed
+6,17358,aslpro,25,0,train,25,1,-1,11,13,246,240,http://www.aslpro.com/main/d/dorm.swf,dorm_0006_aslpro_17358.mp4,skipped_swf
+7,17359,aslsearch,41,0,train,25,1,-1,238,43,490,400,http://www.aslsearch.com/signs/videos/dorm.mp4,dorm_0007_aslsearch_17359.mp4,ok

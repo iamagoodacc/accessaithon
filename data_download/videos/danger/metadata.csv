@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14644,asl5200,9,0,test,25,187,239,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,danger_0000_asl5200_14644.mp4,failed
+1,14645,spreadthesign,2,0,val,25,1,-1,56,18,247,240,https://media.spreadthesign.com/video/mp4/13/399327.mp4,danger_0001_spreadthesign_14645.mp4,ok
+2,14646,signschool,4,0,train,25,1,-1,301,50,1724,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Danger-NdykMeqtKfM.mp4,danger_0002_signschool_14646.mp4,ok
+3,14647,asldeafined,13,0,train,25,1,-1,165,0,548,480,https://media.asldeafined.com/vocabulary/1468761155.3304.mp4,danger_0003_asldeafined_14647.mp4,ok
+4,14648,signingsavvy,11,0,train,25,1,-1,72,13,219,192,https://www.signingsavvy.com/signs/mp4/6/6208.mp4,danger_0004_signingsavvy_14648.mp4,ok
+5,14649,aslpro,16,0,train,25,1,-1,16,4,217,240,http://www.aslpro.com/main/d/danger.swf,danger_0005_aslpro_14649.mp4,skipped_swf
+6,14650,aslsearch,12,0,train,25,1,-1,183,60,544,400,http://www.aslsearch.com/signs/videos/danger.mp4,danger_0006_aslsearch_14650.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60720,asl5200,9,0,val,25,367,422,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,united states_0000_asl5200_60720.mp4,failed
+1,60730,aslsearch,12,0,test,25,1,-1,158,54,522,400,http://www.aslsearch.com/signs/videos/united-states.mp4,united states_0001_aslsearch_60730.mp4,ok
+3,60722,spreadthesign,0,0,train,25,1,-1,50,7,249,240,https://media.spreadthesign.com/video/mp4/13/58573.mp4,united states_0003_spreadthesign_60722.mp4,ok
+4,60723,startasl,38,0,train,25,1,-1,443,54,827,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/united-states.mp4,united states_0004_startasl_60723.mp4,ok
+5,60724,signschool,45,0,val,25,1,-1,567,117,1401,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20United%20States-X9agjlN2Smk.mp4,united states_0005_signschool_60724.mp4,ok
+8,60728,signingsavvy,11,0,train,25,1,-1,77,4,214,192,https://www.signingsavvy.com/signs/mp4/5/5749.mp4,united states_0008_signingsavvy_60728.mp4,ok
+9,60729,aslpro,16,0,train,25,1,-1,40,18,209,240,http://www.aslpro.com/main/u/united_states.swf,united states_0009_aslpro_60729.mp4,skipped_swf

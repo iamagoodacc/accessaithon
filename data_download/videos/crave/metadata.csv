@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65420,aslsignbank,102,0,test,25,1,-1,165,15,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CR/CRAVE-1181.mp4,crave_0000_aslsignbank_65420.mp4,failed
+1,13819,spreadthesign,26,0,val,25,1,-1,78,35,238,240,https://media.spreadthesign.com/video/mp4/13/306837.mp4,crave_0001_spreadthesign_13819.mp4,ok
+2,13820,asldeafined,21,0,train,25,1,-1,157,70,622,540,https://media.asldeafined.com/vocabulary/1545783401.4883.mp4,crave_0002_asldeafined_13820.mp4,ok
+3,13821,handspeak,20,0,train,25,1,-1,144,16,470,360,https://www.handspeak.com/word/c/crave.mp4,crave_0003_handspeak_13821.mp4,failed
+4,13822,signingsavvy,11,0,train,25,1,-1,68,15,220,192,https://www.signingsavvy.com/signs/mp4/7/7294.mp4,crave_0004_signingsavvy_13822.mp4,ok
+5,13823,aslu,5,0,train,25,1,-1,105,18,414,360,https://www.youtube.com/watch?v=kKAbaEtHpFo,crave_0005_aslu_13823.mp4,failed
+6,13824,aslsearch,12,0,train,25,1,-1,190,60,561,400,http://www.aslsearch.com/signs/videos/crave.mp4,crave_0006_aslsearch_13824.mp4,ok

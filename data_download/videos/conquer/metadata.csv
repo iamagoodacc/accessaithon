@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12694,asl5200,9,0,val,25,5463,5489,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,conquer_0000_asl5200_12694.mp4,failed
+1,12703,aslpro,16,0,test,25,1,-1,24,22,226,240,http://www.aslpro.com/main/c/conquer.swf,conquer_0001_aslpro_12703.mp4,skipped_swf
+2,12704,aslsearch,41,0,train,25,1,-1,247,42,494,400,http://www.aslsearch.com/signs/videos/conquer.mp4,conquer_0002_aslsearch_12704.mp4,ok
+4,12696,asldeafined,13,0,train,25,1,-1,145,0,560,480,https://media.asldeafined.com/vocabulary/1468722890.7079.mp4,conquer_0004_asldeafined_12696.mp4,ok
+5,12697,handspeak,20,0,train,25,1,-1,86,0,476,360,https://www.handspeak.com/word/c/conquer-beat.mp4,conquer_0005_handspeak_12697.mp4,failed
+7,12699,handspeak,14,0,val,25,1,-1,77,0,539,360,https://www.handspeak.com/word/c/conquer-overcome.mp4,conquer_0007_handspeak_12699.mp4,failed
+8,12700,signingsavvy,11,0,train,25,1,-1,70,17,208,192,https://www.signingsavvy.com/signs/mp4/6/6778.mp4,conquer_0008_signingsavvy_12700.mp4,ok
+10,12702,signingsavvy,11,0,train,25,1,-1,67,16,203,192,https://www.signingsavvy.com/signs/mp4/6/6780.mp4,conquer_0010_signingsavvy_12702.mp4,ok

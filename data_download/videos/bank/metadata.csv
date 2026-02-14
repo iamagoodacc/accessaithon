@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04971,signschool,45,0,test,25,1,-1,491,80,1381,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bank-YxlgxRkyOts.mp4,bank_0000_signschool_04971.mp4,ok
+1,68886,lillybauer,113,0,val,25,1,97,202,21,1018,720,https://www.youtube.com/watch?v=Sog5A9zWV6k,bank_0001_lillybauer_68886.mp4,failed
+2,67388,asllex,109,0,train,25,1,-1,91,19,373,360,https://youtu.be/bt344QEU2d0,bank_0002_asllex_67388.mp4,failed
+3,04972,asldeafined,13,0,train,25,1,-1,68,29,506,480,https://media.asldeafined.com/vocabulary/1466648802.3920.mp4,bank_0003_asldeafined_04972.mp4,ok
+4,04973,handspeak,14,0,train,25,1,-1,36,18,277,240,https://www.handspeak.com/word/b/bank-fs.mp4,bank_0004_handspeak_04973.mp4,failed
+5,04974,signingsavvy,10,0,train,25,1,-1,71,18,204,192,https://www.signingsavvy.com/signs/mp4/22/22582.mp4,bank_0005_signingsavvy_04974.mp4,ok
+6,04975,aslpro,49,0,train,25,1,-1,9,7,217,240,http://www.aslpro.com//main/b/bank_1.swf,bank_0006_aslpro_04975.mp4,skipped_swf

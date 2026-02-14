@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27017,asl5200,9,0,test,25,1114,1166,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,heart attack_0000_asl5200_27017.mp4,failed
+1,27018,spreadthesign,2,0,val,25,1,-1,72,43,248,240,https://media.spreadthesign.com/video/mp4/13/91778.mp4,heart attack_0001_spreadthesign_27018.mp4,ok
+2,27019,signschool,4,0,train,25,1,-1,692,55,1645,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Heart%20Attack-qZZoeMc4vTU.mp4,heart attack_0002_signschool_27019.mp4,ok
+3,27020,asldeafined,21,0,train,25,1,-1,88,9,545,480,https://media.asldeafined.com/vocabulary/1468580472.2357.mp4,heart attack_0003_asldeafined_27020.mp4,ok
+4,27021,handspeak,20,0,train,25,1,-1,107,0,571,480,https://www.handspeak.com/word/h/heart-attack.mp4,heart attack_0004_handspeak_27021.mp4,failed
+5,27022,signingsavvy,10,0,train,25,1,-1,87,14,230,192,https://www.signingsavvy.com/signs/mp4/23/23790.mp4,heart attack_0005_signingsavvy_27022.mp4,ok
+6,27023,aslsearch,12,0,train,25,1,-1,190,58,564,400,http://www.aslsearch.com/signs/videos/heart-attack.mp4,heart attack_0006_aslsearch_27023.mp4,ok

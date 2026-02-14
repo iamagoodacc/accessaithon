@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20601,asl5200,9,0,val,25,3587,3623,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,eye_0000_asl5200_20601.mp4,failed
+1,69314,aslbrick,118,0,test,25,1,-1,329,43,878,720,http://aslbricks.org/New/ASL-Videos/eye.mp4,eye_0001_aslbrick_69314.mp4,ok
+2,65665,aslsignbank,90,0,train,25,1,-1,173,18,471,368,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EY/EYE-449.mp4,eye_0002_aslsignbank_65665.mp4,failed
+3,20632,spreadthesign,37,0,train,25,1,-1,56,0,233,240,https://media.spreadthesign.com/video/mp4/13/455611.mp4,eye_0003_spreadthesign_20632.mp4,ok
+4,20633,signschool,31,0,train,25,1,-1,451,47,936,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Eye-qY--O7IbEjA.mp4,eye_0004_signschool_20633.mp4,ok
+5,20634,signingsavvy,11,0,val,25,1,-1,71,15,210,192,https://www.signingsavvy.com/signs/mp4/9/9827.mp4,eye_0005_signingsavvy_20634.mp4,ok
+6,20635,aslpro,72,0,train,25,1,-1,59,0,264,240,http://www.aslpro.com/main/e/eye.swf,eye_0006_aslpro_20635.mp4,skipped_swf
+7,20636,aslsearch,12,0,train,25,1,-1,180,56,532,400,http://www.aslsearch.com/signs/videos/eye.mp4,eye_0007_aslsearch_20636.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,39067,asldeafined,13,0,test,25,1,-1,124,0,523,480,https://media.asldeafined.com/vocabulary/1468713681.2568.mp4,numerous_0001_asldeafined_39067.mp4,ok
+2,39068,handspeak,14,0,val,25,1,-1,36,0,296,240,https://www.handspeak.com/word/n/numerous2.mp4,numerous_0002_handspeak_39068.mp4,failed
+3,39069,handspeak,14,0,train,25,1,-1,43,0,290,240,https://www.handspeak.com/word/n/numerous.mp4,numerous_0003_handspeak_39069.mp4,failed
+4,39070,signingsavvy,11,0,train,25,1,-1,82,14,221,192,https://www.signingsavvy.com/signs/mp4/6/6570.mp4,numerous_0004_signingsavvy_39070.mp4,ok
+5,39071,signingsavvy,11,0,train,25,1,-1,86,12,228,192,https://www.signingsavvy.com/signs/mp4/8/8041.mp4,numerous_0005_signingsavvy_39071.mp4,ok
+6,39072,aslsearch,41,0,train,25,1,-1,223,38,557,400,http://www.aslsearch.com/signs/videos/bountiful.mp4,numerous_0006_aslsearch_39072.mp4,ok
+7,39073,aslsearch,12,0,train,25,1,-1,197,58,569,400,http://www.aslsearch.com/signs/videos/numerous.mp4,numerous_0007_aslsearch_39073.mp4,ok

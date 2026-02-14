@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55322,asl5200,9,0,test,25,9759,9795,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stuck_0000_asl5200_55322.mp4,failed
+1,55323,signschool,32,0,val,25,1,-1,828,70,1591,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stuck%2C%20Trapped-WQwjPWapQhM.mp4,stuck_0001_signschool_55323.mp4,ok
+2,55324,asldeafined,13,0,train,25,1,-1,135,0,525,480,https://media.asldeafined.com/vocabulary/1468897351.4027.mp4,stuck_0002_asldeafined_55324.mp4,ok
+3,55325,handspeak,14,0,train,25,1,-1,64,0,297,240,https://www.handspeak.com/word/s/stuck.mp4,stuck_0003_handspeak_55325.mp4,failed
+4,55326,signingsavvy,11,0,train,25,1,-1,90,16,223,192,https://www.signingsavvy.com/signs/mp4/8/8099.mp4,stuck_0004_signingsavvy_55326.mp4,ok
+5,55327,aslu,5,0,train,25,1,-1,371,45,970,720,https://www.youtube.com/watch?v=XqpsPBnD-Qg,stuck_0005_aslu_55327.mp4,failed
+6,55328,aslsearch,12,0,train,25,1,-1,192,55,548,400,http://www.aslsearch.com/signs/videos/stuck.mp4,stuck_0006_aslsearch_55328.mp4,ok

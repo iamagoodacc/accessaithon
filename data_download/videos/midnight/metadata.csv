@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,35994,aslpro,72,0,test,25,1,-1,0,2,232,240,http://www.aslpro.com/main/m/midnight.swf,midnight_0002_aslpro_35994.mp4,skipped_swf
+4,35986,spreadthesign,56,0,val,25,1,-1,27,0,275,240,https://media.spreadthesign.com/video/mp4/13/49153.mp4,midnight_0004_spreadthesign_35986.mp4,ok
+6,35988,signschool,4,0,train,25,1,-1,552,58,1723,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Midnight%202-reXhobalQQQ.mp4,midnight_0006_signschool_35988.mp4,ok
+8,35990,asldeafined,13,0,train,25,1,-1,104,0,520,480,https://media.asldeafined.com/vocabulary/1468715388.5683.mp4,midnight_0008_asldeafined_35990.mp4,ok
+9,35991,handspeak,14,0,train,25,1,-1,42,15,237,240,https://www.handspeak.com/word/m/midnight.mp4,midnight_0009_handspeak_35991.mp4,failed
+10,35992,signingsavvy,10,0,train,25,1,-1,88,26,198,192,https://www.signingsavvy.com/signs/mp4/22/22133.mp4,midnight_0010_signingsavvy_35992.mp4,ok
+11,35993,aslu,5,0,train,25,1,-1,51,33,442,354,https://www.youtube.com/watch?v=p7CPi7lDY3c,midnight_0011_aslu_35993.mp4,failed

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53217,asl5200,9,0,val,25,6422,6471,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,someone_0000_asl5200_53217.mp4,failed
+1,70127,northtexas,121,0,test,25,5921,6055,132,20,494,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,someone_0001_northtexas_70127.mp4,failed
+2,53218,asldeafined,13,0,train,25,1,-1,147,0,533,480,https://media.asldeafined.com/vocabulary/1468776430.6865.mp4,someone_0002_asldeafined_53218.mp4,ok
+3,53219,handspeak,20,0,train,25,1,-1,31,9,261,240,https://www.handspeak.com/word/s/someone.mp4,someone_0003_handspeak_53219.mp4,failed
+4,53220,signingsavvy,11,0,train,25,1,-1,64,4,221,192,https://www.signingsavvy.com/signs/mp4/5/5957.mp4,someone_0004_signingsavvy_53220.mp4,ok
+5,53221,aslu,5,0,val,25,1,-1,164,11,481,360,https://www.youtube.com/watch?v=s2Ds_-QpWDo,someone_0005_aslu_53221.mp4,failed
+6,53222,aslu,5,0,train,25,1,-1,389,43,933,720,https://www.youtube.com/watch?v=YkiB6IwSEZI,someone_0006_aslu_53222.mp4,failed
+7,53223,aslsearch,12,0,train,25,1,-1,201,51,561,400,http://www.aslsearch.com/signs/videos/somebody.mp4,someone_0007_aslsearch_53223.mp4,ok

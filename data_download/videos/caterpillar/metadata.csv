@@ -1,0 +1,7 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,09501,spreadthesign,2,0,val,25,1,-1,4,0,294,240,https://media.spreadthesign.com/video/mp4/13/244149.mp4,caterpillar_0001_spreadthesign_09501.mp4,ok
+2,09502,signschool,32,0,train,25,1,-1,666,67,1672,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Caterpillar-iPT7vizlsZ4.mp4,caterpillar_0002_signschool_09502.mp4,ok
+3,09503,asldeafined,59,0,train,25,1,-1,32,24,614,480,https://media.asldeafined.com/vocabulary/1499776100.7985.mp4,caterpillar_0003_asldeafined_09503.mp4,ok
+4,09504,handspeak,20,0,train,25,1,-1,173,43,492,360,https://www.handspeak.com/word/c/caterpillar.mp4,caterpillar_0004_handspeak_09504.mp4,failed
+6,09506,aslpro,24,0,train,25,1,-1,0,15,217,240,http://www.aslpro.com/main/c/caterpillar.swf,caterpillar_0006_aslpro_09506.mp4,skipped_swf
+7,09507,aslsearch,41,0,train,25,1,-1,205,43,499,400,http://www.aslsearch.com/signs/videos/caterpillar.mp4,caterpillar_0007_aslsearch_09507.mp4,ok

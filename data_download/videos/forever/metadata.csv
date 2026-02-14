@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+4,65760,aslsignbank,106,0,val,25,1,-1,172,26,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOREVER-1493.mp4,forever_0004_aslsignbank_65760.mp4,failed
+5,22926,spreadthesign,37,0,test,25,1,-1,23,0,244,240,https://media.spreadthesign.com/video/mp4/13/456356.mp4,forever_0005_spreadthesign_22926.mp4,ok
+6,67679,asllex,109,0,train,25,1,-1,83,20,374,360,https://youtu.be/P-zG44T73rA,forever_0006_asllex_67679.mp4,failed
+7,22927,signschool,31,0,train,25,1,-1,714,112,1543,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Endless-NXLVXfHZjSI.mp4,forever_0007_signschool_22927.mp4,ok
+8,22928,signschool,4,0,train,25,1,-1,660,15,1716,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Forever%2C%20Infinity%202-nYdDwgGLr7U.mp4,forever_0008_signschool_22928.mp4,ok
+9,22929,signschool,4,0,val,25,1,-1,671,56,1724,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Forever%2C%20Infinity-hbJ300P8L8M.mp4,forever_0009_signschool_22929.mp4,ok
+10,22930,asldeafined,21,0,train,25,1,-1,55,8,554,480,https://media.asldeafined.com/vocabulary/1468513427.9657.mp4,forever_0010_asldeafined_22930.mp4,ok
+11,22931,handspeak,14,0,train,25,1,-1,14,0,317,240,https://www.handspeak.com/word/f/forever.mp4,forever_0011_handspeak_22931.mp4,failed

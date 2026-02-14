@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69300,aslbrick,115,0,test,25,1,-1,354,41,1006,720,http://aslbricks.org/New/ASL-Videos/done.mp4,done_0000_aslbrick_69300.mp4,ok
+2,17206,asldeafined,21,0,val,25,1,-1,101,14,560,480,https://media.asldeafined.com/vocabulary/1467773050.2596.mp4,done_0002_asldeafined_17206.mp4,ok
+4,17208,handspeak,14,0,train,25,1,-1,59,0,259,240,https://www.handspeak.com/word/d/done-finish.mp4,done_0004_handspeak_17208.mp4,failed
+5,17209,signingsavvy,10,0,train,25,1,-1,63,21,213,192,https://www.signingsavvy.com/signs/mp4/22/22326.mp4,done_0005_signingsavvy_17209.mp4,ok
+8,17212,signingsavvy,11,0,train,25,1,-1,74,13,227,192,https://www.signingsavvy.com/signs/mp4/7/7267.mp4,done_0008_signingsavvy_17212.mp4,ok
+9,17213,aslpro,25,0,train,25,1,-1,9,10,248,240,http://www.aslpro.com/main/d/done.swf,done_0009_aslpro_17213.mp4,skipped_swf
+10,17214,aslsearch,41,0,train,25,1,-1,239,48,549,400,http://www.aslsearch.com/signs/videos/done.mp4,done_0010_aslsearch_17214.mp4,ok

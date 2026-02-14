@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42938,asl5200,9,0,val,25,2591,2673,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pity_0000_asl5200_42938.mp4,failed
+1,42947,aslsearch,12,0,test,25,1,-1,201,56,568,400,http://www.aslsearch.com/signs/videos/sympathy.mp4,pity_0001_aslsearch_42947.mp4,ok
+2,67992,asllex,109,0,train,25,1,-1,101,25,389,360,https://youtu.be/G3G-1igC_QM,pity_0002_asllex_67992.mp4,failed
+3,42939,spreadthesign,2,0,train,25,1,-1,40,7,291,240,https://media.spreadthesign.com/video/mp4/13/244857.mp4,pity_0003_spreadthesign_42939.mp4,ok
+4,42940,signschool,4,0,train,25,1,-1,721,28,1683,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pity%202h-4lOlOpLqq00.mp4,pity_0004_signschool_42940.mp4,ok
+6,42942,asldeafined,13,0,val,25,1,-1,122,0,564,480,https://media.asldeafined.com/vocabulary/1468714947.6569.mp4,pity_0006_asldeafined_42942.mp4,ok
+9,42945,signingsavvy,10,0,train,25,1,-1,96,20,226,192,https://www.signingsavvy.com/signs/mp4/23/23282.mp4,pity_0009_signingsavvy_42945.mp4,ok
+10,42946,aslpro,25,0,train,25,1,-1,0,6,229,240,http://www.aslpro.com/main/p/pity.swf,pity_0010_aslpro_42946.mp4,skipped_swf

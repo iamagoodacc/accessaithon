@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,49411,signingsavvy,11,0,test,25,1,-1,58,4,219,192,https://www.signingsavvy.com/signs/mp4/8/8672.mp4,saw_0002_signingsavvy_49411.mp4,ok
+3,49412,aslu,5,0,val,25,1,-1,264,19,1058,720,https://www.youtube.com/watch?v=r6YNp9J-BPg,saw_0003_aslu_49412.mp4,failed
+8,67163,asllex,109,0,train,25,1,-1,20,21,378,360,https://youtu.be/9rYvkWmjktQ,saw_0008_asllex_67163.mp4,failed
+10,49418,aslpro,44,0,train,25,1,-1,0,3,244,240,http://www.aslpro.com/main/s/saw_tool.swf,saw_0010_aslpro_49418.mp4,skipped_swf
+13,49421,aslsearch,41,0,train,25,1,-1,216,33,502,400,http://www.aslsearch.com/signs/videos/saw.mp4,saw_0013_aslsearch_49421.mp4,ok
+14,49408,handspeak,14,0,train,25,1,-1,61,0,599,480,https://www.handspeak.com/word/s/saw-cut.mp4,saw_0014_handspeak_49408.mp4,failed
+16,49410,signingsavvy,11,0,train,25,1,-1,70,20,217,191,https://www.signingsavvy.com/signs/mp4/8/8460.mp4,saw_0016_signingsavvy_49410.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19851,asl5200,9,0,test,25,2559,2608,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,every monday_0000_asl5200_19851.mp4,failed
+1,19852,signschool,4,0,val,25,1,-1,406,38,1651,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Every%20Monday-meOBjU82Tx8.mp4,every monday_0001_signschool_19852.mp4,ok
+2,19853,signschool,3,0,train,25,1,-1,511,0,1382,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mondays-7H8Me_Iq7GU.mp4,every monday_0002_signschool_19853.mp4,ok
+3,19854,handspeak,14,0,train,25,1,-1,70,10,262,240,https://www.handspeak.com/word/e/every-monday.mp4,every monday_0003_handspeak_19854.mp4,failed
+4,19855,signingsavvy,11,0,train,25,1,-1,89,15,216,192,https://www.signingsavvy.com/signs/mp4/9/9750.mp4,every monday_0004_signingsavvy_19855.mp4,ok
+5,19856,signingsavvy,11,0,train,25,1,-1,80,11,211,192,https://www.signingsavvy.com/signs/mp4/9/9758.mp4,every monday_0005_signingsavvy_19856.mp4,ok
+6,19857,aslsearch,12,0,train,25,1,-1,200,51,546,400,http://www.aslsearch.com/signs/videos/every-monday.mp4,every monday_0006_aslsearch_19857.mp4,ok

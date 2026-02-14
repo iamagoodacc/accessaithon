@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54248,spreadthesign,0,0,test,25,1,-1,20,16,300,240,https://media.spreadthesign.com/video/mp4/13/87646.mp4,stadium_0000_spreadthesign_54248.mp4,ok
+1,54249,startasl,38,0,val,25,1,-1,276,54,952,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/stadium.mp4,stadium_0001_startasl_54249.mp4,ok
+2,54250,signschool,45,0,train,25,1,-1,382,118,1858,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stadium-dDumGwNt_Po.mp4,stadium_0002_signschool_54250.mp4,ok
+3,54251,asldeafined,13,0,train,25,1,-1,76,0,596,480,https://media.asldeafined.com/vocabulary/1468865885.4183.mp4,stadium_0003_asldeafined_54251.mp4,ok
+4,54252,signingsavvy,11,0,train,25,1,-1,41,10,234,192,https://www.signingsavvy.com/signs/mp4/3/3864.mp4,stadium_0004_signingsavvy_54252.mp4,ok
+5,54253,aslpro,24,0,train,25,1,-1,0,18,247,240,http://www.aslpro.com/main/s/stadium.swf,stadium_0005_aslpro_54253.mp4,skipped_swf
+6,54254,aslsearch,12,0,train,25,1,-1,168,51,578,400,http://www.aslsearch.com/signs/videos/stadium.mp4,stadium_0006_aslsearch_54254.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,14047,signschool,4,0,val,25,1,-1,421,24,1614,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cross-0YI1MRl_VBQ.mp4,cross_0001_signschool_14047.mp4,ok
+3,14055,aslpro,25,0,test,25,1,-1,12,6,247,240,http://www.aslpro.com/main/c/cross.swf,cross_0003_aslpro_14055.mp4,skipped_swf
+5,67544,asllex,109,0,train,25,1,-1,90,21,381,360,https://youtu.be/crK-EVwpii8,cross_0005_asllex_67544.mp4,failed
+6,14057,aslsearch,12,0,train,25,1,-1,132,37,532,400,http://www.aslsearch.com/signs/videos/cross3.mp4,cross_0006_aslsearch_14057.mp4,ok
+8,14048,signschool,45,0,train,25,1,-1,483,85,1426,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cross%202-IvMNkkopeyQ.mp4,cross_0008_signschool_14048.mp4,ok
+9,14049,asldeafined,59,0,val,25,1,-1,78,8,506,480,https://media.asldeafined.com/vocabulary/1466905414.2767.mp4,cross_0009_asldeafined_14049.mp4,ok
+10,14050,handspeak,20,0,train,25,1,-1,150,4,545,360,https://www.handspeak.com/word/c/cross-shape.mp4,cross_0010_handspeak_14050.mp4,failed
+11,14051,signingsavvy,11,0,train,25,1,-1,48,11,213,192,https://www.signingsavvy.com/signs/mp4/4/4672.mp4,cross_0011_signingsavvy_14051.mp4,ok

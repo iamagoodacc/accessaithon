@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22840,asl5200,9,0,val,25,2435,2471,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,forbid_0000_asl5200_22840.mp4,failed
+1,65757,aslsignbank,94,0,test,25,1,-1,157,11,523,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FORBID-602.mp4,forbid_0001_aslsignbank_65757.mp4,failed
+2,22844,spreadthesign,8,0,train,25,1,-1,51,0,267,240,https://media.spreadthesign.com/video/mp4/13/456355.mp4,forbid_0002_spreadthesign_22844.mp4,ok
+3,67676,asllex,109,0,train,25,1,-1,88,20,376,360,https://youtu.be/3gmdk1iEH70,forbid_0003_asllex_67676.mp4,failed
+4,22845,handspeak,14,0,train,25,1,-1,62,11,256,240,https://www.handspeak.com/word/f/forbid.mp4,forbid_0004_handspeak_22845.mp4,failed
+5,22846,signingsavvy,10,0,val,25,1,-1,53,23,213,192,https://www.signingsavvy.com/signs/mp4/22/22256.mp4,forbid_0005_signingsavvy_22846.mp4,ok
+6,22847,aslpro,83,0,train,25,1,-1,1,16,226,240,http://www.aslpro.com/main/f/forbid.swf,forbid_0006_aslpro_22847.mp4,skipped_swf
+7,22848,aslsearch,12,0,train,25,1,-1,161,53,571,400,http://www.aslsearch.com/signs/videos/illegal.mp4,forbid_0007_aslsearch_22848.mp4,ok

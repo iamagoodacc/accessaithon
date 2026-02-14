@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11408,signschool,4,0,test,25,1,-1,439,11,1581,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20No%20Idea%2C%20No%20Knowledge-qqgMBDrqU-M.mp4,clueless_0000_signschool_11408.mp4,ok
+1,11409,asldeafined,13,0,val,25,1,-1,75,0,497,480,https://media.asldeafined.com/vocabulary/1468720640.5781.mp4,clueless_0001_asldeafined_11409.mp4,ok
+4,11412,handspeak,14,0,train,25,1,-1,27,30,271,240,https://www.handspeak.com/word/c/clueless-unaware.mp4,clueless_0004_handspeak_11412.mp4,failed
+5,11413,signingsavvy,11,0,train,25,1,-1,59,0,217,192,https://www.signingsavvy.com/signs/mp4/5/5578.mp4,clueless_0005_signingsavvy_11413.mp4,ok
+6,11414,signingsavvy,11,0,train,25,1,-1,70,6,211,192,https://www.signingsavvy.com/signs/mp4/9/9497.mp4,clueless_0006_signingsavvy_11414.mp4,ok
+7,11415,aslu,5,0,train,25,1,-1,301,28,875,714,https://www.youtube.com/watch?v=MurgzRAigME,clueless_0007_aslu_11415.mp4,failed
+8,11416,aslsearch,12,0,train,25,1,-1,168,41,567,400,http://www.aslsearch.com/signs/videos/clueless.mp4,clueless_0008_aslsearch_11416.mp4,ok

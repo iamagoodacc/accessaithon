@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65614,aslsignbank,93,0,val,25,1,-1,177,36,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EI/EIGHTEEN-2512.mp4,eighteen_0000_aslsignbank_65614.mp4,failed
+1,18550,spreadthesign,1,0,test,25,1,-1,51,0,263,240,https://media.spreadthesign.com/video/mp4/13/357184.mp4,eighteen_0001_spreadthesign_18550.mp4,ok
+2,18551,handspeak,14,0,train,25,1,-1,33,0,293,240,https://www.handspeak.com/word/e/eighteen.mp4,eighteen_0002_handspeak_18551.mp4,failed
+3,18552,signingsavvy,11,0,train,25,1,-1,77,19,212,192,https://www.signingsavvy.com/signs/mp4/11/11018.mp4,eighteen_0003_signingsavvy_18552.mp4,ok
+5,18554,signingsavvy,10,0,train,25,1,-1,88,18,209,192,https://www.signingsavvy.com/signs/mp4/24/24074.mp4,eighteen_0005_signingsavvy_18554.mp4,ok
+6,18555,signingsavvy,10,0,val,25,1,-1,82,17,207,192,https://www.signingsavvy.com/signs/mp4/24/24078.mp4,eighteen_0006_signingsavvy_18555.mp4,ok
+7,18556,aslpro,30,0,train,25,1,-1,0,18,212,240,http://www.aslpro.com/main/e/eighteen.swf,eighteen_0007_aslpro_18556.mp4,skipped_swf
+8,18557,aslsearch,12,0,train,25,1,-1,178,53,554,400,http://www.aslsearch.com/signs/videos/eighteen.mp4,eighteen_0008_aslsearch_18557.mp4,ok

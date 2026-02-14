@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06298,asl5200,9,0,test,25,2662,2761,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,binoculars_0000_asl5200_06298.mp4,failed
+1,65185,aslsignbank,90,0,val,25,1,-1,146,16,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BI/BINOCULARS-2445.mp4,binoculars_0001_aslsignbank_65185.mp4,failed
+2,67409,asllex,109,0,train,25,1,-1,90,0,440,360,https://youtu.be/QcVAQ0fNCSU,binoculars_0002_asllex_67409.mp4,failed
+3,06299,signschool,6,0,train,25,1,-1,614,73,1604,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Binoculars-LRZZ54rvFIY.mp4,binoculars_0003_signschool_06299.mp4,ok
+4,06300,signingsavvy,11,0,train,25,1,-1,47,8,234,192,https://www.signingsavvy.com/signs/mp4/1/1227.mp4,binoculars_0004_signingsavvy_06300.mp4,ok
+5,06301,aslpro,49,0,train,25,1,-1,6,5,231,240,http://www.aslpro.com/main/b/binoculars.swf,binoculars_0005_aslpro_06301.mp4,skipped_swf
+6,06302,aslsearch,12,0,train,25,1,-1,155,53,537,400,http://www.aslsearch.com/signs/videos/binoculars.mp4,binoculars_0006_aslsearch_06302.mp4,ok

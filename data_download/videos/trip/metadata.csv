@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,59672,aslsearch,12,0,test,25,1,-1,139,68,559,400,http://www.aslsearch.com/signs/videos/journey.mp4,trip_0001_aslsearch_59672.mp4,ok
+2,59673,aslsearch,12,0,val,25,1,-1,139,68,559,400,http://www.aslsearch.com/signs/videos/journey.mp4,trip_0002_aslsearch_59673.mp4,ok
+5,59666,asldeafined,21,0,train,25,1,-1,111,11,578,480,https://media.asldeafined.com/vocabulary/1468947316.1861.mp4,trip_0005_asldeafined_59666.mp4,ok
+7,59668,handspeak,14,0,train,25,1,-1,40,0,570,480,https://www.handspeak.com/word/t/trip.mp4,trip_0007_handspeak_59668.mp4,failed
+8,59669,signingsavvy,11,0,train,25,1,-1,52,8,230,192,https://www.signingsavvy.com/signs/mp4/14/14645.mp4,trip_0008_signingsavvy_59669.mp4,ok
+9,59670,signingsavvy,11,0,train,25,1,-1,67,16,217,192,https://www.signingsavvy.com/signs/mp4/9/9117.mp4,trip_0009_signingsavvy_59670.mp4,ok
+10,59671,aslpro,54,0,train,25,1,-1,0,7,225,240,http://www.aslpro.com//main/t/trip_journey.swf,trip_0010_aslpro_59671.mp4,skipped_swf
