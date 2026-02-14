@@ -83,7 +83,8 @@ def predict(sequence):
 def main_handle(
         hand_landmarks: HandLandmarkerResult,
         pose_landmarks: PoseLandmarkerResult,
-        img: cv2.typing.MatLike
+        img: cv2.typing.MatLike,
+        key: int
 ):
     global sequence_buffer, text_sequence, last_prediction, last_prediction_time, frame_count
 
@@ -128,7 +129,6 @@ def main_handle(
     render_handle(hand_landmarks, pose_landmarks, img)
 
     # Handle keyboard input
-    key = cv2.waitKey(1) & 0xFF
     if key == ord('c'):  # Clear text
         text_sequence = []
         last_prediction = None
@@ -172,7 +172,7 @@ def render_ui(img, current_prediction, confidence):
                     cv2.FONT_HERSHEY_SIMPLEX, 0.6, (200, 200, 200), 1)
 
     # Instructions
-    cv2.putText(img, "C: Clear | R: Reset | Q: Quit", (10, h - 10),
+    cv2.putText(img, "C: Clear | R: Reset", (10, h - 10),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 2)
 
 

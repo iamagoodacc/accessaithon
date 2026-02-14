@@ -3,7 +3,7 @@ import torch
 
 from core.model import RecognitionModel, train
 
-SIGNS = ["hello", "yes"]
+from main import SIGNS
 
 x_data = []
 y_data = []

@@ -1,5 +1,7 @@
 """
 Webcam capture loop + MediaPipe hand/pose detector setup
+
+Runs the video loop
 """
 
 import cv2
@@ -42,7 +44,8 @@ def run(handle: Callable[
     [
         HandLandmarkerResult,  # hand_landmarks
         PoseLandmarkerResult,  # pose_landmarks
-        cv2.typing.MatLike
+        cv2.typing.MatLike,
+        int                    # key
     ],
     None
 ]):
@@ -71,6 +74,7 @@ def run(handle: Callable[
         )
     )
 
+    key = -1
     while True:
         success, img = cap.read()
 
@@ -84,12 +88,14 @@ def run(handle: Callable[
             handle(
                 hand_result,
                 pose_result,
-                img
+                img,
+                key
             )
 
             cv2.imshow('Image', img)
 
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        key = cv2.waitKey(1) & 0xFF
+        if cv2.getWindowProperty('Image', cv2.WND_PROP_VISIBLE) < 1:
             break
 
     cap.release()

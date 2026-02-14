@@ -1,3 +1,4 @@
+import atexit
 import os
 import numpy as np
 import cv2
@@ -9,7 +10,8 @@ from core.data import collect_handle
 from core.video import run
 from core.utils import render_handle
 
-SIGNS = ["hello", "yes"]
+from main import SIGNS
+
 FRAMES_PER_SEQUENCE = 30
 NUM_SEQUENCES = 20
 
@@ -19,10 +21,21 @@ collecting = False
 sequence_count = 0
 sign_index = 0        # which sign we're currently collecting
 
+def save_on_exit():
+    if sequences and sign_index < len(SIGNS):
+        current_sign = SIGNS[sign_index]
+        data = np.array(sequences)
+        os.makedirs("data", exist_ok=True)
+        np.save(f"data/{current_sign}.npy", data)
+        print(f"Saved {sequence_count} sequences to data/{current_sign}.npy")
+
+atexit.register(save_on_exit)
+
 def main_handle(
         hand_landmarks: HandLandmarkerResult,
         pose_landmarks: PoseLandmarkerResult,
-        img: cv2.typing.MatLike
+        img: cv2.typing.MatLike,
+        key: int
 ):
     global collecting, current_sequence, sequences, sequence_count, sign_index
 
@@ -31,7 +44,6 @@ def main_handle(
         cv2.putText(img, "ALL SIGNS COLLECTED", (10, 30),
                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
         render_handle(hand_landmarks, pose_landmarks, img)
-        cv2.waitKey(1)
         return
 
     current_sign = SIGNS[sign_index]
@@ -76,24 +88,15 @@ def main_handle(
                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
     cv2.putText(img, f"Collected: {sequence_count}/{NUM_SEQUENCES}", (10, 70),
                cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-    cv2.putText(img, "SPACE to record | Q to quit", (10, img.shape[0] - 10),
+    cv2.putText(img, "SPACE to record", (10, img.shape[0] - 10),
                cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 255), 1)
 
     render_handle(hand_landmarks, pose_landmarks, img)
 
-    key = cv2.waitKey(1) & 0xFF
     if key == ord(' ') and not collecting and sequence_count < NUM_SEQUENCES:
         collecting = True
         current_sequence = []
         print(f"Recording [{current_sign}] sequence {sequence_count + 1}...")
-    elif key == ord('q'):
-        # save whatever we have so far
-        if sequences:
-            data = np.array(sequences)
-            os.makedirs("data", exist_ok=True)
-            np.save(f"data/{current_sign}.npy", data)
-            print(f"Saved {sequence_count} sequences to data/{current_sign}.npy")
-        exit()
 
 if __name__ == "__main__":
     run(main_handle)
