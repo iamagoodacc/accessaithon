@@ -1,28 +1,36 @@
-from collections.abc import Callable
+"""
+Webcam capture loop + MediaPipe hand/pose detector setup
+"""
+
 import cv2
-import mediapipe as mp
 import os
 import urllib.request
+import mediapipe as mp
+from collections.abc import Callable
+
 from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
 
+TASKS_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "tasks")
+
 MODELS = {
     "hand": (
-        "hand_landmarker.task",
+        os.path.join(TASKS_DIR, "hand_landmarker.task"),
         "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
     ),
     # "face": (
-    #     "face_landmarker.task",
+    #     os.path.join(TASKS_DIR, "face_landmarker.task"),
     #     "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task"
     # ),
     "pose": (
-        "pose_landmarker.task",
+        os.path.join(TASKS_DIR, "pose_landmarker.task"),
         "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task"
     ),
 }
 
 
 def download_models():
+    os.makedirs(TASKS_DIR, exist_ok=True)
     for name, (path, url) in MODELS.items():
         if not os.path.exists(path):
             print(f"Downloading {name} model...")

@@ -1,3 +1,7 @@
+"""
+Extracts and normalizes landmark features (left hand, right hand, head/shoulders/arms from pose — all relative to a base position)
+"""
+
 from typing import Iterable, TypeVar
 
 from mediapipe.tasks.python.components.containers.category import Category

@@ -6,6 +6,7 @@ from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
 
 
+# Renders landmark overlays on the video feed
 def render_handle(
     hand_landmarks: HandLandmarkerResult,
     pose_landmarks: PoseLandmarkerResult,

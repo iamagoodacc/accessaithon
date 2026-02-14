@@ -1,17 +1,20 @@
-import cv2
-from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
-from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
-from data import collect_handle
-from utils import render_handle
-import torch
-import numpy as np
-from model import RecognitionModel
-from collections import deque
 import time
 import os
 import sys
 
-from video import run
+import torch
+import numpy as np
+
+import cv2
+from collections import deque
+
+from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
+from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
+
+from core.data import collect_handle
+from core.model import RecognitionModel
+from core.utils import render_handle
+from core.video import run
 
 SIGNS = ["hello", "yes"]
 

@@ -1,3 +1,7 @@
+"""
+LSTM-based RecognitionModel (configurable layers, hidden size, dropout)
+"""
+
 import torch
 import torch.nn as nn
 

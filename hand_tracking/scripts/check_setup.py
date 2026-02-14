@@ -48,8 +48,8 @@ def main():
     # Check MediaPipe models
     print("\n[*] Checking MediaPipe models...")
     models = [
-        ("hand_landmarker.task", "Hand detector model"),
-        ("pose_landmarker.task", "Pose detector model"),
+        ("tasks/hand_landmarker.task", "Hand detector model"),
+        ("tasks/pose_landmarker.task", "Pose detector model"),
     ]
 
     for file, name in models:

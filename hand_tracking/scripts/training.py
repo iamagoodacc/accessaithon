@@ -1,6 +1,7 @@
 import numpy as np
 import torch
-from model import RecognitionModel, train
+
+from core.model import RecognitionModel, train
 
 SIGNS = ["hello", "yes"]
 

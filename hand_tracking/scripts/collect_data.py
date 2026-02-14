@@ -1,11 +1,13 @@
-from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
-import cv2
-import numpy as np
-from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
-from utils import render_handle
-from data import collect_handle
-from video import run
 import os
+import numpy as np
+import cv2
+
+from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarkerResult
+from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarkerResult
+
+from core.data import collect_handle
+from core.video import run
+from core.utils import render_handle
 
 SIGNS = ["hello", "yes"]
 FRAMES_PER_SEQUENCE = 30
