@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66090,aslsignbank,103,0,train,25,1,-1,154,31,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LU/LUCKY-1632.mp4,lucky_0000_aslsignbank_66090.mp4,failed
+1,34210,handspeak,20,0,train,25,1,-1,75,0,576,480,https://www.handspeak.com/word/l/lucky.mp4,lucky_0001_handspeak_34210.mp4,failed
+2,34211,signingsavvy,11,0,train,25,1,-1,42,10,215,192,https://www.signingsavvy.com/signs/mp4/14/14518.mp4,lucky_0002_signingsavvy_34211.mp4,ok
+3,34212,aslu,5,0,val,25,1,-1,391,42,948,720,https://www.youtube.com/watch?v=40kU5n9mjss,lucky_0003_aslu_34212.mp4,skipped_no_ytdlp
+4,34213,aslu,5,0,train,25,1,-1,274,24,992,720,https://www.youtube.com/watch?v=FtK8kgh9Bio,lucky_0004_aslu_34213.mp4,skipped_no_ytdlp
+5,34204,spreadthesign,37,0,train,25,1,-1,64,0,238,240,https://media.spreadthesign.com/video/mp4/13/457591.mp4,lucky_0005_spreadthesign_34204.mp4,ok
+6,67866,asllex,109,0,train,25,1,-1,92,20,364,360,https://youtu.be/f_6KJYzAyt4,lucky_0006_asllex_67866.mp4,skipped_no_ytdlp
+8,34215,aslpro,24,0,train,25,1,-1,33,10,216,240,http://www.aslpro.com/main/l/lucky.swf,lucky_0008_aslpro_34215.mp4,skipped_swf
+9,34205,signschool,39,0,val,25,1,-1,900,58,1718,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lucky%202-21ltiro2vxY.mp4,lucky_0009_signschool_34205.mp4,ok
+10,34206,signschool,39,0,test,25,1,-1,893,61,1717,1068,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lucky%203-bn4wE-MKLPw.mp4,lucky_0010_signschool_34206.mp4,ok
+11,34207,signschool,39,0,test,25,1,-1,897,49,1732,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lucky-lV_VH0afwNw.mp4,lucky_0011_signschool_34207.mp4,ok
+12,34208,asldeafined,13,0,train,25,1,-1,134,0,517,480,https://media.asldeafined.com/vocabulary/1468713033.5446.mp4,lucky_0012_asldeafined_34208.mp4,ok

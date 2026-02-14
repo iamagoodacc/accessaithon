@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45852,asl5200,9,0,train,25,64,126,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,raccoon_0000_asl5200_45852.mp4,skipped_no_ytdlp
+1,45860,aslpro,24,0,train,25,1,-1,14,14,221,240,http://www.aslpro.com/main/r/raccoon.swf,raccoon_0001_aslpro_45860.mp4,skipped_swf
+2,45861,aslsearch,12,0,train,25,1,-1,182,47,567,400,http://www.aslsearch.com/signs/videos/raccoon.mp4,raccoon_0002_aslsearch_45861.mp4,ok
+3,66367,aslsignbank,101,0,val,25,1,-1,213,8,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RA/RACCOON-1003.mp4,raccoon_0003_aslsignbank_66367.mp4,failed
+4,66368,aslsignbank,101,0,train,25,1,-1,209,7,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RA/RACCOON-1006.mp4,raccoon_0004_aslsignbank_66368.mp4,failed
+5,45853,spreadthesign,2,0,train,25,1,-1,28,0,302,240,https://media.spreadthesign.com/video/mp4/13/116458.mp4,raccoon_0005_spreadthesign_45853.mp4,ok
+6,45854,signschool,4,0,train,25,1,-1,546,64,1796,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Raccoon%2C%20Purim-J_Ox8kHKzng.mp4,raccoon_0006_signschool_45854.mp4,ok
+7,45855,asldeafined,13,0,train,25,1,-1,111,0,633,480,https://media.asldeafined.com/vocabulary/1468757920.5763.mp4,raccoon_0007_asldeafined_45855.mp4,ok
+8,45856,handspeak,14,0,val,25,1,-1,17,13,312,240,https://www.handspeak.com/word/r/raccoon.mp4,raccoon_0008_handspeak_45856.mp4,failed
+9,45857,signingsavvy,11,0,test,25,1,-1,54,6,244,192,https://www.signingsavvy.com/signs/mp4/14/14839.mp4,raccoon_0009_signingsavvy_45857.mp4,ok
+10,45858,nabboud,67,0,test,25,1,-1,220,49,991,720,https://www.youtube.com/watch?v=5TvbKdjHaWo,raccoon_0010_nabboud_45858.mp4,skipped_no_ytdlp
+11,45859,nabboud,67,0,train,25,1,-1,264,53,959,720,https://www.youtube.com/watch?v=7WGzDoy7LS0,raccoon_0011_nabboud_45859.mp4,skipped_no_ytdlp

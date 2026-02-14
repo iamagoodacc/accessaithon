@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04039,asl5200,9,0,test,25,4453,4499,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,attitude_0000_asl5200_04039.mp4,skipped_no_ytdlp
+1,04048,aslsearch,41,0,train,25,1,-1,252,36,498,400,http://www.aslsearch.com/signs/videos/attitude.mp4,attitude_0001_aslsearch_04048.mp4,ok
+2,65108,aslsignbank,91,0,train,25,1,-1,224,30,458,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AT/ATTITUDE-1972.mp4,attitude_0002_aslsignbank_65108.mp4,failed
+3,04040,spreadthesign,2,0,val,25,1,-1,62,5,245,240,https://media.spreadthesign.com/video/mp4/13/122832.mp4,attitude_0003_spreadthesign_04040.mp4,ok
+4,04041,signschool,4,0,train,25,1,-1,598,76,1506,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Attitude-zUjTr3S6Nt4.mp4,attitude_0004_signschool_04041.mp4,ok
+5,04042,asldeafined,13,0,test,25,1,-1,110,32,509,480,https://media.asldeafined.com/vocabulary/1466646530.8290.mp4,attitude_0005_asldeafined_04042.mp4,ok
+6,04043,handspeak,20,0,train,25,1,-1,95,0,528,480,https://www.handspeak.com/word/a/attitude.mp4,attitude_0006_handspeak_04043.mp4,failed
+7,04044,signingsavvy,11,0,train,25,1,-1,82,9,228,192,https://www.signingsavvy.com/signs/mp4/14/14744.mp4,attitude_0007_signingsavvy_04044.mp4,ok
+8,04045,signingsavvy,11,0,train,25,1,-1,89,8,227,192,https://www.signingsavvy.com/signs/mp4/14/14745.mp4,attitude_0008_signingsavvy_04045.mp4,ok
+9,04046,aslu,5,0,train,25,1,-1,385,45,978,720,https://www.youtube.com/watch?v=nVPwFObq2TE,attitude_0009_aslu_04046.mp4,skipped_no_ytdlp
+10,04047,aslpro,25,0,val,25,1,-1,0,9,241,240,http://www.aslpro.com/main/a/attitude.swf,attitude_0010_aslpro_04047.mp4,skipped_swf

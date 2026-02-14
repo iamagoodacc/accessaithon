@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,30927,asl5200,9,0,val,25,177,239,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,japan_0000_asl5200_30927.mp4,skipped_no_ytdlp
+1,30937,asldeafined,21,0,test,25,1,-1,73,11,562,480,https://media.asldeafined.com/vocabulary/1468668937.5269.mp4,japan_0001_asldeafined_30937.mp4,ok
+2,30938,handspeak,14,0,train,25,1,-1,39,0,294,240,https://www.handspeak.com/word/j/japan.mp4,japan_0002_handspeak_30938.mp4,failed
+5,30941,signingsavvy,11,1,train,25,1,-1,65,6,219,192,https://www.signingsavvy.com/signs/mp4/5/5731.mp4,japan_0005_signingsavvy_30941.mp4,ok
+6,30942,aslu,5,0,train,25,1,-1,352,52,1019,720,https://www.youtube.com/watch?v=3RWypBF6cKY,japan_0006_aslu_30942.mp4,skipped_no_ytdlp
+7,30933,spreadthesign,37,1,test,25,1,-1,62,0,265,240,https://media.spreadthesign.com/video/mp4/13/455336.mp4,japan_0007_spreadthesign_30933.mp4,ok
+8,67803,asllex,109,1,val,25,1,-1,89,14,369,360,https://youtu.be/ZYUWTx3Xtdo,japan_0008_asllex_67803.mp4,skipped_no_ytdlp
+10,30944,aslpro,16,1,train,25,1,-1,9,15,207,240,http://www.aslpro.com/main/j/japan_a.swf,japan_0010_aslpro_30944.mp4,skipped_swf
+11,30945,aslpro,16,1,train,25,1,-1,9,15,207,240,http://www.aslpro.com/main/j/japan_b.swf,japan_0011_aslpro_30945.mp4,skipped_swf
+12,30946,aslsearch,41,0,train,25,1,-1,212,52,567,400,http://www.aslsearch.com/signs/videos/japan.mp4,japan_0012_aslsearch_30946.mp4,ok
+13,30934,spreadthesign,37,0,val,25,1,-1,67,0,280,240,https://media.spreadthesign.com/video/mp4/13/455337.mp4,japan_0013_spreadthesign_30934.mp4,ok
+14,30935,signschool,45,0,train,25,1,-1,318,81,1742,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan%202-8u5dM9Tyf1k.mp4,japan_0014_signschool_30935.mp4,ok
+15,30936,signschool,45,0,train,25,1,-1,482,106,1624,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Japan-iA8S4bnsIIg.mp4,japan_0015_signschool_30936.mp4,ok

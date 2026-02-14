@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55145,asl5200,9,0,train,25,9320,9366,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,street_0000_asl5200_55145.mp4,skipped_no_ytdlp
+1,70192,northtexas,121,0,train,25,3837,3971,127,36,483,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,street_0001_northtexas_70192.mp4,skipped_no_ytdlp
+2,55157,aslsearch,12,0,train,25,1,-1,201,50,559,400,http://www.aslsearch.com/signs/videos/avenue.mp4,street_0002_aslsearch_55157.mp4,ok
+3,66569,aslsignbank,93,0,val,25,1,-1,156,23,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STREET-278.mp4,street_0003_aslsignbank_66569.mp4,failed
+4,55150,spreadthesign,63,0,train,25,1,-1,48,0,276,240,https://media.spreadthesign.com/video/mp4/13/50827.mp4,street_0004_spreadthesign_55150.mp4,ok
+5,67253,asllex,109,0,train,25,1,-1,101,0,428,360,https://youtu.be/D36elT6xRxY,street_0005_asllex_67253.mp4,skipped_no_ytdlp
+6,55151,startasl,38,0,train,25,1,-1,410,56,820,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/street.mp4,street_0006_startasl_55151.mp4,ok
+7,55152,asldeafined,13,0,train,25,1,-1,148,0,571,480,https://media.asldeafined.com/vocabulary/1468896968.6328.mp4,street_0007_asldeafined_55152.mp4,ok
+8,55153,handspeak,14,0,val,25,1,-1,39,0,594,480,https://www.handspeak.com/word/s/street.mp4,street_0008_handspeak_55153.mp4,failed
+9,55154,signingsavvy,11,0,test,25,1,-1,80,4,232,192,https://www.signingsavvy.com/signs/mp4/5/5951.mp4,street_0009_signingsavvy_55154.mp4,ok
+10,55155,aslu,5,0,test,25,1,-1,287,40,976,720,https://www.youtube.com/watch?v=n9RE7lOpF4w,street_0010_aslu_55155.mp4,skipped_no_ytdlp
+11,55156,aslpro,84,0,train,25,1,-1,27,0,226,240,http://www.aslpro.com/main/s/street.swf,street_0011_aslpro_55156.mp4,skipped_swf

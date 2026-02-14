@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22491,asl5200,9,0,val,25,1972,2008,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,floor_0000_asl5200_22491.mp4,skipped_no_ytdlp
+1,68792,lillybauer,115,0,train,25,1,57,285,11,1051,720,https://www.youtube.com/watch?v=pG05q3gjsYo,floor_0001_lillybauer_68792.mp4,skipped_no_ytdlp
+2,70043,northtexas,121,0,train,25,5840,5930,76,19,573,480,https://www.youtube.com/watch?v=sErq0TJMKEo,floor_0002_northtexas_70043.mp4,skipped_no_ytdlp
+3,22498,handspeak,20,0,train,25,1,-1,65,0,558,480,https://www.handspeak.com/word/f/floor.mp4,floor_0003_handspeak_22498.mp4,failed
+4,22499,signingsavvy,10,0,train,25,1,-1,62,14,222,192,https://www.signingsavvy.com/signs/mp4/24/24099.mp4,floor_0004_signingsavvy_22499.mp4,ok
+5,22500,aslu,5,0,train,25,1,-1,313,50,1031,720,https://www.youtube.com/watch?v=ITtL6y_Lt14,floor_0005_aslu_22500.mp4,skipped_no_ytdlp
+6,67671,asllex,109,0,train,25,1,-1,97,20,376,360,https://youtu.be/yRovyFQ3u2s,floor_0006_asllex_67671.mp4,skipped_no_ytdlp
+7,22501,aslpro,16,0,train,25,1,-1,0,6,260,240,http://www.aslpro.com/main/f/floor.swf,floor_0007_aslpro_22501.mp4,skipped_swf
+8,22502,aslsearch,41,0,train,25,1,-1,191,43,540,400,http://www.aslsearch.com/signs/videos/carpet2.mp4,floor_0008_aslsearch_22502.mp4,ok
+9,22492,spreadthesign,8,0,test,25,1,-1,71,0,277,240,https://media.spreadthesign.com/video/mp4/13/456349.mp4,floor_0009_spreadthesign_22492.mp4,ok
+10,22493,startasl,36,0,train,25,1,-1,211,14,592,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/floor.mp4,floor_0010_startasl_22493.mp4,ok
+11,22494,signschool,4,0,test,25,1,-1,257,65,1809,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Floor-Aj-s1gTQ7Z8.mp4,floor_0011_signschool_22494.mp4,ok
+12,22495,signschool,32,0,val,25,1,-1,323,46,1156,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Floor.mp4,floor_0012_signschool_22495.mp4,ok

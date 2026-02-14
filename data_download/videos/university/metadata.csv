@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60759,asl5200,9,0,train,25,423,485,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,university_0000_asl5200_60759.mp4,skipped_no_ytdlp
+1,60767,aslpro,24,0,train,25,1,-1,2,21,207,240,http://www.aslpro.com/main/u/university.swf,university_0001_aslpro_60767.mp4,skipped_swf
+2,60768,aslsearch,12,0,train,25,1,-1,171,46,541,400,http://www.aslsearch.com/signs/videos/university.mp4,university_0002_aslsearch_60768.mp4,ok
+3,66707,aslsignbank,100,0,val,25,1,-1,204,29,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/UN/UNIVERSITY-1360.mp4,university_0003_aslsignbank_66707.mp4,failed
+4,67021,asllex,109,0,train,25,1,-1,84,24,384,360,https://youtu.be/8_N3JXRd_vU,university_0004_asllex_67021.mp4,skipped_no_ytdlp
+5,60760,spreadthesign,0,0,train,25,1,-1,26,0,254,240,https://media.spreadthesign.com/video/mp4/13/58402.mp4,university_0005_spreadthesign_60760.mp4,ok
+6,60761,startasl,38,0,train,25,1,-1,415,68,872,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/university.mp4,university_0006_startasl_60761.mp4,ok
+7,60762,signschool,6,0,train,25,1,-1,361,63,1009,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20University.mp4,university_0007_signschool_60762.mp4,ok
+8,60763,asldeafined,13,0,val,25,1,-1,89,0,522,480,https://media.asldeafined.com/vocabulary/1468925301.7008.mp4,university_0008_asldeafined_60763.mp4,ok
+9,60764,handspeak,20,0,test,25,1,-1,58,10,265,240,https://www.handspeak.com/word/u/university.mp4,university_0009_handspeak_60764.mp4,failed
+10,60765,signingsavvy,11,0,test,25,1,-1,73,5,220,192,https://www.signingsavvy.com/signs/mp4/5/5795.mp4,university_0010_signingsavvy_60765.mp4,ok
+11,60766,aslu,5,0,train,25,1,-1,291,0,1002,720,https://www.youtube.com/watch?v=A63jDYGVSPU,university_0011_aslu_60766.mp4,skipped_no_ytdlp

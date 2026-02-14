@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55298,asl5200,9,0,val,25,9639,9715,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,struggle_0000_asl5200_55298.mp4,skipped_no_ytdlp
+1,70096,northtexas,121,0,train,25,3340,3464,155,21,501,480,https://www.youtube.com/watch?v=RaTg-FuhCmY,struggle_0001_northtexas_70096.mp4,skipped_no_ytdlp
+2,55306,aslu,5,0,train,25,1,-1,217,23,1090,720,https://www.youtube.com/watch?v=Dv1MRkt6Vrw,struggle_0002_aslu_55306.mp4,skipped_no_ytdlp
+3,55307,aslpro,24,0,train,25,1,-1,11,14,200,240,http://www.aslpro.com/main/s/struggle.swf,struggle_0003_aslpro_55307.mp4,skipped_swf
+4,66573,aslsignbank,100,0,train,25,1,-1,196,23,508,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STRUGGLE-1135.mp4,struggle_0004_aslsignbank_66573.mp4,failed
+5,55308,aslsearch,12,0,train,25,1,-1,194,54,560,400,http://www.aslsearch.com/signs/videos/struggle.mp4,struggle_0005_aslsearch_55308.mp4,ok
+6,55299,spreadthesign,63,0,train,25,1,-1,63,0,264,240,https://media.spreadthesign.com/video/mp4/13/50828.mp4,struggle_0006_spreadthesign_55299.mp4,ok
+7,55300,signschool,31,0,train,25,1,-1,441,47,1568,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Struggle-uqVAh0iTZYc.mp4,struggle_0007_signschool_55300.mp4,ok
+8,55301,signschool,6,0,train,25,1,-1,461,51,1494,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Struggle-VcdO9Lbpgkc.mp4,struggle_0008_signschool_55301.mp4,ok
+9,55302,asldeafined,21,0,test,25,1,-1,98,4,663,540,https://media.asldeafined.com/vocabulary/1546377054.7932.mp4,struggle_0009_asldeafined_55302.mp4,ok
+10,55303,handspeak,14,0,train,25,1,-1,85,0,599,480,https://www.handspeak.com/word/s/struggle.mp4,struggle_0010_handspeak_55303.mp4,failed
+11,55304,signingsavvy,10,0,test,25,1,-1,83,20,229,192,https://www.signingsavvy.com/signs/mp4/22/22239.mp4,struggle_0011_signingsavvy_55304.mp4,ok
+12,55305,aslu,5,0,val,25,1,-1,352,57,1019,720,https://www.youtube.com/watch?v=Amo4PeZ0HRM,struggle_0012_aslu_55305.mp4,skipped_no_ytdlp

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60450,asl5200,9,0,val,25,137,203,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,uncle_0000_asl5200_60450.mp4,skipped_no_ytdlp
+1,70331,northtexas,121,0,train,25,1011,1116,151,50,418,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,uncle_0001_northtexas_70331.mp4,skipped_no_ytdlp
+2,68498,lillybauer,112,0,train,25,1,42,268,22,877,720,https://www.youtube.com/watch?v=GSI7E1Ol0Yg,uncle_0002_lillybauer_68498.mp4,skipped_no_ytdlp
+3,60465,aslsearch,12,0,train,25,1,-1,148,53,556,400,http://www.aslsearch.com/signs/videos/uncle.mp4,uncle_0003_aslsearch_60465.mp4,ok
+4,60457,startasl,36,0,train,25,1,-1,189,9,529,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/uncle.mp4,uncle_0004_startasl_60457.mp4,ok
+5,67335,asllex,109,0,train,25,1,-1,67,21,376,360,https://youtu.be/qekgHNHb6mI,uncle_0005_asllex_67335.mp4,skipped_no_ytdlp
+6,60458,signschool,60,0,train,25,1,-1,268,9,794,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Uncle-1XGAkJAe4pw.mp4,uncle_0006_signschool_60458.mp4,ok
+7,60459,signschool,45,0,train,25,1,-1,559,130,1418,1062,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Uruguay%2C%20Uncle-YYjfewd3z_8.mp4,uncle_0007_signschool_60459.mp4,ok
+8,60460,asldeafined,13,0,train,25,1,-1,80,0,515,480,https://media.asldeafined.com/vocabulary/1468924696.8710.mp4,uncle_0008_asldeafined_60460.mp4,ok
+9,60461,handspeak,14,0,test,25,1,-1,24,30,526,480,https://www.handspeak.com/word/u/uncle.mp4,uncle_0009_handspeak_60461.mp4,failed
+10,60462,signingsavvy,11,0,train,25,1,-1,50,1,228,192,https://www.signingsavvy.com/signs/mp4/6/6567.mp4,uncle_0010_signingsavvy_60462.mp4,ok
+11,60463,aslu,5,0,test,25,1,-1,308,16,925,720,https://www.youtube.com/watch?v=PqtMCA2lu9w,uncle_0011_aslu_60463.mp4,skipped_no_ytdlp
+12,60464,aslpro,24,0,val,25,1,-1,10,21,203,240,http://www.aslpro.com/main/u/uncle.swf,uncle_0012_aslpro_60464.mp4,skipped_swf

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32509,asl5200,9,0,train,25,594,640,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lazy_0000_asl5200_32509.mp4,skipped_no_ytdlp
+1,32517,aslpro,30,0,train,25,1,-1,0,9,219,240,http://www.aslpro.com/main/l/lazy.swf,lazy_0001_aslpro_32517.mp4,skipped_swf
+2,32518,aslsearch,41,0,train,25,1,-1,250,47,497,400,http://www.aslsearch.com/signs/videos/lazy.mp4,lazy_0002_aslsearch_32518.mp4,ok
+3,66019,aslsignbank,90,0,val,25,1,-1,206,11,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAZY-679.mp4,lazy_0003_aslsignbank_66019.mp4,failed
+4,67833,asllex,109,0,train,25,1,-1,165,21,424,360,https://youtu.be/eOMNlsonmqo,lazy_0004_asllex_67833.mp4,skipped_no_ytdlp
+5,32510,spreadthesign,37,0,train,25,1,-1,71,4,237,240,https://media.spreadthesign.com/video/mp4/13/457505.mp4,lazy_0005_spreadthesign_32510.mp4,ok
+6,32511,startasl,38,0,train,25,1,-1,401,55,794,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/lazy.mp4,lazy_0006_startasl_32511.mp4,ok
+7,32512,asldeafined,13,0,train,25,1,-1,146,0,505,480,https://media.asldeafined.com/vocabulary/1468671583.772.mp4,lazy_0007_asldeafined_32512.mp4,ok
+8,32513,handspeak,20,0,val,25,1,-1,15,0,303,240,https://www.handspeak.com/word/l/lazy.mp4,lazy_0008_handspeak_32513.mp4,failed
+9,32514,signingsavvy,11,0,test,25,1,-1,88,13,213,192,https://www.signingsavvy.com/signs/mp4/8/8751.mp4,lazy_0009_signingsavvy_32514.mp4,ok
+10,32515,aslu,5,0,test,25,1,-1,355,32,937,720,https://www.youtube.com/watch?v=qsaNmriH9y4,lazy_0010_aslu_32515.mp4,skipped_no_ytdlp
+11,32516,aslu,5,0,train,25,1,-1,357,37,941,720,https://www.youtube.com/watch?v=stafgiooHts,lazy_0011_aslu_32516.mp4,skipped_no_ytdlp

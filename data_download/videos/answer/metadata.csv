@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02707,asl5200,9,0,train,25,2873,2922,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,answer_0000_asl5200_02707.mp4,skipped_no_ytdlp
+1,70275,northtexas,121,0,train,25,6799,6897,149,48,428,360,https://www.youtube.com/watch?v=WGfiiDgrq1I,answer_0001_northtexas_70275.mp4,skipped_no_ytdlp
+2,02718,aslsearch,41,0,train,25,1,-1,227,35,551,400,http://www.aslsearch.com/signs/videos/answer.mp4,answer_0002_aslsearch_02718.mp4,ok
+3,65076,aslsignbank,89,0,val,25,1,-1,197,40,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AN/ANSWER-2228.mp4,answer_0003_aslsignbank_65076.mp4,failed
+4,02710,elementalasl,19,0,train,25,1,-1,78,4,230,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/answer.mov,answer_0004_elementalasl_02710.mp4,ok
+5,02711,spreadthesign,56,0,train,25,1,-1,55,0,265,240,https://media.spreadthesign.com/video/mp4/13/51280.mp4,answer_0005_spreadthesign_02711.mp4,ok
+6,02712,signschool,32,0,train,25,1,-1,852,65,1633,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Order%2C%20Report-ry-A2Jnaih4.mp4,answer_0006_signschool_02712.mp4,ok
+7,02713,asldeafined,13,0,train,25,1,-1,131,19,563,480,https://media.asldeafined.com/vocabulary/1466510743.7605.mp4,answer_0007_asldeafined_02713.mp4,ok
+8,02714,handspeak,20,0,val,25,1,-1,129,2,563,480,https://www.handspeak.com/word/a/answer.mp4,answer_0008_handspeak_02714.mp4,failed
+9,02715,signingsavvy,11,0,test,25,1,-1,73,14,208,192,https://www.signingsavvy.com/signs/mp4/5/5604.mp4,answer_0009_signingsavvy_02715.mp4,ok
+10,02716,aslu,5,0,test,25,1,-1,77,22,445,360,https://www.youtube.com/watch?v=LjkLVzAtHyQ,answer_0010_aslu_02716.mp4,skipped_no_ytdlp
+11,02717,aslpro,16,0,train,25,1,-1,14,20,234,240,http://www.aslpro.com/main/a/answer.swf,answer_0011_aslpro_02717.mp4,skipped_swf

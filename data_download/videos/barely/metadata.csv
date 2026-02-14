@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65138,aslsignbank,90,0,test,25,1,-1,175,17,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BARELY-650.mp4,barely_0000_aslsignbank_65138.mp4,failed
+1,05068,handspeak,20,0,train,25,1,-1,68,17,454,360,https://www.handspeak.com/word/b/barely.mp4,barely_0001_handspeak_05068.mp4,failed
+2,05069,signingsavvy,10,0,train,25,1,-1,47,0,205,192,https://www.signingsavvy.com/signs/mp4/22/22528.mp4,barely_0002_signingsavvy_05069.mp4,ok
+4,05071,aslu,5,0,val,25,1,-1,307,29,928,720,https://www.youtube.com/watch?v=IMuM8KQH2pY,barely_0004_aslu_05071.mp4,skipped_no_ytdlp
+5,05062,spreadthesign,8,0,train,25,1,-1,65,0,233,240,https://media.spreadthesign.com/video/mp4/13/455485.mp4,barely_0005_spreadthesign_05062.mp4,ok
+8,05074,aslsearch,12,0,test,25,1,-1,164,51,565,400,http://www.aslsearch.com/signs/videos/barely.mp4,barely_0008_aslsearch_05074.mp4,ok
+9,05063,signschool,6,0,train,25,1,-1,597,65,1400,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Barely%202-7gpdkZaRovQ.mp4,barely_0009_signschool_05063.mp4,ok
+10,05064,signschool,6,0,train,25,1,-1,574,71,1487,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Barely-nNKYaJoLcAg.mp4,barely_0010_signschool_05064.mp4,ok
+11,05065,signschool,32,0,train,25,1,-1,424,63,1572,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Barely-ryddUQAEV_0.mp4,barely_0011_signschool_05065.mp4,ok
+12,05066,signschool,4,0,train,25,1,-1,504,82,1599,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Barely-Z6xFskorahw.mp4,barely_0012_signschool_05066.mp4,ok
+13,05067,asldeafined,13,0,val,25,1,-1,121,31,517,480,https://media.asldeafined.com/vocabulary/1466649145.6852.mp4,barely_0013_asldeafined_05067.mp4,ok

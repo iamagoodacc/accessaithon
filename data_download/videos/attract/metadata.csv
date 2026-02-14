@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04056,asl5200,9,0,test,25,4557,4603,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,attract_0000_asl5200_04056.mp4,skipped_no_ytdlp
+1,04066,handspeak,14,1,train,25,1,-1,82,46,563,480,https://www.handspeak.com/word/a/attract-pull2.mp4,attract_0001_handspeak_04066.mp4,failed
+2,04067,handspeak,14,1,test,25,1,-1,56,0,598,480,https://www.handspeak.com/word/a/attract-pull.mp4,attract_0002_handspeak_04067.mp4,failed
+6,04062,spreadthesign,2,0,train,25,1,-1,66,3,263,240,https://media.spreadthesign.com/video/mp4/13/122834.mp4,attract_0006_spreadthesign_04062.mp4,ok
+7,04072,signingsavvy,11,0,train,25,1,-1,75,12,205,192,https://www.signingsavvy.com/signs/mp4/14/14292.mp4,attract_0007_signingsavvy_04072.mp4,ok
+8,04073,signingsavvy,11,0,train,25,1,-1,75,12,205,192,https://www.signingsavvy.com/signs/mp4/14/14292.mp4,attract_0008_signingsavvy_04073.mp4,ok
+10,04075,aslpro,49,1,val,25,1,-1,22,18,221,240,http://www.aslpro.com/main/a/attract_2.swf,attract_0010_aslpro_04075.mp4,skipped_swf
+11,04076,aslsearch,12,0,train,25,1,-1,200,48,570,400,http://www.aslsearch.com/signs/videos/attract.mp4,attract_0011_aslsearch_04076.mp4,ok
+12,04063,signschool,32,1,train,25,1,-1,457,65,1642,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Attract%2C%20Draw%20People%27s%20Attention-vQvorv-uhWU.mp4,attract_0012_signschool_04063.mp4,ok
+13,04064,asldeafined,13,0,val,25,1,-1,115,22,535,480,https://media.asldeafined.com/vocabulary/1466646562.1295.mp4,attract_0013_asldeafined_04064.mp4,ok
+14,04065,handspeak,20,1,train,25,1,-1,171,6,548,360,https://www.handspeak.com/word/a/attract-physics.mp4,attract_0014_handspeak_04065.mp4,failed

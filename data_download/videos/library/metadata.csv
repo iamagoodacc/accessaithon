@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33048,asl5200,9,0,train,25,1428,1500,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,library_0000_asl5200_33048.mp4,skipped_no_ytdlp
+1,68206,lillybauer,111,0,train,25,1,79,367,84,957,720,https://www.youtube.com/watch?v=1pnFbzgiJoA,library_0001_lillybauer_68206.mp4,skipped_no_ytdlp
+2,70226,northtexas,121,0,train,25,981,1112,147,40,405,360,https://www.youtube.com/watch?v=4Nh1iFv2BMc,library_0002_northtexas_70226.mp4,skipped_no_ytdlp
+3,33051,spreadthesign,8,0,val,25,1,-1,47,2,235,240,https://media.spreadthesign.com/video/mp4/13/457535.mp4,library_0003_spreadthesign_33051.mp4,ok
+4,67843,asllex,109,0,train,25,1,-1,98,18,379,360,https://youtu.be/RXFxKLQPDz0,library_0004_asllex_67843.mp4,skipped_no_ytdlp
+5,33052,startasl,36,0,train,25,1,-1,180,18,527,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/library.mp4,library_0005_startasl_33052.mp4,ok
+6,33053,asldeafined,13,0,train,25,1,-1,119,0,548,480,https://media.asldeafined.com/vocabulary/1468711399.8921.mp4,library_0006_asldeafined_33053.mp4,ok
+7,33054,handspeak,14,0,train,25,1,-1,22,0,320,240,https://www.handspeak.com/word/l/library.mp4,library_0007_handspeak_33054.mp4,failed
+8,33055,signingsavvy,11,0,val,25,1,-1,91,13,235,192,https://www.signingsavvy.com/signs/mp4/8/8217.mp4,library_0008_signingsavvy_33055.mp4,ok
+9,33056,aslu,5,0,test,25,1,-1,318,25,902,720,https://www.youtube.com/watch?v=CSaOomMxWl4,library_0009_aslu_33056.mp4,skipped_no_ytdlp
+10,33057,aslpro,44,0,test,25,1,-1,20,0,212,240,http://www.aslpro.com/main/l/library.swf,library_0010_aslpro_33057.mp4,skipped_swf
+11,33058,aslsearch,41,0,train,25,1,-1,218,42,484,400,http://www.aslsearch.com/signs/videos/library.mp4,library_0011_aslsearch_33058.mp4,ok

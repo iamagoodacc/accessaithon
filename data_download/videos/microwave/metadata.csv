@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35944,asl5200,9,0,train,25,1341,1380,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,microwave_0000_asl5200_35944.mp4,skipped_no_ytdlp
+1,35949,handspeak,14,0,train,25,1,-1,33,16,253,240,https://www.handspeak.com/word/m/microwave.mp4,microwave_0001_handspeak_35949.mp4,failed
+2,35950,signingsavvy,11,0,train,25,1,-1,62,13,224,192,https://www.signingsavvy.com/signs/mp4/9/9112.mp4,microwave_0002_signingsavvy_35950.mp4,ok
+3,35951,aslu,5,0,val,25,1,-1,297,27,1041,720,https://www.youtube.com/watch?v=kzvEJrS357s,microwave_0003_aslu_35951.mp4,skipped_no_ytdlp
+5,35953,aslu,5,0,train,25,1,-1,342,44,964,720,https://www.youtube.com/watch?v=ol8-J6I671Q,microwave_0005_aslu_35953.mp4,skipped_no_ytdlp
+6,66121,aslsignbank,97,0,train,25,1,-1,180,30,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MICROWAVE-1612.mp4,microwave_0006_aslsignbank_66121.mp4,failed
+7,67892,asllex,109,0,train,25,1,-1,78,19,400,360,https://youtu.be/poVDlJ6y6TE,microwave_0007_asllex_67892.mp4,skipped_no_ytdlp
+10,35956,aslsearch,12,0,train,25,1,-1,176,51,533,400,http://www.aslsearch.com/signs/videos/microwave2.mp4,microwave_0010_aslsearch_35956.mp4,ok
+11,35945,spreadthesign,37,0,val,25,1,-1,51,0,252,240,https://media.spreadthesign.com/video/mp4/13/456995.mp4,microwave_0011_spreadthesign_35945.mp4,ok
+12,35946,startasl,38,0,test,25,1,-1,394,66,836,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/microwave.mp4,microwave_0012_startasl_35946.mp4,ok
+13,35947,signschool,39,0,test,25,1,-1,722,43,1767,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Microwave-LORew8H73f8.mp4,microwave_0013_signschool_35947.mp4,ok
+14,35948,asldeafined,13,0,train,25,1,-1,47,0,586,480,https://media.asldeafined.com/vocabulary/1468715181.6067.mp4,microwave_0014_asldeafined_35948.mp4,ok

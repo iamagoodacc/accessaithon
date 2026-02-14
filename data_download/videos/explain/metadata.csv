@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20434,asl5200,9,0,val,25,3430,3509,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,explain_0000_asl5200_20434.mp4,skipped_no_ytdlp
+1,70218,northtexas,121,0,train,25,3398,3496,107,24,280,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,explain_0001_northtexas_70218.mp4,skipped_no_ytdlp
+2,20442,aslu,5,0,train,25,1,-1,195,12,1020,720,https://www.youtube.com/watch?v=dsIDFOyrOGg,explain_0002_aslu_20442.mp4,skipped_no_ytdlp
+3,20443,aslu,5,0,train,25,1,-1,195,12,1020,720,https://www.youtube.com/watch?v=dsIDFOyrOGg,explain_0003_aslu_20443.mp4,skipped_no_ytdlp
+4,20444,aslpro,24,0,train,25,1,-1,11,8,216,240,http://www.aslpro.com/main/e/explain.swf,explain_0004_aslpro_20444.mp4,skipped_swf
+5,20445,aslsearch,12,0,train,25,1,-1,196,55,555,400,http://www.aslsearch.com/signs/videos/explain.mp4,explain_0005_aslsearch_20445.mp4,ok
+6,20435,elementalasl,19,0,train,25,1,-1,84,11,238,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/explain.mov,explain_0006_elementalasl_20435.mp4,ok
+7,20436,spreadthesign,2,0,train,25,1,-1,74,41,239,240,https://media.spreadthesign.com/video/mp4/13/92972.mp4,explain_0007_spreadthesign_20436.mp4,ok
+8,20437,signschool,32,0,train,25,1,-1,512,80,1625,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Describe%2C%20Explain-4_jchbhDv54.mp4,explain_0008_signschool_20437.mp4,ok
+9,20438,asldeafined,21,0,test,25,1,-1,53,0,566,480,https://media.asldeafined.com/vocabulary/1468379465.5362.mp4,explain_0009_asldeafined_20438.mp4,ok
+10,20439,handspeak,20,0,train,25,1,-1,56,5,275,240,https://www.handspeak.com/word/e/explain.mp4,explain_0010_handspeak_20439.mp4,failed
+11,20440,signingsavvy,10,0,test,25,1,-1,75,21,225,192,https://www.signingsavvy.com/signs/mp4/22/22623.mp4,explain_0011_signingsavvy_20440.mp4,ok
+12,20441,signingsavvy,10,0,val,25,1,-1,51,23,233,192,https://www.signingsavvy.com/signs/mp4/23/23266.mp4,explain_0012_signingsavvy_20441.mp4,ok

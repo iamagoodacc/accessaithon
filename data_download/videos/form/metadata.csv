@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23042,spreadthesign,37,0,test,25,1,-1,54,0,270,240,https://media.spreadthesign.com/video/mp4/13/456358.mp4,form_0000_spreadthesign_23042.mp4,ok
+1,23047,handspeak,14,0,train,25,1,-1,61,0,284,240,https://www.handspeak.com/word/f/form-apply.mp4,form_0001_handspeak_23047.mp4,failed
+3,23049,signingsavvy,11,0,train,25,1,-1,52,11,223,192,https://www.signingsavvy.com/signs/mp4/1/1587.mp4,form_0003_signingsavvy_23049.mp4,ok
+4,23050,signingsavvy,10,1,test,25,1,-1,73,24,215,192,https://www.signingsavvy.com/signs/mp4/22/22337.mp4,form_0004_signingsavvy_23050.mp4,ok
+5,23051,signingsavvy,10,1,train,25,1,-1,81,23,217,192,https://www.signingsavvy.com/signs/mp4/22/22338.mp4,form_0005_signingsavvy_23051.mp4,ok
+7,23053,aslu,5,1,train,25,1,-1,259,36,998,720,https://www.youtube.com/watch?v=K3jVXZm_PFQ,form_0007_aslu_23053.mp4,skipped_no_ytdlp
+8,23054,aslpro,24,1,train,25,1,-1,15,8,212,240,http://www.aslpro.com/main/f/form.swf,form_0008_aslpro_23054.mp4,skipped_swf
+9,23055,aslsearch,12,1,train,25,1,-1,178,50,542,400,http://www.aslsearch.com/signs/videos/fix.mp4,form_0009_aslsearch_23055.mp4,ok
+10,23056,aslsearch,12,0,train,25,1,-1,170,45,535,400,http://www.aslsearch.com/signs/videos/form.mp4,form_0010_aslsearch_23056.mp4,ok
+11,23043,signschool,32,0,train,25,1,-1,649,66,1731,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Frame%202-aJaYGpr0g0I.mp4,form_0011_signschool_23043.mp4,ok
+13,23045,asldeafined,21,0,val,25,1,-1,71,2,589,480,https://media.asldeafined.com/vocabulary/1468513555.1670.mp4,form_0013_asldeafined_23045.mp4,ok
+14,23046,asldeafined,21,1,val,25,1,-1,78,7,575,480,https://media.asldeafined.com/vocabulary/1468513584.6685.mp4,form_0014_asldeafined_23046.mp4,ok

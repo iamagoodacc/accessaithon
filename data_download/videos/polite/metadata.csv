@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43570,asl5200,9,0,train,25,3369,3408,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,polite_0000_asl5200_43570.mp4,skipped_no_ytdlp
+1,43578,aslu,5,0,train,25,1,-1,336,31,927,720,https://www.youtube.com/watch?v=C_jOZel_Q4E,polite_0001_aslu_43578.mp4,skipped_no_ytdlp
+2,43579,aslpro,87,0,train,25,1,-1,24,21,205,240,http://www.aslpro.com/main/p/polite.swf,polite_0002_aslpro_43579.mp4,skipped_swf
+3,66308,aslsignbank,101,0,val,25,1,-1,192,10,466,366,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POLITE-914.mp4,polite_0003_aslsignbank_66308.mp4,failed
+4,43580,aslsearch,41,0,train,25,1,-1,234,40,484,400,http://www.aslsearch.com/signs/videos/courteous.mp4,polite_0004_aslsearch_43580.mp4,ok
+5,43571,spreadthesign,56,0,train,25,1,-1,46,0,263,240,https://media.spreadthesign.com/video/mp4/13/49175.mp4,polite_0005_spreadthesign_43571.mp4,ok
+6,43572,signschool,4,0,train,25,1,-1,771,60,1661,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Fancy%202-CHKoDIdgR0o.mp4,polite_0006_signschool_43572.mp4,ok
+7,43573,asldeafined,13,0,train,25,1,-1,115,0,533,480,https://media.asldeafined.com/vocabulary/1468754463.3412.mp4,polite_0007_asldeafined_43573.mp4,ok
+8,43574,handspeak,20,0,val,25,1,-1,106,0,565,480,https://www.handspeak.com/word/p/polite.mp4,polite_0008_handspeak_43574.mp4,failed
+9,43575,signingsavvy,11,0,test,25,1,-1,72,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6236.mp4,polite_0009_signingsavvy_43575.mp4,ok
+10,43576,aslu,5,0,test,25,1,-1,330,43,934,720,https://www.youtube.com/watch?v=1p_XFIHeOeI,polite_0010_aslu_43576.mp4,skipped_no_ytdlp
+11,43577,aslu,5,0,train,25,1,-1,94,3,466,360,https://www.youtube.com/watch?v=C_jOZel_Q4E,polite_0011_aslu_43577.mp4,skipped_no_ytdlp

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59902,asl5200,9,0,train,25,5423,5489,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tuesday_0000_asl5200_59902.mp4,skipped_no_ytdlp
+1,70024,northtexas,121,0,train,25,1120,1205,159,20,474,480,https://www.youtube.com/watch?v=sErq0TJMKEo,tuesday_0001_northtexas_70024.mp4,skipped_no_ytdlp
+2,59909,signingsavvy,11,0,train,25,1,-1,82,14,224,192,https://www.signingsavvy.com/signs/mp4/6/6984.mp4,tuesday_0002_signingsavvy_59909.mp4,ok
+3,59910,signingsavvy,11,0,val,25,1,-1,68,20,213,192,https://www.signingsavvy.com/signs/mp4/8/8981.mp4,tuesday_0003_signingsavvy_59910.mp4,ok
+4,59911,aslu,5,0,train,25,1,-1,356,34,954,720,https://www.youtube.com/watch?v=JKCbn8k968s,tuesday_0004_aslu_59911.mp4,skipped_no_ytdlp
+6,59912,aslpro,25,0,train,25,1,-1,0,8,240,240,http://www.aslpro.com/main/t/tuesday.swf,tuesday_0006_aslpro_59912.mp4,skipped_swf
+7,59913,aslsearch,12,0,train,25,1,-1,180,52,562,400,http://www.aslsearch.com/signs/videos/tuesday.mp4,tuesday_0007_aslsearch_59913.mp4,ok
+8,59903,spreadthesign,56,0,train,25,1,-1,57,0,277,240,https://media.spreadthesign.com/video/mp4/13/50928.mp4,tuesday_0008_spreadthesign_59903.mp4,ok
+9,59904,startasl,38,0,val,25,1,-1,399,52,809,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tuesday.mp4,tuesday_0009_startasl_59904.mp4,ok
+10,59905,signschool,3,0,test,25,1,-1,522,0,1360,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tuesday-Lik7ixoBok8.mp4,tuesday_0010_signschool_59905.mp4,ok
+11,59906,asldeafined,13,0,test,25,1,-1,148,0,530,480,https://media.asldeafined.com/vocabulary/1468947589.9689.mp4,tuesday_0011_asldeafined_59906.mp4,ok
+12,59907,handspeak,20,0,train,25,1,-1,36,8,269,240,https://www.handspeak.com/word/t/tuesday.mp4,tuesday_0012_handspeak_59907.mp4,failed

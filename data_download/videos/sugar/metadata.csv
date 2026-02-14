@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55656,asl5200,9,0,train,25,10110,10179,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sugar_0000_asl5200_55656.mp4,skipped_no_ytdlp
+2,55666,aslu,5,0,train,25,1,-1,348,57,928,720,https://www.youtube.com/watch?v=QOcJYWXS3Mo,sugar_0002_aslu_55666.mp4,skipped_no_ytdlp
+3,55667,aslpro,87,0,train,25,1,-1,22,10,225,240,http://www.aslpro.com/main/s/sugar.swf,sugar_0003_aslpro_55667.mp4,skipped_swf
+4,55658,spreadthesign,28,0,val,25,1,-1,60,1,266,240,https://media.spreadthesign.com/video/mp4/13/482575.mp4,sugar_0004_spreadthesign_55658.mp4,ok
+5,55668,aslsearch,12,0,train,25,1,-1,198,52,538,400,http://www.aslsearch.com/signs/videos/sugar.mp4,sugar_0005_aslsearch_55668.mp4,ok
+6,55659,startasl,38,0,train,25,1,-1,426,60,807,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sugar.mp4,sugar_0006_startasl_55659.mp4,ok
+7,55660,signschool,4,0,train,25,1,-1,732,50,1609,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sugar%2C%20Diabetes-d65br6hli5M.mp4,sugar_0007_signschool_55660.mp4,ok
+8,55661,asldeafined,13,0,train,25,1,-1,148,0,508,480,https://media.asldeafined.com/vocabulary/1468897815.3361.mp4,sugar_0008_asldeafined_55661.mp4,ok
+9,55662,handspeak,14,0,val,25,1,-1,133,0,486,480,https://www.handspeak.com/word/s/sugar.mp4,sugar_0009_handspeak_55662.mp4,failed
+10,55663,signingsavvy,11,0,test,25,1,-1,69,11,207,192,https://www.signingsavvy.com/signs/mp4/8/8732.mp4,sugar_0010_signingsavvy_55663.mp4,ok
+11,55664,signingsavvy,11,0,test,25,1,-1,70,9,211,192,https://www.signingsavvy.com/signs/mp4/8/8734.mp4,sugar_0011_signingsavvy_55664.mp4,ok
+12,55665,aslu,5,0,train,25,1,-1,331,32,968,720,https://www.youtube.com/watch?v=FQqtdHeGwl4,sugar_0012_aslu_55665.mp4,skipped_no_ytdlp

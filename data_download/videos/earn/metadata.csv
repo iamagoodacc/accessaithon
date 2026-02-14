@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18190,asl5200,9,0,val,25,295,334,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,earn_0000_asl5200_18190.mp4,skipped_no_ytdlp
+1,18202,aslu,5,0,train,25,1,-1,96,8,422,360,https://www.youtube.com/watch?v=JzZuG8oDWP4,earn_0001_aslu_18202.mp4,skipped_no_ytdlp
+2,18203,aslpro,30,0,train,25,1,-1,0,15,224,240,http://www.aslpro.com/main/e/earn.swf,earn_0002_aslpro_18203.mp4,skipped_swf
+3,18204,aslsearch,12,0,train,25,1,-1,182,52,540,400,http://www.aslsearch.com/signs/videos/earn.mp4,earn_0003_aslsearch_18204.mp4,ok
+4,65594,aslsignbank,94,0,train,25,1,-1,161,22,456,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EARN-813.mp4,earn_0004_aslsignbank_65594.mp4,failed
+5,18195,spreadthesign,2,0,train,25,1,-1,73,36,239,240,https://media.spreadthesign.com/video/mp4/13/93340.mp4,earn_0005_spreadthesign_18195.mp4,ok
+6,67604,asllex,109,0,train,25,1,-1,99,22,387,360,https://youtu.be/CwN54pytSnQ,earn_0006_asllex_67604.mp4,skipped_no_ytdlp
+7,18196,signschool,32,0,train,25,1,-1,403,39,1067,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Collect%252C%20Earn%252C%20Revenue.mp4,earn_0007_signschool_18196.mp4,ok
+8,18197,asldeafined,21,0,train,25,1,-1,111,12,544,480,https://media.asldeafined.com/vocabulary/1468347661.4698.mp4,earn_0008_asldeafined_18197.mp4,ok
+9,18198,handspeak,14,0,test,25,1,-1,65,18,263,240,https://www.handspeak.com/word/e/earn.mp4,earn_0009_handspeak_18198.mp4,failed
+10,18199,signingsavvy,11,0,train,25,1,-1,49,13,222,192,https://www.signingsavvy.com/signs/mp4/7/7466.mp4,earn_0010_signingsavvy_18199.mp4,ok
+11,18200,aslu,5,0,test,25,1,-1,321,52,928,720,https://www.youtube.com/watch?v=ejCU3dKZ7tY,earn_0011_aslu_18200.mp4,skipped_no_ytdlp
+12,18201,aslu,5,0,val,25,1,-1,326,51,929,720,https://www.youtube.com/watch?v=gRa4r8ePBHc,earn_0012_aslu_18201.mp4,skipped_no_ytdlp

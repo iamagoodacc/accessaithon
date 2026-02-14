@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52502,asl5200,9,0,val,25,5349,5438,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,slow_0000_asl5200_52502.mp4,skipped_no_ytdlp
+1,52513,scott,82,0,train,25,1,-1,291,3,863,720,https://www.youtube.com/watch?v=wMhfB7vecro,slow_0001_scott_52513.mp4,skipped_no_ytdlp
+2,52514,aslpro,84,0,train,25,1,-1,38,0,213,240,http://www.aslpro.com/main/s/slow.swf,slow_0002_aslpro_52514.mp4,skipped_swf
+3,52515,aslsearch,41,0,train,25,1,-1,248,39,503,400,http://www.aslsearch.com/signs/videos/slow.mp4,slow_0003_aslsearch_52515.mp4,ok
+4,66508,aslsignbank,108,0,train,25,1,-1,188,43,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SL/SLOW-261.mp4,slow_0004_aslsignbank_66508.mp4,failed
+5,52506,spreadthesign,28,0,train,25,1,-1,65,0,273,240,https://media.spreadthesign.com/video/mp4/13/486598.mp4,slow_0005_spreadthesign_52506.mp4,ok
+6,67213,asllex,109,0,train,25,1,-1,104,14,382,360,https://youtu.be/gluqqnoSqx8,slow_0006_asllex_67213.mp4,skipped_no_ytdlp
+7,52507,startasl,36,0,train,25,1,-1,246,12,540,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/slow.mp4,slow_0007_startasl_52507.mp4,ok
+8,52508,signschool,6,0,train,25,1,-1,771,79,1595,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Slow-fUy_ttG5QxY.mp4,slow_0008_signschool_52508.mp4,ok
+9,52509,asldeafined,13,0,test,25,1,-1,145,0,525,480,https://media.asldeafined.com/vocabulary/1468767957.1850.mp4,slow_0009_asldeafined_52509.mp4,ok
+10,52510,asldeafined,15,0,train,25,1,-1,141,26,546,480,https://media.asldeafined.com/vocabulary/1522767290.120.mp4,slow_0010_asldeafined_52510.mp4,ok
+11,52511,handspeak,14,0,test,25,1,-1,74,11,233,240,https://www.handspeak.com/word/s/slow.mp4,slow_0011_handspeak_52511.mp4,failed
+12,52512,signingsavvy,11,0,val,25,1,-1,89,16,212,192,https://www.signingsavvy.com/signs/mp4/14/14352.mp4,slow_0012_signingsavvy_52512.mp4,ok

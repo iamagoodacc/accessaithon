@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41937,asl5200,9,0,val,25,1331,1383,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pepper_0000_asl5200_41937.mp4,skipped_no_ytdlp
+1,70068,northtexas,121,0,train,25,2756,2869,47,34,463,480,https://www.youtube.com/watch?v=jDCw7stJaM4,pepper_0001_northtexas_70068.mp4,skipped_no_ytdlp
+2,41942,signschool,45,0,train,25,1,-1,415,139,1417,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pepper%2C%20Shake-5j8GlxSR9aA.mp4,pepper_0002_signschool_41942.mp4,ok
+3,41943,asldeafined,13,0,train,25,1,-1,44,0,519,480,https://media.asldeafined.com/vocabulary/1468724909.6782.mp4,pepper_0003_asldeafined_41943.mp4,ok
+4,41944,handspeak,14,0,train,25,1,-1,39,14,263,240,https://www.handspeak.com/word/p/pepper-black.mp4,pepper_0004_handspeak_41944.mp4,failed
+5,41945,signingsavvy,11,0,train,25,1,-1,88,15,225,192,https://www.signingsavvy.com/signs/mp4/8/8000.mp4,pepper_0005_signingsavvy_41945.mp4,ok
+7,67975,asllex,109,0,train,25,1,-1,64,0,360,360,https://youtu.be/HPvP8fUWwks,pepper_0007_asllex_67975.mp4,skipped_no_ytdlp
+8,41947,aslu,5,0,train,25,1,-1,234,60,939,720,https://www.youtube.com/watch?v=UYVDfe4FgUQ,pepper_0008_aslu_41947.mp4,skipped_no_ytdlp
+9,41948,aslpro,30,0,train,25,1,-1,0,13,234,240,http://www.aslpro.com/main/p/pepper.swf,pepper_0009_aslpro_41948.mp4,skipped_swf
+12,41938,spreadthesign,2,0,test,25,1,-1,31,27,240,240,https://media.spreadthesign.com/video/mp4/13/91562.mp4,pepper_0012_spreadthesign_41938.mp4,ok
+13,41939,startasl,38,0,train,25,1,-1,377,62,811,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/pepper.mp4,pepper_0013_startasl_41939.mp4,ok
+14,41940,signschool,45,0,test,25,1,-1,463,135,1490,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pepper%2C%20Shake%202-IsbF6PZcOsU.mp4,pepper_0014_signschool_41940.mp4,ok
+15,41941,signschool,45,0,val,25,1,-1,255,132,1490,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pepper%2C%20Shake%203-RblFCcMkvmQ.mp4,pepper_0015_signschool_41941.mp4,ok

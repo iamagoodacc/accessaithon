@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08858,asl5200,9,0,test,25,570,622,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cancel_0000_asl5200_08858.mp4,skipped_no_ytdlp
+1,08867,aslpro,16,0,train,25,1,-1,5,17,214,240,http://www.aslpro.com/main/c/cancel.swf,cancel_0001_aslpro_08867.mp4,skipped_swf
+2,08868,aslsearch,12,0,train,25,1,-1,164,53,540,400,http://www.aslsearch.com/signs/videos/cancel.mp4,cancel_0002_aslsearch_08868.mp4,ok
+3,08859,spreadthesign,2,0,val,25,1,-1,20,0,267,240,https://media.spreadthesign.com/video/mp4/13/125748.mp4,cancel_0003_spreadthesign_08859.mp4,ok
+4,08860,startasl,38,0,train,25,1,-1,383,53,795,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cancel.mp4,cancel_0004_startasl_08860.mp4,ok
+5,08861,signschool,4,0,test,25,1,-1,376,69,1621,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cancel%20copy-mOQsOXWwXyk.mp4,cancel_0005_signschool_08861.mp4,ok
+6,08862,signschool,31,0,train,25,1,-1,584,58,1423,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cancel-s4XJlFW3giI.mp4,cancel_0006_signschool_08862.mp4,ok
+7,08863,signschool,4,0,train,25,1,-1,372,35,1593,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Swipe%20Right%20and%20Left%2C%20Cancel-8J1_edSuVG4.mp4,cancel_0007_signschool_08863.mp4,ok
+8,08864,handspeak,14,0,train,25,1,-1,65,8,255,240,https://www.handspeak.com/word/c/cancel.mp4,cancel_0008_handspeak_08864.mp4,failed
+9,08865,signingsavvy,10,0,train,25,1,-1,63,20,204,192,https://www.signingsavvy.com/signs/mp4/22/22112.mp4,cancel_0009_signingsavvy_08865.mp4,ok
+10,08866,signingsavvy,11,0,val,25,1,-1,63,11,215,192,https://www.signingsavvy.com/signs/mp4/9/9905.mp4,cancel_0010_signingsavvy_08866.mp4,ok

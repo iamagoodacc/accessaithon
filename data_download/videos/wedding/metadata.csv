@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62684,asl5200,9,0,train,25,1237,1286,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,wedding_0000_asl5200_62684.mp4,skipped_no_ytdlp
+1,68468,lillybauer,112,0,train,25,1,41,359,37,981,720,https://www.youtube.com/watch?v=G252poTOgQQ,wedding_0001_lillybauer_68468.mp4,skipped_no_ytdlp
+3,62697,aslsearch,12,0,train,25,1,-1,142,57,623,400,http://www.aslsearch.com/signs/videos/wedding.mp4,wedding_0003_aslsearch_62697.mp4,ok
+4,66757,aslsignbank,91,0,val,25,1,-1,161,27,598,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEDDING-2022.mp4,wedding_0004_aslsignbank_66757.mp4,failed
+5,62689,spreadthesign,56,0,train,25,1,-1,29,0,301,240,https://media.spreadthesign.com/video/mp4/13/50949.mp4,wedding_0005_spreadthesign_62689.mp4,ok
+6,67050,asllex,109,0,train,25,1,-1,20,19,440,360,https://youtu.be/5o1jKu0OZp0,wedding_0006_asllex_67050.mp4,skipped_no_ytdlp
+7,62690,startasl,38,0,train,25,1,-1,361,71,904,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/wedding.mp4,wedding_0007_startasl_62690.mp4,ok
+8,62691,signschool,6,0,train,25,1,-1,406,26,1059,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Wedding.mp4,wedding_0008_signschool_62691.mp4,ok
+9,62692,asldeafined,13,0,val,25,1,-1,72,0,570,480,https://media.asldeafined.com/vocabulary/1468927533.9629.mp4,wedding_0009_asldeafined_62692.mp4,ok
+10,62693,handspeak,20,0,test,25,1,-1,45,0,569,480,https://www.handspeak.com/word/w/wedding.mp4,wedding_0010_handspeak_62693.mp4,failed
+11,62694,signingsavvy,10,0,test,25,1,-1,57,15,238,192,https://www.signingsavvy.com/signs/mp4/23/23783.mp4,wedding_0011_signingsavvy_62694.mp4,ok
+12,62695,aslu,5,0,train,25,1,-1,21,25,503,360,https://www.youtube.com/watch?v=jed065StKQI,wedding_0012_aslu_62695.mp4,skipped_no_ytdlp

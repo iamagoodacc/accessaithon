@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62637,asl5200,9,0,val,25,1184,1236,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,weather_0000_asl5200_62637.mp4,skipped_no_ytdlp
+1,62642,signschool,4,0,test,25,1,-1,700,80,1578,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weather-xwl90Vsjk2g.mp4,weather_0001_signschool_62642.mp4,ok
+2,62643,asldeafined,13,0,train,25,1,-1,133,0,520,480,https://media.asldeafined.com/vocabulary/1468927495.8083.mp4,weather_0002_asldeafined_62643.mp4,ok
+4,62645,signingsavvy,11,0,train,25,1,-1,66,7,215,192,https://www.signingsavvy.com/signs/mp4/14/14639.mp4,weather_0004_signingsavvy_62645.mp4,ok
+5,62646,signingsavvy,11,1,train,25,1,-1,69,15,221,192,https://www.signingsavvy.com/signs/mp4/6/6662.mp4,weather_0005_signingsavvy_62646.mp4,ok
+6,67049,asllex,109,1,test,25,1,-1,90,29,398,360,https://youtu.be/e9sabI7vO2A,weather_0006_asllex_67049.mp4,skipped_no_ytdlp
+7,62647,aslu,5,0,train,25,1,-1,316,32,954,720,https://www.youtube.com/watch?v=NOcMCP5hyqo,weather_0007_aslu_62647.mp4,skipped_no_ytdlp
+8,62648,aslu,5,1,val,25,1,-1,287,44,981,720,https://www.youtube.com/watch?v=rivNmNN-GTo,weather_0008_aslu_62648.mp4,skipped_no_ytdlp
+9,62649,aslpro,72,1,train,25,1,-1,0,2,231,240,http://www.aslpro.com/main/w/weather.swf,weather_0009_aslpro_62649.mp4,skipped_swf
+10,62650,aslsearch,12,1,train,25,1,-1,179,51,555,400,http://www.aslsearch.com/signs/videos/weather.mp4,weather_0010_aslsearch_62650.mp4,ok
+11,62638,elementalasl,43,0,val,25,1,-1,56,8,242,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/weathering.mov,weather_0011_elementalasl_62638.mp4,ok
+12,62639,startasl,38,0,train,25,1,-1,405,55,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/weather.mp4,weather_0012_startasl_62639.mp4,ok
+14,62641,signschool,4,0,train,25,1,-1,704,37,1669,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weather-uXiLBxk5M1c.mp4,weather_0014_signschool_62641.mp4,ok

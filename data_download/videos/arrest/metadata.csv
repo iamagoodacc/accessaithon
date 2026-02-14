@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,03420,signschool,4,0,test,25,1,-1,364,69,1531,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrest-drdpDbNx0TM.mp4,arrest_0001_signschool_03420.mp4,ok
+3,03422,handspeak,20,1,train,25,1,-1,132,21,485,480,https://www.handspeak.com/word/a/arrest.mp4,arrest_0003_handspeak_03422.mp4,failed
+4,03423,handspeak,14,0,train,25,1,-1,308,25,1043,720,https://www.handspeak.com/word/a/arrest-wrist.mp4,arrest_0004_handspeak_03423.mp4,failed
+6,03425,signingsavvy,11,1,test,25,1,-1,54,14,213,192,https://www.signingsavvy.com/signs/mp4/6/6499.mp4,arrest_0006_signingsavvy_03425.mp4,ok
+8,03426,aslu,5,1,val,25,1,-1,348,56,936,720,https://www.youtube.com/watch?v=gRZrAXcXx0A,arrest_0008_aslu_03426.mp4,skipped_no_ytdlp
+9,03427,aslu,5,0,train,25,1,-1,363,59,960,720,https://www.youtube.com/watch?v=lEidOpvXY_o,arrest_0009_aslu_03427.mp4,skipped_no_ytdlp
+11,03429,aslpro,49,1,train,25,1,-1,13,8,211,240,http://www.aslpro.com//main/a/arrest_2.swf,arrest_0011_aslpro_03429.mp4,skipped_swf
+12,03430,aslsearch,41,1,train,25,1,-1,246,35,514,400,http://www.aslsearch.com/signs/videos/arrest.mp4,arrest_0012_aslsearch_03430.mp4,ok
+13,03417,signschool,4,0,train,25,1,-1,271,68,1609,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrest%202-VtlTEGx88VI.mp4,arrest_0013_signschool_03417.mp4,ok
+14,03418,signschool,4,0,train,25,1,-1,476,60,1524,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrest%203-3aMLsvk3XHs.mp4,arrest_0014_signschool_03418.mp4,ok
+15,03419,signschool,4,0,val,25,1,-1,577,73,1529,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrest%204-ok9f1WytZEk.mp4,arrest_0015_signschool_03419.mp4,ok

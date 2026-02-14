@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42419,asl5200,9,0,val,25,1844,1876,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,phone_0000_asl5200_42419.mp4,skipped_no_ytdlp
+1,68704,lillybauer,113,0,train,25,1,57,41,5,545,360,https://www.youtube.com/watch?v=mOS-N9FH98A,phone_0001_lillybauer_68704.mp4,skipped_no_ytdlp
+2,68130,valencia-asl,109,0,train,25,1,-1,122,0,1155,720,https://www.youtube.com/watch?v=WgwZiQTmuf4,phone_0002_valencia-asl_68130.mp4,skipped_no_ytdlp
+4,42431,nabboud,65,0,train,25,1,-1,352,66,851,720,https://www.youtube.com/watch?v=OxPU1Gq4UcY,phone_0004_nabboud_42431.mp4,skipped_no_ytdlp
+6,42423,spreadthesign,37,0,train,25,1,-1,20,0,256,240,https://media.spreadthesign.com/video/mp4/13/457751.mp4,phone_0006_spreadthesign_42423.mp4,ok
+7,42433,aslpro,87,0,train,25,1,-1,17,4,225,240,http://www.aslpro.com/main/p/phone.swf,phone_0007_aslpro_42433.mp4,skipped_swf
+8,42434,aslsearch,12,0,train,25,1,-1,170,53,572,400,http://www.aslsearch.com/signs/videos/phone.mp4,phone_0008_aslsearch_42434.mp4,ok
+9,42424,spreadthesign,37,0,train,25,1,-1,43,0,251,240,https://media.spreadthesign.com/video/mp4/13/457752.mp4,phone_0009_spreadthesign_42424.mp4,ok
+10,42425,asldeafined,13,0,train,25,1,-1,80,0,512,480,https://media.asldeafined.com/vocabulary/1468725580.1235.mp4,phone_0010_asldeafined_42425.mp4,ok
+11,42426,handspeak,20,0,test,25,1,-1,118,9,546,480,https://www.handspeak.com/word/p/phone.mp4,phone_0011_handspeak_42426.mp4,failed
+12,42427,handspeak,14,0,train,25,1,-1,108,17,544,480,https://www.handspeak.com/word/p/phone-you.mp4,phone_0012_handspeak_42427.mp4,failed
+13,42428,signingsavvy,11,0,test,25,1,-1,58,15,221,192,https://www.signingsavvy.com/signs/mp4/7/7254.mp4,phone_0013_signingsavvy_42428.mp4,ok
+14,42429,aslu,5,0,val,25,1,-1,328,39,926,720,https://www.youtube.com/watch?v=fgg7qxjYh_0,phone_0014_aslu_42429.mp4,skipped_no_ytdlp

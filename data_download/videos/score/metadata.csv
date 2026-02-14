@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49689,asl5200,9,0,val,25,1201,1237,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,score_0000_asl5200_49689.mp4,skipped_no_ytdlp
+1,49693,signschool,60,0,test,25,1,-1,370,23,798,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20score%20basketball-h-GkTVSK-BU.mp4,score_0001_signschool_49693.mp4,ok
+2,49694,signschool,60,0,train,25,1,-1,373,20,804,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20score-dSy1PvZ1UhE.mp4,score_0002_signschool_49694.mp4,ok
+3,49695,asldeafined,13,1,train,25,1,-1,126,0,522,480,https://media.asldeafined.com/vocabulary/1468763511.5652.mp4,score_0003_asldeafined_49695.mp4,ok
+4,49696,handspeak,14,0,train,25,1,-1,71,13,267,240,https://www.handspeak.com/word/s/score-goal.mp4,score_0004_handspeak_49696.mp4,failed
+5,49697,signingsavvy,11,0,train,25,1,-1,60,15,223,192,https://www.signingsavvy.com/signs/mp4/0/382.mp4,score_0005_signingsavvy_49697.mp4,ok
+7,49699,signingsavvy,10,1,test,25,1,-1,82,18,197,192,https://www.signingsavvy.com/signs/mp4/23/23691.mp4,score_0007_signingsavvy_49699.mp4,ok
+8,49700,signingsavvy,10,1,val,25,1,-1,82,18,197,192,https://www.signingsavvy.com/signs/mp4/23/23691.mp4,score_0008_signingsavvy_49700.mp4,ok
+9,66434,aslsignbank,103,1,train,25,1,-1,157,32,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SC/SCORE-1002.mp4,score_0009_aslsignbank_66434.mp4,failed
+10,49691,spreadthesign,0,0,val,25,1,-1,70,16,260,240,https://media.spreadthesign.com/video/mp4/13/87622.mp4,score_0010_spreadthesign_49691.mp4,ok
+12,49702,signingsavvy,10,1,train,25,1,-1,82,18,199,192,https://www.signingsavvy.com/signs/mp4/23/23767.mp4,score_0012_signingsavvy_49702.mp4,ok
+16,49706,aslsearch,41,0,train,25,1,-1,241,38,495,400,http://www.aslsearch.com/signs/videos/score.mp4,score_0016_aslsearch_49706.mp4,ok
+17,49692,signschool,60,0,train,25,1,-1,330,24,772,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20One-Point-wHshoRFERnQ.mp4,score_0017_signschool_49692.mp4,ok

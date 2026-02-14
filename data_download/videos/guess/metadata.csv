@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65864,aslsignbank,95,0,train,25,1,-1,179,10,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GU/GUESS-608.mp4,guess_0000_aslsignbank_65864.mp4,failed
+1,25920,asldeafined,13,0,train,25,1,-1,110,27,501,480,https://media.asldeafined.com/vocabulary/1466646064.1591.mp4,guess_0001_asldeafined_25920.mp4,ok
+2,25917,spreadthesign,0,0,train,25,1,-1,48,4,252,240,https://media.spreadthesign.com/video/mp4/13/58515.mp4,guess_0002_spreadthesign_25917.mp4,ok
+3,67731,asllex,109,0,val,25,1,-1,105,13,372,360,https://youtu.be/gc2CW3TlT1g,guess_0003_asllex_67731.mp4,skipped_no_ytdlp
+4,67732,asllex,109,0,train,25,1,-1,92,18,363,360,https://youtu.be/zGNI5i6yhxA,guess_0004_asllex_67732.mp4,skipped_no_ytdlp
+5,25918,signschool,6,0,train,25,1,-1,709,63,1540,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Guess%202-Eg8n0QOY9aU.mp4,guess_0005_signschool_25918.mp4,ok
+6,25921,handspeak,20,0,train,25,1,-1,73,2,597,480,https://www.handspeak.com/word/g/guess.mp4,guess_0006_handspeak_25921.mp4,failed
+7,25922,signingsavvy,11,0,train,25,1,-1,73,13,220,192,https://www.signingsavvy.com/signs/mp4/6/6157.mp4,guess_0007_signingsavvy_25922.mp4,ok
+8,25923,aslu,5,0,val,25,1,-1,249,18,928,720,https://www.youtube.com/watch?v=HzPkBB9HvwQ,guess_0008_aslu_25923.mp4,skipped_no_ytdlp
+9,25924,aslu,5,0,test,25,1,-1,301,34,922,720,https://www.youtube.com/watch?v=mNqKyx-Hslg,guess_0009_aslu_25924.mp4,skipped_no_ytdlp
+10,25925,aslpro,24,0,test,25,1,-1,1,6,209,240,http://www.aslpro.com/main/g/guess.swf,guess_0010_aslpro_25925.mp4,skipped_swf
+11,25926,aslsearch,41,0,train,25,1,-1,225,43,478,400,http://www.aslsearch.com/signs/videos/guess.mp4,guess_0011_aslsearch_25926.mp4,ok

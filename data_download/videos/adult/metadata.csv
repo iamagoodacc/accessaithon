@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01194,asl5200,9,0,test,25,783,822,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,adult_0000_asl5200_01194.mp4,skipped_no_ytdlp
+2,01211,handspeak,14,0,val,25,1,-1,29,20,272,240,https://www.handspeak.com/word/a/adult2.mp4,adult_0002_handspeak_01211.mp4,failed
+3,01212,handspeak,14,1,train,25,1,-1,61,18,267,240,https://www.handspeak.com/word/a/adult.mp4,adult_0003_handspeak_01212.mp4,failed
+5,01214,signingsavvy,11,0,train,25,1,-1,35,0,220,192,https://www.signingsavvy.com/signs/mp4/14/14373.mp4,adult_0005_signingsavvy_01214.mp4,ok
+6,01215,aslu,5,1,test,25,1,-1,242,46,936,720,https://www.youtube.com/watch?v=aEegdap2Om8,adult_0006_aslu_01215.mp4,skipped_no_ytdlp
+8,65024,aslsignbank,92,1,val,25,1,-1,148,26,444,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AD/ADULT_2-2364.mp4,adult_0008_aslsignbank_65024.mp4,failed
+9,01206,elementalasl,19,1,train,25,1,-1,83,10,237,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/adult.mov,adult_0009_elementalasl_01206.mp4,ok
+11,01216,aslpro,30,0,train,25,1,-1,0,0,242,240,http://www.aslpro.com/main/a/adult.swf,adult_0011_aslpro_01216.mp4,skipped_swf
+12,01217,aslsearch,41,0,train,25,1,-1,198,36,500,400,http://www.aslsearch.com/signs/videos/adult.mp4,adult_0012_aslsearch_01217.mp4,ok
+13,01207,spreadthesign,2,0,train,25,1,-1,36,5,250,240,https://media.spreadthesign.com/video/mp4/13/118346.mp4,adult_0013_spreadthesign_01207.mp4,ok
+14,01208,spreadthesign,0,1,train,25,1,-1,49,5,252,240,https://media.spreadthesign.com/video/mp4/13/63528.mp4,adult_0014_spreadthesign_01208.mp4,ok
+15,01209,signschool,32,0,train,25,1,-1,620,70,1619,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Big%2C%20Giant%2C%20Tall%2C%20Adult%2C%20Grown-up-oXwKsrsVUE8.mp4,adult_0015_signschool_01209.mp4,ok

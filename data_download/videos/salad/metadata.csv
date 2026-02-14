@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49073,asl5200,9,0,train,25,84,156,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,salad_0000_asl5200_49073.mp4,skipped_no_ytdlp
+1,70062,northtexas,121,0,train,25,1026,1164,119,32,499,480,https://www.youtube.com/watch?v=jDCw7stJaM4,salad_0001_northtexas_70062.mp4,skipped_no_ytdlp
+2,49084,aslsearch,12,0,train,25,1,-1,204,47,571,400,http://www.aslsearch.com/signs/videos/salad.mp4,salad_0002_aslsearch_49084.mp4,ok
+3,66421,aslsignbank,103,0,val,25,1,-1,153,32,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SA/SALAD-988.mp4,salad_0003_aslsignbank_66421.mp4,failed
+4,49077,spreadthesign,37,0,train,25,1,-1,62,0,268,240,https://media.spreadthesign.com/video/mp4/13/457620.mp4,salad_0004_spreadthesign_49077.mp4,ok
+5,67158,asllex,109,0,train,25,1,-1,78,16,436,360,https://youtu.be/BBCixbI_6C4,salad_0005_asllex_67158.mp4,skipped_no_ytdlp
+6,49078,signschool,31,0,train,25,1,-1,485,143,1530,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Salad-ETh-CCE1ye4.mp4,salad_0006_signschool_49078.mp4,ok
+7,49079,asldeafined,13,0,train,25,1,-1,111,0,534,480,https://media.asldeafined.com/vocabulary/1468762473.2170.mp4,salad_0007_asldeafined_49079.mp4,ok
+8,49080,handspeak,14,0,val,25,1,-1,64,2,268,240,https://www.handspeak.com/word/s/salad.mp4,salad_0008_handspeak_49080.mp4,failed
+9,49081,signingsavvy,11,0,test,25,1,-1,59,10,226,192,https://www.signingsavvy.com/signs/mp4/14/14320.mp4,salad_0009_signingsavvy_49081.mp4,ok
+10,49082,aslu,5,0,test,25,1,-1,297,62,975,720,https://www.youtube.com/watch?v=UZgQNIxw2m8,salad_0010_aslu_49082.mp4,skipped_no_ytdlp
+11,49083,aslpro,30,0,train,25,1,-1,0,14,241,240,http://www.aslpro.com/main/s/salad.swf,salad_0011_aslpro_49083.mp4,skipped_swf

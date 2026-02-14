@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63947,asl5200,9,0,train,25,3925,3971,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,wow_0000_asl5200_63947.mp4,skipped_no_ytdlp
+1,68876,lillybauer,113,0,train,25,1,120,240,40,1002,720,https://www.youtube.com/watch?v=sC406CwziwQ,wow_0001_lillybauer_68876.mp4,skipped_no_ytdlp
+3,63948,spreadthesign,2,0,train,25,1,-1,69,31,230,240,https://media.spreadthesign.com/video/mp4/13/92805.mp4,wow_0003_spreadthesign_63948.mp4,ok
+5,63968,aslsearch,41,0,val,25,1,-1,219,37,487,400,http://www.aslsearch.com/signs/videos/wow.mp4,wow_0005_aslsearch_63968.mp4,ok
+6,63949,startasl,38,0,train,25,1,-1,369,55,809,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/wow.mp4,wow_0006_startasl_63949.mp4,ok
+8,63951,signschool,6,0,train,25,1,-1,661,90,1445,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wow%202-OsMOhzrr7jo.mp4,wow_0008_signschool_63951.mp4,ok
+10,63953,signschool,6,0,train,25,1,-1,638,71,1486,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wow%204-cFhmWJpi6tU.mp4,wow_0010_signschool_63953.mp4,ok
+13,63955,signschool,39,0,train,25,1,-1,740,143,1556,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wow%2C%20Favorite%20Ind-1NxHLaB6KpA.mp4,wow_0013_signschool_63955.mp4,ok
+15,63958,asldeafined,13,0,val,25,1,-1,126,8,520,480,https://media.asldeafined.com/vocabulary/1468929317.716.mp4,wow_0015_asldeafined_63958.mp4,ok
+18,63961,handspeak,14,0,test,25,1,-1,92,0,515,480,https://www.handspeak.com/word/w/wow.mp4,wow_0018_handspeak_63961.mp4,failed
+19,63962,signingsavvy,10,0,test,25,1,-1,79,17,215,192,https://www.signingsavvy.com/signs/mp4/22/22651.mp4,wow_0019_signingsavvy_63962.mp4,ok
+21,63964,signingsavvy,10,0,train,25,1,-1,71,19,213,192,https://www.signingsavvy.com/signs/mp4/22/22656.mp4,wow_0021_signingsavvy_63964.mp4,ok

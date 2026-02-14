@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45965,asl5200,9,0,val,25,233,302,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,rain_0000_asl5200_45965.mp4,skipped_no_ytdlp
+1,70121,northtexas,121,0,train,25,4807,4926,68,22,582,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,rain_0001_northtexas_70121.mp4,skipped_no_ytdlp
+2,46000,aslpro,72,0,train,25,1,-1,0,0,229,240,http://www.aslpro.com/main/r/rain.swf,rain_0002_aslpro_46000.mp4,skipped_swf
+3,46001,aslsearch,12,0,train,25,1,-1,184,55,567,400,http://www.aslsearch.com/signs/videos/precipitation.mp4,rain_0003_aslsearch_46001.mp4,ok
+4,66369,aslsignbank,101,0,train,25,1,-1,208,10,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RA/RAIN-1011.mp4,rain_0004_aslsignbank_66369.mp4,failed
+5,45993,spreadthesign,56,0,train,25,1,-1,14,0,307,240,https://media.spreadthesign.com/video/mp4/13/49266.mp4,rain_0005_spreadthesign_45993.mp4,ok
+6,67121,asllex,109,0,train,25,1,-1,69,0,448,360,https://youtu.be/y3z9aERL4u4,rain_0006_asllex_67121.mp4,skipped_no_ytdlp
+7,45994,startasl,38,0,train,25,1,-1,391,68,876,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/rain.mp4,rain_0007_startasl_45994.mp4,ok
+8,45995,signschool,31,0,train,25,1,-1,328,84,1032,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Rain.mp4,rain_0008_signschool_45995.mp4,ok
+9,45996,asldeafined,13,0,test,25,1,-1,109,0,584,480,https://media.asldeafined.com/vocabulary/1468758059.4199.mp4,rain_0009_asldeafined_45996.mp4,ok
+10,45997,handspeak,14,0,train,25,1,-1,3,0,629,480,https://www.handspeak.com/word/r/rain.mp4,rain_0010_handspeak_45997.mp4,failed
+11,45998,signingsavvy,10,0,test,25,1,-1,41,7,248,192,https://www.signingsavvy.com/signs/mp4/22/22993.mp4,rain_0011_signingsavvy_45998.mp4,ok
+12,45999,nabboud,65,0,val,25,1,-1,226,91,980,720,https://www.youtube.com/watch?v=PHYhqJDV9Xo,rain_0012_nabboud_45999.mp4,skipped_no_ytdlp

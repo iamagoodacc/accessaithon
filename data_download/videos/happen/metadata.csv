@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26491,asl5200,9,0,val,25,422,464,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,happen_0000_asl5200_26491.mp4,skipped_no_ytdlp
+1,70133,northtexas,121,0,train,25,1858,1969,144,22,497,480,https://www.youtube.com/watch?v=VwejDy96MzM,happen_0001_northtexas_70133.mp4,skipped_no_ytdlp
+2,26502,aslpro,16,0,train,25,1,-1,0,5,238,240,http://www.aslpro.com/main/h/happen.swf,happen_0002_aslpro_26502.mp4,skipped_swf
+3,26503,aslsearch,12,0,train,25,1,-1,177,51,544,400,http://www.aslsearch.com/signs/videos/happen.mp4,happen_0003_aslsearch_26503.mp4,ok
+4,26494,spreadthesign,2,0,train,25,1,-1,75,34,247,240,https://media.spreadthesign.com/video/mp4/13/91434.mp4,happen_0004_spreadthesign_26494.mp4,ok
+5,67742,asllex,109,0,train,25,1,-1,100,14,388,360,https://youtu.be/qgXWBZP4MQs,happen_0005_asllex_67742.mp4,skipped_no_ytdlp
+6,26495,signschool,4,0,train,25,1,-1,296,66,1693,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Coincidence-2-dTjQwq4hA.mp4,happen_0006_signschool_26495.mp4,ok
+7,26496,signschool,4,0,train,25,1,-1,549,65,1603,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Happen%2C%20Incident-z3fU1S-z5F0.mp4,happen_0007_signschool_26496.mp4,ok
+8,26497,asldeafined,21,0,train,25,1,-1,87,18,528,480,https://media.asldeafined.com/vocabulary/1468579525.1479.mp4,happen_0008_asldeafined_26497.mp4,ok
+9,26498,handspeak,14,0,test,25,1,-1,32,7,274,240,https://www.handspeak.com/word/h/happen.mp4,happen_0009_handspeak_26498.mp4,failed
+10,26499,signingsavvy,11,0,train,25,1,-1,58,16,218,192,https://www.signingsavvy.com/signs/mp4/9/9018.mp4,happen_0010_signingsavvy_26499.mp4,ok
+11,26500,aslu,5,0,test,25,1,-1,64,6,497,360,https://www.youtube.com/watch?v=b_a7wHSJ808,happen_0011_aslu_26500.mp4,skipped_no_ytdlp
+12,26501,aslu,5,0,val,25,1,-1,128,15,519,360,https://www.youtube.com/watch?v=_Hvg8roRP_Y,happen_0012_aslu_26501.mp4,skipped_no_ytdlp

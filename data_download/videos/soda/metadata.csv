@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53023,asl5200,9,0,val,25,6100,6142,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,soda_0000_asl5200_53023.mp4,skipped_no_ytdlp
+1,69482,aslbrick,117,0,train,25,1,-1,278,33,936,720,http://aslbricks.org/New/ASL-Videos/soda.mp4,soda_0001_aslbrick_69482.mp4,ok
+2,68432,lillybauer,115,0,train,25,1,62,121,16,515,360,https://www.youtube.com/watch?v=EGRbUbrCMW8,soda_0002_lillybauer_68432.mp4,skipped_no_ytdlp
+3,70071,northtexas,121,0,train,25,3373,3499,133,25,477,480,https://www.youtube.com/watch?v=jDCw7stJaM4,soda_0003_northtexas_70071.mp4,skipped_no_ytdlp
+4,68158,valencia-asl,109,0,train,25,1,-1,110,0,1161,720,https://www.youtube.com/watch?v=mCO1v_PNKpc,soda_0004_valencia-asl_68158.mp4,skipped_no_ytdlp
+5,67224,asllex,109,0,train,25,1,-1,122,12,368,360,https://youtu.be/eNbvA_RIUCo,soda_0005_asllex_67224.mp4,skipped_no_ytdlp
+6,53024,spreadthesign,2,0,train,25,1,-1,78,9,241,240,https://media.spreadthesign.com/video/mp4/13/116943.mp4,soda_0006_spreadthesign_53024.mp4,ok
+7,53025,signschool,31,0,train,25,1,-1,799,64,1657,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Soda-vSOMm-bPMm4.mp4,soda_0007_signschool_53025.mp4,ok
+8,53026,asldeafined,13,0,train,25,1,-1,139,0,515,480,https://media.asldeafined.com/vocabulary/1468776095.8296.mp4,soda_0008_asldeafined_53026.mp4,ok
+9,53027,handspeak,14,0,test,25,1,-1,59,0,276,240,https://www.handspeak.com/word/s/soda.mp4,soda_0009_handspeak_53027.mp4,failed
+10,53028,signingsavvy,11,0,train,25,1,-1,73,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6408.mp4,soda_0010_signingsavvy_53028.mp4,ok
+11,53029,aslpro,72,0,test,25,1,-1,32,8,228,240,http://www.aslpro.com/main/s/soda.swf,soda_0011_aslpro_53029.mp4,skipped_swf
+12,53030,aslsearch,41,0,val,25,1,-1,243,37,493,400,http://www.aslsearch.com/signs/videos/soda.mp4,soda_0012_aslsearch_53030.mp4,ok

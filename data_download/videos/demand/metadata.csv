@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15421,asl5200,9,0,train,25,1151,1217,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,demand_0000_asl5200_15421.mp4,skipped_no_ytdlp
+1,15429,aslpro,16,0,train,25,1,-1,16,19,216,240,http://www.aslpro.com/main/d/demand.swf,demand_0001_aslpro_15429.mp4,skipped_swf
+2,15430,aslsearch,12,0,train,25,1,-1,190,63,546,400,http://www.aslsearch.com/signs/videos/demand.mp4,demand_0002_aslsearch_15430.mp4,ok
+3,65458,aslsignbank,103,0,val,25,1,-1,150,34,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DEMAND-962.mp4,demand_0003_aslsignbank_65458.mp4,failed
+4,67560,asllex,109,0,train,25,1,-1,86,21,374,360,https://youtu.be/8HcUukhmwv8,demand_0004_asllex_67560.mp4,skipped_no_ytdlp
+5,15422,elementalasl,19,0,train,25,1,-1,95,9,241,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/demand.mov,demand_0005_elementalasl_15422.mp4,ok
+6,15423,spreadthesign,2,0,train,25,1,-1,56,17,236,240,https://media.spreadthesign.com/video/mp4/13/93927.mp4,demand_0006_spreadthesign_15423.mp4,ok
+7,15424,signschool,4,0,train,25,1,-1,480,49,1678,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Demand%2C%20Mandatory-qQSwWmiHuXk.mp4,demand_0007_signschool_15424.mp4,ok
+8,15425,signschool,4,0,val,25,1,-1,765,42,1654,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Demand%2C%20Require%2C%20Mandatory-040hwI3u85I.mp4,demand_0008_signschool_15425.mp4,ok
+9,15426,asldeafined,59,0,test,25,1,-1,125,24,526,480,https://media.asldeafined.com/vocabulary/1466907793.6324.mp4,demand_0009_asldeafined_15426.mp4,ok
+10,15427,handspeak,20,0,test,25,1,-1,99,13,566,480,https://www.handspeak.com/word/d/demand.mp4,demand_0010_handspeak_15427.mp4,failed
+11,15428,signingsavvy,11,0,train,25,1,-1,68,13,261,192,https://www.signingsavvy.com/signs/mp4/1/1415.mp4,demand_0011_signingsavvy_15428.mp4,ok

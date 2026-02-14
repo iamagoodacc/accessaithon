@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57757,asl5200,9,0,train,25,1746,1798,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,themselves_0000_asl5200_57757.mp4,skipped_no_ytdlp
+1,57765,signingsavvy,11,0,train,25,1,-1,76,16,205,192,https://www.signingsavvy.com/signs/mp4/9/9276.mp4,themselves_0001_signingsavvy_57765.mp4,ok
+2,57766,aslu,5,0,train,25,1,-1,14,41,981,720,https://www.youtube.com/watch?v=n5NIhFE3wy4,themselves_0002_aslu_57766.mp4,skipped_no_ytdlp
+3,57767,aslu,5,0,val,25,1,-1,81,0,488,360,https://www.youtube.com/watch?v=wn9ksgLPYBc,themselves_0003_aslu_57767.mp4,skipped_no_ytdlp
+4,57768,aslsearch,12,0,train,25,1,-1,183,53,541,400,http://www.aslsearch.com/signs/videos/yourself.mp4,themselves_0004_aslsearch_57768.mp4,ok
+5,57758,signschool,4,0,train,25,1,-1,317,39,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Themselves-qnBkbA2-9Eg.mp4,themselves_0005_signschool_57758.mp4,ok
+6,57759,asldeafined,13,0,train,25,1,-1,141,0,529,480,https://media.asldeafined.com/vocabulary/1468944443.5504.mp4,themselves_0006_asldeafined_57759.mp4,ok
+7,57760,handspeak,14,0,train,25,1,-1,25,0,298,240,https://www.handspeak.com/word/t/themselves2.mp4,themselves_0007_handspeak_57760.mp4,failed
+8,57761,handspeak,14,0,val,25,1,-1,15,1,278,240,https://www.handspeak.com/word/t/themselves.mp4,themselves_0008_handspeak_57761.mp4,failed
+9,57762,signingsavvy,11,0,test,25,1,-1,85,13,218,192,https://www.signingsavvy.com/signs/mp4/7/7200.mp4,themselves_0009_signingsavvy_57762.mp4,ok
+10,57763,signingsavvy,11,0,test,25,1,-1,46,12,228,192,https://www.signingsavvy.com/signs/mp4/7/7360.mp4,themselves_0010_signingsavvy_57763.mp4,ok
+11,57764,signingsavvy,11,0,train,25,1,-1,75,13,220,192,https://www.signingsavvy.com/signs/mp4/9/9158.mp4,themselves_0011_signingsavvy_57764.mp4,ok

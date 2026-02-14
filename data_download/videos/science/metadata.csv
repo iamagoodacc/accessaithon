@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49627,asl5200,9,0,val,25,954,1010,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,science_0000_asl5200_49627.mp4,skipped_no_ytdlp
+1,70143,northtexas,121,0,train,25,5491,5635,70,24,556,480,https://www.youtube.com/watch?v=VwejDy96MzM,science_0001_northtexas_70143.mp4,skipped_no_ytdlp
+2,49639,aslpro,24,0,train,25,1,-1,0,17,246,240,http://www.aslpro.com/main/s/science.swf,science_0002_aslpro_49639.mp4,skipped_swf
+3,49640,aslsearch,41,0,train,25,1,-1,203,33,520,400,http://www.aslsearch.com/signs/videos/science.mp4,science_0003_aslsearch_49640.mp4,ok
+4,49631,elementalasl,19,0,train,25,1,-1,74,9,246,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/science.mov,science_0004_elementalasl_49631.mp4,ok
+5,67171,asllex,109,0,train,25,1,-1,78,16,438,360,https://youtu.be/so6TRSqKp_8,science_0005_asllex_67171.mp4,skipped_no_ytdlp
+6,49632,spreadthesign,63,0,train,25,1,-1,40,0,286,240,https://media.spreadthesign.com/video/mp4/13/50779.mp4,science_0006_spreadthesign_49632.mp4,ok
+7,49633,startasl,38,0,train,25,1,-1,355,59,902,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/science.mp4,science_0007_startasl_49633.mp4,ok
+8,49634,signschool,32,0,train,25,1,-1,555,88,1557,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Science-1MJHtOtH2mE.mp4,science_0008_signschool_49634.mp4,ok
+9,49635,asldeafined,13,0,test,25,1,-1,66,0,607,480,https://media.asldeafined.com/vocabulary/1468763393.453.mp4,science_0009_asldeafined_49635.mp4,ok
+10,49636,handspeak,14,0,train,25,1,-1,41,0,592,480,https://www.handspeak.com/word/s/science.mp4,science_0010_handspeak_49636.mp4,failed
+11,49637,signingsavvy,11,0,test,25,1,-1,49,9,251,192,https://www.signingsavvy.com/signs/mp4/6/6456.mp4,science_0011_signingsavvy_49637.mp4,ok
+12,49638,aslu,5,0,val,25,1,-1,181,35,1075,720,https://www.youtube.com/watch?v=TcP83Utr_RI,science_0012_aslu_49638.mp4,skipped_no_ytdlp

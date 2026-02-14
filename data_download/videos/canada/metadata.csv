@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08840,asl5200,9,0,train,25,503,569,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,canada_0000_asl5200_08840.mp4,skipped_no_ytdlp
+1,08848,aslpro,24,0,train,25,1,-1,7,15,228,240,http://www.aslpro.com/main/c/canada.swf,canada_0001_aslpro_08848.mp4,skipped_swf
+2,08849,aslsearch,12,0,train,25,1,-1,165,53,543,400,http://www.aslsearch.com/signs/videos/canada.mp4,canada_0002_aslsearch_08849.mp4,ok
+3,65295,aslsignbank,90,0,val,25,1,-1,169,16,466,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CANADA-677.mp4,canada_0003_aslsignbank_65295.mp4,failed
+4,67466,asllex,109,0,train,25,1,-1,79,20,385,360,https://youtu.be/x8ovlu130a8,canada_0004_asllex_67466.mp4,skipped_no_ytdlp
+5,08841,spreadthesign,37,0,train,25,1,-1,19,0,243,240,https://media.spreadthesign.com/video/mp4/13/455295.mp4,canada_0005_spreadthesign_08841.mp4,ok
+6,08842,startasl,38,0,train,25,1,-1,344,51,836,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/canada.mp4,canada_0006_startasl_08842.mp4,ok
+7,08843,signschool,45,0,train,25,1,-1,458,103,1460,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Canada-V8wKGpJxa64.mp4,canada_0007_signschool_08843.mp4,ok
+8,08844,asldeafined,59,0,val,25,1,-1,13,17,526,480,https://media.asldeafined.com/vocabulary/1466726492.9148.mp4,canada_0008_asldeafined_08844.mp4,ok
+9,08845,handspeak,20,0,test,25,1,-1,63,13,257,240,https://www.handspeak.com/word/c/canada.mp4,canada_0009_handspeak_08845.mp4,failed
+10,08846,signingsavvy,11,0,test,25,1,-1,65,4,212,192,https://www.signingsavvy.com/signs/mp4/5/5753.mp4,canada_0010_signingsavvy_08846.mp4,ok
+11,08847,aslu,5,0,train,25,1,-1,285,48,950,720,https://www.youtube.com/watch?v=6wD5KHuM4xE,canada_0011_aslu_08847.mp4,skipped_no_ytdlp

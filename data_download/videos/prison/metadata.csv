@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44598,asl5200,9,0,train,25,5537,5586,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,prison_0000_asl5200_44598.mp4,skipped_no_ytdlp
+1,44609,aslu,5,0,train,25,1,-1,310,55,885,720,https://www.youtube.com/watch?v=gto8c7eUFQw,prison_0001_aslu_44609.mp4,skipped_no_ytdlp
+2,44610,aslpro,87,0,train,25,1,-1,17,15,223,240,http://www.aslpro.com/main/p/prison.swf,prison_0002_aslpro_44610.mp4,skipped_swf
+3,44611,aslsearch,12,0,val,25,1,-1,187,58,544,400,http://www.aslsearch.com/signs/videos/jail2.mp4,prison_0003_aslsearch_44611.mp4,ok
+4,66334,aslsignbank,89,0,train,25,1,-1,202,38,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PRISON-2146.mp4,prison_0004_aslsignbank_66334.mp4,failed
+5,44602,spreadthesign,56,0,train,25,1,-1,55,0,271,240,https://media.spreadthesign.com/video/mp4/13/49213.mp4,prison_0005_spreadthesign_44602.mp4,ok
+6,67106,asllex,109,0,train,25,1,-1,144,19,384,360,https://youtu.be/TJasy7GxZig,prison_0006_asllex_67106.mp4,skipped_no_ytdlp
+8,44604,asldeafined,13,0,train,25,1,-1,153,0,559,480,https://media.asldeafined.com/vocabulary/1468756063.3835.mp4,prison_0008_asldeafined_44604.mp4,ok
+9,44605,handspeak,14,0,val,25,1,-1,64,8,245,240,https://www.handspeak.com/word/p/prison.mp4,prison_0009_handspeak_44605.mp4,failed
+10,44606,signingsavvy,10,0,test,25,1,-1,88,20,204,192,https://www.signingsavvy.com/signs/mp4/23/23926.mp4,prison_0010_signingsavvy_44606.mp4,ok
+11,44607,signingsavvy,10,0,test,25,1,-1,86,20,205,192,https://www.signingsavvy.com/signs/mp4/23/23927.mp4,prison_0011_signingsavvy_44607.mp4,ok
+12,44608,aslu,5,0,train,25,1,-1,355,21,957,720,https://www.youtube.com/watch?v=8NTZmjEVAjU,prison_0012_aslu_44608.mp4,skipped_no_ytdlp

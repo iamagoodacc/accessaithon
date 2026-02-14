@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,64401,asl5200,9,0,train,25,292,361,0,0,360,240,https://www.youtube.com/watch?v=BRO-oYGV224,young_0000_asl5200_64401.mp4,skipped_no_ytdlp
+1,68606,lillybauer,112,0,train,25,1,39,286,16,979,720,https://www.youtube.com/watch?v=jvv0jM6Vq-0,young_0001_lillybauer_68606.mp4,skipped_no_ytdlp
+2,70366,northtexas,121,0,train,25,1567,1702,96,13,509,480,https://www.youtube.com/watch?v=Z25ng9maolE,young_0002_northtexas_70366.mp4,skipped_no_ytdlp
+3,64419,aslsearch,12,0,val,25,1,-1,173,51,566,400,http://www.aslsearch.com/signs/videos/young.mp4,young_0003_aslsearch_64419.mp4,ok
+4,64411,spreadthesign,42,0,train,25,1,-1,19,0,297,240,https://media.spreadthesign.com/video/mp4/13/51114.mp4,young_0004_spreadthesign_64411.mp4,ok
+5,67016,asllex,109,0,train,25,1,-1,52,20,425,360,https://youtu.be/4CvemDSU8uQ,young_0005_asllex_67016.mp4,skipped_no_ytdlp
+7,64413,signschool,27,0,train,25,1,-1,793,55,1842,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Young%2C%20Youth-umNnbtekYCg.mp4,young_0007_signschool_64413.mp4,ok
+8,64414,asldeafined,13,0,train,25,1,-1,88,6,603,480,https://media.asldeafined.com/vocabulary/1468775303.4630.mp4,young_0008_asldeafined_64414.mp4,ok
+9,64415,handspeak,14,0,val,25,1,-1,105,0,560,480,https://www.handspeak.com/word/y/young.mp4,young_0009_handspeak_64415.mp4,failed
+10,64416,signingsavvy,11,0,test,25,1,-1,62,8,229,192,https://www.signingsavvy.com/signs/mp4/14/14354.mp4,young_0010_signingsavvy_64416.mp4,ok
+11,64417,aslu,5,0,test,25,1,-1,144,6,517,360,https://www.youtube.com/watch?v=I02FA61xpCs,young_0011_aslu_64417.mp4,skipped_no_ytdlp
+12,64418,aslpro,25,0,train,25,1,-1,0,1,238,240,http://www.aslpro.com/main/y/young.swf,young_0012_aslpro_64418.mp4,skipped_swf

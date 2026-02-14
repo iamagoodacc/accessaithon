@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08669,asl5200,9,0,train,25,299,365,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,california_0000_asl5200_08669.mp4,skipped_no_ytdlp
+1,08676,signingsavvy,11,0,train,25,1,-1,46,5,208,192,https://www.signingsavvy.com/signs/mp4/14/14118.mp4,california_0001_signingsavvy_08676.mp4,ok
+2,08677,signingsavvy,11,0,train,25,1,-1,50,9,217,192,https://www.signingsavvy.com/signs/mp4/9/9428.mp4,california_0002_signingsavvy_08677.mp4,ok
+4,65289,aslsignbank,92,0,val,25,1,-1,171,34,456,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CALIFORNIA-2147.mp4,california_0004_aslsignbank_65289.mp4,failed
+5,08679,aslpro,49,0,train,25,1,-1,0,14,222,240,http://www.aslpro.com/main/c/california_2.swf,california_0005_aslpro_08679.mp4,skipped_swf
+6,08680,aslsearch,12,0,train,25,1,-1,118,53,544,400,http://www.aslsearch.com/signs/videos/california.mp4,california_0006_aslsearch_08680.mp4,ok
+7,08670,spreadthesign,37,0,train,25,1,-1,46,0,246,240,https://media.spreadthesign.com/video/mp4/13/455497.mp4,california_0007_spreadthesign_08670.mp4,ok
+8,08671,signschool,39,0,train,25,1,-1,658,37,1746,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20California%203-uTtaWdyyp0A.mp4,california_0008_signschool_08671.mp4,ok
+9,08672,signschool,39,0,val,25,1,-1,725,44,1697,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20California%204-gJC4WFeyK6w.mp4,california_0009_signschool_08672.mp4,ok
+10,08673,signschool,39,0,test,25,1,-1,801,60,1722,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20California-5Q0SCrk6bb0.mp4,california_0010_signschool_08673.mp4,ok
+11,08674,asldeafined,17,0,test,25,1,-1,63,14,606,480,https://media.asldeafined.com/vocabulary/1471143789.4850.mp4,california_0011_asldeafined_08674.mp4,ok
+12,08675,handspeak,14,0,train,25,1,-1,120,0,519,480,https://www.handspeak.com/word/c/california.mp4,california_0012_handspeak_08675.mp4,failed

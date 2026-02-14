@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38176,asl5200,9,0,val,25,1031,1080,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,newspaper_0000_asl5200_38176.mp4,skipped_no_ytdlp
+1,68532,lillybauer,113,0,train,25,1,98,230,41,1038,720,https://www.youtube.com/watch?v=Hs8nTnDLF_Y,newspaper_0001_lillybauer_68532.mp4,skipped_no_ytdlp
+2,70324,northtexas,121,0,train,25,4988,5093,128,31,289,240,https://www.youtube.com/watch?v=pc0-gVEETVg,newspaper_0002_northtexas_70324.mp4,skipped_no_ytdlp
+3,38186,aslsearch,12,0,train,25,1,-1,210,54,567,400,http://www.aslsearch.com/signs/videos/newspaper.mp4,newspaper_0003_aslsearch_38186.mp4,ok
+4,38178,spreadthesign,56,0,train,25,1,-1,38,0,270,240,https://media.spreadthesign.com/video/mp4/13/48815.mp4,newspaper_0004_spreadthesign_38178.mp4,ok
+5,67931,asllex,109,0,train,25,1,-1,90,21,370,360,https://youtu.be/OdJuIwj6iYY,newspaper_0005_asllex_67931.mp4,skipped_no_ytdlp
+6,38179,asldeafined,13,0,train,25,1,-1,138,0,506,480,https://media.asldeafined.com/vocabulary/1468718854.2103.mp4,newspaper_0006_asldeafined_38179.mp4,ok
+7,38180,handspeak,14,0,train,25,1,-1,41,0,270,240,https://www.handspeak.com/word/n/newspaper.mp4,newspaper_0007_handspeak_38180.mp4,failed
+8,38181,signingsavvy,11,0,train,25,1,-1,74,14,203,192,https://www.signingsavvy.com/signs/mp4/8/8898.mp4,newspaper_0008_signingsavvy_38181.mp4,ok
+9,38182,aslu,5,0,test,25,1,-1,236,24,994,720,https://www.youtube.com/watch?v=8a0x0EOO9Fg,newspaper_0009_aslu_38182.mp4,skipped_no_ytdlp
+10,38183,aslu,5,0,train,25,1,-1,308,31,923,720,https://www.youtube.com/watch?v=__bh7QCaDsw,newspaper_0010_aslu_38183.mp4,skipped_no_ytdlp
+11,38184,aslu,5,0,test,25,1,-1,308,27,928,720,https://www.youtube.com/watch?v=Or8gNPdOsr4,newspaper_0011_aslu_38184.mp4,skipped_no_ytdlp
+12,38185,aslpro,72,0,val,25,1,-1,28,5,221,240,http://www.aslpro.com/main/n/newspaper.swf,newspaper_0012_aslpro_38185.mp4,skipped_swf

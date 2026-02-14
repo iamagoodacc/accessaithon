@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18218,asl5200,9,0,val,25,335,397,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,earring_0000_asl5200_18218.mp4,skipped_no_ytdlp
+1,18225,signingsavvy,10,0,test,25,1,-1,85,20,210,192,https://www.signingsavvy.com/signs/mp4/23/23620.mp4,earring_0001_signingsavvy_18225.mp4,ok
+2,18226,aslu,5,0,train,25,1,-1,351,37,934,720,https://www.youtube.com/watch?v=FbO2p6yRM0E,earring_0002_aslu_18226.mp4,skipped_no_ytdlp
+3,18227,aslpro,16,0,train,25,1,-1,26,21,204,240,http://www.aslpro.com/main/e/earring.swf,earring_0003_aslpro_18227.mp4,skipped_swf
+4,65595,aslsignbank,98,1,train,25,1,-1,158,29,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EARRING-1289.mp4,earring_0004_aslsignbank_65595.mp4,failed
+5,67605,asllex,109,1,test,25,1,-1,91,16,396,360,https://youtu.be/Y4zo-SFbJdo,earring_0005_asllex_67605.mp4,skipped_no_ytdlp
+6,18228,aslsearch,12,0,train,25,1,-1,176,52,536,400,http://www.aslsearch.com/signs/videos/earring.mp4,earring_0006_aslsearch_18228.mp4,ok
+7,18219,spreadthesign,33,1,val,25,1,-1,61,15,265,240,https://media.spreadthesign.com/video/mp4/13/96295.mp4,earring_0007_spreadthesign_18219.mp4,ok
+8,18220,signschool,32,0,val,25,1,-1,768,64,1587,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Earring-Wg-8EetyTnc.mp4,earring_0008_signschool_18220.mp4,ok
+9,18221,signschool,31,0,train,25,1,-1,699,136,1586,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Piercing-PA30qTL0A58.mp4,earring_0009_signschool_18221.mp4,ok
+10,18222,handspeak,20,0,train,25,1,-1,18,0,315,240,https://www.handspeak.com/word/e/earring.mp4,earring_0010_handspeak_18222.mp4,failed
+11,18223,handspeak,20,1,train,25,1,-1,51,2,309,240,https://www.handspeak.com/word/e/earrings.mp4,earring_0011_handspeak_18223.mp4,failed
+12,18224,handspeak,20,1,train,25,1,-1,99,0,527,360,https://www.handspeak.com/word/e/earrings-stud.mp4,earring_0012_handspeak_18224.mp4,failed

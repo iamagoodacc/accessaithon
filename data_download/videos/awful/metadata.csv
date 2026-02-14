@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04422,asl5200,9,0,train,25,5623,5669,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,awful_0000_asl5200_04422.mp4,skipped_no_ytdlp
+2,04432,aslu,5,0,train,25,1,-1,329,54,937,720,https://www.youtube.com/watch?v=HRQIh-f9xAw,awful_0002_aslu_04432.mp4,skipped_no_ytdlp
+3,04433,aslpro,25,0,train,25,1,-1,2,8,256,240,http://www.aslpro.com/main/a/awful.swf,awful_0003_aslpro_04433.mp4,skipped_swf
+4,65118,aslsignbank,88,0,val,25,1,-1,178,7,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AW/AWFUL-26.mp4,awful_0004_aslsignbank_65118.mp4,failed
+5,04424,spreadthesign,2,0,train,25,1,-1,27,2,285,240,https://media.spreadthesign.com/video/mp4/13/123109.mp4,awful_0005_spreadthesign_04424.mp4,ok
+6,04434,aslsearch,12,0,train,25,1,-1,188,47,579,400,http://www.aslsearch.com/signs/videos/awful.mp4,awful_0006_aslsearch_04434.mp4,ok
+7,04425,startasl,38,0,train,25,1,-1,381,52,791,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/awful.mp4,awful_0007_startasl_04425.mp4,ok
+8,04426,signschool,6,0,train,25,1,-1,591,52,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Awful%2C%20Terrible-Jut7HkgsbjE.mp4,awful_0008_signschool_04426.mp4,ok
+9,04427,asldeafined,13,0,val,25,1,-1,98,28,538,480,https://media.asldeafined.com/vocabulary/1466647617.4721.mp4,awful_0009_asldeafined_04427.mp4,ok
+10,04428,handspeak,20,0,test,25,1,-1,117,8,451,360,https://www.handspeak.com/word/a/awful.mp4,awful_0010_handspeak_04428.mp4,failed
+11,04429,signingsavvy,10,0,test,25,1,-1,70,14,223,192,https://www.signingsavvy.com/signs/mp4/22/22158.mp4,awful_0011_signingsavvy_04429.mp4,ok
+12,04430,signingsavvy,11,0,train,25,1,-1,71,16,212,192,https://www.signingsavvy.com/signs/mp4/6/6745.mp4,awful_0012_signingsavvy_04430.mp4,ok

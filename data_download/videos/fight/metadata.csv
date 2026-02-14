@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21689,asl5200,9,0,val,25,1219,1275,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,fight_0000_asl5200_21689.mp4,skipped_no_ytdlp
+1,21709,aslpro,16,0,train,25,1,-1,9,5,225,240,http://www.aslpro.com/main/f/fight.swf,fight_0001_aslpro_21709.mp4,skipped_swf
+2,21710,aslsearch,12,0,train,25,1,-1,157,62,576,400,http://www.aslsearch.com/signs/videos/combat2.mp4,fight_0002_aslsearch_21710.mp4,ok
+3,21695,startasl,38,0,train,25,1,-1,413,57,837,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/fight.mp4,fight_0003_startasl_21695.mp4,ok
+5,21697,asldeafined,21,0,train,25,1,-1,89,13,562,480,https://media.asldeafined.com/vocabulary/1468493540.40.mp4,fight_0005_asldeafined_21697.mp4,ok
+7,21699,handspeak,20,0,train,25,1,-1,113,0,519,360,https://www.handspeak.com/word/f/fight-hand.mp4,fight_0007_handspeak_21699.mp4,failed
+11,65711,aslsignbank,94,0,train,25,1,-1,135,17,512,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIGHT-132.mp4,fight_0011_aslsignbank_65711.mp4,failed
+14,21694,spreadthesign,37,0,train,25,1,-1,55,0,275,240,https://media.spreadthesign.com/video/mp4/13/455652.mp4,fight_0014_spreadthesign_21694.mp4,ok
+15,67655,asllex,109,0,train,25,1,-1,96,14,387,360,https://youtu.be/sjDdtdNYML4,fight_0015_asllex_67655.mp4,skipped_no_ytdlp
+16,21704,signingsavvy,10,0,test,25,1,-1,75,25,218,192,https://www.signingsavvy.com/signs/mp4/22/22244.mp4,fight_0016_signingsavvy_21704.mp4,ok
+18,21706,signingsavvy,10,0,train,25,1,-1,81,17,232,192,https://www.signingsavvy.com/signs/mp4/22/22761.mp4,fight_0018_signingsavvy_21706.mp4,ok
+19,21707,aslu,5,0,test,25,1,-1,265,34,1015,720,https://www.youtube.com/watch?v=JGXoDKup5Yg,fight_0019_aslu_21707.mp4,skipped_no_ytdlp
+20,21708,aslu,5,0,val,25,1,-1,203,27,1047,720,https://www.youtube.com/watch?v=tpABYMXILgo,fight_0020_aslu_21708.mp4,skipped_no_ytdlp

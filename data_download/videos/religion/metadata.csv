@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47103,asl5200,9,0,train,25,1666,1715,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,religion_0000_asl5200_47103.mp4,skipped_no_ytdlp
+1,47111,aslpro,83,0,train,25,1,-1,0,14,224,240,http://www.aslpro.com/main/r/religion.swf,religion_0001_aslpro_47111.mp4,skipped_swf
+2,47112,aslsearch,12,0,train,25,1,-1,156,51,542,400,http://www.aslsearch.com/signs/videos/religion.mp4,religion_0002_aslsearch_47112.mp4,ok
+3,66386,aslsignbank,103,0,val,25,1,-1,95,29,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RELIGION-957.mp4,religion_0003_aslsignbank_66386.mp4,failed
+4,67132,asllex,109,0,train,25,1,-1,94,13,375,360,https://youtu.be/hyke9WnD7Ew,religion_0004_asllex_67132.mp4,skipped_no_ytdlp
+5,47104,elementalasl,19,0,train,25,1,-1,84,11,239,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/religion.mov,religion_0005_elementalasl_47104.mp4,ok
+6,47105,spreadthesign,56,0,train,25,1,-1,13,0,271,240,https://media.spreadthesign.com/video/mp4/13/49276.mp4,religion_0006_spreadthesign_47105.mp4,ok
+7,47106,startasl,38,0,train,25,1,-1,401,57,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/religion.mp4,religion_0007_startasl_47106.mp4,ok
+8,47107,signschool,4,0,val,25,1,-1,580,65,1535,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Religion-nHSKXuImrZA.mp4,religion_0008_signschool_47107.mp4,ok
+9,47108,handspeak,14,0,test,25,1,-1,125,4,583,480,https://www.handspeak.com/word/r/religion.mp4,religion_0009_handspeak_47108.mp4,failed
+10,47109,signingsavvy,11,0,test,25,1,-1,73,16,213,192,https://www.signingsavvy.com/signs/mp4/9/9032.mp4,religion_0010_signingsavvy_47109.mp4,ok
+11,47110,aslu,5,0,train,25,1,-1,325,42,930,720,https://www.youtube.com/watch?v=DEJzHY5Buto,religion_0011_aslu_47110.mp4,skipped_no_ytdlp

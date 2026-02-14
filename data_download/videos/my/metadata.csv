@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37464,asl5200,9,0,train,25,2831,2867,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,my_0000_asl5200_37464.mp4,skipped_no_ytdlp
+1,69404,aslbrick,116,0,train,25,1,-1,349,35,969,712,http://aslbricks.org/New/ASL-Videos/my.mp4,my_0001_aslbrick_69404.mp4,ok
+2,37477,aslsearch,12,0,train,25,1,-1,170,53,548,400,http://www.aslsearch.com/signs/videos/mine2.mp4,my_0002_aslsearch_37477.mp4,ok
+3,37469,spreadthesign,37,0,val,25,1,-1,52,0,242,240,https://media.spreadthesign.com/video/mp4/13/457056.mp4,my_0003_spreadthesign_37469.mp4,ok
+4,67920,asllex,109,0,train,25,1,-1,90,24,383,360,https://youtu.be/RhlO0z_eLoA,my_0004_asllex_67920.mp4,skipped_no_ytdlp
+5,37470,signschool,46,0,train,25,1,-1,632,40,1527,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20My-3msfJ_fibwg.mp4,my_0005_signschool_37470.mp4,ok
+6,37471,asldeafined,13,0,train,25,1,-1,120,0,502,480,https://media.asldeafined.com/vocabulary/1468717535.7522.mp4,my_0006_asldeafined_37471.mp4,ok
+7,37472,handspeak,14,0,train,25,1,-1,43,0,280,240,https://www.handspeak.com/word/m/my.mp4,my_0007_handspeak_37472.mp4,failed
+8,37473,signingsavvy,11,0,val,25,1,-1,73,15,219,192,https://www.signingsavvy.com/signs/mp4/7/7198.mp4,my_0008_signingsavvy_37473.mp4,ok
+9,37474,aslu,64,0,test,25,1,-1,137,32,451,345,https://www.youtube.com/watch?v=IKSfqjBWedg,my_0009_aslu_37474.mp4,skipped_no_ytdlp
+10,37475,scott,47,0,test,25,1,-1,298,22,899,720,https://www.youtube.com/watch?v=jZTxiXK7TNs,my_0010_scott_37475.mp4,skipped_no_ytdlp
+11,37476,aslpro,24,0,train,25,1,-1,20,13,206,240,http://www.aslpro.com/main/m/my.swf,my_0011_aslpro_37476.mp4,skipped_swf

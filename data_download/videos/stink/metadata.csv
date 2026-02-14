@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54819,asl5200,9,0,val,25,8680,8772,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stink_0000_asl5200_54819.mp4,skipped_no_ytdlp
+1,70300,northtexas,121,0,train,25,5712,5810,99,39,390,360,https://www.youtube.com/watch?v=CSj7IScvZnE,stink_0001_northtexas_70300.mp4,skipped_no_ytdlp
+2,54827,aslpro,25,0,train,25,1,-1,0,7,245,240,http://www.aslpro.com/main/s/stink.swf,stink_0002_aslpro_54827.mp4,skipped_swf
+3,54828,aslsearch,41,0,train,25,1,-1,233,36,487,400,http://www.aslsearch.com/signs/videos/stink.mp4,stink_0003_aslsearch_54828.mp4,ok
+4,66557,aslsignbank,100,0,train,25,1,-1,190,26,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STINK-1126.mp4,stink_0004_aslsignbank_66557.mp4,failed
+5,66558,aslsignbank,92,0,train,25,1,-1,168,24,434,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STINK-2196.mp4,stink_0005_aslsignbank_66558.mp4,failed
+6,54820,spreadthesign,2,0,train,25,1,-1,66,3,251,240,https://media.spreadthesign.com/video/mp4/13/117038.mp4,stink_0006_spreadthesign_54820.mp4,ok
+7,54821,signschool,32,0,train,25,1,-1,678,82,1610,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stink%202-CCmmRRvh7iU.mp4,stink_0007_signschool_54821.mp4,ok
+8,54822,signschool,32,0,train,25,1,-1,756,73,1612,1066,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stink-H2GHOjY55sM.mp4,stink_0008_signschool_54822.mp4,ok
+9,54823,asldeafined,13,0,test,25,1,-1,124,0,528,480,https://media.asldeafined.com/vocabulary/1468721045.7528.mp4,stink_0009_asldeafined_54823.mp4,ok
+10,54824,handspeak,14,0,train,25,1,-1,84,14,261,240,https://www.handspeak.com/word/s/stink.mp4,stink_0010_handspeak_54824.mp4,failed
+11,54825,signingsavvy,11,0,test,25,1,-1,68,10,210,192,https://www.signingsavvy.com/signs/mp4/14/14157.mp4,stink_0011_signingsavvy_54825.mp4,ok
+12,54826,aslu,5,0,val,25,1,-1,363,40,972,720,https://www.youtube.com/watch?v=O3L5UOdpvIY,stink_0012_aslu_54826.mp4,skipped_no_ytdlp

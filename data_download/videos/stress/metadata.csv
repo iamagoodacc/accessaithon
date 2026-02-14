@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55169,asl5200,9,0,train,25,9367,9419,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stress_0000_asl5200_55169.mp4,skipped_no_ytdlp
+1,55183,aslpro,84,0,train,25,1,-1,11,8,212,240,http://www.aslpro.com/main/s/stress.swf,stress_0001_aslpro_55183.mp4,skipped_swf
+2,55184,aslsearch,12,0,train,25,1,-1,195,55,558,400,http://www.aslsearch.com/signs/videos/stress.mp4,stress_0002_aslsearch_55184.mp4,ok
+3,66570,aslsignbank,101,0,val,25,1,-1,207,9,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STRESS-928.mp4,stress_0003_aslsignbank_66570.mp4,failed
+4,55176,signschool,4,0,train,25,1,-1,693,62,1699,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stress-7LrtZAzEpgE.mp4,stress_0004_signschool_55176.mp4,ok
+5,67252,asllex,109,0,train,25,1,-1,103,15,380,360,https://youtu.be/yKC9CK4dbPM,stress_0005_asllex_67252.mp4,skipped_no_ytdlp
+6,55177,signschool,39,0,train,25,1,-1,776,62,1811,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stress-c9isw6BIkWU.mp4,stress_0006_signschool_55177.mp4,ok
+7,55178,signschool,32,0,train,25,1,-1,677,68,1618,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stress-GhrdusZi-5M.mp4,stress_0007_signschool_55178.mp4,ok
+8,55179,asldeafined,13,0,val,25,1,-1,134,0,524,480,https://media.asldeafined.com/vocabulary/1468897016.1780.mp4,stress_0008_asldeafined_55179.mp4,ok
+9,55180,handspeak,14,0,test,25,1,-1,8,0,512,480,https://www.handspeak.com/word/s/stress.mp4,stress_0009_handspeak_55180.mp4,failed
+10,55181,signingsavvy,11,0,test,25,1,-1,58,8,210,192,https://www.signingsavvy.com/signs/mp4/14/14089.mp4,stress_0010_signingsavvy_55181.mp4,ok
+11,55182,signingsavvy,11,0,train,25,1,-1,55,6,202,192,https://www.signingsavvy.com/signs/mp4/14/14094.mp4,stress_0011_signingsavvy_55182.mp4,ok

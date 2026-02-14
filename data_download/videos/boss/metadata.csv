@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07236,asl5200,9,0,test,25,3840,3896,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,boss_0000_asl5200_07236.mp4,skipped_no_ytdlp
+2,07243,signingsavvy,10,0,train,25,1,-1,28,12,213,192,https://www.signingsavvy.com/signs/mp4/22/22832.mp4,boss_0002_signingsavvy_07243.mp4,ok
+4,07245,signingsavvy,11,0,train,25,1,-1,44,14,221,192,https://www.signingsavvy.com/signs/mp4/8/8959.mp4,boss_0004_signingsavvy_07245.mp4,ok
+5,65231,aslsignbank,90,0,val,25,1,-1,125,24,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOSS-556.mp4,boss_0005_aslsignbank_65231.mp4,failed
+6,67428,asllex,109,0,train,25,1,-1,99,7,376,360,https://youtu.be/FsFPxl8S0Jk,boss_0006_asllex_67428.mp4,skipped_no_ytdlp
+7,07246,aslpro,49,0,test,25,1,-1,0,6,223,240,http://www.aslpro.com/main/b/boss.swf,boss_0007_aslpro_07246.mp4,skipped_swf
+8,07247,aslsearch,41,0,train,25,1,-1,148,38,480,400,http://www.aslsearch.com/signs/videos/boss.mp4,boss_0008_aslsearch_07247.mp4,ok
+9,07237,spreadthesign,2,0,train,25,1,-1,59,11,307,240,https://media.spreadthesign.com/video/mp4/13/125013.mp4,boss_0009_spreadthesign_07237.mp4,ok
+10,07238,startasl,36,0,train,25,1,-1,125,14,522,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/boss.mp4,boss_0010_startasl_07238.mp4,ok
+11,07239,signschool,4,0,train,25,1,-1,499,70,1583,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Boss-2YWz3UnssxQ.mp4,boss_0011_signschool_07239.mp4,ok
+13,07241,handspeak,14,0,val,25,1,-1,39,3,276,240,https://www.handspeak.com/word/b/boss2.mp4,boss_0013_handspeak_07241.mp4,failed

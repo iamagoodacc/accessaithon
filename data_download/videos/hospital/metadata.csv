@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,68404,lillybauer,113,0,val,25,1,74,206,36,961,720,https://www.youtube.com/watch?v=dAzz4ooEN0U,hospital_0001_lillybauer_68404.mp4,skipped_no_ytdlp
+2,70150,northtexas,121,0,train,25,6928,7036,153,25,468,480,https://www.youtube.com/watch?v=VwejDy96MzM,hospital_0002_northtexas_70150.mp4,skipped_no_ytdlp
+4,28040,handspeak,20,0,train,25,1,-1,120,1,564,480,https://www.handspeak.com/word/h/hospital.mp4,hospital_0004_handspeak_28040.mp4,failed
+5,28041,signingsavvy,11,0,train,25,1,-1,79,9,208,192,https://www.signingsavvy.com/signs/mp4/8/8688.mp4,hospital_0005_signingsavvy_28041.mp4,ok
+6,28042,aslu,5,0,train,25,1,-1,370,30,970,720,https://www.youtube.com/watch?v=syueldx2RHQ,hospital_0006_aslu_28042.mp4,skipped_no_ytdlp
+7,28033,spreadthesign,37,0,train,25,1,-1,75,0,234,240,https://media.spreadthesign.com/video/mp4/13/456595.mp4,hospital_0007_spreadthesign_28033.mp4,ok
+8,67773,asllex,109,0,train,25,1,-1,103,12,386,360,https://youtu.be/n0ghkagUd8g,hospital_0008_asllex_67773.mp4,skipped_no_ytdlp
+9,28043,aslpro,16,0,train,25,1,-1,15,5,223,240,http://www.aslpro.com/main/h/hospital.swf,hospital_0009_aslpro_28043.mp4,skipped_swf
+10,28044,aslsearch,12,0,train,25,1,-1,186,52,530,400,http://www.aslsearch.com/signs/videos/hospital.mp4,hospital_0010_aslsearch_28044.mp4,ok
+11,28034,startasl,38,0,test,25,1,-1,386,51,799,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hospital.mp4,hospital_0011_startasl_28034.mp4,ok
+12,28035,signschool,4,0,train,25,1,-1,716,91,1511,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital%202-RBjXHnCW5O4.mp4,hospital_0012_signschool_28035.mp4,ok
+13,28036,signschool,60,0,test,25,1,-1,376,24,753,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hospital-nVGW6FnfoZk.mp4,hospital_0013_signschool_28036.mp4,ok
+15,28038,asldeafined,21,0,val,25,1,-1,66,14,495,480,https://media.asldeafined.com/vocabulary/1468638550.6788.mp4,hospital_0015_asldeafined_28038.mp4,ok

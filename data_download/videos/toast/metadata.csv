@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66652,aslsignbank,98,0,val,25,1,-1,170,32,458,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TO/TOAST-1247.mp4,toast_0000_aslsignbank_66652.mp4,failed
+1,58654,asldeafined,15,0,test,25,1,-1,141,37,543,480,https://media.asldeafined.com/vocabulary/1499872789.9072.mp4,toast_0001_asldeafined_58654.mp4,ok
+2,58655,asldeafined,15,1,train,25,1,-1,138,37,633,480,https://media.asldeafined.com/vocabulary/1499872819.6788.mp4,toast_0002_asldeafined_58655.mp4,ok
+4,58657,signingsavvy,10,0,train,25,1,-1,76,17,198,192,https://www.signingsavvy.com/signs/mp4/24/24055.mp4,toast_0004_signingsavvy_58657.mp4,ok
+5,58658,signingsavvy,10,1,test,25,1,-1,53,15,242,192,https://www.signingsavvy.com/signs/mp4/24/24292.mp4,toast_0005_signingsavvy_58658.mp4,ok
+6,58649,spreadthesign,2,1,val,25,1,-1,24,31,284,240,https://media.spreadthesign.com/video/mp4/13/91657.mp4,toast_0006_spreadthesign_58649.mp4,ok
+7,67311,asllex,109,0,train,25,1,-1,73,18,376,360,https://youtu.be/QtOcTf4foDE,toast_0007_asllex_67311.mp4,skipped_no_ytdlp
+8,58659,aslpro,54,1,train,25,1,-1,18,5,260,240,http://www.aslpro.com//main/t/toast_celebration.swf,toast_0008_aslpro_58659.mp4,skipped_swf
+9,58660,aslpro,25,0,train,25,1,-1,0,8,236,240,http://www.aslpro.com/main/t/toast.swf,toast_0009_aslpro_58660.mp4,skipped_swf
+10,58661,aslsearch,12,0,val,25,1,-1,168,53,531,400,http://www.aslsearch.com/signs/videos/toast.mp4,toast_0010_aslsearch_58661.mp4,ok
+12,58651,signschool,4,1,train,25,1,-1,354,51,1784,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Toast%202h-d9KtLo_JPLU.mp4,toast_0012_signschool_58651.mp4,ok
+13,58652,signschool,32,0,train,25,1,-1,755,62,1623,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Toast%2C%20Toaster-1iUXoMw-q2U.mp4,toast_0013_signschool_58652.mp4,ok
+14,58653,signschool,52,0,train,25,1,-1,364,14,813,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Toast-ZY3aGGkpXnk.mp4,toast_0014_signschool_58653.mp4,ok

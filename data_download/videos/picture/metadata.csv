@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42649,asl5200,9,0,val,25,2137,2203,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,picture_0000_asl5200_42649.mp4,skipped_no_ytdlp
+1,68131,valencia-asl,109,0,train,25,1,-1,117,0,1205,720,https://www.youtube.com/watch?v=jvCWeEKo3DY,picture_0001_valencia-asl_68131.mp4,skipped_no_ytdlp
+2,42659,aslpro,30,0,train,25,1,-1,1,11,226,240,http://www.aslpro.com/main/p/picture.swf,picture_0002_aslpro_42659.mp4,skipped_swf
+3,42660,aslsearch,12,0,train,25,1,-1,184,57,559,400,http://www.aslsearch.com/signs/videos/image.mp4,picture_0003_aslsearch_42660.mp4,ok
+4,42651,spreadthesign,0,0,train,25,1,-1,45,3,256,240,https://media.spreadthesign.com/video/mp4/13/63560.mp4,picture_0004_spreadthesign_42651.mp4,ok
+5,67982,asllex,109,0,train,25,1,-1,102,21,394,360,https://youtu.be/JV4n-xMHv8k,picture_0005_asllex_67982.mp4,skipped_no_ytdlp
+6,42652,startasl,38,0,train,25,1,-1,393,49,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/picture.mp4,picture_0006_startasl_42652.mp4,ok
+7,42653,signschool,32,0,train,25,1,-1,739,75,1618,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Image%2C%20Picture-qmGvlGKLGeI.mp4,picture_0007_signschool_42653.mp4,ok
+8,42654,asldeafined,13,0,train,25,1,-1,102,0,522,480,https://media.asldeafined.com/vocabulary/1468726080.6503.mp4,picture_0008_asldeafined_42654.mp4,ok
+9,42655,handspeak,14,0,test,25,1,-1,14,0,258,240,https://www.handspeak.com/word/p/picture.mp4,picture_0009_handspeak_42655.mp4,failed
+10,42656,signingsavvy,11,0,train,25,1,-1,73,6,225,192,https://www.signingsavvy.com/signs/mp4/5/5976.mp4,picture_0010_signingsavvy_42656.mp4,ok
+11,42657,aslu,5,0,test,25,1,-1,328,44,965,720,https://www.youtube.com/watch?v=8_eI8t4exD8,picture_0011_aslu_42657.mp4,skipped_no_ytdlp
+12,42658,aslu,5,0,val,25,1,-1,318,44,960,720,https://www.youtube.com/watch?v=Mu4in1jLNZA,picture_0012_aslu_42658.mp4,skipped_no_ytdlp

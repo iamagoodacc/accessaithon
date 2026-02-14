@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37849,asl5200,9,0,val,25,457,506,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,necklace_0000_asl5200_37849.mp4,skipped_no_ytdlp
+1,37851,startasl,38,0,test,25,1,-1,384,68,869,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/necklace-2.mp4,necklace_0001_startasl_37851.mp4,ok
+2,37852,startasl,38,1,train,25,1,-1,426,70,874,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/necklace.mp4,necklace_0002_startasl_37852.mp4,ok
+3,37853,signschool,32,0,train,25,1,-1,562,63,1838,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Jewelry%202-1QExxwdFd8s.mp4,necklace_0003_signschool_37853.mp4,ok
+4,37854,signschool,4,1,test,25,1,-1,752,60,1545,1060,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Necklace%20copy-hE1SHCoZwfw.mp4,necklace_0004_signschool_37854.mp4,ok
+5,37855,signschool,31,0,train,25,1,-1,629,76,1430,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Necklace-SlA5dLXOizo.mp4,necklace_0005_signschool_37855.mp4,ok
+7,37857,handspeak,20,0,train,25,1,-1,39,0,264,240,https://www.handspeak.com/word/n/necklace2.mp4,necklace_0007_handspeak_37857.mp4,failed
+9,66162,aslsignbank,97,0,val,25,1,-1,162,31,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NE/NECKLACE-1579.mp4,necklace_0009_aslsignbank_66162.mp4,failed
+10,67924,asllex,109,0,train,25,1,-1,100,18,442,360,https://youtu.be/jtvzlwzOhl4,necklace_0010_asllex_67924.mp4,skipped_no_ytdlp
+11,37859,signingsavvy,11,1,val,25,1,-1,46,10,240,192,https://www.signingsavvy.com/signs/mp4/2/2136.mp4,necklace_0011_signingsavvy_37859.mp4,ok
+15,37863,aslpro,72,1,train,25,1,-1,16,4,235,240,http://www.aslpro.com/main/n/necklace.swf,necklace_0015_aslpro_37863.mp4,skipped_swf
+16,37864,aslsearch,12,1,train,25,1,-1,186,54,587,400,http://www.aslsearch.com/signs/videos/necklace.mp4,necklace_0016_aslsearch_37864.mp4,ok
+17,37850,spreadthesign,2,0,train,25,1,-1,68,30,291,240,https://media.spreadthesign.com/video/mp4/13/93972.mp4,necklace_0017_spreadthesign_37850.mp4,ok

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41661,asl5200,9,0,train,25,884,940,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,peach_0000_asl5200_41661.mp4,skipped_no_ytdlp
+1,70311,northtexas,121,0,train,25,1982,2086,105,26,270,240,https://www.youtube.com/watch?v=pc0-gVEETVg,peach_0001_northtexas_70311.mp4,skipped_no_ytdlp
+2,41670,aslsearch,12,0,train,25,1,-1,175,54,554,400,http://www.aslsearch.com/signs/videos/peach.mp4,peach_0002_aslsearch_41670.mp4,ok
+3,67970,asllex,109,0,val,25,1,-1,137,13,375,360,https://youtu.be/CH8XIKf-HOY,peach_0003_asllex_67970.mp4,skipped_no_ytdlp
+4,41662,spreadthesign,2,0,train,25,1,-1,72,28,234,240,https://media.spreadthesign.com/video/mp4/13/91556.mp4,peach_0004_spreadthesign_41662.mp4,ok
+5,41663,startasl,38,0,train,25,1,-1,427,60,804,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/peach.mp4,peach_0005_startasl_41663.mp4,ok
+6,41664,asldeafined,13,0,train,25,1,-1,122,0,495,480,https://media.asldeafined.com/vocabulary/1468724613.5518.mp4,peach_0006_asldeafined_41664.mp4,ok
+7,41665,handspeak,20,0,train,25,1,-1,30,5,285,240,https://www.handspeak.com/word/p/peach.mp4,peach_0007_handspeak_41665.mp4,failed
+8,41666,signingsavvy,11,0,val,25,1,-1,75,17,220,192,https://www.signingsavvy.com/signs/mp4/7/7299.mp4,peach_0008_signingsavvy_41666.mp4,ok
+9,41667,aslu,5,0,test,25,1,-1,307,63,919,720,https://www.youtube.com/watch?v=XLv8TfJs_Ds,peach_0009_aslu_41667.mp4,skipped_no_ytdlp
+10,41668,aslpro,25,0,test,25,1,-1,7,9,252,240,http://www.aslpro.com/main/p/peach.swf,peach_0010_aslpro_41668.mp4,skipped_swf
+11,41669,aslsearch,12,0,train,25,1,-1,175,54,554,400,http://www.aslsearch.com/signs/videos/peach.mp4,peach_0011_aslsearch_41669.mp4,ok

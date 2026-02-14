@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52707,asl5200,9,0,val,25,5736,5782,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,snake_0000_asl5200_52707.mp4,skipped_no_ytdlp
+1,52718,nabboud,67,0,train,25,1,-1,342,54,889,720,https://www.youtube.com/watch?v=_OgLfGX2hSU,snake_0001_nabboud_52718.mp4,skipped_no_ytdlp
+2,52719,aslpro,72,0,train,25,1,-1,32,7,230,240,http://www.aslpro.com/main/s/snake.swf,snake_0002_aslpro_52719.mp4,skipped_swf
+3,52720,aslsearch,12,0,train,25,1,-1,201,53,548,400,http://www.aslsearch.com/signs/videos/snake.mp4,snake_0003_aslsearch_52720.mp4,ok
+4,66515,aslsignbank,108,0,train,25,1,-1,185,45,464,369,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNAKE-1081.mp4,snake_0004_aslsignbank_66515.mp4,failed
+5,52711,spreadthesign,63,0,train,25,1,-1,53,0,246,240,https://media.spreadthesign.com/video/mp4/13/50813.mp4,snake_0005_spreadthesign_52711.mp4,ok
+6,67217,asllex,109,0,train,25,1,-1,132,18,379,360,https://youtu.be/QoacuIKxvD4,snake_0006_asllex_67217.mp4,skipped_no_ytdlp
+7,52712,startasl,38,0,train,25,1,-1,434,52,819,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/snake.mp4,snake_0007_startasl_52712.mp4,ok
+8,52713,signschool,31,0,train,25,1,-1,670,145,1479,1061,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Snake-PCOdwOfqdvY.mp4,snake_0008_signschool_52713.mp4,ok
+9,52714,asldeafined,13,0,test,25,1,-1,150,4,528,480,https://media.asldeafined.com/vocabulary/1468775663.2170.mp4,snake_0009_asldeafined_52714.mp4,ok
+10,52715,handspeak,20,0,train,25,1,-1,30,0,300,240,https://www.handspeak.com/word/s/snake.mp4,snake_0010_handspeak_52715.mp4,failed
+11,52716,signingsavvy,11,0,test,25,1,-1,72,9,218,192,https://www.signingsavvy.com/signs/mp4/14/14637.mp4,snake_0011_signingsavvy_52716.mp4,ok
+12,52717,aslu,5,0,val,25,1,-1,325,39,907,720,https://www.youtube.com/watch?v=joAF2ZzYG7Y,snake_0012_aslu_52717.mp4,skipped_no_ytdlp

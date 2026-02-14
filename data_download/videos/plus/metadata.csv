@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43335,asl5200,9,0,val,25,3063,3105,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,plus_0000_asl5200_43335.mp4,skipped_no_ytdlp
+1,68134,valencia-asl,109,0,train,25,1,-1,318,20,1080,720,https://www.youtube.com/watch?v=FpSHDm4HUZg,plus_0001_valencia-asl_68134.mp4,skipped_no_ytdlp
+2,43346,aslu,5,0,train,25,1,-1,356,40,989,720,https://www.youtube.com/watch?v=15Kyw3b2f70,plus_0002_aslu_43346.mp4,skipped_no_ytdlp
+3,43347,aslu,5,0,train,25,1,-1,239,0,962,720,https://www.youtube.com/watch?v=bXlKUuPtm0s,plus_0003_aslu_43347.mp4,skipped_no_ytdlp
+4,43348,aslpro,25,0,train,25,1,-1,0,3,244,240,http://www.aslpro.com/main/p/plus.swf,plus_0004_aslpro_43348.mp4,skipped_swf
+5,66303,aslsignbank,101,0,train,25,1,-1,198,10,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PL/PLUS-909.mp4,plus_0005_aslsignbank_66303.mp4,failed
+6,43339,spreadthesign,2,0,train,25,1,-1,58,11,259,240,https://media.spreadthesign.com/video/mp4/13/116333.mp4,plus_0006_spreadthesign_43339.mp4,ok
+7,43349,aslsearch,41,0,train,25,1,-1,239,38,502,400,http://www.aslsearch.com/signs/videos/add2.mp4,plus_0007_aslsearch_43349.mp4,ok
+8,43340,signschool,6,0,train,25,1,-1,633,49,1506,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Plus-bfY_3UCUOxE.mp4,plus_0008_signschool_43340.mp4,ok
+9,43341,signschool,4,0,test,25,1,-1,668,35,1731,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pro-ckIRGIIvnjo.mp4,plus_0009_signschool_43341.mp4,ok
+10,43342,asldeafined,59,0,train,25,1,-1,120,38,518,480,https://media.asldeafined.com/vocabulary/1499870520.9537.mp4,plus_0010_asldeafined_43342.mp4,ok
+11,43343,handspeak,14,0,test,25,1,-1,88,38,527,480,https://www.handspeak.com/word/p/plus.mp4,plus_0011_handspeak_43343.mp4,failed
+13,43345,signingsavvy,11,0,val,25,1,-1,73,17,206,192,https://www.signingsavvy.com/signs/mp4/6/6474.mp4,plus_0013_signingsavvy_43345.mp4,ok

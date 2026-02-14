@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35524,asl5200,9,0,val,25,895,957,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,meeting_0000_asl5200_35524.mp4,skipped_no_ytdlp
+1,68696,lillybauer,113,0,train,25,1,89,236,27,995,720,https://www.youtube.com/watch?v=MKMoVapmIYU,meeting_0001_lillybauer_68696.mp4,skipped_no_ytdlp
+2,35532,aslu,5,0,train,25,1,-1,358,35,970,720,https://www.youtube.com/watch?v=SUeMTar-I28,meeting_0002_aslu_35532.mp4,skipped_no_ytdlp
+3,35533,aslpro,44,0,train,25,1,-1,1,1,259,240,http://www.aslpro.com//main/m/meeting_group.swf,meeting_0003_aslpro_35533.mp4,skipped_swf
+4,67887,asllex,109,0,train,25,1,-1,101,1,384,360,https://youtu.be/L9vCVI0Mkrk,meeting_0004_asllex_67887.mp4,skipped_no_ytdlp
+5,35534,aslsearch,41,0,train,25,1,-1,191,44,559,400,http://www.aslsearch.com/signs/videos/conference.mp4,meeting_0005_aslsearch_35534.mp4,ok
+6,35525,spreadthesign,35,0,train,25,1,-1,63,0,262,240,https://media.spreadthesign.com/video/mp4/13/399572.mp4,meeting_0006_spreadthesign_35525.mp4,ok
+7,35526,startasl,38,0,train,25,1,-1,436,55,819,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/meeting.mp4,meeting_0007_startasl_35526.mp4,ok
+8,35527,signschool,32,0,train,25,1,-1,640,71,1586,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Conference%2C%20Meeting-X4pIURYciVU.mp4,meeting_0008_signschool_35527.mp4,ok
+9,35528,asldeafined,13,0,test,25,1,-1,116,0,516,480,https://media.asldeafined.com/vocabulary/1468714746.3250.mp4,meeting_0009_asldeafined_35528.mp4,ok
+10,35529,handspeak,20,0,train,25,1,-1,86,0,556,480,https://www.handspeak.com/word/m/meeting.mp4,meeting_0010_handspeak_35529.mp4,failed
+11,35530,signingsavvy,11,0,test,25,1,-1,79,10,220,192,https://www.signingsavvy.com/signs/mp4/14/14783.mp4,meeting_0011_signingsavvy_35530.mp4,ok
+12,35531,aslu,5,0,val,25,1,-1,325,52,895,720,https://www.youtube.com/watch?v=2Q79H7VpOsA,meeting_0012_aslu_35531.mp4,skipped_no_ytdlp

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07258,asl5200,9,0,train,25,3897,3926,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,both_0000_asl5200_07258.mp4,skipped_no_ytdlp
+1,69242,aslbrick,115,0,train,25,1,-1,384,44,895,720,http://aslbricks.org/New/ASL-Videos/both.mp4,both_0001_aslbrick_69242.mp4,ok
+2,68013,valencia-asl,109,0,train,25,1,-1,94,8,1190,720,https://www.youtube.com/watch?v=Bg8FZo1hguc,both_0002_valencia-asl_68013.mp4,skipped_no_ytdlp
+3,68494,lillybauer,115,0,val,25,1,52,110,13,535,360,https://www.youtube.com/watch?v=GPMSqA32a8s,both_0003_lillybauer_68494.mp4,skipped_no_ytdlp
+4,65233,aslsignbank,89,0,train,25,1,-1,200,39,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOTH-2128.mp4,both_0004_aslsignbank_65233.mp4,failed
+5,07271,startasl,38,0,train,25,1,-1,426,53,805,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/both.mp4,both_0005_startasl_07271.mp4,ok
+6,07272,asldeafined,59,0,train,25,1,-1,79,17,547,480,https://media.asldeafined.com/vocabulary/1466684728.5958.mp4,both_0006_asldeafined_07272.mp4,ok
+7,07273,handspeak,20,0,train,25,1,-1,90,5,526,480,https://www.handspeak.com/word/b/both.mp4,both_0007_handspeak_07273.mp4,failed
+8,07274,signingsavvy,11,0,val,25,1,-1,68,11,212,192,https://www.signingsavvy.com/signs/mp4/9/9974.mp4,both_0008_signingsavvy_07274.mp4,ok
+9,07275,aslu,5,0,test,25,1,-1,165,10,494,360,https://www.youtube.com/watch?v=9yoJHvDfj-4,both_0009_aslu_07275.mp4,skipped_no_ytdlp
+10,07276,aslpro,24,0,test,25,1,-1,18,14,208,240,http://www.aslpro.com/main/b/both.swf,both_0010_aslpro_07276.mp4,skipped_swf
+11,07277,aslsearch,41,0,train,25,1,-1,214,39,481,400,http://www.aslsearch.com/signs/videos/both.mp4,both_0011_aslsearch_07277.mp4,ok

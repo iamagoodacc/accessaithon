@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65100,aslsignbank,90,0,test,25,1,-1,108,23,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AS/ASIA-779.mp4,asia_0000_aslsignbank_65100.mp4,failed
+1,03570,aslpro,24,0,train,25,1,-1,13,20,209,240,http://www.aslpro.com/main/a/asia.swf,asia_0001_aslpro_03570.mp4,skipped_swf
+2,03571,aslsearch,41,0,train,25,1,-1,177,38,502,400,http://www.aslsearch.com/signs/videos/asia.mp4,asia_0002_aslsearch_03571.mp4,ok
+3,03562,spreadthesign,8,0,val,25,1,-1,23,0,236,240,https://media.spreadthesign.com/video/mp4/13/455449.mp4,asia_0003_spreadthesign_03562.mp4,ok
+4,67373,asllex,109,0,train,25,1,-1,136,17,374,360,https://youtu.be/9xVKk9RXKWQ,asia_0004_asllex_67373.mp4,skipped_no_ytdlp
+5,03563,startasl,38,0,test,25,1,-1,348,50,828,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/asia.mp4,asia_0005_startasl_03563.mp4,ok
+6,03564,signschool,6,0,train,25,1,-1,613,47,1512,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Asia-bl9Hd9GUSow.mp4,asia_0006_signschool_03564.mp4,ok
+7,03565,asldeafined,59,0,train,25,1,-1,116,0,545,480,https://media.asldeafined.com/vocabulary/1512913877.9803.mp4,asia_0007_asldeafined_03565.mp4,ok
+8,03566,handspeak,20,0,train,25,1,-1,20,0,512,480,https://www.handspeak.com/word/a/asia.mp4,asia_0008_handspeak_03566.mp4,failed
+10,03568,signingsavvy,10,0,train,25,1,-1,58,18,212,192,https://www.signingsavvy.com/signs/mp4/22/22412.mp4,asia_0010_signingsavvy_03568.mp4,ok
+11,03569,aslu,5,0,val,25,1,-1,295,43,940,720,https://www.youtube.com/watch?v=VFyQ3p1-v0g,asia_0011_aslu_03569.mp4,skipped_no_ytdlp

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18271,asl5200,9,0,train,25,552,618,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,easter_0000_asl5200_18271.mp4,skipped_no_ytdlp
+1,18275,signschool,4,0,train,25,1,-1,588,106,1599,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Easter%203-3FKwqGrqn_Y.mp4,easter_0001_signschool_18275.mp4,ok
+2,18276,asldeafined,21,0,train,25,1,-1,104,11,556,480,https://media.asldeafined.com/vocabulary/1468347770.9131.mp4,easter_0002_asldeafined_18276.mp4,ok
+3,18277,handspeak,14,0,val,25,1,-1,52,17,276,240,https://www.handspeak.com/word/e/easter.mp4,easter_0003_handspeak_18277.mp4,failed
+4,18278,handspeak,74,0,train,25,1,-1,6,0,638,360,https://www.handspeak.com/word/e/easter-old.mp4,easter_0004_handspeak_18278.mp4,failed
+5,18279,signingsavvy,10,0,train,25,1,-1,85,24,207,192,https://www.signingsavvy.com/signs/mp4/22/22299.mp4,easter_0005_signingsavvy_18279.mp4,ok
+6,18280,signingsavvy,10,0,train,25,1,-1,85,24,209,192,https://www.signingsavvy.com/signs/mp4/22/22300.mp4,easter_0006_signingsavvy_18280.mp4,ok
+8,65599,aslsignbank,95,0,train,25,1,-1,165,4,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EASTER-2883.mp4,easter_0008_aslsignbank_65599.mp4,failed
+10,18282,aslu,5,0,val,25,1,-1,284,17,998,720,https://www.youtube.com/watch?v=ZVHoG7GIGy4,easter_0010_aslu_18282.mp4,skipped_no_ytdlp
+11,18283,aslpro,25,0,test,25,1,-1,0,2,259,240,http://www.aslpro.com/main/e/easter.swf,easter_0011_aslpro_18283.mp4,skipped_swf
+13,18272,spreadthesign,8,0,test,25,1,-1,48,0,261,240,https://media.spreadthesign.com/video/mp4/13/456810.mp4,easter_0013_spreadthesign_18272.mp4,ok
+14,18273,startasl,38,0,train,25,1,-1,414,57,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/easter.mp4,easter_0014_startasl_18273.mp4,ok

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22712,asl5200,9,0,val,25,2235,2281,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,follow_0000_asl5200_22712.mp4,skipped_no_ytdlp
+1,70203,northtexas,121,0,train,25,6191,6308,140,29,460,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,follow_0001_northtexas_70203.mp4,skipped_no_ytdlp
+2,22722,aslpro,24,0,train,25,1,-1,18,6,235,240,http://www.aslpro.com/main/f/follow.swf,follow_0002_aslpro_22722.mp4,skipped_swf
+3,22723,aslsearch,12,0,train,25,1,-1,186,51,528,400,http://www.aslsearch.com/signs/videos/follow.mp4,follow_0003_aslsearch_22723.mp4,ok
+4,65752,aslsignbank,106,0,train,25,1,-1,181,30,494,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOLLOW-1489.mp4,follow_0004_aslsignbank_65752.mp4,failed
+5,65751,aslsignbank,94,0,train,25,1,-1,166,18,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOLLOW-692.mp4,follow_0005_aslsignbank_65751.mp4,failed
+6,22715,spreadthesign,2,0,train,25,1,-1,87,34,247,240,https://media.spreadthesign.com/video/mp4/13/91294.mp4,follow_0006_spreadthesign_22715.mp4,ok
+7,22716,signschool,39,0,train,25,1,-1,750,137,1527,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Comply-nB6dfY2CVG0.mp4,follow_0007_signschool_22716.mp4,ok
+8,22717,signschool,4,0,train,25,1,-1,678,58,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Follow%202-J8ZR8rcu-1s.mp4,follow_0008_signschool_22717.mp4,ok
+9,22718,asldeafined,21,0,test,25,1,-1,101,13,566,480,https://media.asldeafined.com/vocabulary/1468513116.9255.mp4,follow_0009_asldeafined_22718.mp4,ok
+10,22719,handspeak,14,0,train,25,1,-1,67,12,249,240,https://www.handspeak.com/word/f/follow.mp4,follow_0010_handspeak_22719.mp4,failed
+11,22720,signingsavvy,10,0,test,25,1,-1,87,22,196,192,https://www.signingsavvy.com/signs/mp4/22/22618.mp4,follow_0011_signingsavvy_22720.mp4,ok
+12,22721,signingsavvy,11,0,val,25,1,-1,74,16,219,192,https://www.signingsavvy.com/signs/mp4/8/8438.mp4,follow_0012_signingsavvy_22721.mp4,ok

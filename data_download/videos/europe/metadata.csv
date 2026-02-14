@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19679,asl5200,9,0,train,25,2332,2394,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,europe_0000_asl5200_19679.mp4,skipped_no_ytdlp
+1,19692,signingsavvy,11,0,train,25,1,-1,60,4,213,192,https://www.signingsavvy.com/signs/mp4/5/5725.mp4,europe_0001_signingsavvy_19692.mp4,ok
+2,19693,aslu,5,0,train,25,1,-1,295,17,936,718,https://www.youtube.com/watch?v=TXRP_YqDi6Q,europe_0002_aslu_19693.mp4,skipped_no_ytdlp
+3,19694,aslpro,24,0,val,25,1,-1,4,6,215,240,http://www.aslpro.com/main/e/europe.swf,europe_0003_aslpro_19694.mp4,skipped_swf
+4,19685,spreadthesign,8,0,train,25,1,-1,41,0,252,240,https://media.spreadthesign.com/video/mp4/13/455230.mp4,europe_0004_spreadthesign_19685.mp4,ok
+5,67631,asllex,109,0,train,25,1,-1,95,21,383,360,https://youtu.be/JrqeaM5paUI,europe_0005_asllex_67631.mp4,skipped_no_ytdlp
+6,19695,aslsearch,12,0,train,25,1,-1,161,54,569,400,http://www.aslsearch.com/signs/videos/europe.mp4,europe_0006_aslsearch_19695.mp4,ok
+7,19686,startasl,38,0,train,25,1,-1,389,57,823,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/europe.mp4,europe_0007_startasl_19686.mp4,ok
+8,19687,signschool,4,0,val,25,1,-1,477,42,1559,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Europe%202-2vse9YNrvw8.mp4,europe_0008_signschool_19687.mp4,ok
+9,19688,signschool,4,0,test,25,1,-1,554,43,1559,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Europe-r3fEbElsKUQ.mp4,europe_0009_signschool_19688.mp4,ok
+10,19689,asldeafined,21,0,test,25,1,-1,57,9,585,480,https://media.asldeafined.com/vocabulary/1468377428.7389.mp4,europe_0010_asldeafined_19689.mp4,ok
+11,19690,handspeak,20,0,train,25,1,-1,32,27,276,240,https://www.handspeak.com/word/e/europe2.mp4,europe_0011_handspeak_19690.mp4,failed

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56294,asl5200,9,0,train,25,11175,11211,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sweetheart_0000_asl5200_56294.mp4,skipped_no_ytdlp
+1,56302,aslu,5,0,train,25,1,-1,326,41,1021,720,https://www.youtube.com/watch?v=hfVKSp700wc,sweetheart_0001_aslu_56302.mp4,skipped_no_ytdlp
+2,56303,aslu,5,0,train,25,1,-1,334,23,939,720,https://www.youtube.com/watch?v=zMBQJAu7l_g,sweetheart_0002_aslu_56303.mp4,skipped_no_ytdlp
+3,56304,aslpro,25,0,val,25,1,-1,0,8,227,240,http://www.aslpro.com/main/s/sweetheart.swf,sweetheart_0003_aslpro_56304.mp4,skipped_swf
+4,56305,aslsearch,41,0,train,25,1,-1,230,38,526,400,http://www.aslsearch.com/signs/videos/sweetheart.mp4,sweetheart_0004_aslsearch_56305.mp4,ok
+5,56295,spreadthesign,2,0,train,25,1,-1,52,5,279,240,https://media.spreadthesign.com/video/mp4/13/117121.mp4,sweetheart_0005_spreadthesign_56295.mp4,ok
+6,56296,startasl,38,0,train,25,1,-1,421,70,906,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sweetheart.mp4,sweetheart_0006_startasl_56296.mp4,ok
+7,56297,signschool,46,0,train,25,1,-1,202,20,806,718,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Sweetheart.mp4,sweetheart_0007_signschool_56297.mp4,ok
+8,56298,asldeafined,13,0,val,25,1,-1,132,0,579,480,https://media.asldeafined.com/vocabulary/1468898665.27.mp4,sweetheart_0008_asldeafined_56298.mp4,ok
+9,56299,handspeak,20,0,test,25,1,-1,177,15,513,360,https://www.handspeak.com/word/s/sweetheart.mp4,sweetheart_0009_handspeak_56299.mp4,failed
+10,56300,signingsavvy,10,0,test,25,1,-1,88,19,238,192,https://www.signingsavvy.com/signs/mp4/23/23061.mp4,sweetheart_0010_signingsavvy_56300.mp4,ok
+11,56301,aslu,5,0,train,25,1,-1,93,22,463,360,https://www.youtube.com/watch?v=hfVKSp700wc,sweetheart_0011_aslu_56301.mp4,skipped_no_ytdlp

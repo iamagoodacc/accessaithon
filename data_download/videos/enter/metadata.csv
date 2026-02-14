@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19325,asl5200,9,0,train,25,1939,1968,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,enter_0000_asl5200_19325.mp4,skipped_no_ytdlp
+1,70146,northtexas,121,0,train,25,6074,6200,135,23,503,480,https://www.youtube.com/watch?v=VwejDy96MzM,enter_0001_northtexas_70146.mp4,skipped_no_ytdlp
+2,19334,aslpro,44,0,train,25,1,-1,22,1,225,240,http://www.aslpro.com/main/e/enter.swf,enter_0002_aslpro_19334.mp4,skipped_swf
+3,19335,aslsearch,41,0,val,25,1,-1,222,45,488,400,http://www.aslsearch.com/signs/videos/enter.mp4,enter_0003_aslsearch_19335.mp4,ok
+4,19326,spreadthesign,37,0,train,25,1,-1,59,0,256,240,https://media.spreadthesign.com/video/mp4/13/456903.mp4,enter_0004_spreadthesign_19326.mp4,ok
+5,19327,startasl,36,0,train,25,1,-1,187,17,529,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/enter.mp4,enter_0005_startasl_19327.mp4,ok
+6,19328,asldeafined,21,0,train,25,1,-1,76,0,605,480,https://media.asldeafined.com/vocabulary/1468376534.3986.mp4,enter_0006_asldeafined_19328.mp4,ok
+7,19329,handspeak,20,0,train,25,1,-1,70,0,562,480,https://www.handspeak.com/word/e/enter.mp4,enter_0007_handspeak_19329.mp4,failed
+8,19330,signingsavvy,10,0,val,25,1,-1,59,22,229,192,https://www.signingsavvy.com/signs/mp4/22/22257.mp4,enter_0008_signingsavvy_19330.mp4,ok
+9,19331,aslu,5,0,test,25,1,-1,257,31,967,720,https://www.youtube.com/watch?v=4Vr7PfO6LHI,enter_0009_aslu_19331.mp4,skipped_no_ytdlp
+10,19332,aslu,5,0,test,25,1,-1,243,37,1013,720,https://www.youtube.com/watch?v=OpIL52odnrM,enter_0010_aslu_19332.mp4,skipped_no_ytdlp
+11,19333,aslu,5,0,train,25,1,-1,278,42,1028,720,https://www.youtube.com/watch?v=x9nC_9QylBA,enter_0011_aslu_19333.mp4,skipped_no_ytdlp

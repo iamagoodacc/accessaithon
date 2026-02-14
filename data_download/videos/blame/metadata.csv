@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06526,asl5200,9,0,test,25,3159,3188,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,blame_0000_asl5200_06526.mp4,skipped_no_ytdlp
+1,06536,aslsearch,12,0,train,25,1,-1,157,51,535,400,http://www.aslsearch.com/signs/videos/blame.mp4,blame_0001_aslsearch_06536.mp4,ok
+2,65202,aslsignbank,90,0,train,25,1,-1,190,24,517,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLAME-552.mp4,blame_0002_aslsignbank_65202.mp4,failed
+3,06528,signschool,4,0,val,25,1,-1,631,40,1759,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blame-qnoOB-BriM0.mp4,blame_0003_signschool_06528.mp4,ok
+4,06529,asldeafined,59,0,train,25,1,-1,79,22,577,480,https://media.asldeafined.com/vocabulary/1466682688.5061.mp4,blame_0004_asldeafined_06529.mp4,ok
+5,06530,handspeak,14,0,test,25,1,-1,32,7,277,240,https://www.handspeak.com/word/b/blame-me.mp4,blame_0005_handspeak_06530.mp4,failed
+6,06531,handspeak,14,0,train,25,1,-1,57,17,267,240,https://www.handspeak.com/word/b/blame.mp4,blame_0006_handspeak_06531.mp4,failed
+7,06532,signingsavvy,11,0,train,25,1,-1,53,12,221,192,https://www.signingsavvy.com/signs/mp4/5/5351.mp4,blame_0007_signingsavvy_06532.mp4,ok
+8,06533,signingsavvy,11,0,train,25,1,-1,82,13,223,192,https://www.signingsavvy.com/signs/mp4/7/7139.mp4,blame_0008_signingsavvy_06533.mp4,ok
+9,06534,aslu,5,0,train,25,1,-1,332,6,1036,720,https://www.youtube.com/watch?v=evlOvHVPgMc,blame_0009_aslu_06534.mp4,skipped_no_ytdlp
+10,06535,aslpro,30,0,val,25,1,-1,0,15,233,240,http://www.aslpro.com/main/b/blame.swf,blame_0010_aslpro_06535.mp4,skipped_swf

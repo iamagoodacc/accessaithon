@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58023,asl5200,9,0,train,25,2320,2382,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,thirsty_0000_asl5200_58023.mp4,skipped_no_ytdlp
+1,69506,aslbrick,115,0,train,25,1,-1,375,41,934,720,http://aslbricks.org/New/ASL-Videos/thirsty.mp4,thirsty_0001_aslbrick_69506.mp4,ok
+2,58031,aslsearch,12,0,train,25,1,-1,181,52,522,400,http://www.aslsearch.com/signs/videos/thirsty.mp4,thirsty_0002_aslsearch_58031.mp4,ok
+3,66615,aslsignbank,93,0,val,25,1,-1,177,34,455,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THIRSTY-293.mp4,thirsty_0003_aslsignbank_66615.mp4,failed
+4,67303,asllex,109,0,train,25,1,-1,106,28,371,360,https://youtu.be/4Y8Y4qrSP1s,thirsty_0004_asllex_67303.mp4,skipped_no_ytdlp
+5,58024,spreadthesign,2,0,train,25,1,-1,69,11,236,240,https://media.spreadthesign.com/video/mp4/13/307907.mp4,thirsty_0005_spreadthesign_58024.mp4,ok
+6,58025,startasl,38,0,train,25,1,-1,464,65,855,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/thirsty.mp4,thirsty_0006_startasl_58025.mp4,ok
+7,58026,signschool,52,0,train,25,1,-1,368,12,795,477,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Thirsty-IN1XKqE9Oq8.mp4,thirsty_0007_signschool_58026.mp4,ok
+8,58027,asldeafined,13,0,val,25,1,-1,150,0,530,480,https://media.asldeafined.com/vocabulary/1468944852.2333.mp4,thirsty_0008_asldeafined_58027.mp4,ok
+9,58028,handspeak,14,0,test,25,1,-1,122,0,551,480,https://www.handspeak.com/word/t/thirsty.mp4,thirsty_0009_handspeak_58028.mp4,failed
+10,58029,signingsavvy,10,0,test,25,1,-1,78,20,200,192,https://www.signingsavvy.com/signs/mp4/23/23159.mp4,thirsty_0010_signingsavvy_58029.mp4,ok
+11,58030,nabboud,69,0,train,25,1,-1,401,50,832,720,https://www.youtube.com/watch?v=B79LCAc3-x0,thirsty_0011_nabboud_58030.mp4,skipped_no_ytdlp

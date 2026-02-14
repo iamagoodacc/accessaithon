@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,18873,signschool,32,0,train,25,1,-1,583,75,1636,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Email-w_xtcWTphsc.mp4,email_0001_signschool_18873.mp4,ok
+2,18875,asldeafined,21,0,train,25,1,-1,82,6,565,480,https://media.asldeafined.com/vocabulary/1468207109.1561.mp4,email_0002_asldeafined_18875.mp4,ok
+3,18876,handspeak,14,0,train,25,1,-1,61,0,307,240,https://www.handspeak.com/word/e/email.mp4,email_0003_handspeak_18876.mp4,failed
+4,65625,aslsignbank,95,0,val,25,1,-1,166,10,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EM/EMAIL-2755.mp4,email_0004_aslsignbank_65625.mp4,failed
+5,18877,handspeak,14,0,train,25,1,-1,16,0,311,240,https://www.handspeak.com/word/e/email-noun.mp4,email_0005_handspeak_18877.mp4,failed
+6,67618,asllex,109,0,train,25,1,-1,78,7,412,360,https://youtu.be/yi2gZ2Bhox0,email_0006_asllex_67618.mp4,skipped_no_ytdlp
+7,18871,spreadthesign,2,0,train,25,1,-1,80,17,255,240,https://media.spreadthesign.com/video/mp4/13/154574.mp4,email_0007_spreadthesign_18871.mp4,ok
+8,18878,handspeak,14,0,train,25,1,-1,16,0,311,240,https://www.handspeak.com/word/e/email-verb.mp4,email_0008_handspeak_18878.mp4,failed
+9,18879,signingsavvy,11,0,val,25,1,-1,62,13,223,192,https://www.signingsavvy.com/signs/mp4/4/4110.mp4,email_0009_signingsavvy_18879.mp4,ok
+10,18880,signingsavvy,11,0,test,25,1,-1,74,8,215,192,https://www.signingsavvy.com/signs/mp4/6/6014.mp4,email_0010_signingsavvy_18880.mp4,ok
+12,18882,aslu,5,0,test,25,1,-1,272,27,997,720,https://www.youtube.com/watch?v=ps1Uf6J_khw,email_0012_aslu_18882.mp4,skipped_no_ytdlp
+13,18883,aslu,5,0,train,25,1,-1,277,28,995,720,https://www.youtube.com/watch?v=QPKfFDenOPg,email_0013_aslu_18883.mp4,skipped_no_ytdlp

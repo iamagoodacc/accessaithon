@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27568,asl5200,9,0,train,25,1787,1829,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,history_0000_asl5200_27568.mp4,skipped_no_ytdlp
+1,27574,handspeak,14,0,train,25,1,-1,59,12,279,240,https://www.handspeak.com/word/h/history.mp4,history_0001_handspeak_27574.mp4,failed
+2,27575,signingsavvy,10,0,train,25,1,-1,73,19,206,192,https://www.signingsavvy.com/signs/mp4/23/23199.mp4,history_0002_signingsavvy_27575.mp4,ok
+3,27576,aslu,5,0,val,25,1,-1,319,43,966,720,https://www.youtube.com/watch?v=GbqkM_RUSqQ,history_0003_aslu_27576.mp4,skipped_no_ytdlp
+5,65894,aslsignbank,102,0,train,25,1,-1,171,9,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HI/HISTORY-1766.mp4,history_0005_aslsignbank_65894.mp4,failed
+6,67761,asllex,109,0,train,25,1,-1,130,16,382,360,https://youtu.be/w15RPtV1Eik,history_0006_asllex_67761.mp4,skipped_no_ytdlp
+8,27579,aslsearch,12,0,train,25,1,-1,154,54,551,400,http://www.aslsearch.com/signs/videos/history.mp4,history_0008_aslsearch_27579.mp4,ok
+9,27569,spreadthesign,56,0,train,25,1,-1,41,0,275,240,https://media.spreadthesign.com/video/mp4/13/51354.mp4,history_0009_spreadthesign_27569.mp4,ok
+10,27570,startasl,38,0,val,25,1,-1,417,53,832,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/history.mp4,history_0010_startasl_27570.mp4,ok
+11,27571,signschool,4,0,test,25,1,-1,557,26,1623,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20History-1_37vgVkwcs.mp4,history_0011_signschool_27571.mp4,ok
+12,27572,signschool,45,0,test,25,1,-1,595,123,1455,1061,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20History%202%2C%20Hartford-R8iLk4PMnac.mp4,history_0012_signschool_27572.mp4,ok
+13,27573,asldeafined,21,0,train,25,1,-1,16,9,546,480,https://media.asldeafined.com/vocabulary/1468581204.2183.mp4,history_0013_asldeafined_27573.mp4,ok

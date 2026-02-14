@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,30973,asl5200,9,0,val,25,240,289,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,jealous_0000_asl5200_30973.mp4,skipped_no_ytdlp
+3,30978,signschool,52,0,train,25,1,-1,369,19,797,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Juice-M16OET0NJEk.mp4,jealous_0003_signschool_30978.mp4,ok
+4,30979,asldeafined,21,0,train,25,1,-1,96,4,564,480,https://media.asldeafined.com/vocabulary/1468668969.2295.mp4,jealous_0004_asldeafined_30979.mp4,ok
+7,30982,handspeak,20,0,train,25,1,-1,49,2,283,240,https://www.handspeak.com/word/j/jealous.mp4,jealous_0007_handspeak_30982.mp4,failed
+8,67804,asllex,109,0,train,25,1,-1,100,22,371,360,https://youtu.be/H1RZFFOHIrY,jealous_0008_asllex_67804.mp4,skipped_no_ytdlp
+9,30983,signingsavvy,11,0,train,25,1,-1,42,6,224,192,https://www.signingsavvy.com/signs/mp4/14/14582.mp4,jealous_0009_signingsavvy_30983.mp4,ok
+10,30984,signingsavvy,10,0,train,25,1,-1,43,24,211,192,https://www.signingsavvy.com/signs/mp4/23/23262.mp4,jealous_0010_signingsavvy_30984.mp4,ok
+11,30985,signingsavvy,11,0,train,25,1,-1,63,16,212,192,https://www.signingsavvy.com/signs/mp4/9/9357.mp4,jealous_0011_signingsavvy_30985.mp4,ok
+12,30986,aslu,5,0,train,25,1,-1,335,28,935,719,https://www.youtube.com/watch?v=Kniz_YHJxp4,jealous_0012_aslu_30986.mp4,skipped_no_ytdlp
+13,30987,aslpro,24,0,test,25,1,-1,24,13,210,240,http://www.aslpro.com/main/j/jealous.swf,jealous_0013_aslpro_30987.mp4,skipped_swf
+14,30988,aslsearch,41,0,train,25,1,-1,249,53,496,400,http://www.aslsearch.com/signs/videos/jealous.mp4,jealous_0014_aslsearch_30988.mp4,ok
+15,30974,spreadthesign,35,0,test,25,1,-1,37,0,269,240,https://media.spreadthesign.com/video/mp4/13/51150.mp4,jealous_0015_spreadthesign_30974.mp4,ok
+16,30975,startasl,38,0,val,25,1,-1,405,58,801,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/jealous.mp4,jealous_0016_startasl_30975.mp4,ok

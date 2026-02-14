@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04165,asl5200,9,0,train,25,4955,5007,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,aunt_0000_asl5200_04165.mp4,skipped_no_ytdlp
+1,68250,lillybauer,112,0,train,25,1,44,351,18,909,720,https://www.youtube.com/watch?v=4rcQkD28sMw,aunt_0001_lillybauer_68250.mp4,skipped_no_ytdlp
+2,04176,aslsearch,12,0,train,25,1,-1,185,49,547,400,http://www.aslsearch.com/signs/videos/aunt.mp4,aunt_0002_aslsearch_04176.mp4,ok
+3,65110,aslsignbank,88,0,val,25,1,-1,155,0,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUNT-2231.mp4,aunt_0003_aslsignbank_65110.mp4,failed
+4,04168,spreadthesign,2,0,train,25,1,-1,55,4,256,240,https://media.spreadthesign.com/video/mp4/13/122845.mp4,aunt_0004_spreadthesign_04168.mp4,ok
+5,04169,startasl,36,0,train,25,1,-1,203,16,514,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/aunt.mp4,aunt_0005_startasl_04169.mp4,ok
+6,04170,signschool,60,0,train,25,1,-1,360,13,764,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Aunt-_nRG5Rx0_tA.mp4,aunt_0006_signschool_04170.mp4,ok
+7,04171,asldeafined,13,0,train,25,1,-1,99,20,509,480,https://media.asldeafined.com/vocabulary/1466646921.7312.mp4,aunt_0007_asldeafined_04171.mp4,ok
+8,04172,handspeak,20,0,val,25,1,-1,65,0,514,480,https://www.handspeak.com/word/a/aunt.mp4,aunt_0008_handspeak_04172.mp4,failed
+9,04173,signingsavvy,11,0,test,25,1,-1,59,10,221,192,https://www.signingsavvy.com/signs/mp4/6/6140.mp4,aunt_0009_signingsavvy_04173.mp4,ok
+10,04174,aslu,5,0,test,25,1,-1,315,34,929,720,https://www.youtube.com/watch?v=_c8v25YlVyY,aunt_0010_aslu_04174.mp4,skipped_no_ytdlp
+11,04175,aslpro,49,0,train,25,1,-1,11,8,228,240,http://www.aslpro.com/main/a/aunt.swf,aunt_0011_aslpro_04175.mp4,skipped_swf

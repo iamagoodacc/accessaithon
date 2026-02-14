@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22739,asl5200,9,0,train,25,2282,2344,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,food_0000_asl5200_22739.mp4,skipped_no_ytdlp
+1,69330,aslbrick,117,0,train,25,1,-1,355,38,930,719,http://aslbricks.org/New/ASL-Videos/food.mp4,food_0001_aslbrick_69330.mp4,ok
+2,68052,valencia-asl,109,0,train,25,1,-1,105,0,1166,720,https://www.youtube.com/watch?v=EhU8iSsKPI0,food_0002_valencia-asl_68052.mp4,skipped_no_ytdlp
+3,70058,northtexas,121,0,val,25,273,346,154,26,465,480,https://www.youtube.com/watch?v=jDCw7stJaM4,food_0003_northtexas_70058.mp4,skipped_no_ytdlp
+4,22743,spreadthesign,0,0,train,25,1,-1,49,3,249,240,https://media.spreadthesign.com/video/mp4/13/74992.mp4,food_0004_spreadthesign_22743.mp4,ok
+5,22744,startasl,36,0,train,25,1,-1,237,16,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/food.mp4,food_0005_startasl_22744.mp4,ok
+6,22745,signschool,52,0,train,25,1,-1,268,8,594,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Food.mp4,food_0006_signschool_22745.mp4,ok
+7,22746,asldeafined,21,0,train,25,1,-1,109,16,537,480,https://media.asldeafined.com/vocabulary/1468513144.2894.mp4,food_0007_asldeafined_22746.mp4,ok
+8,22747,handspeak,20,0,val,25,1,-1,65,0,564,480,https://www.handspeak.com/word/f/food.mp4,food_0008_handspeak_22747.mp4,failed
+9,22748,signingsavvy,11,0,test,25,1,-1,82,4,212,192,https://www.signingsavvy.com/signs/mp4/14/14883.mp4,food_0009_signingsavvy_22748.mp4,ok
+10,22749,aslpro,16,0,test,25,1,-1,28,19,198,240,http://www.aslpro.com/main/f/food.swf,food_0010_aslpro_22749.mp4,skipped_swf
+11,22750,aslsearch,12,0,train,25,1,-1,193,55,546,400,http://www.aslsearch.com/signs/videos/eat.mp4,food_0011_aslsearch_22750.mp4,ok

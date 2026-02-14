@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12222,asl5200,9,0,train,25,5035,5081,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,complex_0000_asl5200_12222.mp4,skipped_no_ytdlp
+1,12229,aslu,5,0,train,25,1,-1,199,42,1092,720,https://www.youtube.com/watch?v=zy9ju0c_9oo,complex_0001_aslu_12229.mp4,skipped_no_ytdlp
+2,12230,aslpro,30,0,train,25,1,-1,0,13,235,240,http://www.aslpro.com/main/c/complex.swf,complex_0002_aslpro_12230.mp4,skipped_swf
+3,12231,aslsearch,41,0,val,25,1,-1,181,42,504,400,http://www.aslsearch.com/signs/videos/complex.mp4,complex_0003_aslsearch_12231.mp4,ok
+4,65388,aslsignbank,102,0,train,25,1,-1,155,16,504,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COMPLEX-1120.mp4,complex_0004_aslsignbank_65388.mp4,failed
+5,65389,aslsignbank,102,0,train,25,1,-1,159,19,503,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COMPLEX-2319.mp4,complex_0005_aslsignbank_65389.mp4,failed
+6,67518,asllex,109,0,train,25,1,-1,89,11,398,360,https://youtu.be/JiDDTuCbAbk,complex_0006_asllex_67518.mp4,skipped_no_ytdlp
+7,12223,elementalasl,43,0,train,25,1,-1,60,7,243,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/complex.mov,complex_0007_elementalasl_12223.mp4,ok
+9,12225,signschool,4,0,val,25,1,-1,577,57,1673,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Complex%2C%20Complication%2C%20Encrypt-UZb3gaheuBM.mp4,complex_0009_signschool_12225.mp4,ok
+10,12226,asldeafined,59,0,test,25,1,-1,75,12,581,480,https://media.asldeafined.com/vocabulary/1466901146.5297.mp4,complex_0010_asldeafined_12226.mp4,ok
+11,12227,handspeak,20,0,test,25,1,-1,73,0,551,480,https://www.handspeak.com/word/c/complex.mp4,complex_0011_handspeak_12227.mp4,failed
+12,12228,signingsavvy,11,0,train,25,1,-1,30,7,246,192,https://www.signingsavvy.com/signs/mp4/7/7350.mp4,complex_0012_signingsavvy_12228.mp4,ok

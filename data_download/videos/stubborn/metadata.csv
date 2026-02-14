@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55312,asl5200,9,0,val,25,9716,9758,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stubborn_0000_asl5200_55312.mp4,skipped_no_ytdlp
+1,70362,northtexas,121,0,train,25,306,423,99,21,479,480,https://www.youtube.com/watch?v=Z25ng9maolE,stubborn_0001_northtexas_70362.mp4,skipped_no_ytdlp
+2,55320,aslpro,54,0,train,25,1,-1,10,7,232,240,http://www.aslpro.com/main/s/stubborn.swf,stubborn_0002_aslpro_55320.mp4,skipped_swf
+3,55321,aslsearch,12,0,train,25,1,-1,167,48,555,400,http://www.aslsearch.com/signs/videos/stubborn.mp4,stubborn_0003_aslsearch_55321.mp4,ok
+4,66574,aslsignbank,100,0,train,25,1,-1,170,29,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STUBBORN-1136.mp4,stubborn_0004_aslsignbank_66574.mp4,failed
+5,67255,asllex,109,0,train,25,1,-1,69,10,377,360,https://youtu.be/BqQalNUfFDs,stubborn_0005_asllex_67255.mp4,skipped_no_ytdlp
+6,55313,spreadthesign,0,0,train,25,1,-1,47,14,244,240,https://media.spreadthesign.com/video/mp4/13/63588.mp4,stubborn_0006_spreadthesign_55313.mp4,ok
+7,55314,startasl,38,0,train,25,1,-1,378,56,799,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/stubborn.mp4,stubborn_0007_startasl_55314.mp4,ok
+8,55315,signschool,6,0,train,25,1,-1,351,56,1492,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stubborn-OtRuK-xB_qc.mp4,stubborn_0008_signschool_55315.mp4,ok
+9,55316,asldeafined,13,0,test,25,1,-1,75,0,537,480,https://media.asldeafined.com/vocabulary/1468897331.1057.mp4,stubborn_0009_asldeafined_55316.mp4,ok
+10,55317,handspeak,14,0,train,25,1,-1,29,10,278,240,https://www.handspeak.com/word/s/stubborn.mp4,stubborn_0010_handspeak_55317.mp4,failed
+11,55318,signingsavvy,11,0,test,25,1,-1,31,12,224,192,https://www.signingsavvy.com/signs/mp4/2/2920.mp4,stubborn_0011_signingsavvy_55318.mp4,ok
+12,55319,aslu,5,0,val,25,1,-1,248,39,961,720,https://www.youtube.com/watch?v=njZs6MfX1LY,stubborn_0012_aslu_55319.mp4,skipped_no_ytdlp

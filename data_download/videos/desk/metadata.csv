@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15769,asl5200,9,0,train,25,1888,2000,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,desk_0000_asl5200_15769.mp4,skipped_no_ytdlp
+1,70229,northtexas,121,0,train,25,1947,2057,146,40,420,360,https://www.youtube.com/watch?v=4Nh1iFv2BMc,desk_0001_northtexas_70229.mp4,skipped_no_ytdlp
+2,15781,aslsearch,12,0,train,25,1,-1,172,60,544,400,http://www.aslsearch.com/signs/videos/desk.mp4,desk_0002_aslsearch_15781.mp4,ok
+3,15772,spreadthesign,2,0,val,25,1,-1,73,33,247,240,https://media.spreadthesign.com/video/mp4/13/93293.mp4,desk_0003_spreadthesign_15772.mp4,ok
+4,15773,startasl,38,0,train,25,1,-1,389,57,820,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/desk.mp4,desk_0004_startasl_15773.mp4,ok
+5,15774,signschool,4,0,train,25,1,-1,558,75,1619,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Booth%2C%20Desk%2C%20Table-8QbAD7Y9UEk.mp4,desk_0005_signschool_15774.mp4,ok
+6,15775,asldeafined,59,0,train,25,1,-1,92,19,561,480,https://media.asldeafined.com/vocabulary/1466908529.323.mp4,desk_0006_asldeafined_15775.mp4,ok
+7,15776,signingsavvy,11,0,train,25,1,-1,65,18,213,192,https://www.signingsavvy.com/signs/mp4/9/9252.mp4,desk_0007_signingsavvy_15776.mp4,ok
+8,15777,aslu,5,0,val,25,1,-1,261,42,1019,720,https://www.youtube.com/watch?v=kmPYzPuPLWc,desk_0008_aslu_15777.mp4,skipped_no_ytdlp
+9,15778,nabboud,65,0,test,25,1,-1,382,66,883,720,https://www.youtube.com/watch?v=Nu7LASnlkig,desk_0009_nabboud_15778.mp4,skipped_no_ytdlp
+10,15779,aslpro,72,0,test,25,1,-1,13,10,241,240,http://www.aslpro.com//main/d/desk_computer.swf,desk_0010_aslpro_15779.mp4,skipped_swf
+11,15780,aslpro,72,0,train,25,1,-1,13,9,231,240,http://www.aslpro.com/main/d/desk.swf,desk_0011_aslpro_15780.mp4,skipped_swf

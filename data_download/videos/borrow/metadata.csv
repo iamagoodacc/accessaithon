@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07226,asl5200,9,0,test,25,3790,3839,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,borrow_0000_asl5200_07226.mp4,skipped_no_ytdlp
+1,07234,aslsearch,12,0,train,25,1,-1,168,51,544,400,http://www.aslsearch.com/signs/videos/loan2.mp4,borrow_0001_aslsearch_07234.mp4,ok
+3,65230,aslsignbank,89,0,train,25,1,-1,199,41,480,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BORROW-2126.mp4,borrow_0003_aslsignbank_65230.mp4,failed
+4,67426,asllex,109,0,val,25,1,-1,104,6,385,360,https://youtu.be/wxhJSF28aD0,borrow_0004_asllex_67426.mp4,skipped_no_ytdlp
+5,07227,signschool,4,0,train,25,1,-1,515,34,1101,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Borrow.mp4,borrow_0005_signschool_07227.mp4,ok
+6,07228,asldeafined,59,0,test,25,1,-1,43,10,553,480,https://media.asldeafined.com/vocabulary/1466684669.678.mp4,borrow_0006_asldeafined_07228.mp4,ok
+7,07229,handspeak,14,0,train,25,1,-1,54,29,250,240,https://www.handspeak.com/word/b/borrow.mp4,borrow_0007_handspeak_07229.mp4,failed
+8,07230,signingsavvy,10,0,train,25,1,-1,84,17,215,192,https://www.signingsavvy.com/signs/mp4/24/24007.mp4,borrow_0008_signingsavvy_07230.mp4,ok
+9,07231,signingsavvy,10,0,train,25,1,-1,84,18,218,192,https://www.signingsavvy.com/signs/mp4/24/24008.mp4,borrow_0009_signingsavvy_07231.mp4,ok
+10,07232,aslu,5,0,train,25,1,-1,325,61,900,720,https://www.youtube.com/watch?v=7lo6uNoK574,borrow_0010_aslu_07232.mp4,skipped_no_ytdlp
+11,07233,aslpro,30,0,val,25,1,-1,6,13,225,240,http://www.aslpro.com/main/b/borrow.swf,borrow_0011_aslpro_07233.mp4,skipped_swf

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69421,aslbrick,118,0,train,25,1,-1,334,42,876,720,http://aslbricks.org/New/ASL-Videos/one.mp4,one_0000_aslbrick_69421.mp4,ok
+1,66228,aslsignbank,105,0,train,25,1,-1,152,2,456,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ON/ONE-519.mp4,one_0001_aslsignbank_66228.mp4,failed
+2,70214,northtexas,121,0,train,25,2709,2801,108,23,270,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,one_0002_northtexas_70214.mp4,skipped_no_ytdlp
+3,39742,spreadthesign,56,0,val,25,1,-1,36,0,272,240,https://media.spreadthesign.com/video/mp4/13/51496.mp4,one_0003_spreadthesign_39742.mp4,ok
+4,39743,signschool,6,0,train,25,1,-1,714,106,1510,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%201-roPWtHm3Udw.mp4,one_0004_signschool_39743.mp4,ok
+5,39744,asldeafined,13,0,train,25,1,-1,139,0,499,480,https://media.asldeafined.com/vocabulary/1468721688.7491.mp4,one_0005_asldeafined_39744.mp4,ok
+6,39745,handspeak,14,0,train,25,1,-1,207,3,502,360,https://www.handspeak.com/word/o/one-cardinal.mp4,one_0006_handspeak_39745.mp4,failed
+7,39746,handspeak,20,0,train,25,1,-1,45,0,295,240,https://www.handspeak.com/word/o/one.mp4,one_0007_handspeak_39746.mp4,failed
+8,39747,signingsavvy,11,0,val,25,1,-1,81,16,219,192,https://www.signingsavvy.com/signs/mp4/11/11001.mp4,one_0008_signingsavvy_39747.mp4,ok
+9,39748,signingsavvy,11,0,test,25,1,-1,84,15,217,192,https://www.signingsavvy.com/signs/mp4/13/13001.mp4,one_0009_signingsavvy_39748.mp4,ok
+10,39749,aslpro,83,0,test,25,1,-1,0,18,217,240,http://www.aslpro.com/main/o/one.swf,one_0010_aslpro_39749.mp4,skipped_swf
+11,39750,aslsearch,12,0,train,25,1,-1,207,52,573,400,http://www.aslsearch.com/signs/videos/one.mp4,one_0011_aslsearch_39750.mp4,ok

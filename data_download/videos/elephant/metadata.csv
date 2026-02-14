@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18769,asl5200,9,0,val,25,1039,1091,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,elephant_0000_asl5200_18769.mp4,skipped_no_ytdlp
+1,18776,nabboud,67,0,train,25,1,-1,339,58,878,720,https://www.youtube.com/watch?v=0rlrzKevbnI,elephant_0001_nabboud_18776.mp4,skipped_no_ytdlp
+2,18777,nabboud,67,0,train,25,1,-1,324,61,883,720,https://www.youtube.com/watch?v=TIGs2DzZ6Kw,elephant_0002_nabboud_18777.mp4,skipped_no_ytdlp
+3,18778,aslpro,72,0,train,25,1,-1,17,6,230,240,http://www.aslpro.com/main/e/elephant.swf,elephant_0003_aslpro_18778.mp4,skipped_swf
+4,65620,aslsignbank,90,0,train,25,1,-1,169,15,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EL/ELEPHANT-448.mp4,elephant_0004_aslsignbank_65620.mp4,failed
+5,67617,asllex,109,0,train,25,1,-1,120,13,384,360,https://youtu.be/pjYU49Nw1GU,elephant_0005_asllex_67617.mp4,skipped_no_ytdlp
+6,18779,aslsearch,12,0,train,25,1,-1,182,54,547,400,http://www.aslsearch.com/signs/videos/elephant.mp4,elephant_0006_aslsearch_18779.mp4,ok
+7,18770,spreadthesign,35,0,train,25,1,-1,58,0,260,240,https://media.spreadthesign.com/video/mp4/13/357962.mp4,elephant_0007_spreadthesign_18770.mp4,ok
+8,18771,startasl,36,0,train,25,1,-1,227,15,526,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/elephant.mp4,elephant_0008_startasl_18771.mp4,ok
+9,18772,signschool,6,0,test,25,1,-1,594,60,1485,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Elephant-vXxG49Q21BA.mp4,elephant_0009_signschool_18772.mp4,ok
+10,18773,asldeafined,21,0,train,25,1,-1,96,6,574,480,https://media.asldeafined.com/vocabulary/1468348945.9858.mp4,elephant_0010_asldeafined_18773.mp4,ok
+11,18774,handspeak,14,0,test,25,1,-1,53,17,260,240,https://www.handspeak.com/word/e/elephant.mp4,elephant_0011_handspeak_18774.mp4,failed
+12,18775,signingsavvy,11,0,val,25,1,-1,71,15,220,192,https://www.signingsavvy.com/signs/mp4/7/7422.mp4,elephant_0012_signingsavvy_18775.mp4,ok

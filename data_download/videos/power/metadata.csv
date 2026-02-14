@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44034,asl5200,9,0,test,25,3984,4023,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,power_0000_asl5200_44034.mp4,skipped_no_ytdlp
+1,44046,signschool,31,1,train,25,1,-1,557,142,1464,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Powerful-oInIQhwF7II.mp4,power_0001_signschool_44046.mp4,ok
+2,44047,asldeafined,13,0,val,25,1,-1,188,0,546,480,https://media.asldeafined.com/vocabulary/1468755112.4248.mp4,power_0002_asldeafined_44047.mp4,ok
+3,44048,handspeak,20,0,train,25,1,-1,119,0,539,480,https://www.handspeak.com/word/p/power.mp4,power_0003_handspeak_44048.mp4,failed
+4,44049,handspeak,14,0,train,25,1,-1,137,0,574,480,https://www.handspeak.com/word/p/power-strength.mp4,power_0004_handspeak_44049.mp4,failed
+5,44050,signingsavvy,11,0,train,25,1,-1,84,13,214,192,https://www.signingsavvy.com/signs/mp4/14/14464.mp4,power_0005_signingsavvy_44050.mp4,ok
+6,44051,signingsavvy,11,0,train,25,1,-1,75,14,209,192,https://www.signingsavvy.com/signs/mp4/14/14655.mp4,power_0006_signingsavvy_44051.mp4,ok
+9,66319,aslsignbank,93,1,test,25,1,-1,154,24,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POWER-802.mp4,power_0009_aslsignbank_66319.mp4,failed
+11,67094,asllex,109,1,val,25,1,-1,104,26,382,360,https://youtu.be/K5aQhBkdDwc,power_0011_asllex_67094.mp4,skipped_no_ytdlp
+14,44056,aslu,5,1,train,25,1,-1,171,12,505,360,https://www.youtube.com/watch?v=ec0H0c-Ppds,power_0014_aslu_44056.mp4,skipped_no_ytdlp
+16,44058,aslsearch,12,1,train,25,1,-1,166,68,518,400,http://www.aslsearch.com/signs/videos/power.mp4,power_0016_aslsearch_44058.mp4,ok
+17,44045,signschool,4,0,train,25,1,-1,406,43,1570,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Power%20copy-SSj45W6Gh-c.mp4,power_0017_signschool_44045.mp4,ok

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63830,asl5200,9,0,train,25,3679,3741,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,world_0000_asl5200_63830.mp4,skipped_no_ytdlp
+1,63836,signingsavvy,11,0,train,25,1,-1,60,8,219,192,https://www.signingsavvy.com/signs/mp4/14/14641.mp4,world_0001_signingsavvy_63836.mp4,ok
+2,63837,signingsavvy,10,0,train,25,1,-1,69,23,203,192,https://www.signingsavvy.com/signs/mp4/22/22113.mp4,world_0002_signingsavvy_63837.mp4,ok
+3,63838,aslu,5,0,val,25,1,-1,260,45,1014,720,https://www.youtube.com/watch?v=-H4PejCdr6Y,world_0003_aslu_63838.mp4,skipped_no_ytdlp
+4,63839,aslu,5,0,train,25,1,-1,240,1,992,720,https://www.youtube.com/watch?v=TNms3Jfg89g,world_0004_aslu_63839.mp4,skipped_no_ytdlp
+5,66807,aslsignbank,93,0,train,25,1,-1,180,32,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WO/WORLD-702.mp4,world_0005_aslsignbank_66807.mp4,failed
+6,67004,asllex,109,0,train,25,1,-1,81,4,396,360,https://youtu.be/pFYp5iyu1oE,world_0006_asllex_67004.mp4,skipped_no_ytdlp
+7,63840,aslpro,30,0,train,25,1,-1,0,16,223,240,http://www.aslpro.com/main/w/world.swf,world_0007_aslpro_63840.mp4,skipped_swf
+8,63841,aslsearch,41,0,val,25,1,-1,239,37,511,400,http://www.aslsearch.com/signs/videos/world.mp4,world_0008_aslsearch_63841.mp4,ok
+9,63831,elementalasl,19,0,test,25,1,-1,87,10,256,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/world.mov,world_0009_elementalasl_63831.mp4,ok
+10,63832,spreadthesign,42,0,test,25,1,-1,33,0,292,240,https://media.spreadthesign.com/video/mp4/13/51085.mp4,world_0010_spreadthesign_63832.mp4,ok
+12,63834,handspeak,20,0,train,25,1,-1,55,12,273,240,https://www.handspeak.com/word/w/world2.mp4,world_0012_handspeak_63834.mp4,failed

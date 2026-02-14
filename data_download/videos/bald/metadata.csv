@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04814,asl5200,9,0,test,25,504,576,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bald_0000_asl5200_04814.mp4,skipped_no_ytdlp
+1,04824,asldeafined,34,0,train,25,1,-1,115,15,519,480,https://media.asldeafined.com/vocabulary/1546572785.406.mp4,bald_0001_asldeafined_04824.mp4,ok
+2,04825,handspeak,20,0,train,25,1,-1,34,5,506,473,https://www.handspeak.com/word/b/bald.mp4,bald_0002_handspeak_04825.mp4,failed
+3,04826,signingsavvy,10,0,val,25,1,-1,49,0,218,192,https://www.signingsavvy.com/signs/mp4/22/22389.mp4,bald_0003_signingsavvy_04826.mp4,ok
+6,65130,aslsignbank,90,0,train,25,1,-1,161,14,499,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALD-806.mp4,bald_0006_aslsignbank_65130.mp4,failed
+7,04819,spreadthesign,8,0,test,25,1,-1,44,5,229,240,https://media.spreadthesign.com/video/mp4/13/455477.mp4,bald_0007_spreadthesign_04819.mp4,ok
+8,04829,aslu,5,0,train,25,1,-1,137,0,923,720,https://www.youtube.com/watch?v=h81FEVG0nKg,bald_0008_aslu_04829.mp4,skipped_no_ytdlp
+9,04830,aslpro,54,0,train,25,1,-1,0,0,219,240,http://www.aslpro.com/main/b/bald.swf,bald_0009_aslpro_04830.mp4,skipped_swf
+10,04831,aslsearch,41,0,train,25,1,-1,204,0,475,400,http://www.aslsearch.com/signs/videos/bald.mp4,bald_0010_aslsearch_04831.mp4,ok
+12,04821,startasl,38,0,train,25,1,-1,374,58,846,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bald.mp4,bald_0012_startasl_04821.mp4,ok
+14,04823,asldeafined,13,0,val,25,1,-1,35,0,523,480,https://media.asldeafined.com/vocabulary/1466648607.5090.mp4,bald_0014_asldeafined_04823.mp4,ok

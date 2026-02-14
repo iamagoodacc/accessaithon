@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49475,asl5200,9,0,val,25,791,843,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,scared_0000_asl5200_49475.mp4,skipped_no_ytdlp
+1,49483,signingsavvy,11,0,train,25,1,-1,59,15,232,192,https://www.signingsavvy.com/signs/mp4/7/7213.mp4,scared_0001_signingsavvy_49483.mp4,ok
+3,49485,nabboud,69,0,train,25,1,-1,325,50,848,720,https://www.youtube.com/watch?v=J2WQZ8E4SUA,scared_0003_nabboud_49485.mp4,skipped_no_ytdlp
+4,49486,aslu,5,0,train,25,1,-1,82,25,438,360,https://www.youtube.com/watch?v=s74FnhnxRoM,scared_0004_aslu_49486.mp4,skipped_no_ytdlp
+5,66432,aslsignbank,99,0,train,25,1,-1,205,36,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SC/SCARED-246.mp4,scared_0005_aslsignbank_66432.mp4,failed
+6,49477,spreadthesign,0,0,train,25,1,-1,56,13,259,240,https://media.spreadthesign.com/video/mp4/13/63572.mp4,scared_0006_spreadthesign_49477.mp4,ok
+7,67167,asllex,109,0,train,25,1,-1,95,15,390,360,https://youtu.be/HHgIrMeWhFg,scared_0007_asllex_67167.mp4,skipped_no_ytdlp
+8,49487,aslsearch,41,0,train,25,1,-1,209,37,533,400,http://www.aslsearch.com/signs/videos/afraid.mp4,scared_0008_aslsearch_49487.mp4,ok
+9,49478,startasl,38,0,train,25,1,-1,351,56,815,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/scared.mp4,scared_0009_startasl_49478.mp4,ok
+10,49479,signschool,4,0,test,25,1,-1,447,34,1680,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Scared-DrJ4IBnI_Jo.mp4,scared_0010_signschool_49479.mp4,ok
+11,49480,asldeafined,13,0,train,25,1,-1,145,0,558,480,https://media.asldeafined.com/vocabulary/1468763300.273.mp4,scared_0011_asldeafined_49480.mp4,ok
+12,49481,handspeak,14,0,test,25,1,-1,62,0,602,480,https://www.handspeak.com/word/s/scared.mp4,scared_0012_handspeak_49481.mp4,failed
+13,49482,signingsavvy,11,0,val,25,1,-1,72,3,236,192,https://www.signingsavvy.com/signs/mp4/5/5943.mp4,scared_0013_signingsavvy_49482.mp4,ok

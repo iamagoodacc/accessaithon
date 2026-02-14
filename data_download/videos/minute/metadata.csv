@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66128,aslsignbank,97,0,test,25,1,-1,186,29,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MINUTE-1606.mp4,minute_0000_aslsignbank_66128.mp4,failed
+1,70302,northtexas,121,0,val,25,237,353,101,22,284,240,https://www.youtube.com/watch?v=pc0-gVEETVg,minute_0001_northtexas_70302.mp4,skipped_no_ytdlp
+2,36249,signingsavvy,11,1,test,25,1,-1,87,13,219,192,https://www.signingsavvy.com/signs/mp4/6/6540.mp4,minute_0002_signingsavvy_36249.mp4,ok
+3,36250,aslpro,25,0,train,25,1,-1,9,9,242,240,http://www.aslpro.com/main/m/minute.swf,minute_0003_aslpro_36250.mp4,skipped_swf
+4,36251,aslsearch,12,0,train,25,1,-1,199,52,551,400,http://www.aslsearch.com/signs/videos/minute.mp4,minute_0004_aslsearch_36251.mp4,ok
+5,66127,aslsignbank,90,1,train,25,1,-1,190,16,465,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MINUTE-655.mp4,minute_0005_aslsignbank_66127.mp4,failed
+6,36242,spreadthesign,56,1,train,25,1,-1,43,0,268,240,https://media.spreadthesign.com/video/mp4/13/48589.mp4,minute_0006_spreadthesign_36242.mp4,ok
+7,67896,asllex,109,0,train,25,1,-1,103,11,385,360,https://youtu.be/2oc_5MNDWVk,minute_0007_asllex_67896.mp4,skipped_no_ytdlp
+8,36243,startasl,36,1,train,25,1,-1,227,17,529,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/minute.mp4,minute_0008_startasl_36243.mp4,ok
+9,36244,signschool,31,1,train,25,1,-1,660,160,1390,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Minute%2C%20One%20Minute-Nuxwe5rCp10.mp4,minute_0009_signschool_36244.mp4,ok
+10,36245,asldeafined,13,1,val,25,1,-1,150,0,503,480,https://media.asldeafined.com/vocabulary/1468715639.355.mp4,minute_0010_asldeafined_36245.mp4,ok
+11,36246,handspeak,20,0,train,25,1,-1,129,0,507,480,https://www.handspeak.com/word/m/minute.mp4,minute_0011_handspeak_36246.mp4,failed
+13,36248,signingsavvy,11,0,train,25,1,-1,88,15,218,192,https://www.signingsavvy.com/signs/mp4/6/6539.mp4,minute_0013_signingsavvy_36248.mp4,ok

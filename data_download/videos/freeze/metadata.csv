@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23439,asl5200,9,0,train,25,2939,2985,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,freeze_0000_asl5200_23439.mp4,skipped_no_ytdlp
+1,23450,aslpro,72,0,train,25,1,-1,69,0,266,240,http://www.aslpro.com/main/f/freeze.swf,freeze_0001_aslpro_23450.mp4,skipped_swf
+2,23451,aslsearch,41,0,train,25,1,-1,223,42,526,400,http://www.aslsearch.com/signs/videos/ice.mp4,freeze_0002_aslsearch_23451.mp4,ok
+3,65779,aslsignbank,94,0,val,25,1,-1,155,18,510,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FR/FREEZE-580.mp4,freeze_0003_aslsignbank_65779.mp4,failed
+4,23442,elementalasl,19,0,train,25,1,-1,84,11,232,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/freeze.mov,freeze_0004_elementalasl_23442.mp4,ok
+5,23443,spreadthesign,2,0,train,25,1,-1,63,15,270,240,https://media.spreadthesign.com/video/mp4/13/154647.mp4,freeze_0005_spreadthesign_23443.mp4,ok
+6,23444,signschool,4,0,train,25,1,-1,570,51,1821,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Freeze%2C%20Frozen-7wap9oPLqjI.mp4,freeze_0006_signschool_23444.mp4,ok
+7,23445,asldeafined,21,0,train,25,1,-1,44,9,570,480,https://media.asldeafined.com/vocabulary/1468665092.1568.mp4,freeze_0007_asldeafined_23445.mp4,ok
+8,23446,handspeak,20,0,val,25,1,-1,56,0,586,480,https://www.handspeak.com/word/f/freeze2.mp4,freeze_0008_handspeak_23446.mp4,failed
+9,23447,handspeak,20,0,test,25,1,-1,60,7,571,480,https://www.handspeak.com/word/f/freeze.mp4,freeze_0009_handspeak_23447.mp4,failed
+10,23448,signingsavvy,11,0,test,25,1,-1,85,17,235,190,https://www.signingsavvy.com/signs/mp4/7/7950.mp4,freeze_0010_signingsavvy_23448.mp4,ok
+11,23449,nabboud,65,0,train,25,1,-1,313,92,876,720,https://www.youtube.com/watch?v=oeJhgSKJv98,freeze_0011_nabboud_23449.mp4,skipped_no_ytdlp

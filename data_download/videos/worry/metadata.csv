@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63872,asl5200,9,0,train,25,3742,3824,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,worry_0000_asl5200_63872.mp4,skipped_no_ytdlp
+1,70301,northtexas,121,0,train,25,5854,5977,103,45,428,360,https://www.youtube.com/watch?v=CSj7IScvZnE,worry_0001_northtexas_70301.mp4,skipped_no_ytdlp
+2,63878,handspeak,14,0,train,25,1,-1,80,0,580,480,https://www.handspeak.com/word/w/worry.mp4,worry_0002_handspeak_63878.mp4,failed
+3,63879,signingsavvy,11,0,val,25,1,-1,61,2,241,192,https://www.signingsavvy.com/signs/mp4/6/6076.mp4,worry_0003_signingsavvy_63879.mp4,ok
+5,63881,aslu,5,0,train,25,1,-1,154,23,1068,720,https://www.youtube.com/watch?v=HX-57T9JTwI,worry_0005_aslu_63881.mp4,skipped_no_ytdlp
+6,66810,aslsignbank,93,0,train,25,1,-1,148,24,552,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WO/WORRY-850.mp4,worry_0006_aslsignbank_66810.mp4,failed
+7,67006,asllex,109,0,train,25,1,-1,89,29,398,360,https://youtu.be/2I9iOnoX13o,worry_0007_asllex_67006.mp4,skipped_no_ytdlp
+8,63882,aslpro,25,0,train,25,1,-1,0,5,240,240,http://www.aslpro.com/main/w/worry.swf,worry_0008_aslpro_63882.mp4,skipped_swf
+10,63873,spreadthesign,42,0,val,25,1,-1,14,0,306,240,https://media.spreadthesign.com/video/mp4/13/51087.mp4,worry_0010_spreadthesign_63873.mp4,ok
+12,63875,signschool,4,0,test,25,1,-1,509,55,1673,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Worry-bVPxqOc7_3Y.mp4,worry_0012_signschool_63875.mp4,ok
+13,63876,asldeafined,13,0,test,25,1,-1,84,8,579,480,https://media.asldeafined.com/vocabulary/1468929149.3975.mp4,worry_0013_asldeafined_63876.mp4,ok
+14,63877,handspeak,20,0,train,25,1,-1,71,0,563,480,https://www.handspeak.com/word/w/worry2.mp4,worry_0014_handspeak_63877.mp4,failed

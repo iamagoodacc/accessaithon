@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53427,asl5200,9,0,train,25,6922,6964,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,soup_0000_asl5200_53427.mp4,skipped_no_ytdlp
+1,69485,aslbrick,117,0,train,25,1,-1,194,29,980,720,http://aslbricks.org/New/ASL-Videos/soup.mp4,soup_0001_aslbrick_69485.mp4,ok
+2,70059,northtexas,121,0,train,25,568,696,74,32,508,480,https://www.youtube.com/watch?v=jDCw7stJaM4,soup_0002_northtexas_70059.mp4,skipped_no_ytdlp
+3,66538,aslsignbank,90,0,val,25,1,-1,168,16,458,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOUP-386.mp4,soup_0003_aslsignbank_66538.mp4,failed
+4,67229,asllex,109,0,train,25,1,-1,84,20,382,360,https://youtu.be/bzbx7wcPRZo,soup_0004_asllex_67229.mp4,skipped_no_ytdlp
+5,53428,signschool,6,0,train,25,1,-1,605,79,1560,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Soup%2C%20Spoon-vAx8Y7ThSvM.mp4,soup_0005_signschool_53428.mp4,ok
+6,53429,asldeafined,13,0,train,25,1,-1,35,0,527,480,https://media.asldeafined.com/vocabulary/1468841983.4627.mp4,soup_0006_asldeafined_53429.mp4,ok
+7,53430,handspeak,20,0,train,25,1,-1,48,7,261,240,https://www.handspeak.com/word/s/soup.mp4,soup_0007_handspeak_53430.mp4,failed
+8,53431,signingsavvy,11,0,val,25,1,-1,61,15,220,192,https://www.signingsavvy.com/signs/mp4/6/6860.mp4,soup_0008_signingsavvy_53431.mp4,ok
+9,53432,aslu,5,0,test,25,1,-1,320,47,962,720,https://www.youtube.com/watch?v=ALdtmqECO6Y,soup_0009_aslu_53432.mp4,skipped_no_ytdlp
+10,53433,aslpro,24,0,test,25,1,-1,5,15,203,240,http://www.aslpro.com/main/s/soup.swf,soup_0010_aslpro_53433.mp4,skipped_swf
+11,53434,aslsearch,12,0,train,25,1,-1,184,52,544,400,http://www.aslsearch.com/signs/videos/soup.mp4,soup_0011_aslsearch_53434.mp4,ok

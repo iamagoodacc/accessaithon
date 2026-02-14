@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10134,asl5200,9,0,train,25,2290,2339,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cheap_0000_asl5200_10134.mp4,skipped_no_ytdlp
+1,10142,aslu,5,0,train,25,1,-1,239,12,969,720,https://www.youtube.com/watch?v=H-39q5BLM44,cheap_0001_aslu_10142.mp4,skipped_no_ytdlp
+2,10143,aslpro,16,0,train,25,1,-1,14,19,215,240,http://www.aslpro.com/main/c/cheap.swf,cheap_0002_aslpro_10143.mp4,skipped_swf
+3,65340,aslsignbank,90,0,val,25,1,-1,170,15,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHEAP-630.mp4,cheap_0003_aslsignbank_65340.mp4,failed
+4,10144,aslsearch,12,0,train,25,1,-1,168,53,546,400,http://www.aslsearch.com/signs/videos/cheap.mp4,cheap_0004_aslsearch_10144.mp4,ok
+5,10135,spreadthesign,37,0,train,25,1,-1,33,0,246,240,https://media.spreadthesign.com/video/mp4/13/455920.mp4,cheap_0005_spreadthesign_10135.mp4,ok
+6,10136,startasl,38,0,train,25,1,-1,376,50,800,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cheap.mp4,cheap_0006_startasl_10136.mp4,ok
+7,10137,signschool,4,0,train,25,1,-1,444,16,1102,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Cheap.mp4,cheap_0007_signschool_10137.mp4,ok
+8,10138,asldeafined,59,0,val,25,1,-1,106,12,528,480,https://media.asldeafined.com/vocabulary/1466730815.2979.mp4,cheap_0008_asldeafined_10138.mp4,ok
+9,10139,handspeak,20,0,test,25,1,-1,64,0,543,480,https://www.handspeak.com/word/c/cheaper.mp4,cheap_0009_handspeak_10139.mp4,failed
+10,10140,handspeak,20,0,test,25,1,-1,100,0,549,480,https://www.handspeak.com/word/c/cheap.mp4,cheap_0010_handspeak_10140.mp4,failed
+11,10141,signingsavvy,11,0,train,25,1,-1,58,12,211,192,https://www.signingsavvy.com/signs/mp4/9/9982.mp4,cheap_0011_signingsavvy_10141.mp4,ok

@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08330,asl5200,9,0,test,25,5063,5102,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bus_0000_asl5200_08330.mp4,skipped_no_ytdlp
+1,68960,lillybauer,115,0,train,25,1,54,367,17,964,720,https://www.youtube.com/watch?v=V9m4QhYRBj4,bus_0001_lillybauer_68960.mp4,skipped_no_ytdlp
+3,08349,startasl,36,0,train,25,1,-1,229,15,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bus.mp4,bus_0003_startasl_08349.mp4,ok
+6,08352,asldeafined,59,0,val,25,1,-1,104,22,532,480,https://media.asldeafined.com/vocabulary/1466725228.3209.mp4,bus_0006_asldeafined_08352.mp4,ok
+7,08353,handspeak,20,0,train,25,1,-1,120,6,491,360,https://www.handspeak.com/word/b/bus-fs.mp4,bus_0007_handspeak_08353.mp4,failed
+9,08355,signingsavvy,11,0,test,25,1,-1,67,14,216,192,https://www.signingsavvy.com/signs/mp4/9/9951.mp4,bus_0009_signingsavvy_08355.mp4,ok
+10,08346,spreadthesign,29,0,train,25,1,-1,62,0,290,240,https://media.spreadthesign.com/video/mp4/13/76794.mp4,bus_0010_spreadthesign_08346.mp4,ok
+14,08359,aslu,5,0,train,25,1,-1,349,42,962,719,https://www.youtube.com/watch?v=tka97Bmam3M,bus_0014_aslu_08359.mp4,skipped_no_ytdlp
+15,08360,aslu,5,0,train,25,1,-1,314,32,953,720,https://www.youtube.com/watch?v=XG8R_eT_Tt8,bus_0015_aslu_08360.mp4,skipped_no_ytdlp
+16,08361,aslpro,18,0,train,25,1,-1,25,3,227,240,http://www.aslpro.com/main/b/bus.swf,bus_0016_aslpro_08361.mp4,skipped_swf
+18,08347,spreadthesign,29,0,val,25,1,-1,62,0,290,240,https://media.spreadthesign.com/video/mp4/13/76795.mp4,bus_0018_spreadthesign_08347.mp4,ok

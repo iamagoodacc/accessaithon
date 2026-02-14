@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51325,asl5200,9,0,train,25,3791,3843,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,shower_0000_asl5200_51325.mp4,skipped_no_ytdlp
+1,51335,signingsavvy,11,0,train,25,1,-1,28,0,225,192,https://www.signingsavvy.com/signs/mp4/2/2746.mp4,shower_0001_signingsavvy_51335.mp4,ok
+2,51336,nabboud,51,0,train,25,1,-1,325,21,879,720,https://www.youtube.com/watch?v=AkKDwmAwueo,shower_0002_nabboud_51336.mp4,skipped_no_ytdlp
+3,51337,aslu,5,0,val,25,1,-1,206,0,928,720,https://www.youtube.com/watch?v=iJ8TFRWJutE,shower_0003_aslu_51337.mp4,skipped_no_ytdlp
+4,51338,nabboud,51,0,train,25,1,-1,306,9,888,720,https://www.youtube.com/watch?v=LUB6bZXpgZM,shower_0004_nabboud_51338.mp4,skipped_no_ytdlp
+5,51329,startasl,38,0,train,25,1,-1,352,61,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/shower.mp4,shower_0005_startasl_51329.mp4,ok
+6,67197,asllex,109,0,train,25,1,-1,62,14,383,360,https://youtu.be/ZrBL-2-knGQ,shower_0006_asllex_67197.mp4,skipped_no_ytdlp
+7,51339,aslpro,44,0,train,25,1,-1,0,8,208,240,http://www.aslpro.com/main/s/shower_bath.swf,shower_0007_aslpro_51339.mp4,skipped_swf
+8,51340,aslsearch,12,0,val,25,1,-1,149,30,558,400,http://www.aslsearch.com/signs/videos/shower.mp4,shower_0008_aslsearch_51340.mp4,ok
+9,51330,signschool,52,0,test,25,1,-1,277,0,819,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Shower-xL-7GdHscnQ.mp4,shower_0009_signschool_51330.mp4,ok
+10,51331,asldeafined,13,0,test,25,1,-1,20,0,516,480,https://media.asldeafined.com/vocabulary/1468766602.3616.mp4,shower_0010_asldeafined_51331.mp4,ok
+11,51332,handspeak,14,0,train,25,1,-1,35,15,309,240,https://www.handspeak.com/word/s/shower-bath.mp4,shower_0011_handspeak_51332.mp4,failed

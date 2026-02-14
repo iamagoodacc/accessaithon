@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02564,asl5200,9,0,test,25,2533,2579,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,angry_0000_asl5200_02564.mp4,skipped_no_ytdlp
+1,02569,asldeafined,13,0,train,25,1,-1,87,21,586,480,https://media.asldeafined.com/vocabulary/1466510175.6862.mp4,angry_0001_asldeafined_02569.mp4,ok
+2,02570,handspeak,20,0,train,25,1,-1,78,9,575,480,https://www.handspeak.com/word/a/angry.mp4,angry_0002_handspeak_02570.mp4,failed
+4,02572,signingsavvy,11,0,val,25,1,-1,71,11,237,192,https://www.signingsavvy.com/signs/mp4/7/7166.mp4,angry_0004_signingsavvy_02572.mp4,ok
+6,65072,aslsignbank,90,0,train,25,1,-1,141,29,509,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AN/ANGRY-15.mp4,angry_0006_aslsignbank_65072.mp4,failed
+7,67364,asllex,109,0,test,25,1,-1,86,10,408,360,https://youtu.be/YyOXjqoQcvQ,angry_0007_asllex_67364.mp4,skipped_no_ytdlp
+9,02575,aslu,5,0,train,25,1,-1,230,16,1025,720,https://www.youtube.com/watch?v=25cSn8yqYPs,angry_0009_aslu_02575.mp4,skipped_no_ytdlp
+11,02565,spreadthesign,26,0,train,25,1,-1,34,5,285,240,https://media.spreadthesign.com/video/mp4/13/118508.mp4,angry_0011_spreadthesign_02565.mp4,ok
+12,02566,signschool,31,0,train,25,1,-1,596,138,1547,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Anger%2C%20Fury-nmUFSLTScE8.mp4,angry_0012_signschool_02566.mp4,ok
+13,02567,signschool,46,0,train,25,1,-1,365,6,1334,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Angry-1vy45J4SVnw.mp4,angry_0013_signschool_02567.mp4,ok
+14,02568,signschool,4,0,val,25,1,-1,641,30,1769,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Angry-ka9hfiu7ZEk.mp4,angry_0014_signschool_02568.mp4,ok

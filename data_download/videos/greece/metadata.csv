@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25640,asl5200,9,0,train,25,1926,1988,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,greece_0000_asl5200_25640.mp4,skipped_no_ytdlp
+1,25649,aslu,5,0,train,25,1,-1,288,38,950,720,https://www.youtube.com/watch?v=Y2U4pLd4R0M,greece_0001_aslu_25649.mp4,skipped_no_ytdlp
+2,25650,aslpro,83,0,train,25,1,-1,0,17,214,240,http://www.aslpro.com/main/g/greece.swf,greece_0002_aslpro_25650.mp4,skipped_swf
+3,25651,aslsearch,41,0,val,25,1,-1,201,40,479,400,http://www.aslsearch.com/signs/videos/greece.mp4,greece_0003_aslsearch_25651.mp4,ok
+4,65853,aslsignbank,106,0,train,25,1,-1,134,37,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GR/GREECE-1859.mp4,greece_0004_aslsignbank_65853.mp4,failed
+5,25642,spreadthesign,37,0,train,25,1,-1,25,0,252,240,https://media.spreadthesign.com/video/mp4/13/455308.mp4,greece_0005_spreadthesign_25642.mp4,ok
+6,67728,asllex,109,0,train,25,1,-1,103,22,368,360,https://youtu.be/ph5jwzCTLsY,greece_0006_asllex_67728.mp4,skipped_no_ytdlp
+8,25644,signschool,45,0,train,25,1,-1,500,115,1417,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Greece-yWgdjumqYa8.mp4,greece_0008_signschool_25644.mp4,ok
+9,25645,asldeafined,15,0,val,25,1,-1,147,13,518,480,https://media.asldeafined.com/vocabulary/1525020777.1505.mp4,greece_0009_asldeafined_25645.mp4,ok
+10,25646,handspeak,20,0,test,25,1,-1,107,3,599,480,https://www.handspeak.com/word/g/greece.mp4,greece_0010_handspeak_25646.mp4,failed
+11,25647,signingsavvy,11,0,test,25,1,-1,86,8,218,192,https://www.signingsavvy.com/signs/mp4/5/5760.mp4,greece_0011_signingsavvy_25647.mp4,ok
+12,25648,signingsavvy,11,0,train,25,1,-1,53,2,219,192,https://www.signingsavvy.com/signs/mp4/5/5810.mp4,greece_0012_signingsavvy_25648.mp4,ok

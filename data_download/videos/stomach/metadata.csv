@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54870,asl5200,9,0,train,25,8947,9003,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stomach_0000_asl5200_54870.mp4,skipped_no_ytdlp
+1,54885,aslpro,87,0,train,25,1,-1,5,18,222,240,http://www.aslpro.com/main/s/stomach.swf,stomach_0001_aslpro_54885.mp4,skipped_swf
+2,54886,aslsearch,12,0,train,25,1,-1,202,49,566,400,http://www.aslsearch.com/signs/videos/stomach.mp4,stomach_0002_aslsearch_54886.mp4,ok
+3,66560,aslsignbank,100,0,val,25,1,-1,199,30,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STOMACH-1128.mp4,stomach_0003_aslsignbank_66560.mp4,failed
+4,54878,spreadthesign,26,0,train,25,1,-1,42,9,240,240,https://media.spreadthesign.com/video/mp4/13/310766.mp4,stomach_0004_spreadthesign_54878.mp4,ok
+5,67248,asllex,109,0,train,25,1,-1,77,24,379,360,https://youtu.be/cSuk-U74vPM,stomach_0005_asllex_67248.mp4,skipped_no_ytdlp
+6,54879,signschool,31,0,train,25,1,-1,713,137,1547,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stomach-7_C30DpQkhM.mp4,stomach_0006_signschool_54879.mp4,ok
+7,54880,asldeafined,13,0,train,25,1,-1,103,0,565,480,https://media.asldeafined.com/vocabulary/1468896442.4103.mp4,stomach_0007_asldeafined_54880.mp4,ok
+8,54881,handspeak,20,0,val,25,1,-1,43,0,258,240,https://www.handspeak.com/word/s/stomach.mp4,stomach_0008_handspeak_54881.mp4,failed
+9,54882,signingsavvy,10,0,test,25,1,-1,68,14,214,192,https://www.signingsavvy.com/signs/mp4/23/23860.mp4,stomach_0009_signingsavvy_54882.mp4,ok
+10,54883,signingsavvy,10,0,test,25,1,-1,60,13,211,192,https://www.signingsavvy.com/signs/mp4/23/23861.mp4,stomach_0010_signingsavvy_54883.mp4,ok
+11,54884,aslu,5,0,train,25,1,-1,289,37,934,720,https://www.youtube.com/watch?v=KJLt7QN7K4Q,stomach_0011_aslu_54884.mp4,skipped_no_ytdlp

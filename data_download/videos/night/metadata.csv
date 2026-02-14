@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38329,asl5200,9,0,val,25,1271,1317,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,night_0000_asl5200_38329.mp4,skipped_no_ytdlp
+1,70277,northtexas,121,0,train,25,354,472,149,37,413,360,https://www.youtube.com/watch?v=CSj7IScvZnE,night_0001_northtexas_70277.mp4,skipped_no_ytdlp
+2,68716,lillybauer,113,0,train,25,1,78,220,61,894,720,https://www.youtube.com/watch?v=MUVYTxET4Do,night_0002_lillybauer_68716.mp4,skipped_no_ytdlp
+3,38343,aslu,5,0,train,25,1,-1,338,37,1022,720,https://www.youtube.com/watch?v=jNiRlzvjd5U,night_0003_aslu_38343.mp4,skipped_no_ytdlp
+4,38344,aslpro,87,0,train,25,1,-1,16,5,234,240,http://www.aslpro.com/main/n/night.swf,night_0004_aslpro_38344.mp4,skipped_swf
+5,38345,aslsearch,41,0,train,25,1,-1,250,37,513,400,http://www.aslsearch.com/signs/videos/night.mp4,night_0005_aslsearch_38345.mp4,ok
+7,38336,spreadthesign,56,0,train,25,1,-1,45,0,273,240,https://media.spreadthesign.com/video/mp4/13/48821.mp4,night_0007_spreadthesign_38336.mp4,ok
+8,67932,asllex,109,0,train,25,1,-1,98,2,408,360,https://youtu.be/p3FTqco1h1U,night_0008_asllex_67932.mp4,skipped_no_ytdlp
+9,38337,signschool,46,0,train,25,1,-1,449,20,1258,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Night-sXPC0bQ0y2g.mp4,night_0009_signschool_38337.mp4,ok
+10,38338,asldeafined,13,0,test,25,1,-1,124,0,512,480,https://media.asldeafined.com/vocabulary/1468719112.7545.mp4,night_0010_asldeafined_38338.mp4,ok
+11,38339,handspeak,20,0,train,25,1,-1,63,8,263,240,https://www.handspeak.com/word/n/night.mp4,night_0011_handspeak_38339.mp4,failed
+13,38341,signingsavvy,11,0,test,25,1,-1,73,15,217,192,https://www.signingsavvy.com/signs/mp4/7/7109.mp4,night_0013_signingsavvy_38341.mp4,ok
+14,38342,aslu,5,0,val,25,1,-1,171,6,503,360,https://www.youtube.com/watch?v=jNiRlzvjd5U,night_0014_aslu_38342.mp4,skipped_no_ytdlp

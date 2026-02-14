@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,59953,signschool,4,0,train,25,1,-1,598,91,1564,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Turkey%202-hpe-2ywOAyM.mp4,turkey_0002_signschool_59953.mp4,ok
+3,59954,signschool,4,0,train,25,1,-1,590,83,1562,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Turkey-4SR_PNr7KQ0.mp4,turkey_0003_signschool_59954.mp4,ok
+5,59956,asldeafined,13,0,train,25,1,-1,67,0,538,480,https://media.asldeafined.com/vocabulary/1468947604.7342.mp4,turkey_0005_asldeafined_59956.mp4,ok
+7,59958,handspeak,20,0,val,25,1,-1,34,0,320,240,https://www.handspeak.com/word/t/turkey.mp4,turkey_0007_handspeak_59958.mp4,failed
+8,59959,signingsavvy,11,0,train,25,1,-1,59,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6873.mp4,turkey_0008_signingsavvy_59959.mp4,ok
+10,66683,aslsignbank,93,0,train,25,1,-1,138,35,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TU/TURKEY-348.mp4,turkey_0010_aslsignbank_66683.mp4,failed
+11,67328,asllex,109,0,train,25,1,-1,89,0,398,360,https://youtu.be/hz0RfgqbRr4,turkey_0011_asllex_67328.mp4,skipped_no_ytdlp
+12,59961,aslu,5,0,train,25,1,-1,328,31,927,720,https://www.youtube.com/watch?v=BIiQBs8YKRg,turkey_0012_aslu_59961.mp4,skipped_no_ytdlp
+14,59963,aslu,5,0,val,25,1,-1,263,47,889,720,https://www.youtube.com/watch?v=TI55Yh9nSQ4,turkey_0014_aslu_59963.mp4,skipped_no_ytdlp
+16,59965,aslpro,87,0,test,25,1,-1,4,21,218,240,http://www.aslpro.com/main/t/turkey_b.swf,turkey_0016_aslpro_59965.mp4,skipped_swf
+17,59966,aslsearch,12,0,test,25,1,-1,179,54,559,400,http://www.aslsearch.com/signs/videos/turkey.mp4,turkey_0017_aslsearch_59966.mp4,ok
+18,59952,startasl,38,0,train,25,1,-1,377,59,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/turkey.mp4,turkey_0018_startasl_59952.mp4,ok

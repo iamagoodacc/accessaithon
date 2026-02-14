@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65748,aslsignbank,106,0,val,25,1,-1,42,25,618,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FL/FLY-1486.mp4,fly_0000_aslsignbank_65748.mp4,failed
+2,22642,aslpro,16,0,test,25,1,-1,0,17,260,240,http://www.aslpro.com/main/f/fly.swf,fly_0002_aslpro_22642.mp4,skipped_swf
+3,22643,aslsearch,12,1,train,25,1,-1,165,49,554,400,http://www.aslsearch.com/signs/videos/airplane.mp4,fly_0003_aslsearch_22643.mp4,ok
+6,22645,aslsearch,12,0,train,25,1,-1,93,38,679,400,http://www.aslsearch.com/signs/videos/wing2.mp4,fly_0006_aslsearch_22645.mp4,ok
+7,22646,aslsearch,12,0,train,25,1,-1,48,40,717,400,http://www.aslsearch.com/signs/videos/wing.mp4,fly_0007_aslsearch_22646.mp4,ok
+8,22627,asldeafined,21,0,train,25,1,-1,35,13,640,480,https://media.asldeafined.com/vocabulary/1468513021.6103.mp4,fly_0008_asldeafined_22627.mp4,ok
+10,22629,handspeak,20,0,val,25,1,-1,39,24,611,480,https://www.handspeak.com/word/f/fly-animal.mp4,fly_0010_handspeak_22629.mp4,failed
+15,22633,handspeak,20,1,test,25,1,-1,56,0,553,480,https://www.handspeak.com/word/f/fly-plane2.mp4,fly_0015_handspeak_22633.mp4,failed
+16,22634,handspeak,20,1,val,25,1,-1,24,0,288,240,https://www.handspeak.com/word/f/fly-plane.mp4,fly_0016_handspeak_22634.mp4,failed
+17,67674,asllex,109,0,train,25,1,-1,0,17,480,360,https://youtu.be/8K9PF3pjz0M,fly_0017_asllex_67674.mp4,skipped_no_ytdlp
+18,22635,signingsavvy,11,1,train,25,1,-1,58,8,222,192,https://www.signingsavvy.com/signs/mp4/6/6106.mp4,fly_0018_signingsavvy_22635.mp4,ok
+19,22636,signingsavvy,11,1,train,25,1,-1,80,13,222,192,https://www.signingsavvy.com/signs/mp4/6/6554.mp4,fly_0019_signingsavvy_22636.mp4,ok
+23,22640,signingsavvy,11,0,train,25,1,-1,51,12,277,192,https://www.signingsavvy.com/signs/mp4/8/8222.mp4,fly_0023_signingsavvy_22640.mp4,ok

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05699,asl5200,9,0,train,25,1673,1732,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,beer_0000_asl5200_05699.mp4,skipped_no_ytdlp
+1,05712,signingsavvy,11,0,train,25,1,-1,62,10,212,192,https://www.signingsavvy.com/signs/mp4/14/14698.mp4,beer_0001_signingsavvy_05712.mp4,ok
+2,05713,aslu,5,0,train,25,1,-1,301,64,881,720,https://www.youtube.com/watch?v=9aKoDYMld7k,beer_0002_aslu_05713.mp4,skipped_no_ytdlp
+4,65166,aslsignbank,91,0,val,25,1,-1,217,30,460,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEER-2204.mp4,beer_0004_aslsignbank_65166.mp4,failed
+5,05705,spreadthesign,2,0,train,25,1,-1,59,12,251,240,https://media.spreadthesign.com/video/mp4/13/123638.mp4,beer_0005_spreadthesign_05705.mp4,ok
+6,67402,asllex,109,0,train,25,1,-1,103,12,375,360,https://youtu.be/ca5ed8JQ5qA,beer_0006_asllex_67402.mp4,skipped_no_ytdlp
+7,05715,aslsearch,12,0,train,25,1,-1,174,51,525,400,http://www.aslsearch.com/signs/videos/beer.mp4,beer_0007_aslsearch_05715.mp4,ok
+8,05706,spreadthesign,0,0,train,25,1,-1,56,0,257,240,https://media.spreadthesign.com/video/mp4/13/74885.mp4,beer_0008_spreadthesign_05706.mp4,ok
+9,05707,signschool,4,0,val,25,1,-1,593,55,1595,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Beer%20var-wX78EPtSuzU.mp4,beer_0009_signschool_05707.mp4,ok
+10,05708,signschool,39,0,test,25,1,-1,654,113,1545,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Beer-AOj9U6J-eq4.mp4,beer_0010_signschool_05708.mp4,ok
+11,05709,asldeafined,13,0,test,25,1,-1,99,29,519,480,https://media.asldeafined.com/vocabulary/1466681257.1050.mp4,beer_0011_asldeafined_05709.mp4,ok
+12,05711,handspeak,14,0,train,25,1,-1,38,19,285,240,https://www.handspeak.com/word/b/beer.mp4,beer_0012_handspeak_05711.mp4,failed

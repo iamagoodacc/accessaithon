@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,40463,asl5200,9,0,test,25,1367,1433,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,outside_0000_asl5200_40463.mp4,skipped_no_ytdlp
+1,68362,lillybauer,115,0,train,25,1,56,313,12,995,720,https://www.youtube.com/watch?v=bvNbNe-DWtM,outside_0001_lillybauer_68362.mp4,skipped_no_ytdlp
+2,40468,signschool,6,1,test,25,1,-1,653,45,1542,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Outside-O7ymJUiG8xQ.mp4,outside_0002_signschool_40468.mp4,ok
+3,40469,signschool,39,1,train,25,1,-1,727,98,1701,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Outside-zFqna_iLbUc.mp4,outside_0003_signschool_40469.mp4,ok
+4,40470,asldeafined,13,1,train,25,1,-1,49,0,523,480,https://media.asldeafined.com/vocabulary/1468722785.4436.mp4,outside_0004_asldeafined_40470.mp4,ok
+5,40471,handspeak,14,0,train,25,1,-1,34,8,311,240,https://www.handspeak.com/word/o/outside2.mp4,outside_0005_handspeak_40471.mp4,failed
+8,40474,signingsavvy,10,1,train,25,1,-1,57,28,201,192,https://www.signingsavvy.com/signs/mp4/22/22946.mp4,outside_0008_signingsavvy_40474.mp4,ok
+10,40476,aslsearch,12,0,train,25,1,-1,180,55,542,400,http://www.aslsearch.com/signs/videos/outdoors.mp4,outside_0010_aslsearch_40476.mp4,ok
+11,40477,aslsearch,12,1,train,25,1,-1,168,53,542,400,http://www.aslsearch.com/signs/videos/out.mp4,outside_0011_aslsearch_40477.mp4,ok
+12,40464,spreadthesign,56,0,train,25,1,-1,29,0,262,240,https://media.spreadthesign.com/video/mp4/13/49169.mp4,outside_0012_spreadthesign_40464.mp4,ok
+13,40465,startasl,36,1,val,25,1,-1,203,17,529,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/outside.mp4,outside_0013_startasl_40465.mp4,ok
+15,40467,signschool,52,0,val,25,1,-1,270,13,815,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Outside-BNHrvgPQJYo.mp4,outside_0015_signschool_40467.mp4,ok

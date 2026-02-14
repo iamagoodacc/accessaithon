@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36259,asl5200,9,0,val,25,1544,1590,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,mirror_0000_asl5200_36259.mp4,skipped_no_ytdlp
+1,36266,signingsavvy,11,0,train,25,1,-1,54,9,223,192,https://www.signingsavvy.com/signs/mp4/2/2076.mp4,mirror_0001_signingsavvy_36266.mp4,ok
+2,36267,aslu,5,0,train,25,1,-1,255,34,925,720,https://www.youtube.com/watch?v=6HxVLAUSZQk,mirror_0002_aslu_36267.mp4,skipped_no_ytdlp
+3,36268,aslpro,72,0,train,25,1,-1,4,8,234,240,http://www.aslpro.com/main/m/mirror.swf,mirror_0003_aslpro_36268.mp4,skipped_swf
+4,66129,aslsignbank,97,0,train,25,1,-1,173,31,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MIRROR-1605.mp4,mirror_0004_aslsignbank_66129.mp4,failed
+5,67897,asllex,109,0,train,25,1,-1,113,14,387,360,https://youtu.be/W9WaxFZEPk8,mirror_0005_asllex_67897.mp4,skipped_no_ytdlp
+6,36269,aslsearch,12,0,train,25,1,-1,190,51,550,400,http://www.aslsearch.com/signs/videos/mirror.mp4,mirror_0006_aslsearch_36269.mp4,ok
+7,36260,spreadthesign,56,0,train,25,1,-1,51,0,265,240,https://media.spreadthesign.com/video/mp4/13/48590.mp4,mirror_0007_spreadthesign_36260.mp4,ok
+8,36261,startasl,38,0,train,25,1,-1,409,54,796,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/mirror.mp4,mirror_0008_startasl_36261.mp4,ok
+9,36262,signschool,4,0,test,25,1,-1,571,29,1595,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mirror-lyBd4wKAmz4.mp4,mirror_0009_signschool_36262.mp4,ok
+10,36263,signschool,32,0,train,25,1,-1,689,73,1607,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mirror--QpsizBJWMw.mp4,mirror_0010_signschool_36263.mp4,ok
+11,36264,asldeafined,13,0,test,25,1,-1,136,0,507,480,https://media.asldeafined.com/vocabulary/1468715706.8242.mp4,mirror_0011_asldeafined_36264.mp4,ok
+12,36265,handspeak,14,0,val,25,1,-1,65,20,268,240,https://www.handspeak.com/word/m/mirror.mp4,mirror_0012_handspeak_36265.mp4,failed

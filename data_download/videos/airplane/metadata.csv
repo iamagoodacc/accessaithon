@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01721,asl5200,9,0,test,25,1472,1528,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,airplane_0000_asl5200_01721.mp4,skipped_no_ytdlp
+1,01730,signingsavvy,11,0,train,25,1,-1,42,2,234,192,https://www.signingsavvy.com/signs/mp4/6/6108.mp4,airplane_0001_signingsavvy_01730.mp4,ok
+4,01733,aslpro,16,0,train,25,1,-1,17,18,202,240,http://www.aslpro.com/main/a/airplane.swf,airplane_0004_aslpro_01733.mp4,skipped_swf
+5,65038,aslsignbank,88,0,val,25,1,-1,164,14,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AI/AIRPLANE-401.mp4,airplane_0005_aslsignbank_65038.mp4,failed
+6,01724,spreadthesign,29,0,train,25,1,-1,39,11,261,240,https://media.spreadthesign.com/video/mp4/13/72317.mp4,airplane_0006_spreadthesign_01724.mp4,ok
+7,67354,asllex,109,0,test,25,1,-1,86,17,370,360,https://youtu.be/np52MbRb0TM,airplane_0007_asllex_67354.mp4,skipped_no_ytdlp
+8,01734,aslsearch,12,0,train,25,1,-1,165,49,554,400,http://www.aslsearch.com/signs/videos/airplane.mp4,airplane_0008_aslsearch_01734.mp4,ok
+10,01726,signschool,4,0,train,25,1,-1,605,21,1721,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Airport%2C%20Airplane-qGrE-V2JJUw.mp4,airplane_0010_signschool_01726.mp4,ok
+11,01727,asldeafined,13,0,train,25,1,-1,101,23,503,480,https://media.asldeafined.com/vocabulary/1466172119.5947.mp4,airplane_0011_asldeafined_01727.mp4,ok
+12,01728,handspeak,14,0,train,25,1,-1,131,39,525,480,https://www.handspeak.com/word/a/airplane.mp4,airplane_0012_handspeak_01728.mp4,failed
+13,01729,signingsavvy,11,0,val,25,1,-1,53,6,222,192,https://www.signingsavvy.com/signs/mp4/6/6107.mp4,airplane_0013_signingsavvy_01729.mp4,ok

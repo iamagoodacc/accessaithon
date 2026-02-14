@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66325,aslsignbank,101,0,train,25,1,-1,208,4,517,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PRESENT-226.mp4,present_0000_aslsignbank_66325.mp4,failed
+1,44351,aslsearch,12,0,test,25,1,-1,184,62,553,400,http://www.aslsearch.com/signs/videos/gift.mp4,present_0001_aslsearch_44351.mp4,ok
+3,44334,spreadthesign,2,1,test,25,1,-1,66,42,242,240,https://media.spreadthesign.com/video/mp4/13/89902.mp4,present_0003_spreadthesign_44334.mp4,ok
+4,44335,signschool,4,1,val,25,1,-1,541,65,1613,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Modern%2C%20Present%2C%20Today-AnG9pOIP3F4.mp4,present_0004_signschool_44335.mp4,ok
+8,44339,handspeak,14,0,val,25,1,-1,54,27,255,240,https://www.handspeak.com/word/p/present-gift.mp4,present_0008_handspeak_44339.mp4,failed
+9,44340,handspeak,14,1,train,25,1,-1,98,0,546,480,https://www.handspeak.com/word/p/present-time.mp4,present_0009_handspeak_44340.mp4,failed
+11,44333,elementalasl,19,1,train,25,1,-1,90,9,243,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/present.mov,present_0011_elementalasl_44333.mp4,ok
+14,44344,signingsavvy,10,0,train,25,1,-1,87,17,209,192,https://www.signingsavvy.com/signs/mp4/23/23781.mp4,present_0014_signingsavvy_44344.mp4,ok
+17,44347,signingsavvy,11,1,train,25,1,-1,85,19,229,192,https://www.signingsavvy.com/signs/mp4/7/7774.mp4,present_0017_signingsavvy_44347.mp4,ok
+18,44348,aslpro,72,0,train,25,1,-1,7,4,230,240,http://www.aslpro.com/main/p/present_gift.swf,present_0018_aslpro_44348.mp4,skipped_swf
+19,44349,aslsearch,12,1,train,25,1,-1,182,57,554,400,http://www.aslsearch.com/signs/videos/current.mp4,present_0019_aslsearch_44349.mp4,ok
+20,44350,aslsearch,12,1,train,25,1,-1,182,57,554,400,http://www.aslsearch.com/signs/videos/current.mp4,present_0020_aslsearch_44350.mp4,ok

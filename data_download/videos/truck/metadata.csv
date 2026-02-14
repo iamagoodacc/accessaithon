@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59760,asl5200,9,0,test,25,5246,5285,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,truck_0000_asl5200_59760.mp4,skipped_no_ytdlp
+2,59770,aslu,5,1,test,25,1,-1,165,15,489,360,https://www.youtube.com/watch?v=LiSC8Vt5tmI,truck_0002_aslu_59770.mp4,skipped_no_ytdlp
+3,59771,aslu,5,0,val,25,1,-1,351,0,1024,720,https://www.youtube.com/watch?v=stWHtqJAzng,truck_0003_aslu_59771.mp4,skipped_no_ytdlp
+4,59772,aslu,5,1,train,25,1,-1,349,0,1003,720,https://www.youtube.com/watch?v=VsvIHVZsUaw,truck_0004_aslu_59772.mp4,skipped_no_ytdlp
+5,59773,aslpro,84,1,train,25,1,-1,25,2,220,240,http://www.aslpro.com/main/t/truck_vehicle.swf,truck_0005_aslpro_59773.mp4,skipped_swf
+6,66677,aslsignbank,98,0,train,25,1,-1,159,33,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRUCK-1316.mp4,truck_0006_aslsignbank_66677.mp4,failed
+7,66678,aslsignbank,98,0,train,25,1,-1,167,33,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRUCK-1320.mp4,truck_0007_aslsignbank_66678.mp4,failed
+8,59764,signschool,4,0,train,25,1,-1,609,63,1618,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Truck-PrCsD-jzZX4.mp4,truck_0008_signschool_59764.mp4,ok
+9,59774,aslsearch,12,0,train,25,1,-1,192,52,556,400,http://www.aslsearch.com/signs/videos/truck.mp4,truck_0009_aslsearch_59774.mp4,ok
+10,59765,asldeafined,15,1,train,25,1,-1,98,26,527,480,https://media.asldeafined.com/vocabulary/1499777983.291.mp4,truck_0010_asldeafined_59765.mp4,ok
+11,59766,handspeak,14,1,train,25,1,-1,127,0,576,480,https://www.handspeak.com/word/t/truck-fs.mp4,truck_0011_handspeak_59766.mp4,failed
+12,59767,handspeak,20,0,train,25,1,-1,121,9,511,360,https://www.handspeak.com/word/t/truck.mp4,truck_0012_handspeak_59767.mp4,failed
+13,59768,signingsavvy,10,1,val,25,1,-1,87,22,220,192,https://www.signingsavvy.com/signs/mp4/23/23474.mp4,truck_0013_signingsavvy_59768.mp4,ok

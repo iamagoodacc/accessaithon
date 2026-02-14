@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19556,asl5200,9,0,val,25,2189,2221,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,escape_0000_asl5200_19556.mp4,skipped_no_ytdlp
+1,19563,signingsavvy,11,0,train,25,1,-1,74,13,210,192,https://www.signingsavvy.com/signs/mp4/8/8697.mp4,escape_0001_signingsavvy_19563.mp4,ok
+2,19564,aslu,5,0,train,25,1,-1,234,35,1093,720,https://www.youtube.com/watch?v=jaENb2anwYc,escape_0002_aslu_19564.mp4,skipped_no_ytdlp
+3,19565,aslu,5,0,train,25,1,-1,325,46,999,720,https://www.youtube.com/watch?v=PF7q53DygD0,escape_0003_aslu_19565.mp4,skipped_no_ytdlp
+4,65644,aslsignbank,90,0,train,25,1,-1,157,16,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ES/ESCAPE-629.mp4,escape_0004_aslsignbank_65644.mp4,failed
+5,19566,aslpro,24,0,train,25,1,-1,25,8,208,240,http://www.aslpro.com/main/e/escape.swf,escape_0005_aslpro_19566.mp4,skipped_swf
+6,19567,aslsearch,41,0,train,25,1,-1,197,46,524,400,http://www.aslsearch.com/signs/videos/escape.mp4,escape_0006_aslsearch_19567.mp4,ok
+7,19557,spreadthesign,37,0,train,25,1,-1,41,0,290,240,https://media.spreadthesign.com/video/mp4/13/456917.mp4,escape_0007_spreadthesign_19557.mp4,ok
+8,19558,startasl,38,0,train,25,1,-1,397,62,816,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/escape.mp4,escape_0008_startasl_19558.mp4,ok
+9,19559,signschool,4,0,test,25,1,-1,686,45,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Escape%202-kMcamniHFlw.mp4,escape_0009_signschool_19559.mp4,ok
+10,19560,signschool,39,0,train,25,1,-1,651,118,1520,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sprint%202-RCEYQI_MH8Y.mp4,escape_0010_signschool_19560.mp4,ok
+11,19561,asldeafined,21,0,test,25,1,-1,80,6,615,480,https://media.asldeafined.com/vocabulary/1468377010.5698.mp4,escape_0011_asldeafined_19561.mp4,ok
+12,19562,handspeak,14,0,val,25,1,-1,38,6,272,240,https://www.handspeak.com/word/e/escape.mp4,escape_0012_handspeak_19562.mp4,failed

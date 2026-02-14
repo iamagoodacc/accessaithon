@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58804,asl5200,9,0,val,25,3705,3741,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tomorrow_0000_asl5200_58804.mp4,skipped_no_ytdlp
+1,70349,northtexas,121,0,train,25,4918,5018,194,51,420,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,tomorrow_0001_northtexas_70349.mp4,skipped_no_ytdlp
+2,58812,aslu,5,0,train,25,1,-1,311,28,929,720,https://www.youtube.com/watch?v=sVswNAWWgR8,tomorrow_0002_aslu_58812.mp4,skipped_no_ytdlp
+3,58813,aslpro,87,0,train,25,1,-1,9,4,214,240,http://www.aslpro.com/main/t/tomorrow.swf,tomorrow_0003_aslpro_58813.mp4,skipped_swf
+4,66655,aslsignbank,93,0,train,25,1,-1,135,34,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TO/TOMORROW-301.mp4,tomorrow_0004_aslsignbank_66655.mp4,failed
+5,58814,aslsearch,12,0,train,25,1,-1,169,52,528,400,http://www.aslsearch.com/signs/videos/tomorrow.mp4,tomorrow_0005_aslsearch_58814.mp4,ok
+6,58805,spreadthesign,56,0,train,25,1,-1,55,0,269,240,https://media.spreadthesign.com/video/mp4/13/50911.mp4,tomorrow_0006_spreadthesign_58805.mp4,ok
+7,58806,startasl,38,0,train,25,1,-1,394,48,799,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tomorrow.mp4,tomorrow_0007_startasl_58806.mp4,ok
+8,58807,signschool,46,0,train,25,1,-1,450,11,1259,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tomorrow-RHKBEZHE1yY.mp4,tomorrow_0008_signschool_58807.mp4,ok
+9,58808,asldeafined,13,0,test,25,1,-1,107,0,541,480,https://media.asldeafined.com/vocabulary/1468945920.1211.mp4,tomorrow_0009_asldeafined_58808.mp4,ok
+10,58809,handspeak,14,0,train,25,1,-1,139,0,582,480,https://www.handspeak.com/word/t/tomorrow.mp4,tomorrow_0010_handspeak_58809.mp4,failed
+11,58810,signingsavvy,11,0,test,25,1,-1,79,12,227,192,https://www.signingsavvy.com/signs/mp4/7/7683.mp4,tomorrow_0011_signingsavvy_58810.mp4,ok
+12,58811,aslu,5,0,val,25,1,-1,310,5,959,720,https://www.youtube.com/watch?v=6gFOZMDptIk,tomorrow_0012_aslu_58811.mp4,skipped_no_ytdlp

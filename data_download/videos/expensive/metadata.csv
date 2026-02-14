@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20362,asl5200,9,0,val,25,3250,3279,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,expensive_0000_asl5200_20362.mp4,skipped_no_ytdlp
+1,20369,signingsavvy,10,0,train,25,1,-1,50,20,221,192,https://www.signingsavvy.com/signs/mp4/23/23315.mp4,expensive_0001_signingsavvy_20369.mp4,ok
+2,20370,signingsavvy,11,0,train,25,1,-1,56,14,218,192,https://www.signingsavvy.com/signs/mp4/7/7479.mp4,expensive_0002_signingsavvy_20370.mp4,ok
+3,20371,aslu,5,0,train,25,1,-1,225,29,998,720,https://www.youtube.com/watch?v=Kg7HDoAZXZ4,expensive_0003_aslu_20371.mp4,skipped_no_ytdlp
+4,67634,asllex,109,0,train,25,1,-1,94,20,390,360,https://youtu.be/gOcwZL2PcqY,expensive_0004_asllex_67634.mp4,skipped_no_ytdlp
+5,20372,aslu,5,0,train,25,1,-1,261,21,1011,720,https://www.youtube.com/watch?v=y6JTPyTOs64,expensive_0005_aslu_20372.mp4,skipped_no_ytdlp
+6,20373,aslsearch,12,0,train,25,1,-1,174,62,555,400,http://www.aslsearch.com/signs/videos/expensive.mp4,expensive_0006_aslsearch_20373.mp4,ok
+7,20363,spreadthesign,37,0,train,25,1,-1,54,0,254,240,https://media.spreadthesign.com/video/mp4/13/455597.mp4,expensive_0007_spreadthesign_20363.mp4,ok
+8,20364,startasl,38,0,train,25,1,-1,436,61,823,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/expensive.mp4,expensive_0008_startasl_20364.mp4,ok
+9,20365,signschool,6,0,test,25,1,-1,538,75,1442,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Expensive-RMMiT-5ttAs.mp4,expensive_0009_signschool_20365.mp4,ok
+10,20366,signschool,32,0,train,25,1,-1,382,45,1090,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Expensive.mp4,expensive_0010_signschool_20366.mp4,ok
+11,20367,asldeafined,21,0,test,25,1,-1,43,4,563,480,https://media.asldeafined.com/vocabulary/1468379209.8415.mp4,expensive_0011_asldeafined_20367.mp4,ok
+12,20368,handspeak,20,0,val,25,1,-1,91,0,521,480,https://www.handspeak.com/word/e/expensive.mp4,expensive_0012_handspeak_20368.mp4,failed

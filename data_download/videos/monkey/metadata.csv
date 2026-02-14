@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36677,asl5200,9,0,val,25,1777,1823,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,monkey_0000_asl5200_36677.mp4,skipped_no_ytdlp
+1,36684,nabboud,67,0,train,25,1,-1,270,46,954,720,https://www.youtube.com/watch?v=8gvNBh-5RzU,monkey_0001_nabboud_36684.mp4,skipped_no_ytdlp
+2,36685,aslu,64,0,train,25,1,-1,33,37,506,344,https://www.youtube.com/watch?v=aVHJnszT78M,monkey_0002_aslu_36685.mp4,skipped_no_ytdlp
+3,36686,aslpro,72,0,train,25,1,-1,0,4,254,240,http://www.aslpro.com/main/m/monkey.swf,monkey_0003_aslpro_36686.mp4,skipped_swf
+4,66140,aslsignbank,97,0,train,25,1,-1,176,26,517,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MONKEY-369.mp4,monkey_0004_aslsignbank_66140.mp4,failed
+5,67902,asllex,109,0,train,25,1,-1,39,13,485,360,https://youtu.be/CC8lYNHFlgM,monkey_0005_asllex_67902.mp4,skipped_no_ytdlp
+6,36687,aslsearch,12,0,train,25,1,-1,119,60,604,400,http://www.aslsearch.com/signs/videos/chimpanzee.mp4,monkey_0006_aslsearch_36687.mp4,ok
+7,36678,spreadthesign,37,0,train,25,1,-1,5,0,304,240,https://media.spreadthesign.com/video/mp4/13/457034.mp4,monkey_0007_spreadthesign_36678.mp4,ok
+8,36679,startasl,36,0,train,25,1,-1,182,16,616,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/monkey.mp4,monkey_0008_startasl_36679.mp4,ok
+9,36680,signschool,31,0,test,25,1,-1,424,102,1721,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Monkey-pRzPpSrIc_w.mp4,monkey_0009_signschool_36680.mp4,ok
+10,36681,asldeafined,13,0,train,25,1,-1,37,0,640,480,https://media.asldeafined.com/vocabulary/1468716312.5762.mp4,monkey_0010_asldeafined_36681.mp4,ok
+11,36682,handspeak,20,0,test,25,1,-1,10,0,584,480,https://www.handspeak.com/word/m/monkey.mp4,monkey_0011_handspeak_36682.mp4,failed
+12,36683,signingsavvy,11,0,val,25,1,-1,43,8,241,192,https://www.signingsavvy.com/signs/mp4/14/14675.mp4,monkey_0012_signingsavvy_36683.mp4,ok

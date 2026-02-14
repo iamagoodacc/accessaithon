@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,66304,aslsignbank,101,0,val,25,1,-1,199,4,568,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POINT-910.mp4,point_0001_aslsignbank_66304.mp4,failed
+2,43460,aslpro,87,0,train,25,1,-1,8,7,220,240,http://www.aslpro.com/main/p/point.swf,point_0002_aslpro_43460.mp4,skipped_swf
+3,43461,aslsearch,12,0,train,25,1,-1,175,50,552,400,http://www.aslsearch.com/signs/videos/objective.mp4,point_0003_aslsearch_43461.mp4,ok
+4,43462,aslsearch,12,0,train,25,1,-1,175,54,561,400,http://www.aslsearch.com/signs/videos/point.mp4,point_0004_aslsearch_43462.mp4,ok
+5,43444,startasl,38,0,train,25,1,-1,416,53,816,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/point.mp4,point_0005_startasl_43444.mp4,ok
+6,43445,signschool,39,0,train,25,1,-1,393,91,1558,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Point-Q6UwBpW4YGQ.mp4,point_0006_signschool_43445.mp4,ok
+7,43446,signschool,31,0,train,25,1,-1,622,67,1607,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20To%20the%20Point-9xtUROYOGFM.mp4,point_0007_signschool_43446.mp4,ok
+8,43447,asldeafined,13,0,train,25,1,-1,186,0,571,480,https://media.asldeafined.com/vocabulary/1468754235.9169.mp4,point_0008_asldeafined_43447.mp4,ok
+9,43448,handspeak,14,0,train,25,1,-1,53,10,246,240,https://www.handspeak.com/word/p/point-purpose.mp4,point_0009_handspeak_43448.mp4,failed
+10,43449,handspeak,14,0,test,25,1,-1,49,12,259,240,https://www.handspeak.com/word/p/point-score.mp4,point_0010_handspeak_43449.mp4,failed
+12,43443,spreadthesign,0,0,train,25,1,-1,39,1,265,240,https://media.spreadthesign.com/video/mp4/13/58395.mp4,point_0012_spreadthesign_43443.mp4,ok
+14,43452,signingsavvy,11,0,test,25,1,-1,54,11,215,192,https://www.signingsavvy.com/signs/mp4/14/14332.mp4,point_0014_signingsavvy_43452.mp4,ok
+15,67086,asllex,109,0,val,25,1,-1,91,16,372,360,https://youtu.be/HJ5OH9Q2m4g,point_0015_asllex_67086.mp4,skipped_no_ytdlp

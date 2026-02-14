@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33638,asl5200,9,0,train,25,2138,2170,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lobster_0000_asl5200_33638.mp4,skipped_no_ytdlp
+1,33646,signingsavvy,10,0,train,25,1,-1,63,24,217,192,https://www.signingsavvy.com/signs/mp4/22/22552.mp4,lobster_0001_signingsavvy_33646.mp4,ok
+2,33647,aslpro,25,0,train,25,1,-1,0,5,260,240,http://www.aslpro.com/main/l/lobster.swf,lobster_0002_aslpro_33647.mp4,skipped_swf
+3,67855,asllex,109,0,val,25,1,-1,68,21,387,360,https://youtu.be/pzcBrX2ha5E,lobster_0003_asllex_67855.mp4,skipped_no_ytdlp
+4,33648,aslsearch,12,0,train,25,1,-1,162,50,550,400,http://www.aslsearch.com/signs/videos/lobster.mp4,lobster_0004_aslsearch_33648.mp4,ok
+5,33639,spreadthesign,8,0,train,25,1,-1,66,3,235,240,https://media.spreadthesign.com/video/mp4/13/457569.mp4,lobster_0005_spreadthesign_33639.mp4,ok
+6,33640,signschool,4,0,train,25,1,-1,431,77,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab%202-P9mUuyXXY2s.mp4,lobster_0006_signschool_33640.mp4,ok
+7,33641,signschool,4,0,train,25,1,-1,474,72,1574,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab%204-jZqYzlbwb48.mp4,lobster_0007_signschool_33641.mp4,ok
+8,33642,signschool,4,0,val,25,1,-1,374,72,1638,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab-5LU5A-Mmbis.mp4,lobster_0008_signschool_33642.mp4,ok
+9,33643,asldeafined,15,0,test,25,1,-1,134,41,580,480,https://media.asldeafined.com/vocabulary/1499952364.4411.mp4,lobster_0009_asldeafined_33643.mp4,ok
+10,33644,handspeak,20,0,test,25,1,-1,39,0,604,480,https://www.handspeak.com/word/l/lobster2.mp4,lobster_0010_handspeak_33644.mp4,failed
+11,33645,handspeak,20,0,train,25,1,-1,13,0,563,480,https://www.handspeak.com/word/l/lobster.mp4,lobster_0011_handspeak_33645.mp4,failed

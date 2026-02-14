@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42695,asl5200,9,0,train,25,2368,2430,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pig_0000_asl5200_42695.mp4,skipped_no_ytdlp
+1,69429,aslbrick,118,0,train,25,1,-1,335,42,878,720,http://aslbricks.org/New/ASL-Videos/pig.mp4,pig_0001_aslbrick_69429.mp4,ok
+2,42709,aslsearch,41,0,train,25,1,-1,241,39,496,400,http://www.aslsearch.com/signs/videos/pig.mp4,pig_0002_aslsearch_42709.mp4,ok
+3,42701,spreadthesign,56,0,val,25,1,-1,36,0,261,240,https://media.spreadthesign.com/video/mp4/13/49190.mp4,pig_0003_spreadthesign_42701.mp4,ok
+4,67984,asllex,109,0,train,25,1,-1,126,16,382,360,https://youtu.be/ZQeazqlpGDU,pig_0004_asllex_67984.mp4,skipped_no_ytdlp
+5,42702,signschool,6,0,train,25,1,-1,620,50,1485,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pig%202-M1d4C4URgm0.mp4,pig_0005_signschool_42702.mp4,ok
+6,42703,signschool,6,0,train,25,1,-1,688,54,1479,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pig-f4AgwBbMDDY.mp4,pig_0006_signschool_42703.mp4,ok
+7,42704,asldeafined,13,0,train,25,1,-1,102,0,524,480,https://media.asldeafined.com/vocabulary/1468726159.4899.mp4,pig_0007_asldeafined_42704.mp4,ok
+8,42705,handspeak,14,0,val,25,1,-1,57,0,513,480,https://www.handspeak.com/word/p/pig-animal.mp4,pig_0008_handspeak_42705.mp4,failed
+9,42706,signingsavvy,10,0,test,25,1,-1,88,21,205,192,https://www.signingsavvy.com/signs/mp4/22/22281.mp4,pig_0009_signingsavvy_42706.mp4,ok
+10,42707,nabboud,67,0,test,25,1,-1,311,52,890,720,https://www.youtube.com/watch?v=T0zD2id1k78,pig_0010_nabboud_42707.mp4,skipped_no_ytdlp
+11,42708,aslpro,49,0,train,25,1,-1,5,4,219,240,http://www.aslpro.com/main/p/pig.swf,pig_0011_aslpro_42708.mp4,skipped_swf

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14374,asl5200,9,0,train,25,7343,7375,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,curse_0000_asl5200_14374.mp4,skipped_no_ytdlp
+1,14382,aslu,5,1,test,25,1,-1,318,38,975,720,https://www.youtube.com/watch?v=nH8i7I447jI,curse_0001_aslu_14382.mp4,skipped_no_ytdlp
+2,14383,aslpro,24,0,test,25,1,-1,7,7,199,240,http://www.aslpro.com/main/c/curse_1.swf,curse_0002_aslpro_14383.mp4,skipped_swf
+3,14384,aslpro,24,1,val,25,1,-1,16,16,204,240,http://www.aslpro.com/main/c/curse_2.swf,curse_0003_aslpro_14384.mp4,skipped_swf
+4,14385,aslsearch,12,1,train,25,1,-1,174,64,545,400,http://www.aslsearch.com/signs/videos/curse.mp4,curse_0004_aslsearch_14385.mp4,ok
+5,14375,spreadthesign,33,0,val,25,1,-1,72,16,247,240,https://media.spreadthesign.com/video/mp4/13/96164.mp4,curse_0005_spreadthesign_14375.mp4,ok
+6,14376,asldeafined,59,1,train,25,1,-1,109,28,557,480,https://media.asldeafined.com/vocabulary/1466905878.1947.mp4,curse_0006_asldeafined_14376.mp4,ok
+7,14377,handspeak,20,1,train,25,1,-1,43,20,451,360,https://www.handspeak.com/word/c/curse-profane.mp4,curse_0007_handspeak_14377.mp4,failed
+8,14378,signingsavvy,11,1,train,25,1,-1,66,15,223,192,https://www.signingsavvy.com/signs/mp4/1/1396.mp4,curse_0008_signingsavvy_14378.mp4,ok
+9,14379,signingsavvy,11,0,train,25,1,-1,72,14,225,192,https://www.signingsavvy.com/signs/mp4/4/4626.mp4,curse_0009_signingsavvy_14379.mp4,ok
+10,14380,signingsavvy,11,0,train,25,1,-1,79,17,236,192,https://www.signingsavvy.com/signs/mp4/4/4627.mp4,curse_0010_signingsavvy_14380.mp4,ok
+11,14381,aslu,5,1,train,25,1,-1,318,33,953,720,https://www.youtube.com/watch?v=E1QYrDPn1JM,curse_0011_aslu_14381.mp4,skipped_no_ytdlp

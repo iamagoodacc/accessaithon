@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52570,asl5200,9,0,train,25,5466,5498,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,smart_0000_asl5200_52570.mp4,skipped_no_ytdlp
+1,52578,signschool,4,0,train,25,1,-1,522,9,1526,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Smart%202-mVdm2Q_jG-o.mp4,smart_0001_signschool_52578.mp4,ok
+2,52579,signschool,6,0,train,25,1,-1,371,49,941,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Smart%202-rD4cIErV510.mp4,smart_0002_signschool_52579.mp4,ok
+3,52580,signschool,6,0,val,25,1,-1,492,78,1440,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Smart%203-2J9f2BsCXiI.mp4,smart_0003_signschool_52580.mp4,ok
+4,52581,signschool,4,0,train,25,1,-1,339,36,1542,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Smart-65Fz-7cQaTM.mp4,smart_0004_signschool_52581.mp4,ok
+6,52583,handspeak,20,0,train,25,1,-1,133,8,546,360,https://www.handspeak.com/word/s/smart.mp4,smart_0006_handspeak_52583.mp4,failed
+7,52584,signingsavvy,10,0,train,25,1,-1,52,12,209,192,https://www.signingsavvy.com/signs/mp4/23/23935.mp4,smart_0007_signingsavvy_52584.mp4,ok
+8,52575,spreadthesign,2,0,train,25,1,-1,64,7,237,240,https://media.spreadthesign.com/video/mp4/13/116917.mp4,smart_0008_spreadthesign_52575.mp4,ok
+9,67215,asllex,109,0,val,25,1,-1,86,17,373,360,https://youtu.be/Sv2xeeMVo7M,smart_0009_asllex_67215.mp4,skipped_no_ytdlp
+13,52588,aslpro,87,0,test,25,1,-1,39,18,214,240,http://www.aslpro.com/main/s/smart.swf,smart_0013_aslpro_52588.mp4,skipped_swf
+14,52589,aslsearch,12,0,test,25,1,-1,175,34,573,400,http://www.aslsearch.com/signs/videos/bright2.mp4,smart_0014_aslsearch_52589.mp4,ok
+15,52576,startasl,38,0,train,25,1,-1,377,57,819,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/smart.mp4,smart_0015_startasl_52576.mp4,ok

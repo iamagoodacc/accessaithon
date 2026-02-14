@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39031,asl5200,9,0,train,25,1872,1921,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,number_0000_asl5200_39031.mp4,skipped_no_ytdlp
+1,68117,valencia-asl,110,0,train,25,1,-1,211,0,629,480,https://www.youtube.com/watch?v=Ea1z2uh0j7k,number_0001_valencia-asl_68117.mp4,skipped_no_ytdlp
+2,68824,lillybauer,115,0,train,25,1,46,318,7,949,720,https://www.youtube.com/watch?v=q6ojk9P6_Os,number_0002_lillybauer_68824.mp4,skipped_no_ytdlp
+3,39032,signschool,39,0,val,25,1,-1,838,59,1788,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Number-ocqPQu_xQKY.mp4,number_0003_signschool_39032.mp4,ok
+4,39033,asldeafined,13,0,train,25,1,-1,92,0,543,480,https://media.asldeafined.com/vocabulary/1468720047.9303.mp4,number_0004_asldeafined_39033.mp4,ok
+5,39034,asldeafined,15,0,train,25,1,-1,138,19,512,480,https://media.asldeafined.com/vocabulary/1522767884.665.mp4,number_0005_asldeafined_39034.mp4,ok
+6,39035,handspeak,14,0,train,25,1,-1,41,1,294,240,https://www.handspeak.com/word/n/number.mp4,number_0006_handspeak_39035.mp4,failed
+7,39036,signingsavvy,11,0,train,25,1,-1,67,13,215,192,https://www.signingsavvy.com/signs/mp4/6/6182.mp4,number_0007_signingsavvy_39036.mp4,ok
+8,39037,aslu,5,0,val,25,1,-1,289,41,1020,720,https://www.youtube.com/watch?v=W4D47oIBZ5Y,number_0008_aslu_39037.mp4,skipped_no_ytdlp
+9,39038,aslu,5,0,test,25,1,-1,289,41,1020,720,https://www.youtube.com/watch?v=W4D47oIBZ5Y,number_0009_aslu_39038.mp4,skipped_no_ytdlp
+10,39039,aslpro,87,0,test,25,1,-1,1,4,238,240,http://www.aslpro.com/main/n/number.swf,number_0010_aslpro_39039.mp4,skipped_swf
+11,39040,aslsearch,12,0,train,25,1,-1,202,60,565,400,http://www.aslsearch.com/signs/videos/number.mp4,number_0011_aslsearch_39040.mp4,ok

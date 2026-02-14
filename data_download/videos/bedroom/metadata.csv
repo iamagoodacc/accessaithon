@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05651,asl5200,9,0,train,25,1506,1602,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bedroom_0000_asl5200_05651.mp4,skipped_no_ytdlp
+1,05658,aslu,5,0,train,25,1,-1,342,19,1002,720,https://www.youtube.com/watch?v=arBQREsWlUw,bedroom_0001_aslu_05658.mp4,skipped_no_ytdlp
+2,05659,nabboud,65,0,train,25,1,-1,299,82,860,720,https://www.youtube.com/watch?v=ErtdaCZ-5Ag,bedroom_0002_nabboud_05659.mp4,skipped_no_ytdlp
+3,05660,aslpro,24,0,val,25,1,-1,13,14,220,240,http://www.aslpro.com/main/b/bedroom.swf,bedroom_0003_aslpro_05660.mp4,skipped_swf
+4,65164,aslsignbank,90,0,train,25,1,-1,127,15,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEDROOM-2403.mp4,bedroom_0004_aslsignbank_65164.mp4,failed
+5,67401,asllex,109,0,train,25,1,-1,85,15,376,360,https://youtu.be/U_GBuZuCOkY,bedroom_0005_asllex_67401.mp4,skipped_no_ytdlp
+6,05661,aslsearch,12,0,train,25,1,-1,173,51,534,400,http://www.aslsearch.com/signs/videos/bedroom.mp4,bedroom_0006_aslsearch_05661.mp4,ok
+7,05652,spreadthesign,26,0,train,25,1,-1,39,12,287,240,https://media.spreadthesign.com/video/mp4/13/123630.mp4,bedroom_0007_spreadthesign_05652.mp4,ok
+8,05653,startasl,38,0,val,25,1,-1,388,55,815,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bedroom.mp4,bedroom_0008_startasl_05653.mp4,ok
+9,05654,asldeafined,13,0,test,25,1,-1,78,23,562,480,https://media.asldeafined.com/vocabulary/1466681170.9007.mp4,bedroom_0009_asldeafined_05654.mp4,ok
+10,05655,handspeak,20,0,test,25,1,-1,123,14,541,480,https://www.handspeak.com/word/b/bedroom.mp4,bedroom_0010_handspeak_05655.mp4,failed
+11,05656,signingsavvy,10,0,train,25,1,-1,75,19,215,192,https://www.signingsavvy.com/signs/mp4/22/22171.mp4,bedroom_0011_signingsavvy_05656.mp4,ok

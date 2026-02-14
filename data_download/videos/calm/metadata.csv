@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08739,asl5200,9,0,test,25,366,425,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,calm_0000_asl5200_08739.mp4,skipped_no_ytdlp
+2,08754,aslpro,25,0,train,25,1,-1,4,9,247,240,http://www.aslpro.com/main/c/calm.swf,calm_0002_aslpro_08754.mp4,skipped_swf
+3,08745,spreadthesign,26,0,train,25,1,-1,49,0,263,240,https://media.spreadthesign.com/video/mp4/13/125717.mp4,calm_0003_spreadthesign_08745.mp4,ok
+4,08755,aslsearch,12,0,val,25,1,-1,139,52,579,400,http://www.aslsearch.com/signs/videos/calm.mp4,calm_0004_aslsearch_08755.mp4,ok
+5,08746,spreadthesign,56,0,train,25,1,-1,22,0,305,240,https://media.spreadthesign.com/video/mp4/13/51286.mp4,calm_0005_spreadthesign_08746.mp4,ok
+6,08747,signschool,4,0,test,25,1,-1,604,26,1785,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Calm-n8DJRIDrF1I.mp4,calm_0006_signschool_08747.mp4,ok
+7,08748,signschool,4,0,train,25,1,-1,338,57,1782,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Chilling-GGia-_aStrg.mp4,calm_0007_signschool_08748.mp4,ok
+8,08749,asldeafined,59,0,train,25,1,-1,64,17,586,480,https://media.asldeafined.com/vocabulary/1466726142.3586.mp4,calm_0008_asldeafined_08749.mp4,ok
+9,08750,handspeak,20,0,train,25,1,-1,58,0,583,480,https://www.handspeak.com/word/c/calm-down.mp4,calm_0009_handspeak_08750.mp4,failed
+10,08751,handspeak,20,0,train,25,1,-1,85,2,545,480,https://www.handspeak.com/word/c/calm.mp4,calm_0010_handspeak_08751.mp4,failed
+11,08752,signingsavvy,10,0,val,25,1,-1,81,22,230,192,https://www.signingsavvy.com/signs/mp4/23/23512.mp4,calm_0011_signingsavvy_08752.mp4,ok

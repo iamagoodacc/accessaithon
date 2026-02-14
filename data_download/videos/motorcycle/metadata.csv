@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36991,asl5200,9,0,val,25,2240,2296,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,motorcycle_0000_asl5200_36991.mp4,skipped_no_ytdlp
+1,69096,lillybauer,115,0,train,25,1,69,240,11,997,720,https://www.youtube.com/watch?v=Z_ZYNdaukYU,motorcycle_0001_lillybauer_69096.mp4,skipped_no_ytdlp
+2,36999,aslu,5,0,train,25,1,-1,279,52,988,720,https://www.youtube.com/watch?v=suzyI59Ryh0,motorcycle_0002_aslu_36999.mp4,skipped_no_ytdlp
+3,37000,aslpro,72,0,train,25,1,-1,0,7,248,240,http://www.aslpro.com/main/m/motorcycle.swf,motorcycle_0003_aslpro_37000.mp4,skipped_swf
+4,67909,asllex,109,0,train,25,1,-1,47,22,420,360,https://youtu.be/wSKjMtnrH7s,motorcycle_0004_asllex_67909.mp4,skipped_no_ytdlp
+5,37001,aslsearch,12,0,train,25,1,-1,153,53,577,400,http://www.aslsearch.com/signs/videos/motorcycle.mp4,motorcycle_0005_aslsearch_37001.mp4,ok
+6,36992,spreadthesign,56,0,train,25,1,-1,17,0,288,240,https://media.spreadthesign.com/video/mp4/13/48603.mp4,motorcycle_0006_spreadthesign_36992.mp4,ok
+7,36993,startasl,36,0,train,25,1,-1,200,16,561,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/motorcycle.mp4,motorcycle_0007_startasl_36993.mp4,ok
+8,36994,signschool,32,0,train,25,1,-1,554,77,1873,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Motorcycle-0YvI81wx1hI.mp4,motorcycle_0008_signschool_36994.mp4,ok
+9,36995,signschool,6,0,test,25,1,-1,497,97,1394,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Motorcycle-LU56SUzihHc.mp4,motorcycle_0009_signschool_36995.mp4,ok
+10,36996,asldeafined,13,0,train,25,1,-1,87,0,580,480,https://media.asldeafined.com/vocabulary/1468716840.5997.mp4,motorcycle_0010_asldeafined_36996.mp4,ok
+11,36997,handspeak,86,0,test,25,1,-1,36,18,278,240,https://www.handspeak.com/word/m/motorcycle.mp4,motorcycle_0011_handspeak_36997.mp4,failed
+12,36998,signingsavvy,11,0,val,25,1,-1,58,17,224,192,https://www.signingsavvy.com/signs/mp4/8/8971.mp4,motorcycle_0012_signingsavvy_36998.mp4,ok

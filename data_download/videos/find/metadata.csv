@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,69323,aslbrick,115,0,val,25,1,-1,480,69,1350,1080,http://aslbricks.org/New/ASL-Videos/find.mp4,find_0001_aslbrick_69323.mp4,ok
+2,68896,lillybauer,112,0,train,25,1,49,329,14,924,720,https://www.youtube.com/watch?v=SYnyKXh4O7w,find_0002_lillybauer_68896.mp4,skipped_no_ytdlp
+3,70134,northtexas,121,0,train,25,2013,2137,126,29,487,480,https://www.youtube.com/watch?v=VwejDy96MzM,find_0003_northtexas_70134.mp4,skipped_no_ytdlp
+5,21858,signingsavvy,11,0,train,25,1,-1,79,10,213,192,https://www.signingsavvy.com/signs/mp4/6/6103.mp4,find_0005_signingsavvy_21858.mp4,ok
+6,21859,signingsavvy,11,0,train,25,1,-1,68,12,210,192,https://www.signingsavvy.com/signs/mp4/9/9553.mp4,find_0006_signingsavvy_21859.mp4,ok
+7,21860,aslu,5,0,train,25,1,-1,330,49,889,720,https://www.youtube.com/watch?v=2O5wVw-rlIs,find_0007_aslu_21860.mp4,skipped_no_ytdlp
+8,67658,asllex,109,0,train,25,1,-1,93,12,376,360,https://youtu.be/iLvmhE7joFg,find_0008_asllex_67658.mp4,skipped_no_ytdlp
+11,21863,aslsearch,12,0,train,25,1,-1,187,52,572,400,http://www.aslsearch.com/signs/videos/pick.mp4,find_0011_aslsearch_21863.mp4,ok
+12,21852,spreadthesign,56,0,train,25,1,-1,30,0,276,240,https://media.spreadthesign.com/video/mp4/13/51748.mp4,find_0012_spreadthesign_21852.mp4,ok
+13,21853,startasl,38,0,test,25,1,-1,386,53,801,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/find.mp4,find_0013_startasl_21853.mp4,ok
+14,21854,signschool,6,0,train,25,1,-1,682,49,1489,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Discover%2C%20Find%2C%20Pick-jylo-mwwAFQ.mp4,find_0014_signschool_21854.mp4,ok
+15,21855,asldeafined,21,0,test,25,1,-1,112,9,555,480,https://media.asldeafined.com/vocabulary/1468494259.5412.mp4,find_0015_asldeafined_21855.mp4,ok
+16,21856,handspeak,14,0,val,25,1,-1,55,12,259,240,https://www.handspeak.com/word/f/find.mp4,find_0016_handspeak_21856.mp4,failed

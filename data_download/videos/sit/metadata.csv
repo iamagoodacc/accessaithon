@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51901,asl5200,9,0,val,25,4545,4581,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sit_0000_asl5200_51901.mp4,skipped_no_ytdlp
+1,68570,lillybauer,115,0,train,25,1,51,327,3,919,720,https://www.youtube.com/watch?v=Istz0vV8vcY,sit_0001_lillybauer_68570.mp4,skipped_no_ytdlp
+4,51924,aslu,5,0,train,25,1,-1,315,40,992,720,https://www.youtube.com/watch?v=uFdEgFN1Bpw,sit_0004_aslu_51924.mp4,skipped_no_ytdlp
+5,51925,aslu,5,0,train,25,1,-1,315,40,992,720,https://www.youtube.com/watch?v=uFdEgFN1Bpw,sit_0005_aslu_51925.mp4,skipped_no_ytdlp
+6,51916,startasl,38,0,train,25,1,-1,411,54,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sit.mp4,sit_0006_startasl_51916.mp4,ok
+7,67207,asllex,109,0,train,25,1,-1,84,19,384,360,https://youtu.be/rhObKAoNkuc,sit_0007_asllex_67207.mp4,skipped_no_ytdlp
+8,51926,aslpro,87,0,train,25,1,-1,11,1,227,240,http://www.aslpro.com/main/s/sit.swf,sit_0008_aslpro_51926.mp4,skipped_swf
+9,51927,aslsearch,12,0,train,25,1,-1,216,51,568,400,http://www.aslsearch.com/signs/videos/seat.mp4,sit_0009_aslsearch_51927.mp4,ok
+10,51917,signschool,31,0,train,25,1,-1,670,139,1495,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sat%20Down-boI0CxQNQrc.mp4,sit_0010_signschool_51917.mp4,ok
+11,51918,signschool,60,0,test,25,1,-1,347,21,804,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20sit-qpORQ6e0WVY.mp4,sit_0011_signschool_51918.mp4,ok
+12,51919,asldeafined,13,0,train,25,1,-1,109,0,578,480,https://media.asldeafined.com/vocabulary/1468767408.4955.mp4,sit_0012_asldeafined_51919.mp4,ok
+13,51920,handspeak,14,0,test,25,1,-1,54,0,317,240,https://www.handspeak.com/word/s/sit.mp4,sit_0013_handspeak_51920.mp4,failed
+14,51921,signingsavvy,11,0,val,25,1,-1,79,15,235,192,https://www.signingsavvy.com/signs/mp4/7/7822.mp4,sit_0014_signingsavvy_51921.mp4,ok

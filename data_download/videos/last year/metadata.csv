@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32281,asl5200,9,0,val,25,288,334,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,last year_0000_asl5200_32281.mp4,skipped_no_ytdlp
+1,32287,aslu,5,0,train,25,1,-1,353,49,913,720,https://www.youtube.com/watch?v=AsnNnkVJOKI,last year_0001_aslu_32287.mp4,skipped_no_ytdlp
+2,32288,aslu,5,0,train,25,1,-1,374,35,957,720,https://www.youtube.com/watch?v=BMqQ832P4t4,last year_0002_aslu_32288.mp4,skipped_no_ytdlp
+3,32289,aslu,5,0,train,25,1,-1,400,33,981,720,https://www.youtube.com/watch?v=KgsMpawi8GU,last year_0003_aslu_32289.mp4,skipped_no_ytdlp
+4,32290,aslu,5,0,train,25,1,-1,378,32,968,720,https://www.youtube.com/watch?v=mVVDvxDau7o,last year_0004_aslu_32290.mp4,skipped_no_ytdlp
+5,66012,aslsignbank,97,0,train,25,1,-1,173,30,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAST-YEAR-1543.mp4,last year_0005_aslsignbank_66012.mp4,failed
+6,32291,aslu,5,0,train,25,1,-1,374,28,970,720,https://www.youtube.com/watch?v=r-ebTdkgpEQ,last year_0006_aslu_32291.mp4,skipped_no_ytdlp
+8,32293,aslsearch,12,0,train,25,1,-1,201,69,561,400,http://www.aslsearch.com/signs/videos/last-year.mp4,last year_0008_aslsearch_32293.mp4,ok
+9,32282,spreadthesign,37,0,train,25,1,-1,76,3,240,240,https://media.spreadthesign.com/video/mp4/13/457493.mp4,last year_0009_spreadthesign_32282.mp4,ok
+10,32283,spreadthesign,8,0,test,25,1,-1,72,2,238,240,https://media.spreadthesign.com/video/mp4/13/457494.mp4,last year_0010_spreadthesign_32283.mp4,ok
+11,32284,signschool,31,0,train,25,1,-1,717,151,1437,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Last%20Year%2C%20One%20Year%20Ago-YxJucxCTmB8.mp4,last year_0011_signschool_32284.mp4,ok
+12,32285,asldeafined,13,0,test,25,1,-1,124,27,521,480,https://media.asldeafined.com/vocabulary/1465958028.9198.mp4,last year_0012_asldeafined_32285.mp4,ok
+13,32286,handspeak,20,0,val,25,1,-1,96,0,532,480,https://www.handspeak.com/word/l/last-year.mp4,last year_0013_handspeak_32286.mp4,failed

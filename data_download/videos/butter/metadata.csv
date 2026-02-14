@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08439,asl5200,9,0,test,25,5253,5305,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,butter_0000_asl5200_08439.mp4,skipped_no_ytdlp
+1,08455,aslsearch,41,0,train,25,1,-1,232,39,492,400,http://www.aslsearch.com/signs/videos/butter.mp4,butter_0001_aslsearch_08455.mp4,ok
+2,65279,aslsignbank,89,0,train,25,1,-1,206,39,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BU/BUTTER-2144.mp4,butter_0002_aslsignbank_65279.mp4,failed
+3,08448,spreadthesign,0,0,val,25,1,-1,69,5,259,240,https://media.spreadthesign.com/video/mp4/13/74896.mp4,butter_0003_spreadthesign_08448.mp4,ok
+4,67452,asllex,109,0,train,25,1,-1,129,21,377,360,https://youtu.be/CFv4VdDh0SY,butter_0004_asllex_67452.mp4,skipped_no_ytdlp
+5,08449,startasl,38,0,test,25,1,-1,425,59,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/butter.mp4,butter_0005_startasl_08449.mp4,ok
+6,08450,asldeafined,59,0,train,25,1,-1,89,28,512,480,https://media.asldeafined.com/vocabulary/1466725528.7542.mp4,butter_0006_asldeafined_08450.mp4,ok
+7,08451,handspeak,20,0,train,25,1,-1,73,0,570,480,https://www.handspeak.com/word/b/butter.mp4,butter_0007_handspeak_08451.mp4,failed
+8,08452,signingsavvy,11,0,train,25,1,-1,92,14,222,192,https://www.signingsavvy.com/signs/mp4/7/7904.mp4,butter_0008_signingsavvy_08452.mp4,ok
+9,08453,aslu,5,0,train,25,1,-1,370,68,952,720,https://www.youtube.com/watch?v=TOwQoI_oDq8,butter_0009_aslu_08453.mp4,skipped_no_ytdlp
+10,08454,aslpro,49,0,val,25,1,-1,29,8,229,240,http://www.aslpro.com/main/b/butter.swf,butter_0010_aslpro_08454.mp4,skipped_swf

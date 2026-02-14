@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66067,aslsignbank,90,0,train,25,1,-1,189,15,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIE-847.mp4,lie_0000_aslsignbank_66067.mp4,failed
+1,33114,startasl,38,0,train,25,1,-1,428,57,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/lie.mp4,lie_0001_startasl_33114.mp4,ok
+2,33115,signschool,4,0,train,25,1,-1,607,77,1560,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lie-6BW95IqfjnA.mp4,lie_0002_signschool_33115.mp4,ok
+3,33116,asldeafined,13,0,val,25,1,-1,158,0,525,480,https://media.asldeafined.com/vocabulary/1468711469.6237.mp4,lie_0003_asldeafined_33116.mp4,ok
+7,33120,signingsavvy,11,0,train,25,1,-1,71,6,216,192,https://www.signingsavvy.com/signs/mp4/6/6064.mp4,lie_0007_signingsavvy_33120.mp4,ok
+8,33121,signingsavvy,11,0,train,25,1,-1,73,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6194.mp4,lie_0008_signingsavvy_33121.mp4,ok
+9,33122,aslu,5,0,train,25,1,-1,337,52,985,720,https://www.youtube.com/watch?v=G9p7iePeqpE,lie_0009_aslu_33122.mp4,skipped_no_ytdlp
+11,67844,asllex,109,0,train,25,1,-1,100,12,373,360,https://youtu.be/AyMVC40SR0M,lie_0011_asllex_67844.mp4,skipped_no_ytdlp
+13,33124,aslu,5,0,val,25,1,-1,343,54,955,720,https://www.youtube.com/watch?v=NmhXdx3epK8,lie_0013_aslu_33124.mp4,skipped_no_ytdlp
+14,33125,aslu,5,0,test,25,1,-1,318,55,884,720,https://www.youtube.com/watch?v=XkSY0TdkQdM,lie_0014_aslu_33125.mp4,skipped_no_ytdlp
+15,33126,aslpro,25,0,test,25,1,-1,0,7,244,240,http://www.aslpro.com/main/l/lie_fib.swf,lie_0015_aslpro_33126.mp4,skipped_swf
+17,33128,aslsearch,12,0,train,25,1,-1,179,55,537,400,http://www.aslsearch.com/signs/videos/lie2.mp4,lie_0017_aslsearch_33128.mp4,ok

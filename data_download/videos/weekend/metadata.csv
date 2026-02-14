@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62729,asl5200,9,0,val,25,1381,1430,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,weekend_0000_asl5200_62729.mp4,skipped_no_ytdlp
+1,70377,northtexas,121,0,train,25,4588,4669,137,12,487,480,https://www.youtube.com/watch?v=Z25ng9maolE,weekend_0001_northtexas_70377.mp4,skipped_no_ytdlp
+2,62737,aslu,5,0,train,25,1,-1,368,36,968,720,https://www.youtube.com/watch?v=o0D-dVMQr1E,weekend_0002_aslu_62737.mp4,skipped_no_ytdlp
+3,62738,aslsearch,12,0,train,25,1,-1,203,55,569,400,http://www.aslsearch.com/signs/videos/weekend.mp4,weekend_0003_aslsearch_62738.mp4,ok
+4,66761,aslsignbank,100,0,train,25,1,-1,202,28,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEEKEND-1419.mp4,weekend_0004_aslsignbank_66761.mp4,failed
+5,66760,aslsignbank,93,0,train,25,1,-1,193,32,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEEKEND-817.mp4,weekend_0005_aslsignbank_66760.mp4,failed
+6,62730,spreadthesign,56,0,train,25,1,-1,31,0,280,240,https://media.spreadthesign.com/video/mp4/13/50955.mp4,weekend_0006_spreadthesign_62730.mp4,ok
+7,62731,signschool,45,0,train,25,1,-1,677,137,1498,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weekend%2C%20Week%20End-Wr2p1G8GWBc.mp4,weekend_0007_signschool_62731.mp4,ok
+8,62732,signschool,46,0,train,25,1,-1,196,11,1261,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weekend-ejkUp4ijJQo.mp4,weekend_0008_signschool_62732.mp4,ok
+9,62733,signschool,45,0,test,25,1,-1,610,137,1628,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weekend-pAHdWC05cKc.mp4,weekend_0009_signschool_62733.mp4,ok
+10,62734,asldeafined,13,0,train,25,1,-1,98,0,552,480,https://media.asldeafined.com/vocabulary/1468927642.2297.mp4,weekend_0010_asldeafined_62734.mp4,ok
+11,62735,handspeak,14,0,test,25,1,-1,47,0,525,480,https://www.handspeak.com/word/w/weekend.mp4,weekend_0011_handspeak_62735.mp4,failed
+12,62736,signingsavvy,11,0,val,25,1,-1,71,17,220,192,https://www.signingsavvy.com/signs/mp4/6/6766.mp4,weekend_0012_signingsavvy_62736.mp4,ok

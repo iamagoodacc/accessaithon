@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12870,asl5200,9,0,train,25,5600,5632,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,contact_0000_asl5200_12870.mp4,skipped_no_ytdlp
+1,12878,aslpro,25,0,train,25,1,-1,8,10,249,240,http://www.aslpro.com/main/c/contact.swf,contact_0001_aslpro_12878.mp4,skipped_swf
+2,12879,aslsearch,12,0,train,25,1,-1,205,59,566,400,http://www.aslsearch.com/signs/videos/contact.mp4,contact_0002_aslsearch_12879.mp4,ok
+3,65399,aslsignbank,102,0,val,25,1,-1,179,19,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONTACT-1137.mp4,contact_0003_aslsignbank_65399.mp4,failed
+4,67524,asllex,109,0,train,25,1,-1,90,21,373,360,https://youtu.be/ZL0TN3UN4nA,contact_0004_asllex_67524.mp4,skipped_no_ytdlp
+5,12871,spreadthesign,37,0,train,25,1,-1,22,0,300,240,https://media.spreadthesign.com/video/mp4/13/186342.mp4,contact_0005_spreadthesign_12871.mp4,ok
+6,12872,spreadthesign,0,0,train,25,1,-1,50,0,256,240,https://media.spreadthesign.com/video/mp4/13/63603.mp4,contact_0006_spreadthesign_12872.mp4,ok
+7,12873,signschool,6,0,train,25,1,-1,659,39,1510,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Have%20Been%20In%20Touch-yU-Wo9G0LWc.mp4,contact_0007_signschool_12873.mp4,ok
+8,12874,asldeafined,59,0,val,25,1,-1,111,22,529,480,https://media.asldeafined.com/vocabulary/1466902523.5535.mp4,contact_0008_asldeafined_12874.mp4,ok
+9,12875,handspeak,20,0,test,25,1,-1,62,11,265,240,https://www.handspeak.com/word/c/contact.mp4,contact_0009_handspeak_12875.mp4,failed
+10,12876,signingsavvy,10,0,test,25,1,-1,99,20,206,192,https://www.signingsavvy.com/signs/mp4/22/22600.mp4,contact_0010_signingsavvy_12876.mp4,ok
+11,12877,signingsavvy,10,0,train,25,1,-1,91,17,211,192,https://www.signingsavvy.com/signs/mp4/22/22601.mp4,contact_0011_signingsavvy_12877.mp4,ok

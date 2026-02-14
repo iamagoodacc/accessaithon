@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65139,aslsignbank,89,0,train,25,1,-1,196,37,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BARK-2090.mp4,bark_0000_aslsignbank_65139.mp4,failed
+1,05111,handspeak,20,0,train,25,1,-1,120,2,504,480,https://www.handspeak.com/word/b/bark.mp4,bark_0001_handspeak_05111.mp4,failed
+3,05113,signingsavvy,10,0,train,25,1,-1,74,16,203,192,https://www.signingsavvy.com/signs/mp4/24/24316.mp4,bark_0003_signingsavvy_05113.mp4,ok
+4,05114,signingsavvy,10,0,val,25,1,-1,79,18,208,192,https://www.signingsavvy.com/signs/mp4/24/24317.mp4,bark_0004_signingsavvy_05114.mp4,ok
+5,05115,aslu,5,0,train,25,1,-1,312,19,958,720,https://www.youtube.com/watch?v=lQnoGWcI1qg,bark_0005_aslu_05115.mp4,skipped_no_ytdlp
+7,05116,aslu,5,0,train,25,1,-1,309,59,889,720,https://www.youtube.com/watch?v=oRfxCPbYwrY,bark_0007_aslu_05116.mp4,skipped_no_ytdlp
+8,05117,aslpro,25,0,train,25,1,-1,6,9,244,240,http://www.aslpro.com/main/b/bark.swf,bark_0008_aslpro_05117.mp4,skipped_swf
+9,05118,aslsearch,12,0,train,25,1,-1,182,53,559,400,http://www.aslsearch.com/signs/videos/bark.mp4,bark_0009_aslsearch_05118.mp4,ok
+11,05107,startasl,38,0,val,25,1,-1,405,59,816,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bark.mp4,bark_0011_startasl_05107.mp4,ok
+12,05108,signschool,4,0,test,25,1,-1,721,16,1920,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bark%202-ugi94y6ohnI.mp4,bark_0012_signschool_05108.mp4,ok
+13,05109,signschool,4,0,test,25,1,-1,581,49,1629,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bark-aQXLKNiBPSM.mp4,bark_0013_signschool_05109.mp4,ok
+14,05110,asldeafined,13,0,train,25,1,-1,66,25,523,480,https://media.asldeafined.com/vocabulary/1466649218.3529.mp4,bark_0014_asldeafined_05110.mp4,ok

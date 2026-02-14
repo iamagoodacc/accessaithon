@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39846,asl5200,9,0,val,25,818,887,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,onion_0000_asl5200_39846.mp4,skipped_no_ytdlp
+1,39853,signingsavvy,11,0,train,25,1,-1,59,16,229,192,https://www.signingsavvy.com/signs/mp4/8/8081.mp4,onion_0001_signingsavvy_39853.mp4,ok
+2,39854,signingsavvy,11,0,train,25,1,-1,64,15,227,192,https://www.signingsavvy.com/signs/mp4/8/8082.mp4,onion_0002_signingsavvy_39854.mp4,ok
+3,39855,aslu,5,0,train,25,1,-1,238,59,922,720,https://www.youtube.com/watch?v=Ijbgu7nxdAc,onion_0003_aslu_39855.mp4,skipped_no_ytdlp
+4,67946,asllex,109,0,train,25,1,-1,58,20,382,360,https://youtu.be/jhEkf11iUI4,onion_0004_asllex_67946.mp4,skipped_no_ytdlp
+5,39856,aslpro,87,0,train,25,1,-1,0,7,225,240,http://www.aslpro.com/main/o/onion.swf,onion_0005_aslpro_39856.mp4,skipped_swf
+6,39857,aslsearch,12,0,train,25,1,-1,158,63,580,400,http://www.aslsearch.com/signs/videos/onion.mp4,onion_0006_aslsearch_39857.mp4,ok
+7,39847,spreadthesign,2,0,train,25,1,-1,21,32,238,240,https://media.spreadthesign.com/video/mp4/13/91532.mp4,onion_0007_spreadthesign_39847.mp4,ok
+8,39848,startasl,38,0,train,25,1,-1,389,61,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/onion.mp4,onion_0008_startasl_39848.mp4,ok
+9,39849,signschool,45,0,test,25,1,-1,491,135,1467,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Onion-N7uylRlFIWc.mp4,onion_0009_signschool_39849.mp4,ok
+10,39850,signschool,31,0,train,25,1,-1,482,66,1220,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Onion.mp4,onion_0010_signschool_39850.mp4,ok
+11,39851,asldeafined,13,0,test,25,1,-1,56,0,498,480,https://media.asldeafined.com/vocabulary/1468721992.3631.mp4,onion_0011_asldeafined_39851.mp4,ok
+12,39852,handspeak,20,0,val,25,1,-1,6,0,285,240,https://www.handspeak.com/word/o/onion.mp4,onion_0012_handspeak_39852.mp4,failed

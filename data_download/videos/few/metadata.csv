@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21548,asl5200,9,0,train,25,1176,1218,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,few_0000_asl5200_21548.mp4,skipped_no_ytdlp
+1,21557,signingsavvy,11,0,train,25,1,-1,83,17,231,192,https://www.signingsavvy.com/signs/mp4/7/7948.mp4,few_0001_signingsavvy_21557.mp4,ok
+2,21558,aslu,5,0,train,25,1,-1,362,19,932,720,https://www.youtube.com/watch?v=1NajyFDqZho,few_0002_aslu_21558.mp4,skipped_no_ytdlp
+3,21559,aslu,5,0,val,25,1,-1,353,47,897,720,https://www.youtube.com/watch?v=jU6JOj4UucI,few_0003_aslu_21559.mp4,skipped_no_ytdlp
+5,21551,spreadthesign,37,0,train,25,1,-1,51,0,246,240,https://media.spreadthesign.com/video/mp4/13/455646.mp4,few_0005_spreadthesign_21551.mp4,ok
+6,67652,asllex,109,0,train,25,1,-1,101,23,383,360,https://youtu.be/K5j_WJsthY0,few_0006_asllex_67652.mp4,skipped_no_ytdlp
+7,21561,nabboud,7,0,train,25,1,-1,397,81,911,720,https://www.youtube.com/watch?v=zMk164bbc24,few_0007_nabboud_21561.mp4,skipped_no_ytdlp
+8,21562,aslpro,83,0,train,25,1,-1,23,21,201,240,http://www.aslpro.com/main/f/few.swf,few_0008_aslpro_21562.mp4,skipped_swf
+9,21563,aslsearch,41,0,val,25,1,-1,214,39,467,400,http://www.aslsearch.com/signs/videos/few.mp4,few_0009_aslsearch_21563.mp4,ok
+10,21552,startasl,38,0,test,25,1,-1,426,54,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/few.mp4,few_0010_startasl_21552.mp4,ok
+12,21554,asldeafined,21,0,test,25,1,-1,101,7,549,480,https://media.asldeafined.com/vocabulary/1468493277.1784.mp4,few_0012_asldeafined_21554.mp4,ok
+13,21555,handspeak,20,0,train,25,1,-1,123,0,549,480,https://www.handspeak.com/word/f/few.mp4,few_0013_handspeak_21555.mp4,failed

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29064,asl5200,9,0,val,25,425,467,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,important_0000_asl5200_29064.mp4,skipped_no_ytdlp
+1,69376,aslbrick,115,0,train,25,1,-1,309,30,1090,720,http://aslbricks.org/New/ASL-Videos/important.mp4,important_0001_aslbrick_69376.mp4,ok
+2,29068,signschool,4,0,train,25,1,-1,539,62,1664,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Important-X2E3j_lpSGo.mp4,important_0002_signschool_29068.mp4,ok
+3,65926,aslsignbank,99,0,train,25,1,-1,167,23,516,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IM/IMPORTANT-1746.mp4,important_0003_aslsignbank_65926.mp4,failed
+4,67786,asllex,109,0,train,25,1,-1,61,11,442,360,https://youtu.be/rRDXUWWZ1DM,important_0004_asllex_67786.mp4,skipped_no_ytdlp
+5,29065,spreadthesign,0,0,train,25,1,-1,44,1,278,240,https://media.spreadthesign.com/video/mp4/13/58531.mp4,important_0005_spreadthesign_29065.mp4,ok
+6,29069,asldeafined,21,0,train,25,1,-1,3,12,581,480,https://media.asldeafined.com/vocabulary/1468665505.46.mp4,important_0006_asldeafined_29069.mp4,ok
+7,29066,startasl,38,0,train,25,1,-1,307,63,935,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/important.mp4,important_0007_startasl_29066.mp4,ok
+8,29070,handspeak,14,0,train,25,1,-1,62,14,258,240,https://www.handspeak.com/word/i/important.mp4,important_0008_handspeak_29070.mp4,failed
+9,29071,signingsavvy,11,0,test,25,1,-1,61,14,225,192,https://www.signingsavvy.com/signs/mp4/7/7207.mp4,important_0009_signingsavvy_29071.mp4,ok
+10,29072,aslu,5,0,train,25,1,-1,171,11,495,360,https://www.youtube.com/watch?v=2NEoRZDobDs,important_0010_aslu_29072.mp4,skipped_no_ytdlp
+11,29073,aslpro,30,0,test,25,1,-1,0,9,244,240,http://www.aslpro.com/main/i/important.swf,important_0011_aslpro_29073.mp4,skipped_swf
+12,29074,aslsearch,12,0,val,25,1,-1,188,55,573,400,http://www.aslsearch.com/signs/videos/important.mp4,important_0012_aslsearch_29074.mp4,ok

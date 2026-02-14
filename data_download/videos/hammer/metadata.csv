@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26312,asl5200,9,0,train,25,355,421,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hammer_0000_asl5200_26312.mp4,skipped_no_ytdlp
+1,26315,asldeafined,21,0,train,25,1,-1,123,17,653,540,https://media.asldeafined.com/vocabulary/1546369136.2843.mp4,hammer_0001_asldeafined_26315.mp4,ok
+2,26316,handspeak,20,0,train,25,1,-1,49,13,269,240,https://www.handspeak.com/word/h/hammer.mp4,hammer_0002_handspeak_26316.mp4,failed
+3,26317,signingsavvy,10,0,val,25,1,-1,51,18,222,192,https://www.signingsavvy.com/signs/mp4/23/23493.mp4,hammer_0003_signingsavvy_26317.mp4,ok
+4,26318,aslu,5,0,train,25,1,-1,302,36,925,716,https://www.youtube.com/watch?v=Txc84neZsh8,hammer_0004_aslu_26318.mp4,skipped_no_ytdlp
+7,26321,aslpro,25,0,train,25,1,-1,0,10,231,240,http://www.aslpro.com/main/h/hammer.swf,hammer_0007_aslpro_26321.mp4,skipped_swf
+8,65875,aslsignbank,91,0,train,25,1,-1,197,36,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HA/HAMMER-1996.mp4,hammer_0008_aslsignbank_65875.mp4,failed
+9,67741,asllex,109,0,train,25,1,-1,92,23,380,360,https://youtu.be/lG4JGaCQl_c,hammer_0009_asllex_67741.mp4,skipped_no_ytdlp
+11,26323,aslpro,44,0,val,25,1,-1,1,4,230,240,http://www.aslpro.com/main/h/hammer_verb.swf,hammer_0011_aslpro_26323.mp4,skipped_swf
+14,26326,aslsearch,12,0,test,25,1,-1,166,52,563,400,http://www.aslsearch.com/signs/videos/hammer.mp4,hammer_0014_aslsearch_26326.mp4,ok
+15,26313,spreadthesign,37,0,test,25,1,-1,49,5,248,240,https://media.spreadthesign.com/video/mp4/13/456546.mp4,hammer_0015_spreadthesign_26313.mp4,ok
+16,26314,startasl,38,0,train,25,1,-1,372,57,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hammer.mp4,hammer_0016_startasl_26314.mp4,ok

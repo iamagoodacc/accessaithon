@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53543,asl5200,9,0,train,25,7078,7137,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,spain_0000_asl5200_53543.mp4,skipped_no_ytdlp
+1,53551,handspeak,14,0,test,25,1,-1,48,0,582,480,https://www.handspeak.com/word/s/spain.mp4,spain_0001_handspeak_53551.mp4,failed
+2,53552,signingsavvy,10,0,val,25,1,-1,79,21,220,192,https://www.signingsavvy.com/signs/mp4/23/23050.mp4,spain_0002_signingsavvy_53552.mp4,ok
+3,53553,aslu,5,1,test,25,1,-1,335,45,939,720,https://www.youtube.com/watch?v=49DcLBhm_Lk,spain_0003_aslu_53553.mp4,skipped_no_ytdlp
+4,53554,aslu,5,1,val,25,1,-1,350,52,951,720,https://www.youtube.com/watch?v=Cph1Vk3lFXk,spain_0004_aslu_53554.mp4,skipped_no_ytdlp
+5,53555,aslpro,25,0,train,25,1,-1,0,7,251,240,http://www.aslpro.com/main/s/spain.swf,spain_0005_aslpro_53555.mp4,skipped_swf
+6,53544,spreadthesign,37,1,train,25,1,-1,67,0,244,240,https://media.spreadthesign.com/video/mp4/13/455374.mp4,spain_0006_spreadthesign_53544.mp4,ok
+7,53545,signschool,6,1,train,25,1,-1,632,56,1480,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Spain-03hxrnb--4E.mp4,spain_0007_signschool_53545.mp4,ok
+8,53546,signschool,45,1,train,25,1,-1,533,99,1418,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Spain%2C%20Sephardic%202-Jk8OmBIYZLA.mp4,spain_0008_signschool_53546.mp4,ok
+9,53547,signschool,45,1,train,25,1,-1,581,102,1422,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Spain%2C%20Sephardic-o_Qs0qUiJN8.mp4,spain_0009_signschool_53547.mp4,ok
+10,53548,asldeafined,13,0,train,25,1,-1,86,0,551,480,https://media.asldeafined.com/vocabulary/1468842197.4393.mp4,spain_0010_asldeafined_53548.mp4,ok
+11,53549,handspeak,14,1,train,25,1,-1,140,0,572,480,https://www.handspeak.com/word/s/spain-es.mp4,spain_0011_handspeak_53549.mp4,failed

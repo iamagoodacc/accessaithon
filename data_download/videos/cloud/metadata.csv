@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11356,asl5200,9,0,train,25,3998,4047,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cloud_0000_asl5200_11356.mp4,skipped_no_ytdlp
+1,11364,signingsavvy,11,1,test,25,1,-1,51,0,236,192,https://www.signingsavvy.com/signs/mp4/5/5554.mp4,cloud_0001_signingsavvy_11364.mp4,ok
+2,11365,aslsearch,12,1,val,25,1,-1,132,33,560,400,http://www.aslsearch.com/signs/videos/clouds.mp4,cloud_0002_aslsearch_11365.mp4,ok
+3,67506,asllex,109,0,test,25,1,-1,39,2,445,360,https://youtu.be/dHkSlCpVntU,cloud_0003_asllex_67506.mp4,skipped_no_ytdlp
+4,67505,asllex,109,0,val,25,1,-1,57,0,492,360,https://youtu.be/FrYXL72nqm8,cloud_0004_asllex_67505.mp4,skipped_no_ytdlp
+5,11357,elementalasl,19,1,train,25,1,-1,59,2,236,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/cloud.mov,cloud_0005_elementalasl_11357.mp4,ok
+6,11358,spreadthesign,56,1,train,25,1,-1,0,0,320,240,https://media.spreadthesign.com/video/mp4/13/51356.mp4,cloud_0006_spreadthesign_11358.mp4,ok
+7,11359,signschool,4,0,train,25,1,-1,276,0,1882,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cloud%20copy-8EI-uQvLNIQ.mp4,cloud_0007_signschool_11359.mp4,ok
+8,11360,signschool,31,1,train,25,1,-1,450,18,1658,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cloud-fl-pAxYEnVQ.mp4,cloud_0008_signschool_11360.mp4,ok
+9,11361,signschool,4,1,train,25,1,-1,497,0,1920,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Storm%2C%20Cloud-z4eLhgM2ZyE.mp4,cloud_0009_signschool_11361.mp4,ok
+10,11362,asldeafined,59,1,train,25,1,-1,102,0,582,480,https://media.asldeafined.com/vocabulary/1466899388.6979.mp4,cloud_0010_asldeafined_11362.mp4,ok
+11,11363,handspeak,20,0,train,25,1,-1,15,0,633,480,https://www.handspeak.com/word/c/cloud.mp4,cloud_0011_handspeak_11363.mp4,failed

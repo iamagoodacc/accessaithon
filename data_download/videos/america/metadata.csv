@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02348,asl5200,9,0,train,25,2169,2255,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,america_0000_asl5200_02348.mp4,skipped_no_ytdlp
+1,68002,valencia-asl,110,0,train,25,1,-1,252,0,663,480,https://www.youtube.com/watch?v=yTLymDXbl58,america_0001_valencia-asl_68002.mp4,skipped_no_ytdlp
+2,02356,aslsearch,12,0,train,25,1,-1,198,47,551,400,http://www.aslsearch.com/signs/videos/america.mp4,america_0002_aslsearch_02356.mp4,ok
+3,65064,aslsignbank,91,0,val,25,1,-1,213,30,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AM/AMERICA-2315.mp4,america_0003_aslsignbank_65064.mp4,failed
+4,67360,asllex,109,0,train,25,1,-1,99,17,407,360,https://youtu.be/u8qjgzr11Ik,america_0004_asllex_67360.mp4,skipped_no_ytdlp
+5,02349,elementalasl,19,0,train,25,1,-1,70,14,236,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/america.mov,america_0005_elementalasl_02349.mp4,ok
+6,02350,signschool,45,0,train,25,1,-1,597,124,1588,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20America-8vMN6U-4cvo.mp4,america_0006_signschool_02350.mp4,ok
+7,02351,asldeafined,13,0,train,25,1,-1,92,17,604,480,https://media.asldeafined.com/vocabulary/1466178389.6340.mp4,america_0007_asldeafined_02351.mp4,ok
+8,02352,handspeak,20,0,val,25,1,-1,135,0,550,480,https://www.handspeak.com/word/a/america.mp4,america_0008_handspeak_02352.mp4,failed
+9,02353,signingsavvy,11,0,test,25,1,-1,59,9,223,192,https://www.signingsavvy.com/signs/mp4/14/14166.mp4,america_0009_signingsavvy_02353.mp4,ok
+10,02354,aslu,5,0,test,25,1,-1,336,24,954,720,https://www.youtube.com/watch?v=hzlYOuTrIhA,america_0010_aslu_02354.mp4,skipped_no_ytdlp
+11,02355,aslpro,30,0,train,25,1,-1,0,12,242,240,http://www.aslpro.com/main/a/america.swf,america_0011_aslpro_02355.mp4,skipped_swf

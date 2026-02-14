@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45474,asl5200,9,0,train,25,7039,7088,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,push_0000_asl5200_45474.mp4,skipped_no_ytdlp
+1,45486,aslpro,87,0,train,25,1,-1,10,18,225,240,http://www.aslpro.com/main/p/push.swf,push_0001_aslpro_45486.mp4,skipped_swf
+2,45487,aslsearch,12,0,train,25,1,-1,185,52,561,400,http://www.aslsearch.com/signs/videos/push.mp4,push_0002_aslsearch_45487.mp4,ok
+3,66356,aslsignbank,101,0,val,25,1,-1,202,3,508,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PU/PUSH-230.mp4,push_0003_aslsignbank_66356.mp4,failed
+4,45479,spreadthesign,2,0,train,25,1,-1,47,0,282,240,https://media.spreadthesign.com/video/mp4/13/116453.mp4,push_0004_spreadthesign_45479.mp4,ok
+5,67115,asllex,109,0,train,25,1,-1,76,18,405,360,https://youtu.be/5P_HnZDGauE,push_0005_asllex_67115.mp4,skipped_no_ytdlp
+6,45480,signschool,32,0,train,25,1,-1,714,64,1739,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Push-6psMaxJlnoM.mp4,push_0006_signschool_45480.mp4,ok
+7,45481,asldeafined,13,0,train,25,1,-1,165,0,585,480,https://media.asldeafined.com/vocabulary/1468757436.1334.mp4,push_0007_asldeafined_45481.mp4,ok
+8,45482,handspeak,14,0,val,25,1,-1,77,0,562,480,https://www.handspeak.com/word/p/push.mp4,push_0008_handspeak_45482.mp4,failed
+9,45483,signingsavvy,11,0,test,25,1,-1,75,8,215,192,https://www.signingsavvy.com/signs/mp4/14/14922.mp4,push_0009_signingsavvy_45483.mp4,ok
+10,45484,nabboud,7,0,test,25,1,-1,316,95,937,720,https://www.youtube.com/watch?v=iS4SXZr1blU,push_0010_nabboud_45484.mp4,skipped_no_ytdlp
+11,45485,aslu,5,0,train,25,1,-1,348,17,1068,720,https://www.youtube.com/watch?v=-PJpxxxfNw4,push_0011_aslu_45485.mp4,skipped_no_ytdlp

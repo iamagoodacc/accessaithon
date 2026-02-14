@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19230,asl5200,9,0,val,25,1779,1821,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,english_0000_asl5200_19230.mp4,skipped_no_ytdlp
+1,68512,lillybauer,113,0,train,25,1,111,118,16,571,360,https://www.youtube.com/watch?v=gxHVgEjLG_w,english_0001_lillybauer_68512.mp4,skipped_no_ytdlp
+2,68045,valencia-asl,109,0,train,25,1,-1,171,0,1146,720,https://www.youtube.com/watch?v=qwBy3mikLAU,english_0002_valencia-asl_68045.mp4,skipped_no_ytdlp
+3,19239,aslsearch,12,0,train,25,1,-1,190,53,542,400,http://www.aslsearch.com/signs/videos/english.mp4,english_0003_aslsearch_19239.mp4,ok
+4,65634,aslsignbank,98,0,train,25,1,-1,169,27,481,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EN/ENGLISH-1311.mp4,english_0004_aslsignbank_65634.mp4,failed
+5,19232,startasl,38,0,train,25,1,-1,416,55,862,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/english.mp4,english_0005_startasl_19232.mp4,ok
+6,67625,asllex,109,0,train,25,1,-1,118,20,396,360,https://youtu.be/giPrsCzLU6Q,english_0006_asllex_67625.mp4,skipped_no_ytdlp
+7,19233,asldeafined,21,0,train,25,1,-1,89,8,584,480,https://media.asldeafined.com/vocabulary/1468376344.8514.mp4,english_0007_asldeafined_19233.mp4,ok
+8,19234,handspeak,20,0,train,25,1,-1,61,6,279,240,https://www.handspeak.com/word/e/english2.mp4,english_0008_handspeak_19234.mp4,failed
+9,19235,handspeak,20,0,test,25,1,-1,60,6,275,240,https://www.handspeak.com/word/e/english.mp4,english_0009_handspeak_19235.mp4,failed
+10,19236,signingsavvy,10,0,train,25,1,-1,88,18,233,192,https://www.signingsavvy.com/signs/mp4/22/22139.mp4,english_0010_signingsavvy_19236.mp4,ok
+11,19237,aslu,5,0,test,25,1,-1,343,28,1048,720,https://www.youtube.com/watch?v=w5Nl4IRS450,english_0011_aslu_19237.mp4,skipped_no_ytdlp
+12,19238,aslpro,72,0,val,25,1,-1,69,3,281,240,http://www.aslpro.com/main/e/english.swf,english_0012_aslpro_19238.mp4,skipped_swf

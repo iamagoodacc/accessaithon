@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02041,asl5200,9,0,train,25,1762,1801,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,allow_0000_asl5200_02041.mp4,skipped_no_ytdlp
+1,02051,aslpro,25,0,train,25,1,-1,0,10,256,240,http://www.aslpro.com/main/a/allow.swf,allow_0001_aslpro_02051.mp4,skipped_swf
+2,02052,aslsearch,41,0,train,25,1,-1,208,38,526,400,http://www.aslsearch.com/signs/videos/allow.mp4,allow_0002_aslsearch_02052.mp4,ok
+3,65052,aslsignbank,88,0,val,25,1,-1,169,0,503,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AL/ALLOW-12.mp4,allow_0003_aslsignbank_65052.mp4,failed
+4,65053,aslsignbank,90,0,train,25,1,-1,182,15,507,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AL/ALLOW-172.mp4,allow_0004_aslsignbank_65053.mp4,failed
+5,65054,aslsignbank,89,0,train,25,1,-1,192,40,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AL/ALLOW-2063.mp4,allow_0005_aslsignbank_65054.mp4,failed
+6,02045,spreadthesign,2,0,train,25,1,-1,50,4,277,240,https://media.spreadthesign.com/video/mp4/13/118411.mp4,allow_0006_spreadthesign_02045.mp4,ok
+7,02046,asldeafined,13,0,train,25,1,-1,67,17,561,480,https://media.asldeafined.com/vocabulary/1466173297.3791.mp4,allow_0007_asldeafined_02046.mp4,ok
+8,02047,handspeak,20,0,val,25,1,-1,120,2,582,480,https://www.handspeak.com/word/a/allow.mp4,allow_0008_handspeak_02047.mp4,failed
+9,02048,signingsavvy,10,0,test,25,1,-1,75,18,217,192,https://www.signingsavvy.com/signs/mp4/23/23648.mp4,allow_0009_signingsavvy_02048.mp4,ok
+10,02049,signingsavvy,10,0,test,25,1,-1,72,15,219,192,https://www.signingsavvy.com/signs/mp4/24/24153.mp4,allow_0010_signingsavvy_02049.mp4,ok
+11,02050,aslu,5,0,train,25,1,-1,319,44,964,720,https://www.youtube.com/watch?v=TuvUnPJOLQI,allow_0011_aslu_02050.mp4,skipped_no_ytdlp

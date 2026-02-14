@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59366,asl5200,9,0,val,25,4896,4928,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,transfer_0000_asl5200_59366.mp4,skipped_no_ytdlp
+1,59372,handspeak,14,0,train,25,1,-1,15,0,545,480,https://www.handspeak.com/word/t/transfer.mp4,transfer_0001_handspeak_59372.mp4,failed
+2,59373,signingsavvy,11,0,train,25,1,-1,69,11,214,192,https://www.signingsavvy.com/signs/mp4/8/8895.mp4,transfer_0002_signingsavvy_59373.mp4,ok
+3,59374,aslu,5,0,train,25,1,-1,284,36,950,720,https://www.youtube.com/watch?v=PQGeAlu18hg,transfer_0003_aslu_59374.mp4,skipped_no_ytdlp
+4,59375,aslu,5,0,train,25,1,-1,61,2,487,360,https://www.youtube.com/watch?v=t6L-USKq6Sw,transfer_0004_aslu_59375.mp4,skipped_no_ytdlp
+5,66667,aslsignbank,98,0,train,25,1,-1,114,34,453,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRANSFER-1300.mp4,transfer_0005_aslsignbank_66667.mp4,failed
+6,59376,aslu,5,0,train,25,1,-1,319,55,956,720,https://www.youtube.com/watch?v=VrRh20fnCgs,transfer_0006_aslu_59376.mp4,skipped_no_ytdlp
+8,59378,aslsearch,12,0,train,25,1,-1,132,51,536,400,http://www.aslsearch.com/signs/videos/transfer.mp4,transfer_0008_aslsearch_59378.mp4,ok
+9,59367,spreadthesign,28,0,train,25,1,-1,40,11,263,240,https://media.spreadthesign.com/video/mp4/13/483785.mp4,transfer_0009_spreadthesign_59367.mp4,ok
+10,59368,startasl,38,0,test,25,1,-1,397,62,815,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/transfer.mp4,transfer_0010_startasl_59368.mp4,ok
+11,59369,signschool,4,0,train,25,1,-1,455,83,1566,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Transfer-oh7wiUOjlmg.mp4,transfer_0011_signschool_59369.mp4,ok
+12,59370,signschool,4,0,test,25,1,-1,300,53,1044,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Transfer.mp4,transfer_0012_signschool_59370.mp4,ok
+13,59371,asldeafined,13,0,val,25,1,-1,80,0,549,480,https://media.asldeafined.com/vocabulary/1468946713.3184.mp4,transfer_0013_asldeafined_59371.mp4,ok

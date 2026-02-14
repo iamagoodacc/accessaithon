@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56080,asl5200,9,0,val,25,10783,10835,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,surgery_0000_asl5200_56080.mp4,skipped_no_ytdlp
+1,56087,handspeak,20,0,train,25,1,-1,18,0,254,240,https://www.handspeak.com/word/s/surgery2.mp4,surgery_0001_handspeak_56087.mp4,failed
+2,56088,handspeak,20,0,train,25,1,-1,54,0,291,240,https://www.handspeak.com/word/s/surgery.mp4,surgery_0002_handspeak_56088.mp4,failed
+3,56089,signingsavvy,11,0,train,25,1,-1,68,16,216,192,https://www.signingsavvy.com/signs/mp4/2/2211.mp4,surgery_0003_signingsavvy_56089.mp4,ok
+4,56090,aslu,5,0,train,25,1,-1,322,24,987,720,https://www.youtube.com/watch?v=QpHWClcLy_U,surgery_0004_aslu_56090.mp4,skipped_no_ytdlp
+5,56091,aslu,5,0,train,25,1,-1,308,30,898,720,https://www.youtube.com/watch?v=zhrV2p-a90o,surgery_0005_aslu_56091.mp4,skipped_no_ytdlp
+6,56092,aslpro,84,0,train,25,1,-1,0,7,210,240,http://www.aslpro.com/main/s/surgery.swf,surgery_0006_aslpro_56092.mp4,skipped_swf
+7,56081,spreadthesign,77,0,train,25,1,-1,0,0,272,240,https://media.spreadthesign.com/video/mp4/13/185297.mp4,surgery_0007_spreadthesign_56081.mp4,ok
+8,56082,spreadthesign,0,0,train,25,1,-1,8,0,270,240,https://media.spreadthesign.com/video/mp4/13/58380.mp4,surgery_0008_spreadthesign_56082.mp4,ok
+9,56083,startasl,38,0,test,25,1,-1,428,51,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/surgery.mp4,surgery_0009_startasl_56083.mp4,ok
+10,56084,signschool,32,0,train,25,1,-1,707,93,1522,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dissect-b1jtXtTs-yw.mp4,surgery_0010_signschool_56084.mp4,ok
+11,56085,signschool,32,0,test,25,1,-1,670,84,1495,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Surgery-6XSzOtUk-kE.mp4,surgery_0011_signschool_56085.mp4,ok
+12,56086,asldeafined,13,0,val,25,1,-1,129,0,511,480,https://media.asldeafined.com/vocabulary/1468722188.2630.mp4,surgery_0012_asldeafined_56086.mp4,ok

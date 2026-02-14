@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53693,asl5200,9,0,train,25,7301,7400,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,speech_0000_asl5200_53693.mp4,skipped_no_ytdlp
+1,53700,signschool,4,1,val,25,1,-1,407,0,1670,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lecture%2C%20Presentation%2C%20Speech-XHzconXXUCQ.mp4,speech_0001_signschool_53700.mp4,ok
+2,53701,signschool,4,0,test,25,1,-1,721,57,1631,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Oral%202-8GbSo_YNVS0.mp4,speech_0002_signschool_53701.mp4,ok
+6,53705,handspeak,14,0,val,25,1,-1,124,0,558,480,https://www.handspeak.com/word/s/speech-oral.mp4,speech_0006_handspeak_53705.mp4,failed
+7,53696,elementalasl,19,1,test,25,1,-1,68,4,224,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/speech.mov,speech_0007_elementalasl_53696.mp4,ok
+8,53706,signingsavvy,10,1,train,25,1,-1,52,15,214,192,https://www.signingsavvy.com/signs/mp4/22/22166.mp4,speech_0008_signingsavvy_53706.mp4,ok
+9,53707,signingsavvy,11,0,train,25,1,-1,79,16,220,192,https://www.signingsavvy.com/signs/mp4/9/9165.mp4,speech_0009_signingsavvy_53707.mp4,ok
+10,53708,aslpro,24,1,train,25,1,-1,4,16,201,240,http://www.aslpro.com/main/s/speech.swf,speech_0010_aslpro_53708.mp4,skipped_swf
+11,53709,aslsearch,12,1,train,25,1,-1,184,47,573,400,http://www.aslsearch.com/signs/videos/speech2.mp4,speech_0011_aslsearch_53709.mp4,ok
+12,53710,aslsearch,12,0,train,25,1,-1,198,51,575,400,http://www.aslsearch.com/signs/videos/speech.mp4,speech_0012_aslsearch_53710.mp4,ok
+13,53697,spreadthesign,2,1,val,25,1,-1,26,2,267,240,https://media.spreadthesign.com/video/mp4/13/244805.mp4,speech_0013_spreadthesign_53697.mp4,ok
+14,53698,signschool,4,1,train,25,1,-1,325,11,1690,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lecture%2C%20Presentation%2C%20Speech%202-6aqjl8M7oeI.mp4,speech_0014_signschool_53698.mp4,ok
+15,53699,signschool,4,1,train,25,1,-1,602,50,1659,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lecture%2C%20Presentation%2C%20Speech%203-wxk9-1vsb_A.mp4,speech_0015_signschool_53699.mp4,ok

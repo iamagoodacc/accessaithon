@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06407,asl5200,9,0,test,25,3009,3045,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bite_0000_asl5200_06407.mp4,skipped_no_ytdlp
+2,06417,aslu,5,0,train,25,1,-1,329,1,1087,720,https://www.youtube.com/watch?v=Zrmbq8pF29E,bite_0002_aslu_06417.mp4,skipped_no_ytdlp
+3,06418,aslpro,30,0,train,25,1,-1,0,16,242,240,http://www.aslpro.com/main/b/bite.swf,bite_0003_aslpro_06418.mp4,skipped_swf
+4,65199,aslsignbank,90,0,val,25,1,-1,183,21,519,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BI/BITE-39.mp4,bite_0004_aslsignbank_65199.mp4,failed
+5,06409,startasl,38,0,train,25,1,-1,425,60,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bite.mp4,bite_0005_startasl_06409.mp4,ok
+6,06419,aslsearch,12,0,test,25,1,-1,155,52,528,400,http://www.aslsearch.com/signs/videos/bite.mp4,bite_0006_aslsearch_06419.mp4,ok
+7,06410,signschool,31,0,train,25,1,-1,504,131,1529,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bite--QfOCVco5-4.mp4,bite_0007_signschool_06410.mp4,ok
+8,06411,asldeafined,59,0,train,25,1,-1,65,20,556,480,https://media.asldeafined.com/vocabulary/1466682446.266.mp4,bite_0008_asldeafined_06411.mp4,ok
+9,06412,handspeak,14,0,train,25,1,-1,115,0,546,480,https://www.handspeak.com/word/b/bite-insect.mp4,bite_0009_handspeak_06412.mp4,failed
+10,06413,handspeak,20,0,train,25,1,-1,63,28,552,480,https://www.handspeak.com/word/b/bite-something.mp4,bite_0010_handspeak_06413.mp4,failed
+11,06414,signingsavvy,10,0,val,25,1,-1,72,17,237,192,https://www.signingsavvy.com/signs/mp4/23/23853.mp4,bite_0011_signingsavvy_06414.mp4,ok

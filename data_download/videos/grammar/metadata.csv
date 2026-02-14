@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25370,asl5200,9,0,train,25,1550,1579,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,grammar_0000_asl5200_25370.mp4,skipped_no_ytdlp
+1,25378,signingsavvy,11,0,train,25,1,-1,32,16,241,192,https://www.signingsavvy.com/signs/mp4/8/8611.mp4,grammar_0001_signingsavvy_25378.mp4,ok
+2,25379,aslpro,24,0,train,25,1,-1,8,13,236,240,http://www.aslpro.com/main/g/grammar.swf,grammar_0002_aslpro_25379.mp4,skipped_swf
+3,65845,aslsignbank,106,0,val,25,1,-1,158,38,506,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GR/GRAMMAR-1864.mp4,grammar_0003_aslsignbank_65845.mp4,failed
+4,25380,aslsearch,12,0,train,25,1,-1,144,58,570,400,http://www.aslsearch.com/signs/videos/grammar.mp4,grammar_0004_aslsearch_25380.mp4,ok
+5,25371,elementalasl,19,0,train,25,1,-1,21,3,320,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/grammar.mov,grammar_0005_elementalasl_25371.mp4,ok
+6,25372,spreadthesign,28,0,train,25,1,-1,59,9,258,240,https://media.spreadthesign.com/video/mp4/13/480865.mp4,grammar_0006_spreadthesign_25372.mp4,ok
+7,25373,signschool,4,0,train,25,1,-1,318,68,1779,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Grammar%202-90b_bfTo7CI.mp4,grammar_0007_signschool_25373.mp4,ok
+8,25374,signschool,4,0,val,25,1,-1,340,89,1593,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Grammar-lQdwTrDruss.mp4,grammar_0008_signschool_25374.mp4,ok
+9,25375,asldeafined,15,0,test,25,1,-1,58,35,598,480,https://media.asldeafined.com/vocabulary/1513522137.3537.mp4,grammar_0009_asldeafined_25375.mp4,ok
+10,25376,handspeak,14,0,test,25,1,-1,22,0,309,240,https://www.handspeak.com/word/g/grammar.mp4,grammar_0010_handspeak_25376.mp4,failed
+11,25377,signingsavvy,11,0,train,25,1,-1,55,9,214,192,https://www.signingsavvy.com/signs/mp4/14/14062.mp4,grammar_0011_signingsavvy_25377.mp4,ok

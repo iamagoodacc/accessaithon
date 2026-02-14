@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47602,asl5200,9,0,train,25,2601,2650,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,respect_0000_asl5200_47602.mp4,skipped_no_ytdlp
+1,47611,signingsavvy,10,0,train,25,1,-1,87,24,213,192,https://www.signingsavvy.com/signs/mp4/22/22929.mp4,respect_0001_signingsavvy_47611.mp4,ok
+2,47612,signingsavvy,10,0,train,25,1,-1,89,25,197,192,https://www.signingsavvy.com/signs/mp4/22/22930.mp4,respect_0002_signingsavvy_47612.mp4,ok
+3,47613,aslu,5,0,val,25,1,-1,239,40,987,720,https://www.youtube.com/watch?v=Rrjgr_FBQeQ,respect_0003_aslu_47613.mp4,skipped_no_ytdlp
+4,66396,aslsignbank,103,0,train,25,1,-1,143,34,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESPECT-967.mp4,respect_0004_aslsignbank_66396.mp4,failed
+5,47604,spreadthesign,37,0,train,25,1,-1,65,0,256,240,https://media.spreadthesign.com/video/mp4/13/457663.mp4,respect_0005_spreadthesign_47604.mp4,ok
+6,47614,aslpro,87,0,train,25,1,-1,14,3,228,240,http://www.aslpro.com/main/r/respect.swf,respect_0006_aslpro_47614.mp4,skipped_swf
+7,47615,aslsearch,41,0,train,25,1,-1,216,41,468,400,http://www.aslsearch.com/signs/videos/respect.mp4,respect_0007_aslsearch_47615.mp4,ok
+8,47605,signschool,4,0,val,25,1,-1,631,69,1521,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Repect-NBm4wuYx7To.mp4,respect_0008_signschool_47605.mp4,ok
+9,47606,asldeafined,13,0,test,25,1,-1,150,0,557,480,https://media.asldeafined.com/vocabulary/1468760348.5590.mp4,respect_0009_asldeafined_47606.mp4,ok
+11,47609,handspeak,14,0,test,25,1,-1,38,14,262,240,https://www.handspeak.com/word/r/respect-me.mp4,respect_0011_handspeak_47609.mp4,failed
+12,47610,handspeak,14,0,train,25,1,-1,54,12,254,240,https://www.handspeak.com/word/r/respect.mp4,respect_0012_handspeak_47610.mp4,failed

@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05959,asl5200,9,0,test,25,2197,2249,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,benefit_0000_asl5200_05959.mp4,skipped_no_ytdlp
+1,05967,aslsearch,12,0,train,25,1,-1,151,52,550,400,http://www.aslsearch.com/signs/videos/benefit.mp4,benefit_0001_aslsearch_05967.mp4,ok
+2,65175,aslsignbank,90,0,train,25,1,-1,133,12,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BENEFIT-2444.mp4,benefit_0002_aslsignbank_65175.mp4,failed
+3,67406,asllex,109,0,val,25,1,-1,94,25,384,360,https://youtu.be/V9Yh8TUscOg,benefit_0003_asllex_67406.mp4,skipped_no_ytdlp
+4,05960,elementalasl,19,0,train,25,1,-1,65,10,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/benefit.mov,benefit_0004_elementalasl_05960.mp4,ok
+5,05961,spreadthesign,8,0,test,25,1,-1,29,0,241,240,https://media.spreadthesign.com/video/mp4/13/455522.mp4,benefit_0005_spreadthesign_05961.mp4,ok
+6,05962,asldeafined,13,0,train,25,1,-1,40,20,524,480,https://media.asldeafined.com/vocabulary/1466681667.454.mp4,benefit_0006_asldeafined_05962.mp4,ok
+7,05963,handspeak,20,0,train,25,1,-1,0,0,528,480,https://www.handspeak.com/word/b/benefit.mp4,benefit_0007_handspeak_05963.mp4,failed
+8,05964,signingsavvy,11,0,train,25,1,-1,31,13,225,192,https://www.signingsavvy.com/signs/mp4/1/1214.mp4,benefit_0008_signingsavvy_05964.mp4,ok
+9,05965,signingsavvy,11,0,train,25,1,-1,73,14,223,192,https://www.signingsavvy.com/signs/mp4/2/2447.mp4,benefit_0009_signingsavvy_05965.mp4,ok
+10,05966,aslpro,16,0,val,25,1,-1,5,6,233,240,http://www.aslpro.com/main/b/benefit.swf,benefit_0010_aslpro_05966.mp4,skipped_swf

@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05165,asl5200,9,0,test,25,823,895,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,baseball_0000_asl5200_05165.mp4,skipped_no_ytdlp
+1,70128,northtexas,121,0,train,25,600,734,129,26,501,480,https://www.youtube.com/watch?v=VwejDy96MzM,baseball_0001_northtexas_70128.mp4,skipped_no_ytdlp
+3,05178,aslsearch,12,0,train,25,1,-1,170,50,538,400,http://www.aslsearch.com/signs/videos/baseball.mp4,baseball_0003_aslsearch_05178.mp4,ok
+4,65141,aslsignbank,92,0,val,25,1,-1,143,23,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEBALL-2091.mp4,baseball_0004_aslsignbank_65141.mp4,failed
+5,65140,aslsignbank,88,0,train,25,1,-1,188,4,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BASEBALL-549.mp4,baseball_0005_aslsignbank_65140.mp4,failed
+6,05171,startasl,36,0,test,25,1,-1,231,16,532,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/baseball.mp4,baseball_0006_startasl_05171.mp4,ok
+7,67390,asllex,109,0,train,25,1,-1,133,17,377,360,https://youtu.be/t2tke15ZLhY,baseball_0007_asllex_67390.mp4,skipped_no_ytdlp
+8,05172,signschool,60,0,train,25,1,-1,243,20,570,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20baseball.mp4,baseball_0008_signschool_05172.mp4,ok
+10,05174,handspeak,20,0,train,25,1,-1,110,4,481,480,https://www.handspeak.com/word/b/baseball.mp4,baseball_0010_handspeak_05174.mp4,failed
+11,05175,signingsavvy,11,0,train,25,1,-1,66,12,206,192,https://www.signingsavvy.com/signs/mp4/6/6144.mp4,baseball_0011_signingsavvy_05175.mp4,ok
+12,05176,aslu,5,0,val,25,1,-1,394,61,952,720,https://www.youtube.com/watch?v=duIAeHtwFI8,baseball_0012_aslu_05176.mp4,skipped_no_ytdlp

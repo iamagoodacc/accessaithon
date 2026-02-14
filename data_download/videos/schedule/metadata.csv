@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49537,asl5200,9,0,train,25,844,900,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,schedule_0000_asl5200_49537.mp4,skipped_no_ytdlp
+1,49545,aslu,5,0,train,25,1,-1,257,0,982,720,https://www.youtube.com/watch?v=urAudhimoUY,schedule_0001_aslu_49545.mp4,skipped_no_ytdlp
+2,49546,aslpro,25,0,train,25,1,-1,0,7,228,240,http://www.aslpro.com/main/s/schedule.swf,schedule_0002_aslpro_49546.mp4,skipped_swf
+3,67169,asllex,109,0,val,25,1,-1,114,18,408,360,https://youtu.be/fEn2xe4FN9o,schedule_0003_asllex_67169.mp4,skipped_no_ytdlp
+4,49547,aslsearch,12,0,train,25,1,-1,182,53,546,400,http://www.aslsearch.com/signs/videos/chart.mp4,schedule_0004_aslsearch_49547.mp4,ok
+5,49538,spreadthesign,26,0,train,25,1,-1,61,16,244,240,https://media.spreadthesign.com/video/mp4/13/310888.mp4,schedule_0005_spreadthesign_49538.mp4,ok
+6,49539,signschool,31,0,train,25,1,-1,396,41,978,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Spreadsheet%252C%20Schedule.mp4,schedule_0006_signschool_49539.mp4,ok
+7,49540,asldeafined,21,0,train,25,1,-1,144,7,608,540,https://media.asldeafined.com/vocabulary/1546375201.5313.mp4,schedule_0007_asldeafined_49540.mp4,ok
+8,49541,handspeak,14,0,val,25,1,-1,112,0,573,480,https://www.handspeak.com/word/s/schedule.mp4,schedule_0008_handspeak_49541.mp4,failed
+9,49542,signingsavvy,11,0,test,25,1,-1,80,7,237,192,https://www.signingsavvy.com/signs/mp4/5/5983.mp4,schedule_0009_signingsavvy_49542.mp4,ok
+10,49543,aslu,5,0,test,25,1,-1,316,12,1046,720,https://www.youtube.com/watch?v=8yUbY8nSrng,schedule_0010_aslu_49543.mp4,skipped_no_ytdlp
+11,49544,aslu,5,0,train,25,1,-1,316,12,1046,720,https://www.youtube.com/watch?v=8yUbY8nSrng,schedule_0011_aslu_49544.mp4,skipped_no_ytdlp

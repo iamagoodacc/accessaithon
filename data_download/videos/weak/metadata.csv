@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62584,asl5200,9,0,train,25,1061,1133,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,weak_0000_asl5200_62584.mp4,skipped_no_ytdlp
+1,70123,northtexas,121,0,train,25,5117,5220,151,22,501,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,weak_0001_northtexas_70123.mp4,skipped_no_ytdlp
+2,62593,aslsearch,12,0,train,25,1,-1,188,54,542,400,http://www.aslsearch.com/signs/videos/weak.mp4,weak_0002_aslsearch_62593.mp4,ok
+3,67047,asllex,109,0,val,25,1,-1,92,28,388,360,https://youtu.be/tF7Z-Z-4-m8,weak_0003_asllex_67047.mp4,skipped_no_ytdlp
+4,62585,spreadthesign,2,0,train,25,1,-1,65,31,255,240,https://media.spreadthesign.com/video/mp4/13/90209.mp4,weak_0004_spreadthesign_62585.mp4,ok
+5,62586,startasl,38,0,train,25,1,-1,389,56,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/weak.mp4,weak_0005_startasl_62586.mp4,ok
+6,62587,signschool,60,0,train,25,1,-1,330,26,765,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Weak-Pu9uYoYe-O8.mp4,weak_0006_signschool_62587.mp4,ok
+7,62588,asldeafined,13,0,train,25,1,-1,132,0,521,480,https://media.asldeafined.com/vocabulary/1468927405.9675.mp4,weak_0007_asldeafined_62588.mp4,ok
+8,62589,handspeak,20,0,val,25,1,-1,56,0,501,480,https://www.handspeak.com/word/w/weak.mp4,weak_0008_handspeak_62589.mp4,failed
+9,62590,signingsavvy,11,0,test,25,1,-1,62,12,216,192,https://www.signingsavvy.com/signs/mp4/14/14515.mp4,weak_0009_signingsavvy_62590.mp4,ok
+10,62591,signingsavvy,11,0,test,25,1,-1,68,13,215,192,https://www.signingsavvy.com/signs/mp4/14/14516.mp4,weak_0010_signingsavvy_62591.mp4,ok
+11,62592,aslpro,87,0,train,25,1,-1,31,22,221,240,http://www.aslpro.com/main/w/weak.swf,weak_0011_aslpro_62592.mp4,skipped_swf

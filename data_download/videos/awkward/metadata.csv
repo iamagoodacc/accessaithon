@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04436,asl5200,9,0,train,25,5670,5732,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,awkward_0000_asl5200_04436.mp4,skipped_no_ytdlp
+1,04444,aslu,5,0,train,25,1,-1,330,30,1010,715,https://www.youtube.com/watch?v=JlKhON_Ta2k,awkward_0001_aslu_04444.mp4,skipped_no_ytdlp
+2,04445,aslpro,16,0,train,25,1,-1,18,21,223,240,http://www.aslpro.com/main/a/awkward.swf,awkward_0002_aslpro_04445.mp4,skipped_swf
+3,67376,asllex,109,0,val,25,1,-1,96,4,422,360,https://youtu.be/mhrly2XQjoA,awkward_0003_asllex_67376.mp4,skipped_no_ytdlp
+4,04446,aslsearch,12,0,train,25,1,-1,174,48,582,400,http://www.aslsearch.com/signs/videos/awkward.mp4,awkward_0004_aslsearch_04446.mp4,ok
+5,04437,spreadthesign,2,0,train,25,1,-1,34,4,285,240,https://media.spreadthesign.com/video/mp4/13/123110.mp4,awkward_0005_spreadthesign_04437.mp4,ok
+6,04438,signschool,39,0,train,25,1,-1,701,129,1664,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Awkward-eJPlePebVzI.mp4,awkward_0006_signschool_04438.mp4,ok
+7,04439,signschool,6,0,train,25,1,-1,447,55,1539,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Awkward-zEWWLw3AqI8.mp4,awkward_0007_signschool_04439.mp4,ok
+8,04440,signschool,32,0,val,25,1,-1,666,87,1574,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Klutz%2C%20Clumsy%2C%20Awkward-fTkel_iD77U.mp4,awkward_0008_signschool_04440.mp4,ok
+9,04441,asldeafined,13,0,test,25,1,-1,88,20,535,480,https://media.asldeafined.com/vocabulary/1466647757.9860.mp4,awkward_0009_asldeafined_04441.mp4,ok
+10,04442,handspeak,20,0,test,25,1,-1,97,9,624,480,https://www.handspeak.com/word/a/awkward.mp4,awkward_0010_handspeak_04442.mp4,failed
+11,04443,signingsavvy,10,0,train,25,1,-1,58,22,219,192,https://www.signingsavvy.com/signs/mp4/23/23207.mp4,awkward_0011_signingsavvy_04443.mp4,ok

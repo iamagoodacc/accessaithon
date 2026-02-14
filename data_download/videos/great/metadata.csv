@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69352,aslbrick,115,0,train,25,1,-1,275,40,1042,720,http://aslbricks.org/New/ASL-Videos/great.mp4,great_0000_aslbrick_69352.mp4,ok
+1,25621,spreadthesign,2,0,train,25,1,-1,68,35,257,240,https://media.spreadthesign.com/video/mp4/13/91432.mp4,great_0001_spreadthesign_25621.mp4,ok
+2,25624,signschool,46,0,train,25,1,-1,370,1,1770,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Great-dshsyC11XD4.mp4,great_0002_signschool_25624.mp4,ok
+3,25625,signschool,39,0,val,25,1,-1,560,135,1789,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Great-fheMISmxquk.mp4,great_0003_signschool_25625.mp4,ok
+5,25627,asldeafined,13,0,train,25,1,-1,59,7,596,480,https://media.asldeafined.com/vocabulary/1468928982.866.mp4,great_0005_asldeafined_25627.mp4,ok
+6,25628,handspeak,20,0,train,25,1,-1,106,0,541,360,https://www.handspeak.com/word/g/great-good.mp4,great_0006_handspeak_25628.mp4,failed
+9,25631,signingsavvy,10,0,train,25,1,-1,37,15,243,192,https://www.signingsavvy.com/signs/mp4/22/22945.mp4,great_0009_signingsavvy_25631.mp4,ok
+12,25634,aslu,5,0,train,25,1,-1,250,35,1051,720,https://www.youtube.com/watch?v=X67gLEcynIM,great_0012_aslu_25634.mp4,skipped_no_ytdlp
+13,25635,aslpro,16,0,val,25,1,-1,15,19,240,240,http://www.aslpro.com/main/g/great.swf,great_0013_aslpro_25635.mp4,skipped_swf
+15,25637,aslsearch,12,0,test,25,1,-1,157,55,535,400,http://www.aslsearch.com/signs/videos/great.mp4,great_0015_aslsearch_25637.mp4,ok
+16,25622,signschool,39,0,test,25,1,-1,596,94,1642,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Great%202-kKFfodospLc.mp4,great_0016_signschool_25622.mp4,ok
+17,25623,signschool,39,0,train,25,1,-1,631,129,1705,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Great%203-1kqW4WyoO4A.mp4,great_0017_signschool_25623.mp4,ok

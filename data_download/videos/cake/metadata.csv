@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08608,asl5200,9,0,train,25,118,164,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cake_0000_asl5200_08608.mp4,skipped_no_ytdlp
+1,69256,aslbrick,117,0,test,25,1,-1,191,27,975,720,http://aslbricks.org/New/ASL-Videos/cake.mp4,cake_0001_aslbrick_69256.mp4,ok
+3,08620,aslpro,54,1,test,25,1,-1,1,0,248,240,http://www.aslpro.com/main/c/cake.swf,cake_0003_aslpro_08620.mp4,skipped_swf
+4,08621,aslsearch,12,1,val,25,1,-1,183,51,561,400,http://www.aslsearch.com/signs/videos/cake.mp4,cake_0004_aslsearch_08621.mp4,ok
+5,65285,aslsignbank,90,0,val,25,1,-1,170,15,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAKE-62.mp4,cake_0005_aslsignbank_65285.mp4,failed
+6,65286,aslsignbank,90,1,train,25,1,-1,164,15,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAKE-63.mp4,cake_0006_aslsignbank_65286.mp4,failed
+7,08612,spreadthesign,0,1,train,25,1,-1,46,3,257,240,https://media.spreadthesign.com/video/mp4/13/74899.mp4,cake_0007_spreadthesign_08612.mp4,ok
+8,67457,asllex,109,0,train,25,1,-1,87,20,378,360,https://youtu.be/yfiKB4ZSyHk,cake_0008_asllex_67457.mp4,skipped_no_ytdlp
+9,08613,signschool,32,1,train,25,1,-1,466,76,1626,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cake-ld9YQUWWWgw.mp4,cake_0009_signschool_08613.mp4,ok
+10,08614,asldeafined,59,1,train,25,1,-1,68,17,527,480,https://media.asldeafined.com/vocabulary/1466725849.8495.mp4,cake_0010_asldeafined_08614.mp4,ok
+11,08615,handspeak,20,0,train,25,1,-1,23,4,520,480,https://www.handspeak.com/word/c/cake2.mp4,cake_0011_handspeak_08615.mp4,failed
+13,08618,signingsavvy,11,1,train,25,1,-1,56,7,214,192,https://www.signingsavvy.com/signs/mp4/14/14009.mp4,cake_0013_signingsavvy_08618.mp4,ok

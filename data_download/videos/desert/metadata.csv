@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65467,aslsignbank,90,0,test,25,1,-1,175,16,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DESERT-685.mp4,desert_0000_aslsignbank_65467.mp4,failed
+2,15728,signingsavvy,10,1,train,25,1,-1,70,25,206,192,https://www.signingsavvy.com/signs/mp4/23/23023.mp4,desert_0002_signingsavvy_15728.mp4,ok
+3,15729,aslu,5,0,val,25,1,-1,323,43,959,720,https://www.youtube.com/watch?v=sXrxAClQsIY,desert_0003_aslu_15729.mp4,skipped_no_ytdlp
+4,15730,aslu,5,1,test,25,1,-1,202,47,926,720,https://www.youtube.com/watch?v=x-n4R0gq0BY,desert_0004_aslu_15730.mp4,skipped_no_ytdlp
+5,15721,spreadthesign,77,1,val,25,1,-1,28,0,278,240,https://media.spreadthesign.com/video/mp4/13/184771.mp4,desert_0005_spreadthesign_15721.mp4,ok
+6,67565,asllex,109,0,train,25,1,-1,115,16,397,360,https://youtu.be/Lr-4SpbFHR8,desert_0006_asllex_67565.mp4,skipped_no_ytdlp
+7,15731,aslpro,24,0,train,25,1,-1,0,13,254,240,http://www.aslpro.com/main/d/desert.swf,desert_0007_aslpro_15731.mp4,skipped_swf
+8,15732,aslsearch,12,0,train,25,1,-1,175,56,541,400,http://www.aslsearch.com/signs/videos/desert.mp4,desert_0008_aslsearch_15732.mp4,ok
+10,15723,spreadthesign,0,1,train,25,1,-1,46,9,253,240,https://media.spreadthesign.com/video/mp4/13/63636.mp4,desert_0010_spreadthesign_15723.mp4,ok
+11,15724,startasl,38,0,train,25,1,-1,386,53,829,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/desert.mp4,desert_0011_startasl_15724.mp4,ok
+12,15725,asldeafined,59,1,train,25,1,-1,84,16,515,480,https://media.asldeafined.com/vocabulary/1466908354.9336.mp4,desert_0012_asldeafined_15725.mp4,ok
+13,15726,handspeak,14,0,train,25,1,-1,4,0,315,240,https://www.handspeak.com/word/d/desert.mp4,desert_0013_handspeak_15726.mp4,failed

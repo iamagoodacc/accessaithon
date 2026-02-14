@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07259,asl5200,9,0,test,25,3927,3976,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bother_0000_asl5200_07259.mp4,skipped_no_ytdlp
+2,07268,aslpro,16,0,train,25,1,-1,24,8,227,240,http://www.aslpro.com/main/b/bother.swf,bother_0002_aslpro_07268.mp4,skipped_swf
+3,65234,aslsignbank,89,0,train,25,1,-1,186,2,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOTHER-2129.mp4,bother_0003_aslsignbank_65234.mp4,failed
+4,07269,aslsearch,41,0,val,25,1,-1,216,39,476,400,http://www.aslsearch.com/signs/videos/bother.mp4,bother_0004_aslsearch_07269.mp4,ok
+5,07260,spreadthesign,26,0,train,25,1,-1,50,12,255,240,https://media.spreadthesign.com/video/mp4/13/125016.mp4,bother_0005_spreadthesign_07260.mp4,ok
+6,07261,signschool,6,0,test,25,1,-1,743,48,1610,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Annoy%2C%20Pester-1gSZNhfWT3s.mp4,bother_0006_signschool_07261.mp4,ok
+7,07262,asldeafined,40,0,train,25,1,-1,84,4,605,480,https://media.asldeafined.com/vocabulary/1522289167.3396.mp4,bother_0007_asldeafined_07262.mp4,ok
+8,07263,handspeak,20,0,train,25,1,-1,84,0,478,480,https://www.handspeak.com/word/b/bother.mp4,bother_0008_handspeak_07263.mp4,failed
+9,07264,signingsavvy,11,0,train,25,1,-1,61,14,211,192,https://www.signingsavvy.com/signs/mp4/6/6189.mp4,bother_0009_signingsavvy_07264.mp4,ok
+10,07265,signingsavvy,11,0,train,25,1,-1,48,13,216,192,https://www.signingsavvy.com/signs/mp4/6/6190.mp4,bother_0010_signingsavvy_07265.mp4,ok
+11,07266,signingsavvy,11,0,val,25,1,-1,57,14,213,192,https://www.signingsavvy.com/signs/mp4/6/6192.mp4,bother_0011_signingsavvy_07266.mp4,ok

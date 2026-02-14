@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10577,asl5200,9,0,train,25,2953,3005,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,chocolate_0000_asl5200_10577.mp4,skipped_no_ytdlp
+1,10586,aslpro,49,0,train,25,1,-1,29,7,230,240,http://www.aslpro.com/main/c/chocolate.swf,chocolate_0001_aslpro_10586.mp4,skipped_swf
+2,10587,aslsearch,12,0,train,25,1,-1,178,58,558,400,http://www.aslsearch.com/signs/videos/chocolate.mp4,chocolate_0002_aslsearch_10587.mp4,ok
+3,65354,aslsignbank,90,0,val,25,1,-1,154,16,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHOCOLATE-77.mp4,chocolate_0003_aslsignbank_65354.mp4,failed
+4,10579,spreadthesign,2,0,train,25,1,-1,76,33,253,240,https://media.spreadthesign.com/video/mp4/13/91459.mp4,chocolate_0004_spreadthesign_10579.mp4,ok
+5,67497,asllex,109,0,train,25,1,-1,123,19,390,360,https://youtu.be/buOvgbxk0hQ,chocolate_0005_asllex_67497.mp4,skipped_no_ytdlp
+6,10580,signschool,4,0,train,25,1,-1,330,56,1554,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Chocolate-zEiMHvlOtW8.mp4,chocolate_0006_signschool_10580.mp4,ok
+7,10581,asldeafined,59,0,train,25,1,-1,98,19,550,480,https://media.asldeafined.com/vocabulary/1466732896.1735.mp4,chocolate_0007_asldeafined_10581.mp4,ok
+8,10582,handspeak,14,0,val,25,1,-1,48,0,297,240,https://www.handspeak.com/word/c/chocolate.mp4,chocolate_0008_handspeak_10582.mp4,failed
+9,10583,signingsavvy,11,0,test,25,1,-1,66,8,212,192,https://www.signingsavvy.com/signs/mp4/6/6121.mp4,chocolate_0009_signingsavvy_10583.mp4,ok
+10,10584,aslu,5,0,test,25,1,-1,323,43,1000,720,https://www.youtube.com/watch?v=pxyi6YW8gOE,chocolate_0010_aslu_10584.mp4,skipped_no_ytdlp
+11,10585,aslu,5,0,train,25,1,-1,275,49,986,720,https://www.youtube.com/watch?v=RCC4R2zpXuI,chocolate_0011_aslu_10585.mp4,skipped_no_ytdlp

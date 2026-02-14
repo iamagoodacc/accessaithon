@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28647,asl5200,9,0,val,25,77,143,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,idea_0000_asl5200_28647.mp4,skipped_no_ytdlp
+1,28653,handspeak,14,0,train,25,1,-1,44,14,258,240,https://www.handspeak.com/word/i/idea.mp4,idea_0001_handspeak_28653.mp4,failed
+3,28655,signingsavvy,11,0,train,25,1,-1,59,5,216,192,https://www.signingsavvy.com/signs/mp4/8/8900.mp4,idea_0003_signingsavvy_28655.mp4,ok
+4,28656,aslu,5,0,train,25,1,-1,284,57,931,717,https://www.youtube.com/watch?v=mM752iAos2w,idea_0004_aslu_28656.mp4,skipped_no_ytdlp
+5,65918,aslsignbank,96,0,train,25,1,-1,197,33,521,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ID/IDEA-1750.mp4,idea_0005_aslsignbank_65918.mp4,failed
+6,67783,asllex,109,0,train,25,1,-1,89,19,368,360,https://youtu.be/PVA9_rzGyws,idea_0006_asllex_67783.mp4,skipped_no_ytdlp
+7,28657,aslpro,25,0,train,25,1,-1,6,11,239,240,http://www.aslpro.com/main/i/idea.swf,idea_0007_aslpro_28657.mp4,skipped_swf
+8,28658,aslsearch,41,0,train,25,1,-1,207,46,485,400,http://www.aslsearch.com/signs/videos/idea.mp4,idea_0008_aslsearch_28658.mp4,ok
+9,28648,elementalasl,19,0,train,25,1,-1,56,9,224,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/idea.mov,idea_0009_elementalasl_28648.mp4,ok
+10,28649,spreadthesign,2,0,test,25,1,-1,54,1,277,240,https://media.spreadthesign.com/video/mp4/13/244655.mp4,idea_0010_spreadthesign_28649.mp4,ok
+11,28650,signschool,4,0,train,25,1,-1,609,68,1592,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Idea%2C%20Imagine-3YjmVax6CBc.mp4,idea_0011_signschool_28650.mp4,ok
+12,28651,signschool,6,0,test,25,1,-1,640,51,1521,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Idea-HR8afgGna7A.mp4,idea_0012_signschool_28651.mp4,ok
+13,28652,asldeafined,21,0,val,25,1,-1,33,5,523,480,https://media.asldeafined.com/vocabulary/1468665115.4947.mp4,idea_0013_asldeafined_28652.mp4,ok

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21393,asl5200,9,0,train,25,936,1028,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,feed_0000_asl5200_21393.mp4,skipped_no_ytdlp
+1,68582,lillybauer,113,0,train,25,1,85,200,33,1065,720,https://www.youtube.com/watch?v=J7bsYpcMqOY,feed_0001_lillybauer_68582.mp4,skipped_no_ytdlp
+2,21417,aslsearch,41,0,train,25,1,-1,212,37,481,400,http://www.aslsearch.com/signs/videos/feed.mp4,feed_0002_aslsearch_21417.mp4,ok
+3,21408,signschool,4,0,val,25,1,-1,533,70,1573,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Feed-wqa_NFnOK3I.mp4,feed_0003_signschool_21408.mp4,ok
+4,21409,asldeafined,21,0,train,25,1,-1,91,12,554,480,https://media.asldeafined.com/vocabulary/1468463977.5294.mp4,feed_0004_asldeafined_21409.mp4,ok
+5,21410,handspeak,14,0,train,25,1,-1,57,18,263,240,https://www.handspeak.com/word/f/feed.mp4,feed_0005_handspeak_21410.mp4,failed
+6,21411,signingsavvy,10,0,train,25,1,-1,89,19,219,192,https://www.signingsavvy.com/signs/mp4/23/23273.mp4,feed_0006_signingsavvy_21411.mp4,ok
+7,21412,signingsavvy,11,0,train,25,1,-1,82,16,214,192,https://www.signingsavvy.com/signs/mp4/7/7423.mp4,feed_0007_signingsavvy_21412.mp4,ok
+8,21413,signingsavvy,11,0,val,25,1,-1,74,16,221,192,https://www.signingsavvy.com/signs/mp4/7/7424.mp4,feed_0008_signingsavvy_21413.mp4,ok
+9,21414,aslu,5,0,test,25,1,-1,352,22,1107,720,https://www.youtube.com/watch?v=kbsIHVA4oY8,feed_0009_aslu_21414.mp4,skipped_no_ytdlp
+10,21415,aslu,5,0,test,25,1,-1,330,36,964,720,https://www.youtube.com/watch?v=WMBf9Le-FMw,feed_0010_aslu_21415.mp4,skipped_no_ytdlp
+11,21416,aslpro,24,0,train,25,1,-1,23,9,206,240,http://www.aslpro.com/main/f/feed.swf,feed_0011_aslpro_21416.mp4,skipped_swf

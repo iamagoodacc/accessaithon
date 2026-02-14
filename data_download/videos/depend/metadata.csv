@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15594,asl5200,9,0,train,25,1568,1624,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,depend_0000_asl5200_15594.mp4,skipped_no_ytdlp
+1,15609,aslpro,16,0,train,25,1,-1,7,21,258,240,http://www.aslpro.com/main/d/depend.swf,depend_0001_aslpro_15609.mp4,skipped_swf
+2,15610,aslsearch,12,0,train,25,1,-1,184,57,542,400,http://www.aslsearch.com/signs/videos/depend.mp4,depend_0002_aslsearch_15610.mp4,ok
+3,65465,aslsignbank,102,0,val,25,1,-1,153,16,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DEPEND-1241.mp4,depend_0003_aslsignbank_65465.mp4,failed
+4,15601,spreadthesign,37,0,train,25,1,-1,53,0,255,240,https://media.spreadthesign.com/video/mp4/13/456698.mp4,depend_0004_spreadthesign_15601.mp4,ok
+5,15602,signschool,4,0,train,25,1,-1,536,41,1697,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dependant-hUqzIvP4NxU.mp4,depend_0005_signschool_15602.mp4,ok
+6,15603,asldeafined,59,0,train,25,1,-1,95,16,587,480,https://media.asldeafined.com/vocabulary/1466908128.6642.mp4,depend_0006_asldeafined_15603.mp4,ok
+7,15604,handspeak,20,0,train,25,1,-1,46,0,588,480,https://www.handspeak.com/word/d/depend2.mp4,depend_0007_handspeak_15604.mp4,failed
+8,15605,handspeak,14,0,val,25,1,-1,51,0,580,480,https://www.handspeak.com/word/d/depend.mp4,depend_0008_handspeak_15605.mp4,failed
+9,15606,signingsavvy,11,0,test,25,1,-1,66,14,215,192,https://www.signingsavvy.com/signs/mp4/9/9945.mp4,depend_0009_signingsavvy_15606.mp4,ok
+10,15607,signingsavvy,11,0,test,25,1,-1,71,12,216,192,https://www.signingsavvy.com/signs/mp4/9/9946.mp4,depend_0010_signingsavvy_15607.mp4,ok
+11,15608,aslu,5,0,train,25,1,-1,267,37,1003,720,https://www.youtube.com/watch?v=8E1NT-uiDXs,depend_0011_aslu_15608.mp4,skipped_no_ytdlp

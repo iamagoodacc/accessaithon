@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04678,asl5200,9,0,train,25,307,346,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bacon_0000_asl5200_04678.mp4,skipped_no_ytdlp
+1,04686,aslpro,30,0,train,25,1,-1,3,20,247,240,http://www.aslpro.com/main/b/bacon.swf,bacon_0001_aslpro_04686.mp4,skipped_swf
+2,04687,aslsearch,12,0,train,25,1,-1,160,51,531,400,http://www.aslsearch.com/signs/videos/bacon.mp4,bacon_0002_aslsearch_04687.mp4,ok
+3,65124,aslsignbank,89,0,val,25,1,-1,199,40,480,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BACON-2085.mp4,bacon_0003_aslsignbank_65124.mp4,failed
+4,67378,asllex,109,0,train,25,1,-1,116,16,414,360,https://youtu.be/37xjuBr0xF8,bacon_0004_asllex_67378.mp4,skipped_no_ytdlp
+5,04679,spreadthesign,2,0,train,25,1,-1,54,10,267,240,https://media.spreadthesign.com/video/mp4/13/123145.mp4,bacon_0005_spreadthesign_04679.mp4,ok
+6,04680,startasl,38,0,train,25,1,-1,388,61,843,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bacon.mp4,bacon_0006_startasl_04680.mp4,ok
+7,04681,signschool,31,0,train,25,1,-1,448,127,1707,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bacon-2ricwcKQJ1Y.mp4,bacon_0007_signschool_04681.mp4,ok
+8,04682,asldeafined,13,0,val,25,1,-1,83,23,615,480,https://media.asldeafined.com/vocabulary/1466648103.1897.mp4,bacon_0008_asldeafined_04682.mp4,ok
+9,04683,handspeak,20,0,test,25,1,-1,44,8,273,240,https://www.handspeak.com/word/b/bacon.mp4,bacon_0009_handspeak_04683.mp4,failed
+10,04684,signingsavvy,11,0,test,25,1,-1,84,15,235,192,https://www.signingsavvy.com/signs/mp4/7/7881.mp4,bacon_0010_signingsavvy_04684.mp4,ok
+11,04685,aslu,5,0,train,25,1,-1,347,70,966,720,https://www.youtube.com/watch?v=zFYoBYGU17g,bacon_0011_aslu_04685.mp4,skipped_no_ytdlp

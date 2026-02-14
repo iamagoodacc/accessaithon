@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23541,asl5200,9,0,train,25,3036,3082,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,friday_0000_asl5200_23541.mp4,skipped_no_ytdlp
+1,70027,northtexas,121,0,train,25,1537,1643,163,17,473,480,https://www.youtube.com/watch?v=sErq0TJMKEo,friday_0001_northtexas_70027.mp4,skipped_no_ytdlp
+2,23546,handspeak,14,0,train,25,1,-1,42,8,281,240,https://www.handspeak.com/word/f/friday.mp4,friday_0002_handspeak_23546.mp4,failed
+4,23548,signingsavvy,11,0,val,25,1,-1,81,7,216,192,https://www.signingsavvy.com/signs/mp4/6/6021.mp4,friday_0004_signingsavvy_23548.mp4,ok
+6,23550,aslu,5,0,train,25,1,-1,352,42,948,720,https://www.youtube.com/watch?v=ed00ZvaLeo4,friday_0006_aslu_23550.mp4,skipped_no_ytdlp
+7,65781,aslsignbank,94,0,train,25,1,-1,151,18,451,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FR/FRIDAY-558.mp4,friday_0007_aslsignbank_65781.mp4,failed
+8,67690,asllex,109,0,train,25,1,-1,98,10,373,360,https://youtu.be/maSirPyEQ7o,friday_0008_asllex_67690.mp4,skipped_no_ytdlp
+9,23551,aslpro,54,0,train,25,1,-1,26,1,238,240,http://www.aslpro.com//main/f/friday_13th.swf,friday_0009_aslpro_23551.mp4,skipped_swf
+12,23542,spreadthesign,37,0,val,25,1,-1,62,0,250,240,https://media.spreadthesign.com/video/mp4/13/456371.mp4,friday_0012_spreadthesign_23542.mp4,ok
+13,23543,startasl,38,0,test,25,1,-1,402,52,811,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/friday.mp4,friday_0013_startasl_23543.mp4,ok
+14,23544,signschool,3,0,test,25,1,-1,521,8,1364,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Friday-H9vlB0A119o.mp4,friday_0014_signschool_23544.mp4,ok
+15,23545,asldeafined,21,0,train,25,1,-1,127,15,542,480,https://media.asldeafined.com/vocabulary/1468514179.4506.mp4,friday_0015_asldeafined_23545.mp4,ok

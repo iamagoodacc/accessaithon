@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54069,asl5200,9,0,train,25,7677,7726,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,spray_0000_asl5200_54069.mp4,skipped_no_ytdlp
+1,54079,handspeak,14,0,train,25,1,-1,185,0,956,720,https://www.handspeak.com/word/s/spray-plu.mp4,spray_0001_handspeak_54079.mp4,failed
+2,54080,signingsavvy,10,0,train,25,1,-1,81,17,216,192,https://www.signingsavvy.com/signs/mp4/23/23843.mp4,spray_0002_signingsavvy_54080.mp4,ok
+3,54081,signingsavvy,10,0,val,25,1,-1,61,15,215,192,https://www.signingsavvy.com/signs/mp4/23/23844.mp4,spray_0003_signingsavvy_54081.mp4,ok
+4,54082,signingsavvy,10,0,train,25,1,-1,40,11,221,192,https://www.signingsavvy.com/signs/mp4/23/23845.mp4,spray_0004_signingsavvy_54082.mp4,ok
+5,54083,signingsavvy,10,0,train,25,1,-1,90,16,210,192,https://www.signingsavvy.com/signs/mp4/23/23846.mp4,spray_0005_signingsavvy_54083.mp4,ok
+6,54074,spreadthesign,77,0,train,25,1,-1,48,0,280,240,https://media.spreadthesign.com/video/mp4/13/185290.mp4,spray_0006_spreadthesign_54074.mp4,ok
+9,54086,aslpro,30,0,train,25,1,-1,9,18,229,240,http://www.aslpro.com/main/s/spray.swf,spray_0009_aslpro_54086.mp4,skipped_swf
+10,54087,aslsearch,12,0,val,25,1,-1,199,54,573,400,http://www.aslsearch.com/signs/videos/spray.mp4,spray_0010_aslsearch_54087.mp4,ok
+12,54076,signschool,32,0,test,25,1,-1,387,68,1610,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Spray-TfBh9qBk740.mp4,spray_0012_signschool_54076.mp4,ok
+13,54077,asldeafined,13,0,test,25,1,-1,154,0,531,480,https://media.asldeafined.com/vocabulary/1468842720.1258.mp4,spray_0013_asldeafined_54077.mp4,ok
+14,54078,handspeak,20,0,train,25,1,-1,38,9,269,240,https://www.handspeak.com/word/s/spray.mp4,spray_0014_handspeak_54078.mp4,failed

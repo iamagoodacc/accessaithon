@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,30453,signschool,31,0,train,25,1,-1,609,137,1507,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Invest%202-hIIEGp4bSeY.mp4,invest_0001_signschool_30453.mp4,ok
+2,30454,signschool,31,1,test,25,1,-1,705,144,1502,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Invest%203-V_TEwL5C9Y0.mp4,invest_0002_signschool_30454.mp4,ok
+3,30455,signschool,31,0,test,25,1,-1,539,145,1526,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Invest-EWMH5UTyQ84.mp4,invest_0003_signschool_30455.mp4,ok
+5,30457,handspeak,20,0,val,25,1,-1,79,19,615,480,https://www.handspeak.com/word/i/invest2.mp4,invest_0005_handspeak_30457.mp4,failed
+6,30458,handspeak,20,0,train,25,1,-1,43,14,622,480,https://www.handspeak.com/word/i/invest.mp4,invest_0006_handspeak_30458.mp4,failed
+8,30460,signingsavvy,11,1,val,25,1,-1,46,10,217,192,https://www.signingsavvy.com/signs/mp4/9/9970.mp4,invest_0008_signingsavvy_30460.mp4,ok
+9,65959,aslsignbank,96,1,train,25,1,-1,206,35,514,369,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INVEST-1719.mp4,invest_0009_aslsignbank_65959.mp4,failed
+10,30451,spreadthesign,2,1,train,25,1,-1,59,37,246,240,https://media.spreadthesign.com/video/mp4/13/89805.mp4,invest_0010_spreadthesign_30451.mp4,ok
+11,30461,aslu,5,0,train,25,1,-1,236,18,1052,720,https://www.youtube.com/watch?v=JOBRMrjTre8,invest_0011_aslu_30461.mp4,skipped_no_ytdlp
+13,30463,aslu,5,1,train,25,1,-1,158,10,967,720,https://www.youtube.com/watch?v=x4005l2K7xs,invest_0013_aslu_30463.mp4,skipped_no_ytdlp
+14,30464,aslu,5,1,train,25,1,-1,158,10,967,720,https://www.youtube.com/watch?v=x4005l2K7xs,invest_0014_aslu_30464.mp4,skipped_no_ytdlp
+17,30452,startasl,38,1,train,25,1,-1,428,60,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/invest.mp4,invest_0017_startasl_30452.mp4,ok

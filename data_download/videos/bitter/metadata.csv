@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06425,asl5200,9,0,train,25,3046,3108,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bitter_0000_asl5200_06425.mp4,skipped_no_ytdlp
+1,06435,signingsavvy,11,0,train,25,1,-1,67,17,224,192,https://www.signingsavvy.com/signs/mp4/8/8096.mp4,bitter_0001_signingsavvy_06435.mp4,ok
+2,06436,signingsavvy,11,0,train,25,1,-1,80,14,221,192,https://www.signingsavvy.com/signs/mp4/8/8113.mp4,bitter_0002_signingsavvy_06436.mp4,ok
+3,06437,aslu,5,0,val,25,1,-1,365,32,949,720,https://www.youtube.com/watch?v=ynO66DC858s,bitter_0003_aslu_06437.mp4,skipped_no_ytdlp
+4,06428,spreadthesign,37,0,train,25,1,-1,59,0,239,240,https://media.spreadthesign.com/video/mp4/13/455545.mp4,bitter_0004_spreadthesign_06428.mp4,ok
+5,06438,aslpro,24,0,train,25,1,-1,25,11,197,240,http://www.aslpro.com/main/b/bitter.swf,bitter_0005_aslpro_06438.mp4,skipped_swf
+6,06439,aslsearch,12,0,train,25,1,-1,157,52,516,400,http://www.aslsearch.com/signs/videos/bitter.mp4,bitter_0006_aslsearch_06439.mp4,ok
+7,06429,startasl,38,0,train,25,1,-1,430,60,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bitter.mp4,bitter_0007_startasl_06429.mp4,ok
+8,06430,signschool,60,0,val,25,1,-1,375,19,802,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bitter-3P2x3lpuyTY.mp4,bitter_0008_signschool_06430.mp4,ok
+9,06431,signschool,60,0,test,25,1,-1,376,21,805,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Really%20Bitter-ylVBsRKFRPo.mp4,bitter_0009_signschool_06431.mp4,ok
+10,06432,asldeafined,13,0,test,25,1,-1,127,0,508,480,https://media.asldeafined.com/vocabulary/1468842010.9834.mp4,bitter_0010_asldeafined_06432.mp4,ok
+11,06433,handspeak,14,0,train,25,1,-1,40,0,507,480,https://www.handspeak.com/word/b/bitter.mp4,bitter_0011_handspeak_06433.mp4,failed

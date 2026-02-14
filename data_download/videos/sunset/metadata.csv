@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66581,aslsignbank,100,0,val,25,1,-1,125,25,481,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SU/SUNSET-1143.mp4,sunset_0000_aslsignbank_66581.mp4,failed
+1,55861,aslu,5,0,train,25,1,-1,286,43,1005,720,https://www.youtube.com/watch?v=AJQcfZZf04M,sunset_0001_aslu_55861.mp4,skipped_no_ytdlp
+2,55862,aslu,5,0,train,25,1,-1,288,41,994,720,https://www.youtube.com/watch?v=HmM5EuK-z_I,sunset_0002_aslu_55862.mp4,skipped_no_ytdlp
+3,55863,aslpro,72,0,train,25,1,-1,0,2,222,240,http://www.aslpro.com/main/s/sunset.swf,sunset_0003_aslpro_55863.mp4,skipped_swf
+4,55854,spreadthesign,2,0,train,25,1,-1,58,12,262,240,https://media.spreadthesign.com/video/mp4/13/117094.mp4,sunset_0004_spreadthesign_55854.mp4,ok
+5,67262,asllex,109,0,train,25,1,-1,76,0,399,360,https://youtu.be/9OoMYYM22PQ,sunset_0005_asllex_67262.mp4,skipped_no_ytdlp
+6,55864,aslsearch,41,0,train,25,1,-1,224,32,517,400,http://www.aslsearch.com/signs/videos/sunset.mp4,sunset_0006_aslsearch_55864.mp4,ok
+7,55855,signschool,45,0,train,25,1,-1,234,42,1619,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sunset%202-xQ6bkeKO04E.mp4,sunset_0007_signschool_55855.mp4,ok
+8,55856,signschool,45,0,train,25,1,-1,128,30,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sunset-UghDATZjW6Q.mp4,sunset_0008_signschool_55856.mp4,ok
+9,55857,asldeafined,13,0,test,25,1,-1,142,0,584,480,https://media.asldeafined.com/vocabulary/1468898098.7171.mp4,sunset_0009_asldeafined_55857.mp4,ok
+10,55858,handspeak,14,0,train,25,1,-1,26,0,604,480,https://www.handspeak.com/word/s/sunset.mp4,sunset_0010_handspeak_55858.mp4,failed
+11,55859,signingsavvy,11,0,test,25,1,-1,61,14,218,192,https://www.signingsavvy.com/signs/mp4/14/14858.mp4,sunset_0011_signingsavvy_55859.mp4,ok
+12,55860,signingsavvy,11,0,val,25,1,-1,61,13,222,192,https://www.signingsavvy.com/signs/mp4/14/14859.mp4,sunset_0012_signingsavvy_55860.mp4,ok

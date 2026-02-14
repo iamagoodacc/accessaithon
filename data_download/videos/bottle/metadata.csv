@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07284,asl5200,9,0,test,25,3977,4009,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bottle_0000_asl5200_07284.mp4,skipped_no_ytdlp
+1,69243,aslbrick,117,0,train,25,1,-1,381,31,934,720,http://aslbricks.org/New/ASL-Videos/bottle.mp4,bottle_0001_aslbrick_69243.mp4,ok
+2,65235,aslsignbank,90,0,train,25,1,-1,181,24,488,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOTTLE-47.mp4,bottle_0002_aslsignbank_65235.mp4,failed
+3,07286,spreadthesign,2,0,val,25,1,-1,3,3,263,240,https://media.spreadthesign.com/video/mp4/13/244952.mp4,bottle_0003_spreadthesign_07286.mp4,ok
+4,67429,asllex,109,0,train,25,1,-1,75,19,374,360,https://youtu.be/jIGF7yOCg9k,bottle_0004_asllex_67429.mp4,skipped_no_ytdlp
+5,07287,signschool,6,0,test,25,1,-1,622,69,1591,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bottle-nbszrRfXags.mp4,bottle_0005_signschool_07287.mp4,ok
+6,07288,asldeafined,59,0,train,25,1,-1,83,25,554,480,https://media.asldeafined.com/vocabulary/1466684757.2744.mp4,bottle_0006_asldeafined_07288.mp4,ok
+7,07289,handspeak,20,0,train,25,1,-1,7,0,534,480,https://www.handspeak.com/word/b/bottle.mp4,bottle_0007_handspeak_07289.mp4,failed
+8,07290,signingsavvy,11,0,train,25,1,-1,78,10,221,192,https://www.signingsavvy.com/signs/mp4/14/14487.mp4,bottle_0008_signingsavvy_07290.mp4,ok
+9,07291,aslpro,25,0,train,25,1,-1,0,0,234,234,http://www.aslpro.com/main/b/bottle.swf,bottle_0009_aslpro_07291.mp4,skipped_swf
+10,07292,aslsearch,41,0,val,25,1,-1,209,40,473,400,http://www.aslsearch.com/signs/videos/bottle.mp4,bottle_0010_aslsearch_07292.mp4,ok

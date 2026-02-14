@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13311,asl5200,9,0,train,25,6191,6220,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,corner_0000_asl5200_13311.mp4,skipped_no_ytdlp
+1,70181,northtexas,121,0,train,25,1429,1555,144,35,480,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,corner_0001_northtexas_70181.mp4,skipped_no_ytdlp
+2,13320,aslsearch,12,0,train,25,1,-1,169,56,536,400,http://www.aslsearch.com/signs/videos/corner.mp4,corner_0002_aslsearch_13320.mp4,ok
+3,65407,aslsignbank,102,0,val,25,1,-1,179,18,498,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CORNER-1166.mp4,corner_0003_aslsignbank_65407.mp4,failed
+4,13312,spreadthesign,56,0,train,25,1,-1,51,13,265,240,https://media.spreadthesign.com/video/mp4/13/399324.mp4,corner_0004_spreadthesign_13312.mp4,ok
+5,13313,asldeafined,59,0,train,25,1,-1,105,27,561,480,https://media.asldeafined.com/vocabulary/1466903473.5759.mp4,corner_0005_asldeafined_13313.mp4,ok
+6,13314,handspeak,14,0,train,25,1,-1,22,3,263,240,https://www.handspeak.com/word/c/corner2.mp4,corner_0006_handspeak_13314.mp4,failed
+7,13315,handspeak,14,0,train,25,1,-1,25,3,263,240,https://www.handspeak.com/word/c/corner.mp4,corner_0007_handspeak_13315.mp4,failed
+8,13316,signingsavvy,11,0,val,25,1,-1,71,14,213,192,https://www.signingsavvy.com/signs/mp4/9/9533.mp4,corner_0008_signingsavvy_13316.mp4,ok
+9,13317,aslu,5,0,test,25,1,-1,306,10,995,720,https://www.youtube.com/watch?v=dEXhT5Od-6U,corner_0009_aslu_13317.mp4,skipped_no_ytdlp
+10,13318,aslu,5,0,test,25,1,-1,330,21,997,720,https://www.youtube.com/watch?v=s1hZ9oqTMPA,corner_0010_aslu_13318.mp4,skipped_no_ytdlp
+11,13319,aslpro,24,0,train,25,1,-1,20,10,208,240,http://www.aslpro.com/main/c/corner.swf,corner_0011_aslpro_13319.mp4,skipped_swf

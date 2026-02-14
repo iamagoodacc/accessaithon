@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,34955,asl5200,9,0,val,25,518,567,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,marry_0000_asl5200_34955.mp4,skipped_no_ytdlp
+1,68326,lillybauer,112,0,train,25,1,37,314,25,864,720,https://www.youtube.com/watch?v=AFQ1q4iF_08,marry_0001_lillybauer_68326.mp4,skipped_no_ytdlp
+2,34963,aslu,5,0,train,25,1,-1,87,19,434,360,https://www.youtube.com/watch?v=RwgmSO-tMyo,marry_0002_aslu_34963.mp4,skipped_no_ytdlp
+3,34964,aslpro,87,0,train,25,1,-1,19,1,228,240,http://www.aslpro.com/main/m/marry.swf,marry_0003_aslpro_34964.mp4,skipped_swf
+4,66104,aslsignbank,97,0,train,25,1,-1,177,29,456,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MA/MARRY-1625.mp4,marry_0004_aslsignbank_66104.mp4,failed
+5,34965,aslsearch,41,0,train,25,1,-1,230,37,488,400,http://www.aslsearch.com/signs/videos/marriage.mp4,marry_0005_aslsearch_34965.mp4,ok
+6,34956,spreadthesign,8,0,train,25,1,-1,71,0,246,240,https://media.spreadthesign.com/video/mp4/13/456935.mp4,marry_0006_spreadthesign_34956.mp4,ok
+7,34957,startasl,36,0,train,25,1,-1,234,17,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/marry.mp4,marry_0007_startasl_34957.mp4,ok
+8,34958,signschool,6,0,train,25,1,-1,472,36,1024,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Marry_2C%20Marriage.mp4,marry_0008_signschool_34958.mp4,ok
+9,34959,asldeafined,13,0,test,25,1,-1,127,0,512,480,https://media.asldeafined.com/vocabulary/1468713836.1212.mp4,marry_0009_asldeafined_34959.mp4,ok
+10,34960,handspeak,14,0,train,25,1,-1,91,10,260,240,https://www.handspeak.com/word/m/marry.mp4,marry_0010_handspeak_34960.mp4,failed
+11,34961,signingsavvy,11,0,test,25,1,-1,74,15,211,192,https://www.signingsavvy.com/signs/mp4/6/6397.mp4,marry_0011_signingsavvy_34961.mp4,ok
+12,34962,aslu,5,0,val,25,1,-1,339,48,964,720,https://www.youtube.com/watch?v=i_qOMhaaqVI,marry_0012_aslu_34962.mp4,skipped_no_ytdlp

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28375,asl5200,9,0,train,25,2559,2618,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hungry_0000_asl5200_28375.mp4,skipped_no_ytdlp
+1,28383,nabboud,69,0,train,25,1,-1,381,55,837,720,https://www.youtube.com/watch?v=a90eIyt5eJs,hungry_0001_nabboud_28383.mp4,skipped_no_ytdlp
+2,28384,aslpro,16,0,train,25,1,-1,23,19,213,240,http://www.aslpro.com/main/h/hungry.swf,hungry_0002_aslpro_28384.mp4,skipped_swf
+3,67779,asllex,109,0,val,25,1,-1,97,24,382,360,https://youtu.be/H-hjnF_GtuU,hungry_0003_asllex_67779.mp4,skipped_no_ytdlp
+4,28385,aslsearch,12,0,train,25,1,-1,187,52,534,400,http://www.aslsearch.com/signs/videos/hunger.mp4,hungry_0004_aslsearch_28385.mp4,ok
+5,28376,spreadthesign,0,0,train,25,1,-1,50,7,245,240,https://media.spreadthesign.com/video/mp4/13/58529.mp4,hungry_0005_spreadthesign_28376.mp4,ok
+6,28377,startasl,38,0,train,25,1,-1,434,69,875,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hungry.mp4,hungry_0006_startasl_28377.mp4,ok
+7,28378,signschool,52,0,train,25,1,-1,256,8,583,360,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hungry-FkoOUSVF-9g.mp4,hungry_0007_signschool_28378.mp4,ok
+8,28379,asldeafined,21,0,val,25,1,-1,82,11,536,480,https://media.asldeafined.com/vocabulary/1468639252.5637.mp4,hungry_0008_asldeafined_28379.mp4,ok
+9,28380,handspeak,20,0,test,25,1,-1,112,0,562,480,https://www.handspeak.com/word/h/hungry.mp4,hungry_0009_handspeak_28380.mp4,failed
+10,28381,signingsavvy,11,0,test,25,1,-1,68,15,220,192,https://www.signingsavvy.com/signs/mp4/7/7294.mp4,hungry_0010_signingsavvy_28381.mp4,ok
+11,28382,aslu,5,0,train,25,1,-1,399,35,986,720,https://www.youtube.com/watch?v=8ZOUoDZkAoQ,hungry_0011_aslu_28382.mp4,skipped_no_ytdlp

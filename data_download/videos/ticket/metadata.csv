@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58384,asl5200,9,0,train,25,2708,2764,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,ticket_0000_asl5200_58384.mp4,skipped_no_ytdlp
+1,58395,aslpro,24,0,train,25,1,-1,21,5,239,240,http://www.aslpro.com//main/t/ticket_fine.swf,ticket_0001_aslpro_58395.mp4,skipped_swf
+2,58396,aslpro,49,0,train,25,1,-1,24,7,228,240,http://www.aslpro.com/main/t/ticket.swf,ticket_0002_aslpro_58396.mp4,skipped_swf
+3,58387,spreadthesign,56,0,val,25,1,-1,49,0,277,240,https://media.spreadthesign.com/video/mp4/13/50881.mp4,ticket_0003_spreadthesign_58387.mp4,ok
+4,58397,aslsearch,12,0,train,25,1,-1,192,61,568,400,http://www.aslsearch.com/signs/videos/cite2.mp4,ticket_0004_aslsearch_58397.mp4,ok
+5,58388,startasl,38,0,train,25,1,-1,407,56,826,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/ticket.mp4,ticket_0005_startasl_58388.mp4,ok
+6,58389,asldeafined,13,0,train,25,1,-1,142,0,576,480,https://media.asldeafined.com/vocabulary/1468945209.7107.mp4,ticket_0006_asldeafined_58389.mp4,ok
+7,58390,handspeak,14,0,train,25,1,-1,107,0,525,360,https://www.handspeak.com/word/t/ticket-give.mp4,ticket_0007_handspeak_58390.mp4,failed
+8,58391,handspeak,14,0,val,25,1,-1,120,0,588,480,https://www.handspeak.com/word/t/ticket.mp4,ticket_0008_handspeak_58391.mp4,failed
+9,58392,signingsavvy,10,0,test,25,1,-1,91,22,219,192,https://www.signingsavvy.com/signs/mp4/22/22588.mp4,ticket_0009_signingsavvy_58392.mp4,ok
+10,58393,signingsavvy,10,0,test,25,1,-1,78,21,220,192,https://www.signingsavvy.com/signs/mp4/22/22589.mp4,ticket_0010_signingsavvy_58393.mp4,ok
+11,58394,aslu,5,0,train,25,1,-1,308,43,934,720,https://www.youtube.com/watch?v=os3UZ0eilLE,ticket_0011_aslu_58394.mp4,skipped_no_ytdlp

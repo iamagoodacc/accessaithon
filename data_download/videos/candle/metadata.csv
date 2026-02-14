@@ -1,0 +1,12 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08897,asl5200,9,0,test,25,673,729,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,candle_0000_asl5200_08897.mp4,skipped_no_ytdlp
+1,08905,aslsearch,12,0,train,25,1,-1,164,51,538,400,http://www.aslsearch.com/signs/videos/candle.mp4,candle_0001_aslsearch_08905.mp4,ok
+2,65297,aslsignbank,89,0,train,25,1,-1,195,17,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CANDLE-1013.mp4,candle_0002_aslsignbank_65297.mp4,failed
+3,67469,asllex,109,0,val,25,1,-1,102,16,389,360,https://youtu.be/a_8GO2Wo9YA,candle_0003_asllex_67469.mp4,skipped_no_ytdlp
+4,08898,spreadthesign,26,0,train,25,1,-1,57,0,260,240,https://media.spreadthesign.com/video/mp4/13/125754.mp4,candle_0004_spreadthesign_08898.mp4,ok
+5,08899,startasl,38,0,test,25,1,-1,420,55,839,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/candle.mp4,candle_0005_startasl_08899.mp4,ok
+6,08900,asldeafined,59,0,train,25,1,-1,127,16,525,480,https://media.asldeafined.com/vocabulary/1466726608.2103.mp4,candle_0006_asldeafined_08900.mp4,ok
+7,08901,handspeak,20,0,train,25,1,-1,104,0,503,480,https://www.handspeak.com/word/c/candle.mp4,candle_0007_handspeak_08901.mp4,failed
+8,08902,signingsavvy,11,0,train,25,1,-1,78,15,204,192,https://www.signingsavvy.com/signs/mp4/14/14016.mp4,candle_0008_signingsavvy_08902.mp4,ok
+9,08903,aslu,5,0,train,25,1,-1,353,37,921,720,https://www.youtube.com/watch?v=k01PsVz_CWw,candle_0009_aslu_08903.mp4,skipped_no_ytdlp
+10,08904,aslpro,54,0,val,25,1,-1,22,6,227,240,http://www.aslpro.com//main/c/candle.swf,candle_0010_aslpro_08904.mp4,skipped_swf

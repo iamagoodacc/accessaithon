@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58443,asl5200,9,0,val,25,2765,2827,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tiger_0000_asl5200_58443.mp4,skipped_no_ytdlp
+1,69510,aslbrick,115,0,train,25,1,-1,331,34,1000,720,http://aslbricks.org/New/ASL-Videos/tiger.mp4,tiger_0001_aslbrick_69510.mp4,ok
+2,70108,northtexas,121,0,train,25,1113,1218,146,20,528,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,tiger_0002_northtexas_70108.mp4,skipped_no_ytdlp
+4,58452,aslsearch,12,0,train,25,1,-1,175,49,552,400,http://www.aslsearch.com/signs/videos/tiger.mp4,tiger_0004_aslsearch_58452.mp4,ok
+5,66643,aslsignbank,98,0,train,25,1,-1,162,31,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TI/TIGER-1232.mp4,tiger_0005_aslsignbank_66643.mp4,failed
+6,67308,asllex,109,0,train,25,1,-1,97,18,409,360,https://youtu.be/Bpsb4jSc7rg,tiger_0006_asllex_67308.mp4,skipped_no_ytdlp
+7,58444,spreadthesign,56,0,train,25,1,-1,36,0,289,240,https://media.spreadthesign.com/video/mp4/13/357971.mp4,tiger_0007_spreadthesign_58444.mp4,ok
+8,58445,startasl,36,0,train,25,1,-1,233,13,560,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tiger.mp4,tiger_0008_startasl_58445.mp4,ok
+9,58446,signschool,4,0,train,25,1,-1,630,79,1584,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tiger%202-YKuZX56NxRM.mp4,tiger_0009_signschool_58446.mp4,ok
+10,58447,signschool,31,0,test,25,1,-1,446,90,1033,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Tiger.mp4,tiger_0010_signschool_58447.mp4,ok
+11,58448,asldeafined,13,0,train,25,1,-1,87,0,601,480,https://media.asldeafined.com/vocabulary/1468945335.4733.mp4,tiger_0011_asldeafined_58448.mp4,ok
+12,58449,handspeak,14,0,test,25,1,-1,101,0,557,480,https://www.handspeak.com/word/t/tiger.mp4,tiger_0012_handspeak_58449.mp4,failed
+13,58450,signingsavvy,10,0,val,25,1,-1,58,16,239,192,https://www.signingsavvy.com/signs/mp4/22/22142.mp4,tiger_0013_signingsavvy_58450.mp4,ok

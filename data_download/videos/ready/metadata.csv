@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,46287,asl5200,9,0,val,25,633,672,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,ready_0000_asl5200_46287.mp4,skipped_no_ytdlp
+1,46305,aslsearch,12,0,train,25,1,-1,179,48,548,400,http://www.aslsearch.com/signs/videos/ready.mp4,ready_0001_aslsearch_46305.mp4,ok
+2,46288,spreadthesign,2,0,train,25,1,-1,23,6,309,240,https://media.spreadthesign.com/video/mp4/13/158011.mp4,ready_0002_spreadthesign_46288.mp4,ok
+3,46289,spreadthesign,56,0,train,25,1,-1,13,0,297,240,https://media.spreadthesign.com/video/mp4/13/49268.mp4,ready_0003_spreadthesign_46289.mp4,ok
+5,46291,signschool,4,0,train,25,1,-1,345,35,1768,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ready%202h-Mia86oYwZKs.mp4,ready_0005_signschool_46291.mp4,ok
+6,46292,asldeafined,13,0,train,25,1,-1,148,1,572,480,https://media.asldeafined.com/vocabulary/1468758376.4036.mp4,ready_0006_asldeafined_46292.mp4,ok
+7,46293,asldeafined,15,0,train,25,1,-1,130,32,517,480,https://media.asldeafined.com/vocabulary/1522768074.9713.mp4,ready_0007_asldeafined_46293.mp4,ok
+8,46294,handspeak,14,0,train,25,1,-1,55,15,264,240,https://www.handspeak.com/word/r/ready2.mp4,ready_0008_handspeak_46294.mp4,failed
+10,46296,signingsavvy,11,0,train,25,1,-1,45,7,230,192,https://www.signingsavvy.com/signs/mp4/14/14681.mp4,ready_0010_signingsavvy_46296.mp4,ok
+11,66374,aslsignbank,89,0,test,25,1,-1,195,38,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/READY-2161.mp4,ready_0011_aslsignbank_66374.mp4,failed
+14,46299,signingsavvy,11,0,train,25,1,-1,54,12,218,192,https://www.signingsavvy.com/signs/mp4/9/9415.mp4,ready_0014_signingsavvy_46299.mp4,ok
+15,46300,signingsavvy,11,0,test,25,1,-1,68,14,213,192,https://www.signingsavvy.com/signs/mp4/9/9416.mp4,ready_0015_signingsavvy_46300.mp4,ok
+17,46302,aslu,5,0,val,25,1,-1,321,30,1010,720,https://www.youtube.com/watch?v=rc7mlqlvOss,ready_0017_aslu_46302.mp4,skipped_no_ytdlp

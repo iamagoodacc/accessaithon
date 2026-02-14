@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65554,aslsignbank,91,0,train,25,1,-1,214,36,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DU/DUTY-1283.mp4,duty_0000_aslsignbank_65554.mp4,failed
+1,18066,aslu,5,0,train,25,1,-1,302,37,985,720,https://www.youtube.com/watch?v=thEjS6v2GPQ,duty_0001_aslu_18066.mp4,skipped_no_ytdlp
+2,18067,aslpro,24,0,train,25,1,-1,8,12,209,240,http://www.aslpro.com/main/d/duty.swf,duty_0002_aslpro_18067.mp4,skipped_swf
+3,18058,spreadthesign,2,0,val,25,1,-1,68,35,239,240,https://media.spreadthesign.com/video/mp4/13/93333.mp4,duty_0003_spreadthesign_18058.mp4,ok
+4,18068,aslsearch,12,0,train,25,1,-1,198,61,544,400,http://www.aslsearch.com/signs/videos/duty.mp4,duty_0004_aslsearch_18068.mp4,ok
+5,18059,asldeafined,21,0,train,25,1,-1,63,13,564,480,https://media.asldeafined.com/vocabulary/1468206993.6631.mp4,duty_0005_asldeafined_18059.mp4,ok
+6,18060,handspeak,20,0,train,25,1,-1,128,8,490,360,https://www.handspeak.com/word/d/duty.mp4,duty_0006_handspeak_18060.mp4,failed
+7,18061,signingsavvy,11,0,train,25,1,-1,56,10,227,192,https://www.signingsavvy.com/signs/mp4/1/1469.mp4,duty_0007_signingsavvy_18061.mp4,ok
+8,18062,aslu,5,0,val,25,1,-1,354,37,950,720,https://www.youtube.com/watch?v=4u2cu6oIYmM,duty_0008_aslu_18062.mp4,skipped_no_ytdlp
+9,18063,aslu,5,0,test,25,1,-1,332,32,987,720,https://www.youtube.com/watch?v=5LKzEJlnM5E,duty_0009_aslu_18063.mp4,skipped_no_ytdlp
+10,18064,aslu,5,0,test,25,1,-1,303,36,977,720,https://www.youtube.com/watch?v=7nqeE5Z04iA,duty_0010_aslu_18064.mp4,skipped_no_ytdlp
+11,18065,aslu,5,0,train,25,1,-1,320,37,963,720,https://www.youtube.com/watch?v=EZj07NEY8I4,duty_0011_aslu_18065.mp4,skipped_no_ytdlp

@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55730,asl5200,9,0,train,25,10237,10276,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,summer_0000_asl5200_55730.mp4,skipped_no_ytdlp
+1,69495,aslbrick,117,0,train,25,1,-1,270,25,937,720,http://aslbricks.org/New/ASL-Videos/summer.mp4,summer_0001_aslbrick_69495.mp4,ok
+2,55738,aslsearch,41,0,train,25,1,-1,195,33,495,400,http://www.aslsearch.com/signs/videos/summer.mp4,summer_0002_aslsearch_55738.mp4,ok
+3,66579,aslsignbank,93,0,val,25,1,-1,139,23,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SU/SUMMER-668.mp4,summer_0003_aslsignbank_66579.mp4,failed
+4,67263,asllex,109,0,train,25,1,-1,100,9,376,360,https://youtu.be/6_Pr0suftvI,summer_0004_asllex_67263.mp4,skipped_no_ytdlp
+5,55731,startasl,38,0,train,25,1,-1,416,58,809,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/summer.mp4,summer_0005_startasl_55731.mp4,ok
+6,55732,signschool,4,0,train,25,1,-1,645,69,1645,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Summer-a20Is7sVOOg.mp4,summer_0006_signschool_55732.mp4,ok
+7,55733,asldeafined,13,0,train,25,1,-1,90,0,519,480,https://media.asldeafined.com/vocabulary/1468897911.2585.mp4,summer_0007_asldeafined_55733.mp4,ok
+8,55734,handspeak,14,0,val,25,1,-1,52,1,556,480,https://www.handspeak.com/word/s/summer.mp4,summer_0008_handspeak_55734.mp4,failed
+9,55735,signingsavvy,11,0,test,25,1,-1,59,9,228,192,https://www.signingsavvy.com/signs/mp4/7/7071.mp4,summer_0009_signingsavvy_55735.mp4,ok
+10,55736,aslu,5,0,test,25,1,-1,173,0,939,720,https://www.youtube.com/watch?v=AaXReP9YjVE,summer_0010_aslu_55736.mp4,skipped_no_ytdlp
+11,55737,aslpro,72,0,train,25,1,-1,0,2,223,240,http://www.aslpro.com/main/s/summer.swf,summer_0011_aslpro_55737.mp4,skipped_swf

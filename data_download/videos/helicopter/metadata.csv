@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27150,asl5200,9,0,train,25,1237,1296,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,helicopter_0000_asl5200_27150.mp4,skipped_no_ytdlp
+1,27158,aslpro,24,0,train,25,1,-1,0,17,227,240,http://www.aslpro.com/main/h/helicopter.swf,helicopter_0001_aslpro_27158.mp4,skipped_swf
+2,27159,aslsearch,12,0,train,25,1,-1,168,52,561,400,http://www.aslsearch.com/signs/videos/helicopter.mp4,helicopter_0002_aslsearch_27159.mp4,ok
+3,65888,aslsignbank,90,0,val,25,1,-1,145,14,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HELICOPTER-481.mp4,helicopter_0003_aslsignbank_65888.mp4,failed
+4,67754,asllex,109,0,train,25,1,-1,35,15,371,360,https://youtu.be/nUgnxoZeDr8,helicopter_0004_asllex_67754.mp4,skipped_no_ytdlp
+5,27151,spreadthesign,77,0,train,25,1,-1,14,0,280,240,https://media.spreadthesign.com/video/mp4/13/185077.mp4,helicopter_0005_spreadthesign_27151.mp4,ok
+6,27152,spreadthesign,2,0,train,25,1,-1,46,44,247,240,https://media.spreadthesign.com/video/mp4/13/91780.mp4,helicopter_0006_spreadthesign_27152.mp4,ok
+7,27153,signschool,32,0,train,25,1,-1,623,73,1648,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Helicopter-4W_TgewqYFw.mp4,helicopter_0007_signschool_27153.mp4,ok
+8,27154,signschool,32,0,val,25,1,-1,584,73,1528,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Helicopter-PIxZEyDv-RI.mp4,helicopter_0008_signschool_27154.mp4,ok
+9,27155,asldeafined,21,0,test,25,1,-1,55,9,589,480,https://media.asldeafined.com/vocabulary/1468580577.1693.mp4,helicopter_0009_asldeafined_27155.mp4,ok
+10,27156,handspeak,20,0,test,25,1,-1,68,0,565,477,https://www.handspeak.com/word/h/helicopter.mp4,helicopter_0010_handspeak_27156.mp4,failed
+11,27157,signingsavvy,11,0,train,25,1,-1,55,15,228,192,https://www.signingsavvy.com/signs/mp4/0/604.mp4,helicopter_0011_signingsavvy_27157.mp4,ok

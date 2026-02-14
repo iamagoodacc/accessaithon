@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18785,asl5200,9,0,train,25,1092,1151,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,elevator_0000_asl5200_18785.mp4,skipped_no_ytdlp
+1,70195,northtexas,121,0,train,25,4401,4538,88,34,493,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,elevator_0001_northtexas_70195.mp4,skipped_no_ytdlp
+2,68910,lillybauer,115,0,train,25,1,99,336,22,990,720,https://www.youtube.com/watch?v=tf5ZXLGyXII,elevator_0002_lillybauer_68910.mp4,skipped_no_ytdlp
+3,18792,handspeak,20,0,val,25,1,-1,69,0,561,480,https://www.handspeak.com/word/e/elevator-ca.mp4,elevator_0003_handspeak_18792.mp4,failed
+4,18793,handspeak,20,0,train,25,1,-1,29,0,605,480,https://www.handspeak.com/word/e/elevator-us.mp4,elevator_0004_handspeak_18793.mp4,failed
+7,18796,signingsavvy,10,0,train,25,1,-1,81,24,196,192,https://www.signingsavvy.com/signs/mp4/22/22824.mp4,elevator_0007_signingsavvy_18796.mp4,ok
+9,65621,aslsignbank,94,0,train,25,1,-1,165,20,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EL/ELEVATOR-2171.mp4,elevator_0009_aslsignbank_65621.mp4,failed
+10,18788,spreadthesign,37,0,train,25,1,-1,70,0,246,240,https://media.spreadthesign.com/video/mp4/13/456835.mp4,elevator_0010_spreadthesign_18788.mp4,ok
+12,18799,aslu,5,0,val,25,1,-1,330,29,953,720,https://www.youtube.com/watch?v=ztBZaV2yoxs,elevator_0012_aslu_18799.mp4,skipped_no_ytdlp
+14,18801,aslsearch,12,0,test,25,1,-1,185,54,541,400,http://www.aslsearch.com/signs/videos/elevator.mp4,elevator_0014_aslsearch_18801.mp4,ok
+16,18790,startasl,38,0,test,25,1,-1,394,54,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/elevator.mp4,elevator_0016_startasl_18790.mp4,ok
+17,18791,asldeafined,21,0,train,25,1,-1,125,10,577,480,https://media.asldeafined.com/vocabulary/1468348976.5055.mp4,elevator_0017_asldeafined_18791.mp4,ok

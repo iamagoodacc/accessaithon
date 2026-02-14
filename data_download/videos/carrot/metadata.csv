@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69259,aslbrick,117,0,train,25,1,-1,303,31,916,720,http://aslbricks.org/New/ASL-Videos/carrot.mp4,carrot_0000_aslbrick_69259.mp4,ok
+1,65308,aslsignbank,89,0,train,25,1,-1,132,19,466,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CARROT-1025.mp4,carrot_0001_aslsignbank_65308.mp4,failed
+2,09311,asldeafined,59,0,train,25,1,-1,88,26,518,480,https://media.asldeafined.com/vocabulary/1466727674.6974.mp4,carrot_0002_asldeafined_09311.mp4,ok
+3,09312,handspeak,14,0,val,25,1,-1,45,21,320,240,https://www.handspeak.com/word/c/carrot.mp4,carrot_0003_handspeak_09312.mp4,failed
+5,09314,aslu,5,0,train,25,1,-1,308,60,922,720,https://www.youtube.com/watch?v=wMX84DjGfwM,carrot_0005_aslu_09314.mp4,skipped_no_ytdlp
+6,09305,spreadthesign,2,0,train,25,1,-1,44,0,266,240,https://media.spreadthesign.com/video/mp4/13/125824.mp4,carrot_0006_spreadthesign_09305.mp4,ok
+7,67474,asllex,109,0,train,25,1,-1,87,19,381,360,https://youtu.be/LdbzhGeCc3E,carrot_0007_asllex_67474.mp4,skipped_no_ytdlp
+10,09306,spreadthesign,56,0,train,25,1,-1,43,0,272,240,https://media.spreadthesign.com/video/mp4/13/51392.mp4,carrot_0010_spreadthesign_09306.mp4,ok
+11,09307,startasl,38,0,val,25,1,-1,399,57,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/carrot.mp4,carrot_0011_startasl_09307.mp4,ok
+12,09308,signschool,32,0,test,25,1,-1,675,85,1612,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Carrot-1PNIJ1yFCD0.mp4,carrot_0012_signschool_09308.mp4,ok
+13,09309,signschool,4,0,test,25,1,-1,338,29,1026,717,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Carrot%202-Rg8mCLofZaQ.mp4,carrot_0013_signschool_09309.mp4,ok
+14,09310,signschool,4,0,train,25,1,-1,487,36,1559,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Corn%203-Eatzxv2w41I.mp4,carrot_0014_signschool_09310.mp4,ok

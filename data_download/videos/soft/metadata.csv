@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53046,asl5200,9,0,train,25,6206,6288,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,soft_0000_asl5200_53046.mp4,skipped_no_ytdlp
+1,69483,aslbrick,115,0,train,25,1,-1,550,78,1329,1080,http://aslbricks.org/New/ASL-Videos/soft.mp4,soft_0001_aslbrick_69483.mp4,ok
+2,53073,aslsearch,41,0,train,25,1,-1,245,39,499,400,http://www.aslsearch.com/signs/videos/soft.mp4,soft_0002_aslsearch_53073.mp4,ok
+3,53064,spreadthesign,0,0,val,25,1,-1,49,2,257,240,https://media.spreadthesign.com/video/mp4/13/58474.mp4,soft_0003_spreadthesign_53064.mp4,ok
+4,53065,signschool,32,0,train,25,1,-1,719,67,1603,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Gentle%2C%20Soft-yPfjrl6p4sI.mp4,soft_0004_signschool_53065.mp4,ok
+5,53066,signschool,6,0,train,25,1,-1,501,65,1656,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mattress%2C%20Soft-dXKNI0LsqoU.mp4,soft_0005_signschool_53066.mp4,ok
+6,53067,signschool,6,0,train,25,1,-1,605,61,1523,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pillow%2C%20Soft-uAzal8FixFk.mp4,soft_0006_signschool_53067.mp4,ok
+7,53068,asldeafined,13,0,train,25,1,-1,131,0,565,480,https://media.asldeafined.com/vocabulary/1468776115.7150.mp4,soft_0007_asldeafined_53068.mp4,ok
+8,53069,handspeak,14,0,val,25,1,-1,87,0,546,480,https://www.handspeak.com/word/s/soft.mp4,soft_0008_handspeak_53069.mp4,failed
+9,53070,signingsavvy,10,0,test,25,1,-1,88,21,209,192,https://www.signingsavvy.com/signs/mp4/22/22182.mp4,soft_0009_signingsavvy_53070.mp4,ok
+10,53071,aslu,5,0,test,25,1,-1,359,74,933,720,https://www.youtube.com/watch?v=6-NPJ5P01Dw,soft_0010_aslu_53071.mp4,skipped_no_ytdlp
+11,53072,aslpro,87,0,train,25,1,-1,25,17,225,240,http://www.aslpro.com/main/s/soft.swf,soft_0011_aslpro_53072.mp4,skipped_swf

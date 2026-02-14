@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57669,asl5200,9,0,train,25,1512,1548,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,that_0000_asl5200_57669.mp4,skipped_no_ytdlp
+1,57677,signingsavvy,11,0,train,25,1,-1,21,11,224,192,https://www.signingsavvy.com/signs/mp4/14/14366.mp4,that_0001_signingsavvy_57677.mp4,ok
+2,57674,handspeak,14,0,train,25,1,-1,122,0,536,480,https://www.handspeak.com/word/t/that.mp4,that_0002_handspeak_57674.mp4,failed
+3,57675,handspeak,14,0,val,25,1,-1,104,23,494,360,https://www.handspeak.com/word/t/that-one.mp4,that_0003_handspeak_57675.mp4,failed
+4,66599,aslsignbank,98,0,train,25,1,-1,78,31,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THAT-1199.mp4,that_0004_aslsignbank_66599.mp4,failed
+5,67294,asllex,109,0,train,25,1,-1,87,29,377,360,https://youtu.be/mYw6SXzfjm4,that_0005_asllex_67294.mp4,skipped_no_ytdlp
+6,57670,spreadthesign,2,0,train,25,1,-1,59,15,242,240,https://media.spreadthesign.com/video/mp4/13/90013.mp4,that_0006_spreadthesign_57670.mp4,ok
+7,57678,aslu,5,0,train,25,1,-1,294,52,914,720,https://www.youtube.com/watch?v=G4HZ1OaQHpI,that_0007_aslu_57678.mp4,skipped_no_ytdlp
+8,57671,startasl,38,0,val,25,1,-1,394,50,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/that.mp4,that_0008_startasl_57671.mp4,ok
+9,57679,aslu,5,0,test,25,1,-1,278,39,940,720,https://www.youtube.com/watch?v=IujovunU_X8,that_0009_aslu_57679.mp4,skipped_no_ytdlp
+11,57680,aslpro,24,0,test,25,1,-1,29,13,192,240,http://www.aslpro.com/main/t/that.swf,that_0011_aslpro_57680.mp4,skipped_swf
+12,57673,handspeak,14,0,train,25,1,-1,106,0,538,480,https://www.handspeak.com/word/t/that-here.mp4,that_0012_handspeak_57673.mp4,failed

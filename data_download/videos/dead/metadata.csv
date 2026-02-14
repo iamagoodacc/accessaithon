@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14829,asl5200,9,0,train,25,444,496,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dead_0000_asl5200_14829.mp4,skipped_no_ytdlp
+1,68614,lillybauer,112,0,train,25,1,42,344,33,949,720,https://www.youtube.com/watch?v=K00wetZ8n40,dead_0001_lillybauer_68614.mp4,skipped_no_ytdlp
+2,14843,aslu,5,0,train,25,1,-1,361,36,1027,720,https://www.youtube.com/watch?v=pSPtgQM_ndg,dead_0002_aslu_14843.mp4,skipped_no_ytdlp
+3,14844,aslpro,30,0,val,25,1,-1,2,17,236,240,http://www.aslpro.com/main/d/dead.swf,dead_0003_aslpro_14844.mp4,skipped_swf
+4,14835,spreadthesign,78,0,train,25,1,-1,41,0,261,240,https://media.spreadthesign.com/video/mp4/13/399462.mp4,dead_0004_spreadthesign_14835.mp4,ok
+5,14845,aslsearch,12,0,train,25,1,-1,176,61,569,400,http://www.aslsearch.com/signs/videos/dead.mp4,dead_0005_aslsearch_14845.mp4,ok
+6,14836,startasl,38,0,train,25,1,-1,427,55,827,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dead.mp4,dead_0006_startasl_14836.mp4,ok
+7,14837,asldeafined,21,0,train,25,1,-1,141,21,554,480,https://media.asldeafined.com/vocabulary/1466906721.2683.mp4,dead_0007_asldeafined_14837.mp4,ok
+8,14838,handspeak,14,0,val,25,1,-1,85,0,486,360,https://www.handspeak.com/word/d/dead.mp4,dead_0008_handspeak_14838.mp4,failed
+9,14839,signingsavvy,11,0,test,25,1,-1,70,15,213,192,https://www.signingsavvy.com/signs/mp4/6/6306.mp4,dead_0009_signingsavvy_14839.mp4,ok
+10,14840,aslu,5,0,test,25,1,-1,326,45,1056,720,https://www.youtube.com/watch?v=CCGHLm18DPw,dead_0010_aslu_14840.mp4,skipped_no_ytdlp
+11,14841,aslu,5,0,train,25,1,-1,332,31,1063,720,https://www.youtube.com/watch?v=mjdSWHryve4,dead_0011_aslu_14841.mp4,skipped_no_ytdlp

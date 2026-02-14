@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52613,asl5200,9,0,train,25,5576,5622,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,smile_0000_asl5200_52613.mp4,skipped_no_ytdlp
+1,52621,signingsavvy,10,0,train,25,1,-1,80,19,223,192,https://www.signingsavvy.com/signs/mp4/22/22746.mp4,smile_0001_signingsavvy_52621.mp4,ok
+2,52622,aslpro,84,0,train,25,1,-1,10,3,213,240,http://www.aslpro.com/main/s/smile.swf,smile_0002_aslpro_52622.mp4,skipped_swf
+3,52623,aslsearch,41,0,val,25,1,-1,165,41,545,400,http://www.aslsearch.com/signs/videos/grin.mp4,smile_0003_aslsearch_52623.mp4,ok
+4,66511,aslsignbank,108,0,train,25,1,-1,184,42,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SM/SMILE-1077.mp4,smile_0004_aslsignbank_66511.mp4,failed
+5,66512,aslsignbank,108,0,train,25,1,-1,182,42,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SM/SMILE-1078.mp4,smile_0005_aslsignbank_66512.mp4,failed
+6,52615,spreadthesign,0,0,train,25,1,-1,46,14,258,240,https://media.spreadthesign.com/video/mp4/13/63577.mp4,smile_0006_spreadthesign_52615.mp4,ok
+7,67216,asllex,109,0,train,25,1,-1,88,20,389,360,https://youtu.be/d9hbuZy7hn4,smile_0007_asllex_67216.mp4,skipped_no_ytdlp
+8,52616,signschool,32,0,val,25,1,-1,728,75,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Smile-whnnw071Ua0.mp4,smile_0008_signschool_52616.mp4,ok
+9,52617,asldeafined,13,0,test,25,1,-1,108,0,586,480,https://media.asldeafined.com/vocabulary/1468768043.3016.mp4,smile_0009_asldeafined_52617.mp4,ok
+10,52618,handspeak,14,0,test,25,1,-1,53,0,615,480,https://www.handspeak.com/word/s/smile-big.mp4,smile_0010_handspeak_52618.mp4,failed
+11,52619,handspeak,14,0,train,25,1,-1,69,0,565,480,https://www.handspeak.com/word/s/smile.mp4,smile_0011_handspeak_52619.mp4,failed

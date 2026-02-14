@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50407,asl5200,9,0,test,25,2251,2297,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sentence_0000_asl5200_50407.mp4,skipped_no_ytdlp
+1,50413,handspeak,14,0,train,25,1,-1,52,0,581,480,https://www.handspeak.com/word/s/sentence.mp4,sentence_0001_handspeak_50413.mp4,failed
+2,50414,signingsavvy,11,0,train,25,1,-1,32,16,241,192,https://www.signingsavvy.com/signs/mp4/8/8611.mp4,sentence_0002_signingsavvy_50414.mp4,ok
+3,50415,signingsavvy,11,0,train,25,1,-1,36,16,218,192,https://www.signingsavvy.com/signs/mp4/8/8612.mp4,sentence_0003_signingsavvy_50415.mp4,ok
+4,50416,aslu,5,1,test,25,1,-1,291,3,945,720,https://www.youtube.com/watch?v=Gm513X-UNwo,sentence_0004_aslu_50416.mp4,skipped_no_ytdlp
+6,50418,aslu,5,1,val,25,1,-1,324,45,953,720,https://www.youtube.com/watch?v=RloQZ_TrhiA,sentence_0006_aslu_50418.mp4,skipped_no_ytdlp
+7,50419,aslpro,87,0,train,25,1,-1,0,20,260,240,http://www.aslpro.com/main/s/sentence.swf,sentence_0007_aslpro_50419.mp4,skipped_swf
+8,50420,aslsearch,41,1,train,25,1,-1,211,35,512,400,http://www.aslsearch.com/signs/videos/sentence.mp4,sentence_0008_aslsearch_50420.mp4,ok
+9,50408,startasl,36,0,val,25,1,-1,215,16,587,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sentence.mp4,sentence_0009_startasl_50408.mp4,ok
+10,50409,signschool,4,1,train,25,1,-1,122,43,1680,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sentence%20copy-hibsVZEt1H0.mp4,sentence_0010_signschool_50409.mp4,ok
+11,50410,signschool,32,1,train,25,1,-1,303,72,1674,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sentence-neWsRHnuKc4.mp4,sentence_0011_signschool_50410.mp4,ok
+12,50411,asldeafined,13,1,train,25,1,-1,60,0,559,480,https://media.asldeafined.com/vocabulary/1468765232.9077.mp4,sentence_0012_asldeafined_50411.mp4,ok
+13,50412,handspeak,14,1,train,25,1,-1,96,0,557,480,https://www.handspeak.com/word/s/sentence2.mp4,sentence_0013_handspeak_50412.mp4,failed

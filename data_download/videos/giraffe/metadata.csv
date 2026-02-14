@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24580,asl5200,9,0,train,25,670,719,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,giraffe_0000_asl5200_24580.mp4,skipped_no_ytdlp
+1,24588,aslpro,16,0,train,25,1,-1,12,6,227,240,http://www.aslpro.com/main/g/giraffe.swf,giraffe_0001_aslpro_24588.mp4,skipped_swf
+2,24589,aslsearch,12,0,train,25,1,-1,157,0,548,400,http://www.aslsearch.com/signs/videos/giraffe.mp4,giraffe_0002_aslsearch_24589.mp4,ok
+3,65816,aslsignbank,106,0,val,25,1,-1,137,26,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GI/GIRAFFE-1878.mp4,giraffe_0003_aslsignbank_65816.mp4,failed
+4,67708,asllex,109,0,train,25,1,-1,82,5,409,360,https://youtu.be/vxXfHCjMLvI,giraffe_0004_asllex_67708.mp4,skipped_no_ytdlp
+5,24581,spreadthesign,37,0,train,25,1,-1,52,0,248,240,https://media.spreadthesign.com/video/mp4/13/456445.mp4,giraffe_0005_spreadthesign_24581.mp4,ok
+6,24582,startasl,36,0,train,25,1,-1,194,14,520,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/giraffe.mp4,giraffe_0006_startasl_24582.mp4,ok
+7,24583,signschool,6,0,train,25,1,-1,622,67,1533,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Giraffe-0HFDIQrgx98.mp4,giraffe_0007_signschool_24583.mp4,ok
+8,24584,asldeafined,21,0,val,25,1,-1,19,0,549,480,https://media.asldeafined.com/vocabulary/1468548883.5088.mp4,giraffe_0008_asldeafined_24584.mp4,ok
+9,24585,handspeak,14,0,test,25,1,-1,68,0,573,480,https://www.handspeak.com/word/g/giraffe.mp4,giraffe_0009_handspeak_24585.mp4,failed
+10,24586,signingsavvy,11,0,test,25,1,-1,64,0,223,192,https://www.signingsavvy.com/signs/mp4/7/7429.mp4,giraffe_0010_signingsavvy_24586.mp4,ok
+11,24587,nabboud,67,0,train,25,1,-1,330,27,887,720,https://www.youtube.com/watch?v=zvCy8r0ZUgM,giraffe_0011_nabboud_24587.mp4,skipped_no_ytdlp

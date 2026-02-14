@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58731,asl5200,9,0,val,25,3412,3451,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,toilet_0000_asl5200_58731.mp4,skipped_no_ytdlp
+1,58738,nabboud,65,0,train,25,1,-1,295,90,866,720,https://www.youtube.com/watch?v=C6C0n0yL0lE,toilet_0001_nabboud_58738.mp4,skipped_no_ytdlp
+2,58739,nabboud,65,0,train,25,1,-1,294,87,846,720,https://www.youtube.com/watch?v=M3sXN-k8axs,toilet_0002_nabboud_58739.mp4,skipped_no_ytdlp
+3,58740,aslu,5,0,train,25,1,-1,259,28,923,720,https://www.youtube.com/watch?v=Y5IEyhkM67Y,toilet_0003_aslu_58740.mp4,skipped_no_ytdlp
+4,67313,asllex,109,0,train,25,1,-1,91,8,407,360,https://youtu.be/LNt9e8b4Uwg,toilet_0004_asllex_67313.mp4,skipped_no_ytdlp
+5,58741,aslpro,30,0,train,25,1,-1,9,15,228,240,http://www.aslpro.com/main/t/toilet.swf,toilet_0005_aslpro_58741.mp4,skipped_swf
+6,58742,aslsearch,12,0,train,25,1,-1,157,51,544,400,http://www.aslsearch.com/signs/videos/bathroom.mp4,toilet_0006_aslsearch_58742.mp4,ok
+7,58732,startasl,38,0,train,25,1,-1,438,59,825,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/toilet.mp4,toilet_0007_startasl_58732.mp4,ok
+8,58733,signschool,52,0,train,25,1,-1,373,20,800,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bathroom-u7XrB6j-o3E.mp4,toilet_0008_signschool_58733.mp4,ok
+9,58734,asldeafined,13,0,test,25,1,-1,126,0,528,480,https://media.asldeafined.com/vocabulary/1468945815.7148.mp4,toilet_0009_asldeafined_58734.mp4,ok
+10,58735,handspeak,20,0,train,25,1,-1,40,0,290,240,https://www.handspeak.com/word/t/toilet.mp4,toilet_0010_handspeak_58735.mp4,failed
+11,58736,signingsavvy,10,0,test,25,1,-1,85,17,203,192,https://www.signingsavvy.com/signs/mp4/23/23911.mp4,toilet_0011_signingsavvy_58736.mp4,ok
+12,58737,aslu,5,0,val,25,1,-1,300,31,921,720,https://www.youtube.com/watch?v=AB9URT5zPe8,toilet_0012_aslu_58737.mp4,skipped_no_ytdlp

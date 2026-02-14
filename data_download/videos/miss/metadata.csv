@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66131,aslsignbank,97,0,test,25,1,-1,185,28,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MI/MISS-1603.mp4,miss_0000_aslsignbank_66131.mp4,failed
+1,70113,northtexas,121,0,train,25,2800,2928,178,13,490,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,miss_0001_northtexas_70113.mp4,skipped_no_ytdlp
+2,36337,asldeafined,13,1,test,25,1,-1,139,8,508,480,https://media.asldeafined.com/vocabulary/1468715784.841.mp4,miss_0002_asldeafined_36337.mp4,ok
+4,36339,handspeak,14,1,val,25,1,-1,58,16,257,240,https://www.handspeak.com/word/m/miss-fail.mp4,miss_0004_handspeak_36339.mp4,failed
+5,36340,handspeak,14,0,train,25,1,-1,54,16,249,240,https://www.handspeak.com/word/m/miss-feeling.mp4,miss_0005_handspeak_36340.mp4,failed
+7,36342,signingsavvy,11,1,train,25,1,-1,62,9,212,192,https://www.signingsavvy.com/signs/mp4/14/14072.mp4,miss_0007_signingsavvy_36342.mp4,ok
+8,36343,signingsavvy,11,0,train,25,1,-1,72,12,213,192,https://www.signingsavvy.com/signs/mp4/9/9353.mp4,miss_0008_signingsavvy_36343.mp4,ok
+9,36344,aslu,5,1,train,25,1,-1,359,20,973,720,https://www.youtube.com/watch?v=336pi44UdPw,miss_0009_aslu_36344.mp4,skipped_no_ytdlp
+10,36335,spreadthesign,2,1,train,25,1,-1,59,15,259,240,https://media.spreadthesign.com/video/mp4/13/153628.mp4,miss_0010_spreadthesign_36335.mp4,ok
+14,36348,aslpro,30,0,train,25,1,-1,1,10,221,240,http://www.aslpro.com/main/m/miss_you.swf,miss_0014_aslpro_36348.mp4,skipped_swf
+16,36350,aslsearch,12,1,train,25,1,-1,198,52,552,400,http://www.aslsearch.com/signs/videos/miss3.mp4,miss_0016_aslsearch_36350.mp4,ok
+17,36351,aslsearch,12,0,val,25,1,-1,188,57,554,400,http://www.aslsearch.com/signs/videos/miss.mp4,miss_0017_aslsearch_36351.mp4,ok
+18,36336,signschool,6,1,train,25,1,-1,659,66,1600,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Miss-E0FiuUFM_8M.mp4,miss_0018_signschool_36336.mp4,ok

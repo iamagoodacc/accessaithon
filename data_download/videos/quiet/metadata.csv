@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45754,asl5200,9,0,val,25,274,346,0,0,360,240,https://www.youtube.com/watch?v=OBwr99xWUws,quiet_0000_asl5200_45754.mp4,skipped_no_ytdlp
+1,45762,signingsavvy,11,0,train,25,1,-1,42,11,252,192,https://www.signingsavvy.com/signs/mp4/5/5611.mp4,quiet_0001_signingsavvy_45762.mp4,ok
+3,45764,nabboud,69,0,train,25,1,-1,332,53,915,720,https://www.youtube.com/watch?v=97qTXpRHLxk,quiet_0003_nabboud_45764.mp4,skipped_no_ytdlp
+4,45765,aslu,5,0,train,25,1,-1,297,22,1025,720,https://www.youtube.com/watch?v=xq2ZodH6gzk,quiet_0004_aslu_45765.mp4,skipped_no_ytdlp
+5,45766,aslpro,24,0,train,25,1,-1,17,17,207,240,http://www.aslpro.com/main/q/quiet.swf,quiet_0005_aslpro_45766.mp4,skipped_swf
+6,66365,aslsignbank,101,0,train,25,1,-1,195,11,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/QU/QUIET-233.mp4,quiet_0006_aslsignbank_66365.mp4,failed
+7,45757,spreadthesign,56,0,train,25,1,-1,33,0,273,240,https://media.spreadthesign.com/video/mp4/13/49264.mp4,quiet_0007_spreadthesign_45757.mp4,ok
+8,67118,asllex,109,0,train,25,1,-1,94,28,397,360,https://youtu.be/pr_COgOLLU4,quiet_0008_asllex_67118.mp4,skipped_no_ytdlp
+9,45767,aslsearch,12,0,train,25,1,-1,186,62,547,400,http://www.aslsearch.com/signs/videos/quiet.mp4,quiet_0009_aslsearch_45767.mp4,ok
+11,45758,startasl,38,0,test,25,1,-1,435,55,828,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/quiet.mp4,quiet_0011_startasl_45758.mp4,ok
+12,45759,signschool,4,0,train,25,1,-1,684,43,1920,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Silent%2C%20Quiet-9rp2ICTeDgM.mp4,quiet_0012_signschool_45759.mp4,ok
+13,45760,asldeafined,13,0,test,25,1,-1,125,0,619,480,https://media.asldeafined.com/vocabulary/1468757731.3435.mp4,quiet_0013_asldeafined_45760.mp4,ok
+14,45761,handspeak,14,0,val,25,1,-1,50,9,253,240,https://www.handspeak.com/word/q/quiet.mp4,quiet_0014_handspeak_45761.mp4,failed

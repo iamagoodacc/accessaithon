@@ -1,0 +1,13 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63358,asl5200,9,0,train,25,2412,2464,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,will_0000_asl5200_63358.mp4,skipped_no_ytdlp
+1,69536,aslbrick,115,0,train,25,1,-1,597,68,1359,1075,http://aslbricks.org/New/ASL-Videos/will.mp4,will_0001_aslbrick_69536.mp4,ok
+2,70350,northtexas,121,0,train,25,5063,5171,182,51,417,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,will_0002_northtexas_70350.mp4,skipped_no_ytdlp
+3,70292,northtexas,121,0,val,25,3758,3867,139,37,387,360,https://www.youtube.com/watch?v=CSj7IScvZnE,will_0003_northtexas_70292.mp4,skipped_no_ytdlp
+6,63363,handspeak,14,0,train,25,1,-1,127,0,533,480,https://www.handspeak.com/word/w/will.mp4,will_0006_handspeak_63363.mp4,failed
+7,63364,signingsavvy,11,0,train,25,1,-1,68,7,220,192,https://www.signingsavvy.com/signs/mp4/14/14736.mp4,will_0007_signingsavvy_63364.mp4,ok
+12,63369,aslu,5,0,train,25,1,-1,315,54,908,720,https://www.youtube.com/watch?v=mZfOUCN1F0A,will_0012_aslu_63369.mp4,skipped_no_ytdlp
+13,63370,aslu,5,0,train,25,1,-1,322,13,958,720,https://www.youtube.com/watch?v=tJCmCymPZ2o,will_0013_aslu_63370.mp4,skipped_no_ytdlp
+14,63371,aslu,5,0,val,25,1,-1,332,14,962,720,https://www.youtube.com/watch?v=vCeFHUNdBtk,will_0014_aslu_63371.mp4,skipped_no_ytdlp
+15,63372,aslpro,87,0,test,25,1,-1,30,19,218,240,http://www.aslpro.com/main/w/will.swf,will_0015_aslpro_63372.mp4,skipped_swf
+17,63374,aslsearch,12,0,test,25,1,-1,187,52,543,400,http://www.aslsearch.com/signs/videos/will.mp4,will_0017_aslsearch_63374.mp4,ok
+19,63360,asldeafined,13,0,train,25,1,-1,100,0,519,480,https://media.asldeafined.com/vocabulary/1468928513.6323.mp4,will_0019_asldeafined_63360.mp4,ok

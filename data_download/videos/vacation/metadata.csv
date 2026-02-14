@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61141,asl5200,9,0,val,25,57,103,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,vacation_0000_asl5200_61141.mp4,skipped_no_ytdlp
+1,68640,lillybauer,112,0,train,25,1,48,348,33,953,719,https://www.youtube.com/watch?v=L4LehRcpqdU,vacation_0001_lillybauer_68640.mp4,skipped_no_ytdlp
+2,61149,aslpro,72,0,train,25,1,-1,12,5,238,240,http://www.aslpro.com/main/v/vacation.swf,vacation_0002_aslpro_61149.mp4,skipped_swf
+3,61150,aslsearch,12,0,train,25,1,-1,164,49,560,400,http://www.aslsearch.com/signs/videos/vacation.mp4,vacation_0003_aslsearch_61150.mp4,ok
+4,66715,aslsignbank,100,0,train,25,1,-1,193,30,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/VA/VACATION-1368.mp4,vacation_0004_aslsignbank_66715.mp4,failed
+5,67023,asllex,109,0,train,25,1,-1,103,15,391,360,https://youtu.be/rLWmidyFcBE,vacation_0005_asllex_67023.mp4,skipped_no_ytdlp
+6,61142,spreadthesign,2,0,train,25,1,-1,48,9,283,240,https://media.spreadthesign.com/video/mp4/13/400248.mp4,vacation_0006_spreadthesign_61142.mp4,ok
+7,61143,startasl,38,0,train,25,1,-1,379,53,856,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/vacation.mp4,vacation_0007_startasl_61143.mp4,ok
+8,61144,asldeafined,13,0,train,25,1,-1,79,0,551,480,https://media.asldeafined.com/vocabulary/1468925690.5579.mp4,vacation_0008_asldeafined_61144.mp4,ok
+9,61145,handspeak,14,0,test,25,1,-1,9,0,299,240,https://www.handspeak.com/word/v/vacation.mp4,vacation_0009_handspeak_61145.mp4,failed
+10,61146,signingsavvy,11,0,train,25,1,-1,63,11,229,192,https://www.signingsavvy.com/signs/mp4/6/6697.mp4,vacation_0010_signingsavvy_61146.mp4,ok
+11,61147,aslu,5,0,test,25,1,-1,246,40,1009,720,https://www.youtube.com/watch?v=OAolTbu5Ngk,vacation_0011_aslu_61147.mp4,skipped_no_ytdlp
+12,61148,aslu,5,0,val,25,1,-1,283,0,1011,720,https://www.youtube.com/watch?v=SeBuKp3SiAY,vacation_0012_aslu_61148.mp4,skipped_no_ytdlp

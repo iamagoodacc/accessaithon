@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32200,asl5200,9,0,val,25,188,234,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,large_0000_asl5200_32200.mp4,skipped_no_ytdlp
+1,32210,aslu,5,0,train,25,1,-1,123,7,524,360,https://www.youtube.com/watch?v=LLGY5yaSLDk,large_0001_aslu_32210.mp4,skipped_no_ytdlp
+2,32211,aslu,5,0,train,25,1,-1,246,36,1059,720,https://www.youtube.com/watch?v=LLGY5yaSLDk,large_0002_aslu_32211.mp4,skipped_no_ytdlp
+3,32212,aslu,5,0,train,25,1,-1,179,24,1060,720,https://www.youtube.com/watch?v=z9WFeko-7jw,large_0003_aslu_32212.mp4,skipped_no_ytdlp
+4,32203,spreadthesign,26,0,train,25,1,-1,50,9,244,240,https://media.spreadthesign.com/video/mp4/13/308011.mp4,large_0004_spreadthesign_32203.mp4,ok
+5,32213,aslpro,72,0,train,25,1,-1,26,4,243,240,http://www.aslpro.com/main/l/large.swf,large_0005_aslpro_32213.mp4,skipped_swf
+6,32214,aslsearch,12,0,train,25,1,-1,156,56,575,400,http://www.aslsearch.com/signs/videos/large.mp4,large_0006_aslsearch_32214.mp4,ok
+7,32204,startasl,38,0,train,25,1,-1,325,50,988,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/large.mp4,large_0007_startasl_32204.mp4,ok
+8,32205,signschool,32,0,train,25,1,-1,572,84,1665,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Large%2C%20Huge--m_jlfbs37k.mp4,large_0008_signschool_32205.mp4,ok
+9,32206,signschool,32,0,test,25,1,-1,387,53,1090,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Large.mp4,large_0009_signschool_32206.mp4,ok
+10,32207,asldeafined,13,0,train,25,1,-1,112,0,575,480,https://media.asldeafined.com/vocabulary/1468671337.1539.mp4,large_0010_asldeafined_32207.mp4,ok
+11,32208,handspeak,20,0,test,25,1,-1,33,3,606,480,https://www.handspeak.com/word/l/large.mp4,large_0011_handspeak_32208.mp4,failed
+12,32209,signingsavvy,11,0,val,25,1,-1,36,7,235,192,https://www.signingsavvy.com/signs/mp4/9/9557.mp4,large_0012_signingsavvy_32209.mp4,ok

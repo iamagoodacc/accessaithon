@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43828,asl5200,9,0,val,25,3753,3809,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,possible_0000_asl5200_43828.mp4,skipped_no_ytdlp
+1,43834,signingsavvy,11,0,train,25,1,-1,65,18,213,192,https://www.signingsavvy.com/signs/mp4/9/9066.mp4,possible_0001_signingsavvy_43834.mp4,ok
+2,43835,signingsavvy,11,0,train,25,1,-1,65,14,216,192,https://www.signingsavvy.com/signs/mp4/9/9565.mp4,possible_0002_signingsavvy_43835.mp4,ok
+3,43836,signingsavvy,11,0,train,25,1,-1,64,14,218,192,https://www.signingsavvy.com/signs/mp4/9/9566.mp4,possible_0003_signingsavvy_43836.mp4,ok
+4,43837,aslu,5,0,train,25,1,-1,147,10,497,360,https://www.youtube.com/watch?v=xBlASQ0CTbQ,possible_0004_aslu_43837.mp4,skipped_no_ytdlp
+5,66316,aslsignbank,89,0,train,25,1,-1,188,0,523,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POSSIBLE-2041.mp4,possible_0005_aslsignbank_66316.mp4,failed
+6,67092,asllex,109,0,train,25,1,-1,93,12,394,360,https://youtu.be/TmL8vArREpk,possible_0006_asllex_67092.mp4,skipped_no_ytdlp
+7,43838,aslpro,24,0,train,25,1,-1,11,11,219,240,http://www.aslpro.com/main/p/possible.swf,possible_0007_aslpro_43838.mp4,skipped_swf
+8,43839,aslsearch,12,0,train,25,1,-1,180,46,579,400,http://www.aslsearch.com/signs/videos/ability.mp4,possible_0008_aslsearch_43839.mp4,ok
+9,43829,spreadthesign,35,0,test,25,1,-1,39,0,292,240,https://media.spreadthesign.com/video/mp4/13/51138.mp4,possible_0009_spreadthesign_43829.mp4,ok
+10,43830,asldeafined,13,0,train,25,1,-1,167,0,553,480,https://media.asldeafined.com/vocabulary/1468754886.902.mp4,possible_0010_asldeafined_43830.mp4,ok
+11,43831,handspeak,20,0,test,25,1,-1,119,0,570,480,https://www.handspeak.com/word/p/possible.mp4,possible_0011_handspeak_43831.mp4,failed
+13,43833,signingsavvy,11,0,val,25,1,-1,77,18,237,192,https://www.signingsavvy.com/signs/mp4/7/7818.mp4,possible_0013_signingsavvy_43833.mp4,ok

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57815,asl5200,9,0,val,25,1943,1982,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,there_0000_asl5200_57815.mp4,skipped_no_ytdlp
+1,70223,northtexas,121,0,train,25,4205,4306,112,27,273,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,there_0001_northtexas_70223.mp4,skipped_no_ytdlp
+2,57831,handspeak,14,0,train,25,1,-1,85,0,574,480,https://www.handspeak.com/word/t/there-r.mp4,there_0002_handspeak_57831.mp4,failed
+3,57832,signingsavvy,11,0,train,25,1,-1,70,9,209,192,https://www.signingsavvy.com/signs/mp4/14/14218.mp4,there_0003_signingsavvy_57832.mp4,ok
+4,57833,aslu,5,0,train,25,1,-1,104,10,501,360,https://www.youtube.com/watch?v=g6U76fogYlk,there_0004_aslu_57833.mp4,skipped_no_ytdlp
+5,57834,aslu,5,0,train,25,1,-1,339,41,942,720,https://www.youtube.com/watch?v=g6U76fogYlk,there_0005_aslu_57834.mp4,skipped_no_ytdlp
+6,57825,spreadthesign,56,0,train,25,1,-1,53,0,279,240,https://media.spreadthesign.com/video/mp4/13/50889.mp4,there_0006_spreadthesign_57825.mp4,ok
+7,67293,asllex,109,0,train,25,1,-1,90,17,370,360,https://youtu.be/IijxlU5y7Fc,there_0007_asllex_67293.mp4,skipped_no_ytdlp
+10,57826,signschool,3,0,train,25,1,-1,500,1,1364,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20It-Vqmrx1KhEz4.mp4,there_0010_signschool_57826.mp4,ok
+11,57827,signschool,4,0,test,25,1,-1,622,53,1697,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20There-a_l3mreDTqY.mp4,there_0011_signschool_57827.mp4,ok
+12,57828,signschool,3,0,train,25,1,-1,339,1,1388,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20There-ln2V697w1kM.mp4,there_0012_signschool_57828.mp4,ok
+13,57829,asldeafined,13,0,test,25,1,-1,145,0,590,480,https://media.asldeafined.com/vocabulary/1468944527.3284.mp4,there_0013_asldeafined_57829.mp4,ok
+14,57830,handspeak,14,0,val,25,1,-1,165,0,553,480,https://www.handspeak.com/word/t/there-l.mp4,there_0014_handspeak_57830.mp4,failed
