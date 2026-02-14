@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60345,asl5200,9,0,train,25,24,93,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,ugly_0000_asl5200_60345.mp4,skipped_no_ytdlp
+1,70256,northtexas,121,0,train,25,4356,4472,177,41,416,360,https://www.youtube.com/watch?v=WprUBqi3iBc,ugly_0001_northtexas_70256.mp4,skipped_no_ytdlp
+2,60351,handspeak,14,1,train,25,1,-1,112,0,549,480,https://www.handspeak.com/word/u/ugly.mp4,ugly_0002_handspeak_60351.mp4,failed
+3,60352,signingsavvy,11,1,test,25,1,-1,53,10,236,192,https://www.signingsavvy.com/signs/mp4/9/9813.mp4,ugly_0003_signingsavvy_60352.mp4,ok
+4,60353,signingsavvy,11,1,val,25,1,-1,53,10,236,192,https://www.signingsavvy.com/signs/mp4/9/9813.mp4,ugly_0004_signingsavvy_60353.mp4,ok
+5,60354,signingsavvy,11,0,train,25,1,-1,44,7,226,192,https://www.signingsavvy.com/signs/mp4/9/9814.mp4,ugly_0005_signingsavvy_60354.mp4,ok
+6,67334,asllex,109,0,val,25,1,-1,113,27,369,360,https://youtu.be/tXjf0A57N1I,ugly_0006_asllex_67334.mp4,skipped_no_ytdlp
+7,60355,aslu,5,0,train,25,1,-1,378,37,965,718,https://www.youtube.com/watch?v=9lFtQ3an3Go,ugly_0007_aslu_60355.mp4,skipped_no_ytdlp
+8,60356,aslpro,87,0,val,25,1,-1,31,21,209,240,http://www.aslpro.com/main/u/ugly.swf,ugly_0008_aslpro_60356.mp4,skipped_swf
+9,60357,aslsearch,12,1,train,25,1,-1,164,51,555,400,http://www.aslsearch.com/signs/videos/ugly.mp4,ugly_0009_aslsearch_60357.mp4,ok
+10,60346,spreadthesign,56,0,train,25,1,-1,60,0,266,240,https://media.spreadthesign.com/video/mp4/13/50950.mp4,ugly_0010_spreadthesign_60346.mp4,ok
+11,60347,startasl,38,0,train,25,1,-1,394,56,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/ugly.mp4,ugly_0011_startasl_60347.mp4,ok
+12,60348,signschool,4,0,test,25,1,-1,348,36,1106,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Ugly.mp4,ugly_0012_signschool_60348.mp4,ok
+13,60349,asldeafined,13,1,train,25,1,-1,119,0,538,480,https://media.asldeafined.com/vocabulary/1468924566.1157.mp4,ugly_0013_asldeafined_60349.mp4,ok
+14,60350,asldeafined,34,0,train,25,1,-1,198,68,499,480,https://media.asldeafined.com/vocabulary/1546575338.7630.mp4,ugly_0014_asldeafined_60350.mp4,ok

@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69284,aslbrick,115,0,test,25,1,-1,358,43,969,720,http://aslbricks.org/New/ASL-Videos/crash.mp4,crash_0000_aslbrick_69284.mp4,ok
+1,13799,signschool,39,0,train,25,1,-1,783,60,1717,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Crash%2C%20Hit%20Rock%20Bottom-rzFQMB-h854.mp4,crash_0001_signschool_13799.mp4,ok
+2,70149,northtexas,121,0,train,25,6756,6884,134,25,504,480,https://www.youtube.com/watch?v=VwejDy96MzM,crash_0002_northtexas_70149.mp4,skipped_no_ytdlp
+3,13804,signingsavvy,10,1,train,25,1,-1,43,13,243,192,https://www.signingsavvy.com/signs/mp4/24/24333.mp4,crash_0003_signingsavvy_13804.mp4,ok
+4,13805,signingsavvy,10,1,train,25,1,-1,46,17,239,192,https://www.signingsavvy.com/signs/mp4/24/24334.mp4,crash_0004_signingsavvy_13805.mp4,ok
+5,13806,signingsavvy,10,0,train,25,1,-1,42,13,198,192,https://www.signingsavvy.com/signs/mp4/24/24336.mp4,crash_0005_signingsavvy_13806.mp4,ok
+8,13809,aslu,5,1,train,25,1,-1,258,36,981,720,https://www.youtube.com/watch?v=BnGuWo2MxUQ,crash_0008_aslu_13809.mp4,skipped_no_ytdlp
+9,13810,aslu,5,1,train,25,1,-1,270,11,992,720,https://www.youtube.com/watch?v=G3z4RviEFLs,crash_0009_aslu_13810.mp4,skipped_no_ytdlp
+10,13811,aslpro,24,1,val,25,1,-1,3,15,228,240,http://www.aslpro.com/main/c/crash.swf,crash_0010_aslpro_13811.mp4,skipped_swf
+11,13812,aslsearch,12,0,train,25,1,-1,186,61,563,400,http://www.aslsearch.com/signs/videos/crash2.mp4,crash_0011_aslsearch_13812.mp4,ok
+12,13813,aslsearch,12,1,val,25,1,-1,184,58,579,400,http://www.aslsearch.com/signs/videos/crash.mp4,crash_0012_aslsearch_13813.mp4,ok
+13,13800,asldeafined,59,1,train,25,1,-1,74,14,570,480,https://media.asldeafined.com/vocabulary/1466904958.2814.mp4,crash_0013_asldeafined_13800.mp4,ok
+14,13801,handspeak,14,1,test,25,1,-1,51,11,265,240,https://www.handspeak.com/word/c/crash-accident.mp4,crash_0014_handspeak_13801.mp4,failed
+15,13802,handspeak,14,0,val,25,1,-1,137,10,504,360,https://www.handspeak.com/word/c/crash-plane.mp4,crash_0015_handspeak_13802.mp4,failed
+16,13803,signingsavvy,10,1,train,25,1,-1,40,15,252,192,https://www.signingsavvy.com/signs/mp4/24/24332.mp4,crash_0016_signingsavvy_13803.mp4,ok

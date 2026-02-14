@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38585,asl5200,9,0,val,25,1398,1437,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,none_0000_asl5200_38585.mp4,skipped_no_ytdlp
+1,69412,aslbrick,118,0,train,25,1,-1,539,86,1409,1078,http://aslbricks.org/New/ASL-Videos/none.mp4,none_0001_aslbrick_69412.mp4,ok
+2,68452,lillybauer,113,0,train,25,1,46,92,16,558,357,https://www.youtube.com/watch?v=f-F3bZvG2ns,none_0002_lillybauer_68452.mp4,skipped_no_ytdlp
+3,68920,lillybauer,112,0,val,25,1,46,347,31,926,720,https://www.youtube.com/watch?v=Ts1nVYDa_S8,none_0003_lillybauer_68920.mp4,skipped_no_ytdlp
+4,68111,valencia-asl,109,0,train,25,1,-1,307,30,1038,720,https://www.youtube.com/watch?v=zJHMuqY5wnY,none_0004_valencia-asl_68111.mp4,skipped_no_ytdlp
+5,38593,aslpro,25,0,train,25,1,-1,4,9,249,240,http://www.aslpro.com/main/n/none.swf,none_0005_aslpro_38593.mp4,skipped_swf
+6,38594,aslsearch,41,0,train,25,1,-1,237,40,548,400,http://www.aslsearch.com/signs/videos/no2.mp4,none_0006_aslsearch_38594.mp4,ok
+8,66186,aslsignbank,107,0,train,25,1,-1,131,0,511,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NO/NONE-513.mp4,none_0008_aslsignbank_66186.mp4,failed
+9,38586,spreadthesign,2,0,train,25,1,-1,6,5,278,240,https://media.spreadthesign.com/video/mp4/13/245920.mp4,none_0009_spreadthesign_38586.mp4,ok
+10,38587,startasl,36,0,test,25,1,-1,198,16,556,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/none.mp4,none_0010_startasl_38587.mp4,ok
+11,38588,asldeafined,13,0,val,25,1,-1,124,0,529,480,https://media.asldeafined.com/vocabulary/1468719394.851.mp4,none_0011_asldeafined_38588.mp4,ok
+12,38589,handspeak,20,0,test,25,1,-1,59,0,583,480,https://www.handspeak.com/word/n/none.mp4,none_0012_handspeak_38589.mp4,failed
+13,38590,signingsavvy,11,0,train,25,1,-1,58,12,247,192,https://www.signingsavvy.com/signs/mp4/7/7811.mp4,none_0013_signingsavvy_38590.mp4,ok
+14,38591,nabboud,7,0,train,25,1,-1,255,80,1025,720,https://www.youtube.com/watch?v=kuHL9xD-NgY,none_0014_nabboud_38591.mp4,skipped_no_ytdlp
+15,38592,aslu,5,0,train,25,1,-1,316,2,1071,720,https://www.youtube.com/watch?v=yOq40lDCkcM,none_0015_aslu_38592.mp4,skipped_no_ytdlp

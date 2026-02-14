@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36044,asl5200,9,0,train,25,1454,1503,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,milk_0000_asl5200_36044.mp4,skipped_no_ytdlp
+1,68562,lillybauer,113,0,train,25,1,52,102,22,527,353,https://www.youtube.com/watch?v=IrdK7mVRo6I,milk_0001_lillybauer_68562.mp4,skipped_no_ytdlp
+2,68100,valencia-asl,109,0,train,25,1,-1,106,0,1170,720,https://www.youtube.com/watch?v=JD_CiyDFnkM,milk_0002_valencia-asl_68100.mp4,skipped_no_ytdlp
+3,36050,signingsavvy,11,0,val,25,1,-1,76,8,212,192,https://www.signingsavvy.com/signs/mp4/5/5682.mp4,milk_0003_signingsavvy_36050.mp4,ok
+5,36052,aslu,64,0,train,25,1,-1,122,32,408,338,https://www.youtube.com/watch?v=4DPRLPgxsYo,milk_0005_aslu_36052.mp4,skipped_no_ytdlp
+6,36053,aslu,5,0,train,25,1,-1,304,44,928,720,https://www.youtube.com/watch?v=4DPRLPgxsYo,milk_0006_aslu_36053.mp4,skipped_no_ytdlp
+7,67893,asllex,109,0,train,25,1,-1,111,14,384,360,https://youtu.be/qc6SgW2xs-M,milk_0007_asllex_67893.mp4,skipped_no_ytdlp
+8,36054,aslu,5,0,train,25,1,-1,343,45,923,720,https://www.youtube.com/watch?v=5yelilk0pD4,milk_0008_aslu_36054.mp4,skipped_no_ytdlp
+9,36055,aslpro,87,0,train,25,1,-1,22,9,227,240,http://www.aslpro.com/main/m/milk.swf,milk_0009_aslpro_36055.mp4,skipped_swf
+10,36056,aslsearch,12,0,test,25,1,-1,162,52,523,400,http://www.aslsearch.com/signs/videos/milk.mp4,milk_0010_aslsearch_36056.mp4,ok
+12,36046,startasl,36,0,val,25,1,-1,213,16,515,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/milk.mp4,milk_0012_startasl_36046.mp4,ok
+13,36047,signschool,32,0,test,25,1,-1,530,56,1079,711,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Milk.mp4,milk_0013_signschool_36047.mp4,ok
+14,36048,asldeafined,13,0,train,25,1,-1,86,0,498,480,https://media.asldeafined.com/vocabulary/1468715465.236.mp4,milk_0014_asldeafined_36048.mp4,ok
+15,36049,handspeak,14,0,train,25,1,-1,56,15,248,240,https://www.handspeak.com/word/m/milk.mp4,milk_0015_handspeak_36049.mp4,failed

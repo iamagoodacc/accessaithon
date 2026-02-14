@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53363,asl5200,9,0,train,25,6805,6874,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sorry_0000_asl5200_53363.mp4,skipped_no_ytdlp
+1,70225,northtexas,121,0,train,25,694,786,157,40,400,360,https://www.youtube.com/watch?v=4Nh1iFv2BMc,sorry_0001_northtexas_70225.mp4,skipped_no_ytdlp
+2,53371,signingsavvy,11,0,train,25,1,-1,68,9,225,192,https://www.signingsavvy.com/signs/mp4/6/6968.mp4,sorry_0002_signingsavvy_53371.mp4,ok
+3,53372,aslu,5,0,val,25,1,-1,337,29,922,720,https://www.youtube.com/watch?v=jRHDjxWJma0,sorry_0003_aslu_53372.mp4,skipped_no_ytdlp
+4,53373,aslu,5,0,train,25,1,-1,316,27,918,720,https://www.youtube.com/watch?v=KuqlCVeWGEI,sorry_0004_aslu_53373.mp4,skipped_no_ytdlp
+5,53374,aslpro,24,0,train,25,1,-1,0,12,192,240,http://www.aslpro.com/main/s/sorry.swf,sorry_0005_aslpro_53374.mp4,skipped_swf
+6,66536,aslsignbank,90,0,train,25,1,-1,173,15,453,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SORRY-566.mp4,sorry_0006_aslsignbank_66536.mp4,failed
+7,53365,spreadthesign,2,0,train,25,1,-1,71,34,236,240,https://media.spreadthesign.com/video/mp4/13/94029.mp4,sorry_0007_spreadthesign_53365.mp4,ok
+8,67228,asllex,109,0,train,25,1,-1,95,28,380,360,https://youtu.be/BL90-ejIQ9Y,sorry_0008_asllex_67228.mp4,skipped_no_ytdlp
+9,53375,aslsearch,12,0,test,25,1,-1,199,53,547,400,http://www.aslsearch.com/signs/videos/sorry.mp4,sorry_0009_aslsearch_53375.mp4,ok
+10,53366,startasl,38,0,val,25,1,-1,369,48,802,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sorry.mp4,sorry_0010_startasl_53366.mp4,ok
+11,53367,asldeafined,13,0,test,25,1,-1,98,0,535,480,https://media.asldeafined.com/vocabulary/1468776763.7085.mp4,sorry_0011_asldeafined_53367.mp4,ok
+12,53368,handspeak,20,0,train,25,1,-1,22,8,268,240,https://www.handspeak.com/word/s/sorry.mp4,sorry_0012_handspeak_53368.mp4,failed
+14,53370,signingsavvy,11,0,train,25,1,-1,67,11,224,192,https://www.signingsavvy.com/signs/mp4/6/6967.mp4,sorry_0014_signingsavvy_53370.mp4,ok

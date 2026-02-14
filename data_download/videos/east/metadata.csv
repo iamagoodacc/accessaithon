@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18270,asl5200,9,0,train,25,512,551,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,east_0000_asl5200_18270.mp4,skipped_no_ytdlp
+1,18294,signingsavvy,11,0,train,25,1,-1,70,17,217,192,https://www.signingsavvy.com/signs/mp4/6/6863.mp4,east_0001_signingsavvy_18294.mp4,ok
+2,18295,aslu,5,0,train,25,1,-1,291,45,924,720,https://www.youtube.com/watch?v=__LSIH5Z5t0,east_0002_aslu_18295.mp4,skipped_no_ytdlp
+3,18296,aslu,5,0,val,25,1,-1,295,27,956,720,https://www.youtube.com/watch?v=N23tnuw_C_s,east_0003_aslu_18296.mp4,skipped_no_ytdlp
+4,18297,aslpro,44,0,train,25,1,-1,6,1,219,240,http://www.aslpro.com/main/e/east.swf,east_0004_aslpro_18297.mp4,skipped_swf
+5,65597,aslsignbank,98,0,train,25,1,-1,152,32,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAST-1290.mp4,east_0005_aslsignbank_65597.mp4,failed
+6,18288,elementalasl,19,0,train,25,1,-1,66,10,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/east.mov,east_0006_elementalasl_18288.mp4,ok
+7,67607,asllex,109,0,train,25,1,-1,74,21,376,360,https://youtu.be/9k9ZtumEPLs,east_0007_asllex_67607.mp4,skipped_no_ytdlp
+8,18298,aslsearch,12,0,train,25,1,-1,150,52,577,400,http://www.aslsearch.com/signs/videos/east.mp4,east_0008_aslsearch_18298.mp4,ok
+9,18289,spreadthesign,28,0,test,25,1,-1,8,1,283,240,https://media.spreadthesign.com/video/mp4/13/481196.mp4,east_0009_spreadthesign_18289.mp4,ok
+10,18290,startasl,38,0,val,25,1,-1,331,54,823,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/east.mp4,east_0010_startasl_18290.mp4,ok
+11,18291,signschool,31,0,test,25,1,-1,665,77,1455,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20East-pB8laIXIVQc.mp4,east_0011_signschool_18291.mp4,ok
+12,18292,asldeafined,21,0,train,25,1,-1,54,12,559,480,https://media.asldeafined.com/vocabulary/1468347751.9471.mp4,east_0012_asldeafined_18292.mp4,ok
+13,18293,handspeak,14,0,train,25,1,-1,43,13,262,240,https://www.handspeak.com/word/e/east.mp4,east_0013_handspeak_18293.mp4,failed

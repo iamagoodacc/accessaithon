@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51128,spreadthesign,63,0,train,25,1,-1,48,0,255,240,https://media.spreadthesign.com/video/mp4/13/50804.mp4,shoes_0000_spreadthesign_51128.mp4,ok
+1,68150,valencia-asl,111,0,train,25,1,-1,189,0,647,480,https://www.youtube.com/watch?v=KuKD-rnE-x8,shoes_0001_valencia-asl_68150.mp4,skipped_no_ytdlp
+2,70315,northtexas,121,0,train,25,2731,2825,128,32,281,240,https://www.youtube.com/watch?v=pc0-gVEETVg,shoes_0002_northtexas_70315.mp4,skipped_no_ytdlp
+3,51134,nabboud,65,0,val,25,1,-1,310,91,889,720,https://www.youtube.com/watch?v=GjBiBjw2Uh4,shoes_0003_nabboud_51134.mp4,skipped_no_ytdlp
+6,51137,aslu,5,0,train,25,1,-1,328,38,996,720,https://www.youtube.com/watch?v=Yoi_OLX0IEs,shoes_0006_aslu_51137.mp4,skipped_no_ytdlp
+7,67191,asllex,109,0,train,25,1,-1,120,19,386,360,https://youtu.be/thCR_9wP59U,shoes_0007_asllex_67191.mp4,skipped_no_ytdlp
+8,51138,aslpro,72,0,train,25,1,-1,8,4,228,240,http://www.aslpro.com//main/s/shoes_ballet.swf,shoes_0008_aslpro_51138.mp4,skipped_swf
+9,51139,aslpro,49,0,train,25,1,-1,9,9,223,240,http://www.aslpro.com//main/s/shoes_thongs.swf,shoes_0009_aslpro_51139.mp4,skipped_swf
+10,51140,aslsearch,12,0,train,25,1,-1,202,52,569,400,http://www.aslsearch.com/signs/videos/shoe.mp4,shoes_0010_aslsearch_51140.mp4,ok
+11,51129,startasl,36,0,test,25,1,-1,197,18,562,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/shoes.mp4,shoes_0011_startasl_51129.mp4,ok
+12,51130,signschool,32,0,val,25,1,-1,667,89,1648,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Shoes-2O1jxmNeMNU.mp4,shoes_0012_signschool_51130.mp4,ok
+13,51131,asldeafined,13,0,test,25,1,-1,154,0,515,480,https://media.asldeafined.com/vocabulary/1468766147.3549.mp4,shoes_0013_asldeafined_51131.mp4,ok
+14,51132,handspeak,14,0,train,25,1,-1,117,0,539,480,https://www.handspeak.com/word/s/shoes.mp4,shoes_0014_handspeak_51132.mp4,failed
+15,51133,signingsavvy,11,0,train,25,1,-1,83,18,216,192,https://www.signingsavvy.com/signs/mp4/7/7115.mp4,shoes_0015_signingsavvy_51133.mp4,ok

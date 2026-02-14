@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55332,asl5200,9,0,train,25,9796,9872,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,student_0000_asl5200_55332.mp4,skipped_no_ytdlp
+1,69494,aslbrick,115,1,test,25,1,-1,341,40,964,720,http://aslbricks.org/New/ASL-Videos/student.mp4,student_0001_aslbrick_69494.mp4,ok
+2,55343,signingsavvy,11,0,train,25,1,-1,44,12,233,192,https://www.signingsavvy.com/signs/mp4/6/6462.mp4,student_0002_signingsavvy_55343.mp4,ok
+3,55344,aslu,5,0,train,25,1,-1,300,42,895,720,https://www.youtube.com/watch?v=0E3YmyCR6EY,student_0003_aslu_55344.mp4,skipped_no_ytdlp
+4,55345,aslu,5,0,train,25,1,-1,205,34,901,720,https://www.youtube.com/watch?v=jrf2XYqjg2o,student_0004_aslu_55345.mp4,skipped_no_ytdlp
+5,55346,scott,82,0,val,25,1,-1,238,0,958,720,https://www.youtube.com/watch?v=r9IrbtWrmdg,student_0005_scott_55346.mp4,skipped_no_ytdlp
+6,55337,spreadthesign,63,1,train,25,1,-1,57,0,264,240,https://media.spreadthesign.com/video/mp4/13/50829.mp4,student_0006_spreadthesign_55337.mp4,ok
+7,67256,asllex,109,0,val,25,1,-1,114,19,398,360,https://youtu.be/wdQC5BuX2ec,student_0007_asllex_67256.mp4,skipped_no_ytdlp
+8,55347,aslpro,72,0,train,25,1,-1,3,8,228,240,http://www.aslpro.com/main/s/student.swf,student_0008_aslpro_55347.mp4,skipped_swf
+9,55348,aslsearch,12,0,test,25,1,-1,199,52,579,400,http://www.aslsearch.com/signs/videos/student.mp4,student_0009_aslsearch_55348.mp4,ok
+10,55338,startasl,36,0,train,25,1,-1,197,13,534,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/student2.mp4,student_0010_startasl_55338.mp4,ok
+11,55339,startasl,36,1,train,25,1,-1,193,13,528,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/student.mp4,student_0011_startasl_55339.mp4,ok
+12,55340,asldeafined,13,1,train,25,1,-1,104,0,538,480,https://media.asldeafined.com/vocabulary/1468897377.1672.mp4,student_0012_asldeafined_55340.mp4,ok
+13,55341,asldeafined,15,1,train,25,1,-1,107,32,527,480,https://media.asldeafined.com/vocabulary/1522767321.7329.mp4,student_0013_asldeafined_55341.mp4,ok
+14,55342,handspeak,20,1,val,25,1,-1,63,9,254,240,https://www.handspeak.com/word/s/student.mp4,student_0014_handspeak_55342.mp4,failed

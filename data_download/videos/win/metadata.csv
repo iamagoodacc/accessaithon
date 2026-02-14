@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66789,aslsignbank,88,0,train,25,1,-1,165,6,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WI/WIN-1438.mp4,win_0000_aslsignbank_66789.mp4,failed
+1,68185,valencia-asl,109,0,train,25,1,-1,395,0,1106,720,https://www.youtube.com/watch?v=V5iXatFavN0,win_0001_valencia-asl_68185.mp4,skipped_no_ytdlp
+2,63475,aslu,5,0,train,25,1,-1,331,37,957,720,https://www.youtube.com/watch?v=wMTeSLRMd3c,win_0002_aslu_63475.mp4,skipped_no_ytdlp
+3,63476,aslu,5,0,val,25,1,-1,155,18,1021,720,https://www.youtube.com/watch?v=XCxqT5B_Ql8,win_0003_aslu_63476.mp4,skipped_no_ytdlp
+4,63477,aslpro,24,0,train,25,1,-1,3,15,213,240,http://www.aslpro.com/main/w/win.swf,win_0004_aslpro_63477.mp4,skipped_swf
+5,63468,spreadthesign,42,0,train,25,1,-1,26,0,297,240,https://media.spreadthesign.com/video/mp4/13/51070.mp4,win_0005_spreadthesign_63468.mp4,ok
+6,67072,asllex,109,0,train,25,1,-1,100,8,380,360,https://youtu.be/2vYnEG9tSuA,win_0006_asllex_67072.mp4,skipped_no_ytdlp
+7,63478,aslsearch,12,0,train,25,1,-1,173,49,551,400,http://www.aslsearch.com/signs/videos/victory.mp4,win_0007_aslsearch_63478.mp4,ok
+8,63469,startasl,38,0,train,25,1,-1,338,59,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/win.mp4,win_0008_startasl_63469.mp4,ok
+9,63470,signschool,52,0,test,25,1,-1,248,8,618,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20win.mp4,win_0009_signschool_63470.mp4,ok
+10,63471,asldeafined,13,0,val,25,1,-1,104,3,516,480,https://media.asldeafined.com/vocabulary/1468928643.5684.mp4,win_0010_asldeafined_63471.mp4,ok
+11,63472,handspeak,14,0,test,25,1,-1,63,0,473,480,https://www.handspeak.com/word/w/win.mp4,win_0011_handspeak_63472.mp4,failed
+12,63473,signingsavvy,11,0,train,25,1,-1,64,15,217,192,https://www.signingsavvy.com/signs/mp4/6/6440.mp4,win_0012_signingsavvy_63473.mp4,ok
+13,63474,aslu,5,0,train,25,1,-1,344,42,951,720,https://www.youtube.com/watch?v=wkk214uSk2s,win_0013_aslu_63474.mp4,skipped_no_ytdlp

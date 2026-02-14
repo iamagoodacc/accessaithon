@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59238,asl5200,9,0,train,25,4719,4775,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,traffic_0000_asl5200_59238.mp4,skipped_no_ytdlp
+1,70179,northtexas,121,0,train,25,7686,7832,172,21,513,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,traffic_0001_northtexas_70179.mp4,skipped_no_ytdlp
+2,59248,startasl,38,0,train,25,1,-1,395,54,802,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/traffic.mp4,traffic_0002_startasl_59248.mp4,ok
+3,59249,asldeafined,13,0,train,25,1,-1,157,0,530,480,https://media.asldeafined.com/vocabulary/1468946562.8473.mp4,traffic_0003_asldeafined_59249.mp4,ok
+4,59250,handspeak,14,0,val,25,1,-1,128,0,522,480,https://www.handspeak.com/word/t/traffic.mp4,traffic_0004_handspeak_59250.mp4,failed
+5,59251,signingsavvy,11,0,val,25,1,-1,76,18,205,192,https://www.signingsavvy.com/signs/mp4/9/9225.mp4,traffic_0005_signingsavvy_59251.mp4,ok
+6,59252,signingsavvy,11,1,train,25,1,-1,67,18,207,192,https://www.signingsavvy.com/signs/mp4/9/9226.mp4,traffic_0006_signingsavvy_59252.mp4,ok
+8,59254,aslu,5,1,test,25,1,-1,315,28,988,720,https://www.youtube.com/watch?v=MpQR7sBZRrE,traffic_0008_aslu_59254.mp4,skipped_no_ytdlp
+10,66664,aslsignbank,98,0,train,25,1,-1,171,33,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRAFFIC-1298.mp4,traffic_0010_aslsignbank_66664.mp4,failed
+11,59246,spreadthesign,56,0,test,25,1,-1,53,0,269,240,https://media.spreadthesign.com/video/mp4/13/50916.mp4,traffic_0011_spreadthesign_59246.mp4,ok
+12,67317,asllex,109,1,val,25,1,-1,102,15,390,360,https://youtu.be/IxtVsN7oJGU,traffic_0012_asllex_67317.mp4,skipped_no_ytdlp
+13,59256,aslu,5,1,train,25,1,-1,316,29,988,720,https://www.youtube.com/watch?v=rWtHClVxoC0,traffic_0013_aslu_59256.mp4,skipped_no_ytdlp
+15,59258,aslu,5,1,train,25,1,-1,370,26,1029,720,https://www.youtube.com/watch?v=Xju6sMXMopI,traffic_0015_aslu_59258.mp4,skipped_no_ytdlp
+16,59259,aslpro,87,0,train,25,1,-1,14,7,219,240,http://www.aslpro.com/main/t/traffic.swf,traffic_0016_aslpro_59259.mp4,skipped_swf

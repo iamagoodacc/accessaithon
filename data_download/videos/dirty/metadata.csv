@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16402,asl5200,9,0,val,25,3113,3162,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dirty_0000_asl5200_16402.mp4,skipped_no_ytdlp
+1,69296,aslbrick,116,0,train,25,1,-1,147,13,508,480,http://aslbricks.org/New/ASL-Videos/dirty.mp4,dirty_0001_aslbrick_69296.mp4,ok
+2,16411,aslsearch,41,0,train,25,1,-1,223,49,486,400,http://www.aslsearch.com/signs/videos/dirty.mp4,dirty_0002_aslsearch_16411.mp4,ok
+3,16412,aslsearch,41,0,train,25,1,-1,223,49,486,400,http://www.aslsearch.com/signs/videos/dirty.mp4,dirty_0003_aslsearch_16412.mp4,ok
+4,65485,aslsignbank,99,0,train,25,1,-1,160,18,465,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DI/DIRTY-109.mp4,dirty_0004_aslsignbank_65485.mp4,failed
+5,16404,spreadthesign,0,0,train,25,1,-1,46,0,253,240,https://media.spreadthesign.com/video/mp4/13/58456.mp4,dirty_0005_spreadthesign_16404.mp4,ok
+6,67572,asllex,109,0,train,25,1,-1,123,17,362,360,https://youtu.be/gQsIUo46pJU,dirty_0006_asllex_67572.mp4,skipped_no_ytdlp
+7,16405,startasl,36,0,train,25,1,-1,216,16,531,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dirty.mp4,dirty_0007_startasl_16405.mp4,ok
+8,16406,signschool,52,0,train,25,1,-1,350,14,806,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20dirty%202-F9CzOjI2MPo.mp4,dirty_0008_signschool_16406.mp4,ok
+9,16407,asldeafined,21,0,test,25,1,-1,42,12,529,480,https://media.asldeafined.com/vocabulary/1467770287.2443.mp4,dirty_0009_asldeafined_16407.mp4,ok
+10,16408,handspeak,14,0,train,25,1,-1,4,0,550,480,https://www.handspeak.com/word/d/dirty.mp4,dirty_0010_handspeak_16408.mp4,failed
+11,16409,signingsavvy,11,0,test,25,1,-1,55,11,204,192,https://www.signingsavvy.com/signs/mp4/14/14236.mp4,dirty_0011_signingsavvy_16409.mp4,ok
+12,16410,aslu,5,0,val,25,1,-1,326,34,937,720,https://www.youtube.com/watch?v=OtNUBU_CsVY,dirty_0012_aslu_16410.mp4,skipped_no_ytdlp

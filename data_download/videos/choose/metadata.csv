@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10624,asl5200,9,0,val,25,3119,3165,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,choose_0000_asl5200_10624.mp4,skipped_no_ytdlp
+3,10628,handspeak,20,0,train,25,1,-1,187,1,504,360,https://www.handspeak.com/word/c/choose.mp4,choose_0003_handspeak_10628.mp4,failed
+5,10630,handspeak,14,0,train,25,1,-1,63,30,240,240,https://www.handspeak.com/word/c/choose-you.mp4,choose_0005_handspeak_10630.mp4,failed
+6,10631,signingsavvy,11,0,train,25,1,-1,69,8,210,192,https://www.signingsavvy.com/signs/mp4/14/14268.mp4,choose_0006_signingsavvy_10631.mp4,ok
+7,10632,signingsavvy,10,0,train,25,1,-1,78,16,207,192,https://www.signingsavvy.com/signs/mp4/22/22781.mp4,choose_0007_signingsavvy_10632.mp4,ok
+9,10634,signingsavvy,10,0,train,25,1,-1,83,17,195,192,https://www.signingsavvy.com/signs/mp4/22/22783.mp4,choose_0009_signingsavvy_10634.mp4,ok
+10,10635,signingsavvy,10,0,train,25,1,-1,83,18,195,192,https://www.signingsavvy.com/signs/mp4/22/22784.mp4,choose_0010_signingsavvy_10635.mp4,ok
+11,10636,signingsavvy,11,0,train,25,1,-1,83,11,217,192,https://www.signingsavvy.com/signs/mp4/6/6201.mp4,choose_0011_signingsavvy_10636.mp4,ok
+12,10637,signingsavvy,11,0,train,25,1,-1,85,14,209,192,https://www.signingsavvy.com/signs/mp4/6/6202.mp4,choose_0012_signingsavvy_10637.mp4,ok
+14,10639,aslu,5,0,test,25,1,-1,395,56,934,720,https://www.youtube.com/watch?v=rKQdZODL_ao,choose_0014_aslu_10639.mp4,skipped_no_ytdlp
+15,10640,aslpro,24,0,train,25,1,-1,22,17,197,240,http://www.aslpro.com/main/c/choose.swf,choose_0015_aslpro_10640.mp4,skipped_swf
+16,10641,aslsearch,12,0,test,25,1,-1,171,57,556,400,http://www.aslsearch.com/signs/videos/choice.mp4,choose_0016_aslsearch_10641.mp4,ok
+17,10625,spreadthesign,2,0,val,25,1,-1,74,0,285,240,https://media.spreadthesign.com/video/mp4/13/126010.mp4,choose_0017_spreadthesign_10625.mp4,ok

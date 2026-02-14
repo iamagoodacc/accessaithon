@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02102,asl5200,9,0,val,25,1839,1915,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,alone_0000_asl5200_02102.mp4,skipped_no_ytdlp
+1,02109,signingsavvy,11,0,train,25,1,-1,80,12,209,192,https://www.signingsavvy.com/signs/mp4/14/14275.mp4,alone_0001_signingsavvy_02109.mp4,ok
+2,02110,signingsavvy,11,0,train,25,1,-1,69,10,209,192,https://www.signingsavvy.com/signs/mp4/14/14276.mp4,alone_0002_signingsavvy_02110.mp4,ok
+3,02111,aslpro,25,0,train,25,1,-1,8,9,260,240,http://www.aslpro.com/main/a/alone.swf,alone_0003_aslpro_02111.mp4,skipped_swf
+4,65057,aslsignbank,91,0,train,25,1,-1,223,31,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AL/ALONE-2065.mp4,alone_0004_aslsignbank_65057.mp4,failed
+5,67357,asllex,109,0,train,25,1,-1,96,18,364,360,https://youtu.be/3ekpuQTDedA,alone_0005_asllex_67357.mp4,skipped_no_ytdlp
+6,02112,aslsearch,41,0,train,25,1,-1,234,34,485,400,http://www.aslsearch.com/signs/videos/alone.mp4,alone_0006_aslsearch_02112.mp4,ok
+7,02103,spreadthesign,26,0,train,25,1,-1,73,7,238,240,https://media.spreadthesign.com/video/mp4/13/118417.mp4,alone_0007_spreadthesign_02103.mp4,ok
+8,02104,signschool,4,0,train,25,1,-1,452,85,1495,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Alone-XPC_elKHC2k.mp4,alone_0008_signschool_02104.mp4,ok
+9,02105,signschool,4,0,test,25,1,-1,521,78,1514,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Only%20One-pnVAEfSn_Jo.mp4,alone_0009_signschool_02105.mp4,ok
+10,02106,asldeafined,13,0,train,25,1,-1,136,21,508,480,https://media.asldeafined.com/vocabulary/1466173430.6335.mp4,alone_0010_asldeafined_02106.mp4,ok
+11,02107,handspeak,20,0,test,25,1,-1,125,0,560,480,https://www.handspeak.com/word/a/alone.mp4,alone_0011_handspeak_02107.mp4,failed
+12,02108,signingsavvy,11,0,val,25,1,-1,64,11,208,192,https://www.signingsavvy.com/signs/mp4/14/14274.mp4,alone_0012_signingsavvy_02108.mp4,ok

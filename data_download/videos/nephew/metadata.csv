@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37983,asl5200,9,0,train,25,684,740,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,nephew_0000_asl5200_37983.mp4,skipped_no_ytdlp
+1,70337,northtexas,121,0,train,25,2049,2159,178,44,441,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,nephew_0001_northtexas_70337.mp4,skipped_no_ytdlp
+2,69008,lillybauer,112,0,train,25,1,47,247,20,877,720,https://www.youtube.com/watch?v=wTwoInjrH9k,nephew_0002_lillybauer_69008.mp4,skipped_no_ytdlp
+3,37991,aslu,5,0,val,25,1,-1,240,34,987,720,https://www.youtube.com/watch?v=I9b1RkdY8Ng,nephew_0003_aslu_37991.mp4,skipped_no_ytdlp
+4,37992,aslpro,87,0,train,25,1,-1,26,17,203,240,http://www.aslpro.com/main/n/nephew.swf,nephew_0004_aslpro_37992.mp4,skipped_swf
+5,67926,asllex,109,0,train,25,1,-1,144,21,422,360,https://youtu.be/LyWen6iyYuM,nephew_0005_asllex_67926.mp4,skipped_no_ytdlp
+6,37993,aslsearch,12,0,train,25,1,-1,187,55,566,400,http://www.aslsearch.com/signs/videos/nephew.mp4,nephew_0006_aslsearch_37993.mp4,ok
+7,37984,spreadthesign,56,0,train,25,1,-1,30,0,264,240,https://media.spreadthesign.com/video/mp4/13/48811.mp4,nephew_0007_spreadthesign_37984.mp4,ok
+8,37985,startasl,36,0,train,25,1,-1,193,14,520,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/nephew.mp4,nephew_0008_startasl_37985.mp4,ok
+9,37986,signschool,60,0,test,25,1,-1,308,14,775,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Nephew-INBtIyECKJ0.mp4,nephew_0009_signschool_37986.mp4,ok
+10,37987,asldeafined,13,0,val,25,1,-1,81,0,516,480,https://media.asldeafined.com/vocabulary/1468718373.4133.mp4,nephew_0010_asldeafined_37987.mp4,ok
+11,37988,handspeak,20,0,test,25,1,-1,78,29,597,480,https://www.handspeak.com/word/n/nephew.mp4,nephew_0011_handspeak_37988.mp4,failed
+12,37989,signingsavvy,11,0,train,25,1,-1,45,12,214,192,https://www.signingsavvy.com/signs/mp4/6/6521.mp4,nephew_0012_signingsavvy_37989.mp4,ok
+13,37990,aslu,5,0,train,25,1,-1,253,32,939,720,https://www.youtube.com/watch?v=Ef4RZhDwuhQ,nephew_0013_aslu_37990.mp4,skipped_no_ytdlp

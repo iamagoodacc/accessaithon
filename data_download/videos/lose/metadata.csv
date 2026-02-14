@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,34002,spreadthesign,37,0,train,25,1,-1,66,0,237,240,https://media.spreadthesign.com/video/mp4/13/457582.mp4,lose_0000_spreadthesign_34002.mp4,ok
+1,34004,signschool,60,1,test,25,1,-1,284,14,606,360,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lose%20(Trimmed)-Tjt-yGXkpfQ.mp4,lose_0001_signschool_34004.mp4,ok
+2,34005,signschool,6,0,train,25,1,-1,562,53,1605,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lose%2C%20Lost-1960eVTWUJw.mp4,lose_0002_signschool_34005.mp4,ok
+3,34006,signschool,52,1,val,25,1,-1,371,11,815,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20lose-srt0wJbxsZE.mp4,lose_0003_signschool_34006.mp4,ok
+4,34007,signschool,52,1,train,25,1,-1,274,8,614,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20lose.mp4,lose_0004_signschool_34007.mp4,ok
+5,34008,asldeafined,13,0,train,25,1,-1,128,0,558,480,https://media.asldeafined.com/vocabulary/1468712664.805.mp4,lose_0005_asldeafined_34008.mp4,ok
+6,34009,handspeak,14,1,train,25,1,-1,115,0,524,480,https://www.handspeak.com/word/l/lose-game.mp4,lose_0006_handspeak_34009.mp4,failed
+7,34010,handspeak,20,0,train,25,1,-1,69,0,562,480,https://www.handspeak.com/word/l/lose.mp4,lose_0007_handspeak_34010.mp4,failed
+9,67861,asllex,109,1,train,25,1,-1,92,17,365,360,https://youtu.be/lH9vlUcCL24,lose_0009_asllex_67861.mp4,skipped_no_ytdlp
+10,34012,signingsavvy,11,1,train,25,1,-1,77,18,202,192,https://www.signingsavvy.com/signs/mp4/6/6520.mp4,lose_0010_signingsavvy_34012.mp4,ok
+11,34013,aslu,5,0,val,25,1,-1,169,13,492,360,https://www.youtube.com/watch?v=EyI_I3wOt5Y,lose_0011_aslu_34013.mp4,skipped_no_ytdlp
+12,34014,aslu,5,0,val,25,1,-1,195,19,1010,720,https://www.youtube.com/watch?v=EyI_I3wOt5Y,lose_0012_aslu_34014.mp4,skipped_no_ytdlp
+13,34015,aslu,5,0,train,25,1,-1,331,58,902,720,https://www.youtube.com/watch?v=hToPKg_N4qY,lose_0013_aslu_34015.mp4,skipped_no_ytdlp
+14,34016,aslpro,25,0,test,25,1,-1,0,6,247,240,http://www.aslpro.com/main/l/lose.swf,lose_0014_aslpro_34016.mp4,skipped_swf
+15,34017,aslsearch,41,0,train,25,1,-1,234,40,523,400,http://www.aslsearch.com/signs/videos/lose2.mp4,lose_0015_aslsearch_34017.mp4,ok
+16,34018,aslsearch,41,1,train,25,1,-1,243,39,510,400,http://www.aslsearch.com/signs/videos/lose.mp4,lose_0016_aslsearch_34018.mp4,ok

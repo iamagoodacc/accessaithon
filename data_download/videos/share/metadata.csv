@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50846,asl5200,9,0,test,25,3054,3116,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,share_0000_asl5200_50846.mp4,skipped_no_ytdlp
+1,50853,handspeak,14,0,test,25,1,-1,122,0,531,480,https://www.handspeak.com/word/s/share.mp4,share_0001_handspeak_50853.mp4,failed
+2,50854,handspeak,14,0,train,25,1,-1,329,21,1010,720,https://www.handspeak.com/word/s/share-you.mp4,share_0002_handspeak_50854.mp4,failed
+3,50855,signingsavvy,11,0,train,25,1,-1,75,13,216,192,https://www.signingsavvy.com/signs/mp4/6/6543.mp4,share_0003_signingsavvy_50855.mp4,ok
+4,50856,signingsavvy,11,0,train,25,1,-1,64,9,213,192,https://www.signingsavvy.com/signs/mp4/8/8853.mp4,share_0004_signingsavvy_50856.mp4,ok
+5,50857,aslu,5,0,val,25,1,-1,339,31,967,720,https://www.youtube.com/watch?v=3E2_HVDL9T8,share_0005_aslu_50857.mp4,skipped_no_ytdlp
+6,50858,nabboud,81,0,train,25,1,-1,379,70,825,720,https://www.youtube.com/watch?v=bl95h3JbMqI,share_0006_nabboud_50858.mp4,skipped_no_ytdlp
+7,66461,aslsignbank,103,0,val,25,1,-1,173,28,511,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SH/SHARE-251.mp4,share_0007_aslsignbank_66461.mp4,failed
+8,50849,signschool,31,0,train,25,1,-1,785,64,1636,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Share-IaO4TjGuEYw.mp4,share_0008_signschool_50849.mp4,ok
+9,50859,aslu,5,0,train,25,1,-1,336,37,976,720,https://www.youtube.com/watch?v=mWLScxe2_P0,share_0009_aslu_50859.mp4,skipped_no_ytdlp
+10,50860,aslu,5,0,train,25,1,-1,336,37,976,720,https://www.youtube.com/watch?v=mWLScxe2_P0,share_0010_aslu_50860.mp4,skipped_no_ytdlp
+11,50861,aslpro,24,0,train,25,1,-1,24,16,206,240,http://www.aslpro.com/main/s/share.swf,share_0011_aslpro_50861.mp4,skipped_swf
+12,50862,aslsearch,41,0,val,25,1,-1,248,37,497,400,http://www.aslsearch.com/signs/videos/share.mp4,share_0012_aslsearch_50862.mp4,ok
+13,50850,signschool,4,0,train,25,1,-1,675,27,1670,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Share-vz2mlzywHbs.mp4,share_0013_signschool_50850.mp4,ok
+14,50851,asldeafined,13,0,train,25,1,-1,112,0,568,480,https://media.asldeafined.com/vocabulary/1468765753.9375.mp4,share_0014_asldeafined_50851.mp4,ok
+15,50852,handspeak,14,0,train,25,1,-1,90,2,598,392,https://www.handspeak.com/word/s/share-all.mp4,share_0015_handspeak_50852.mp4,failed

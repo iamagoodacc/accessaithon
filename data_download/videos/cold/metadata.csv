@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65377,aslsignbank,99,0,test,25,1,-1,129,16,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLD-432.mp4,cold_0000_aslsignbank_65377.mp4,failed
+1,11638,aslsearch,12,0,test,25,1,-1,180,57,551,400,http://www.aslsearch.com/signs/videos/cold.mp4,cold_0001_aslsearch_11638.mp4,ok
+2,11622,startasl,36,0,train,25,1,-1,210,16,540,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cold.mp4,cold_0002_startasl_11622.mp4,ok
+3,11623,signschool,52,0,train,25,1,-1,380,16,825,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20cold%203-YldGtQZmZYU.mp4,cold_0003_signschool_11623.mp4,ok
+4,11624,signschool,6,0,train,25,1,-1,593,70,1468,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cold-u2a1DwJhmrQ.mp4,cold_0004_signschool_11624.mp4,ok
+5,11625,signschool,39,0,val,25,1,-1,624,133,1621,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cold-V5nv_yk_Ah8.mp4,cold_0005_signschool_11625.mp4,ok
+7,11627,signschool,4,0,train,25,1,-1,411,31,1128,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Cold.mp4,cold_0007_signschool_11627.mp4,ok
+8,11628,asldeafined,59,0,val,25,1,-1,116,29,513,480,https://media.asldeafined.com/vocabulary/1466899767.7689.mp4,cold_0008_asldeafined_11628.mp4,ok
+10,11630,handspeak,20,0,train,25,1,-1,110,0,584,480,https://www.handspeak.com/word/c/cold-brr.mp4,cold_0010_handspeak_11630.mp4,failed
+11,11621,spreadthesign,56,0,train,25,1,-1,59,16,263,240,https://media.spreadthesign.com/video/mp4/13/399313.mp4,cold_0011_spreadthesign_11621.mp4,ok
+12,67513,asllex,109,0,train,25,1,-1,103,20,387,360,https://youtu.be/EQJ7BYa01Co,cold_0012_asllex_67513.mp4,skipped_no_ytdlp
+15,11633,signingsavvy,10,0,train,25,1,-1,88,22,216,192,https://www.signingsavvy.com/signs/mp4/22/22759.mp4,cold_0015_signingsavvy_11633.mp4,ok
+16,11634,signingsavvy,10,0,val,25,1,-1,65,21,233,192,https://www.signingsavvy.com/signs/mp4/22/22867.mp4,cold_0016_signingsavvy_11634.mp4,ok
+17,11635,signingsavvy,11,0,train,25,1,-1,79,16,221,192,https://www.signingsavvy.com/signs/mp4/7/7159.mp4,cold_0017_signingsavvy_11635.mp4,ok
+18,11636,nabboud,65,0,train,25,1,-1,219,84,932,720,https://www.youtube.com/watch?v=trlv3hkAQsQ,cold_0018_nabboud_11636.mp4,skipped_no_ytdlp
+19,11637,aslpro,72,0,train,25,1,-1,14,1,221,240,http://www.aslpro.com/main/c/cold.swf,cold_0019_aslpro_11637.mp4,skipped_swf

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06643,asl5200,9,0,val,25,3383,3419,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,blind_0000_asl5200_06643.mp4,skipped_no_ytdlp
+1,06656,aslu,5,0,train,25,1,-1,321,63,877,720,https://www.youtube.com/watch?v=WBPhv9lZVRU,blind_0001_aslu_06656.mp4,skipped_no_ytdlp
+2,06657,aslpro,30,0,train,25,1,-1,2,17,224,240,http://www.aslpro.com/main/b/blind.swf,blind_0002_aslpro_06657.mp4,skipped_swf
+3,06658,aslsearch,41,0,train,25,1,-1,226,38,483,400,http://www.aslsearch.com/signs/videos/blind.mp4,blind_0003_aslsearch_06658.mp4,ok
+4,65209,aslsignbank,89,0,train,25,1,-1,185,0,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLIND-2117.mp4,blind_0004_aslsignbank_65209.mp4,failed
+5,06649,spreadthesign,2,0,train,25,1,-1,61,9,251,240,https://media.spreadthesign.com/video/mp4/13/124725.mp4,blind_0005_spreadthesign_06649.mp4,ok
+6,67416,asllex,109,0,train,25,1,-1,106,8,371,360,https://youtu.be/hsoG6v2prfU,blind_0006_asllex_67416.mp4,skipped_no_ytdlp
+7,06650,spreadthesign,28,0,train,25,1,-1,75,12,257,240,https://media.spreadthesign.com/video/mp4/13/480707.mp4,blind_0007_spreadthesign_06650.mp4,ok
+8,06651,signschool,31,0,train,25,1,-1,661,94,1352,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blind-6T0QuuJ73Q0.mp4,blind_0008_signschool_06651.mp4,ok
+9,06652,asldeafined,59,0,test,25,1,-1,129,24,526,480,https://media.asldeafined.com/vocabulary/1466683113.2054.mp4,blind_0009_asldeafined_06652.mp4,ok
+10,06653,handspeak,14,0,train,25,1,-1,140,21,538,480,https://www.handspeak.com/word/b/blind.mp4,blind_0010_handspeak_06653.mp4,failed
+11,06654,signingsavvy,11,0,test,25,1,-1,85,17,213,192,https://www.signingsavvy.com/signs/mp4/9/9246.mp4,blind_0011_signingsavvy_06654.mp4,ok
+12,06655,signingsavvy,11,0,val,25,1,-1,72,15,210,192,https://www.signingsavvy.com/signs/mp4/9/9247.mp4,blind_0012_signingsavvy_06655.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29134,asl5200,9,0,train,25,511,560,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,improve_0000_asl5200_29134.mp4,skipped_no_ytdlp
+1,29142,handspeak,14,0,train,25,1,-1,75,14,273,240,https://www.handspeak.com/word/i/improve.mp4,improve_0001_handspeak_29142.mp4,failed
+2,29143,signingsavvy,11,0,train,25,1,-1,68,13,205,192,https://www.signingsavvy.com/signs/mp4/8/8926.mp4,improve_0002_signingsavvy_29143.mp4,ok
+3,29144,signingsavvy,11,0,val,25,1,-1,66,9,209,192,https://www.signingsavvy.com/signs/mp4/8/8927.mp4,improve_0003_signingsavvy_29144.mp4,ok
+4,29145,signingsavvy,11,0,train,25,1,-1,68,11,211,192,https://www.signingsavvy.com/signs/mp4/8/8928.mp4,improve_0004_signingsavvy_29145.mp4,ok
+5,65929,aslsignbank,96,0,train,25,1,-1,184,35,518,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IM/IMPROVE-1743.mp4,improve_0005_aslsignbank_65929.mp4,failed
+6,29136,spreadthesign,8,0,train,25,1,-1,58,0,270,240,https://media.spreadthesign.com/video/mp4/13/457821.mp4,improve_0006_spreadthesign_29136.mp4,ok
+7,29146,aslpro,83,0,train,25,1,-1,19,14,228,240,http://www.aslpro.com/main/i/improve.swf,improve_0007_aslpro_29146.mp4,skipped_swf
+8,29147,aslsearch,12,0,train,25,1,-1,180,53,548,400,http://www.aslsearch.com/signs/videos/improve.mp4,improve_0008_aslsearch_29147.mp4,ok
+9,29137,startasl,38,0,test,25,1,-1,438,59,821,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/improve.mp4,improve_0009_startasl_29137.mp4,ok
+10,29138,signschool,4,0,val,25,1,-1,623,52,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Improve%20copy-_cCPPgyJaM0.mp4,improve_0010_signschool_29138.mp4,ok
+11,29139,asldeafined,21,0,test,25,1,-1,68,10,553,480,https://media.asldeafined.com/vocabulary/1468665694.6332.mp4,improve_0011_asldeafined_29139.mp4,ok
+12,29140,handspeak,14,0,train,25,1,-1,69,15,264,240,https://www.handspeak.com/word/i/improve2.mp4,improve_0012_handspeak_29140.mp4,failed
+13,29141,handspeak,14,0,train,25,1,-1,65,16,272,240,https://www.handspeak.com/word/i/improve-big.mp4,improve_0013_handspeak_29141.mp4,failed

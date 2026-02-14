@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21272,asl5200,9,0,train,25,646,702,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,fault_0000_asl5200_21272.mp4,skipped_no_ytdlp
+1,21275,signschool,4,0,train,25,1,-1,562,64,1570,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Fault-fMr4wA0VyW0.mp4,fault_0001_signschool_21275.mp4,ok
+2,21276,asldeafined,21,0,train,25,1,-1,57,9,577,480,https://media.asldeafined.com/vocabulary/1468463664.9101.mp4,fault_0002_asldeafined_21276.mp4,ok
+3,21277,handspeak,20,0,train,25,1,-1,79,0,543,480,https://www.handspeak.com/word/f/fault.mp4,fault_0003_handspeak_21277.mp4,failed
+6,21280,signingsavvy,11,1,train,25,1,-1,82,13,223,192,https://www.signingsavvy.com/signs/mp4/7/7139.mp4,fault_0006_signingsavvy_21280.mp4,ok
+7,21281,signingsavvy,11,1,test,25,1,-1,82,13,223,192,https://www.signingsavvy.com/signs/mp4/7/7139.mp4,fault_0007_signingsavvy_21281.mp4,ok
+8,67649,asllex,109,0,val,25,1,-1,82,22,384,360,https://youtu.be/0ECfQkHh-Cg,fault_0008_asllex_67649.mp4,skipped_no_ytdlp
+9,21282,signingsavvy,11,1,val,25,1,-1,72,15,218,192,https://www.signingsavvy.com/signs/mp4/7/7140.mp4,fault_0009_signingsavvy_21282.mp4,ok
+10,21283,signingsavvy,11,0,val,25,1,-1,54,14,224,192,https://www.signingsavvy.com/signs/mp4/7/7141.mp4,fault_0010_signingsavvy_21283.mp4,ok
+11,21284,aslu,5,0,train,25,1,-1,293,33,932,714,https://www.youtube.com/watch?v=5Kzi_CtM1nc,fault_0011_aslu_21284.mp4,skipped_no_ytdlp
+12,21285,aslpro,24,1,train,25,1,-1,20,11,213,240,http://www.aslpro.com/main/f/fault.swf,fault_0012_aslpro_21285.mp4,skipped_swf
+13,21286,aslsearch,41,0,test,25,1,-1,171,37,477,400,http://www.aslsearch.com/signs/videos/fault.mp4,fault_0013_aslsearch_21286.mp4,ok
+15,21273,spreadthesign,0,0,train,25,1,-1,43,12,237,240,https://media.spreadthesign.com/video/mp4/13/63613.mp4,fault_0015_spreadthesign_21273.mp4,ok
+16,21274,signschool,4,1,train,25,1,-1,631,40,1759,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blame-qnoOB-BriM0.mp4,fault_0016_signschool_21274.mp4,ok

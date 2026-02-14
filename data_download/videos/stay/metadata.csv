@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54548,asl5200,9,0,test,25,8369,8405,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stay_0000_asl5200_54548.mp4,skipped_no_ytdlp
+1,68914,lillybauer,113,1,train,25,1,101,92,20,999,720,https://www.youtube.com/watch?v=tfq5iBP8DTA,stay_0001_lillybauer_68914.mp4,skipped_no_ytdlp
+2,54559,handspeak,20,1,train,25,1,-1,54,13,273,240,https://www.handspeak.com/word/s/stay2.mp4,stay_0002_handspeak_54559.mp4,failed
+3,54560,handspeak,20,1,train,25,1,-1,57,13,275,240,https://www.handspeak.com/word/s/stay.mp4,stay_0003_handspeak_54560.mp4,failed
+4,54561,signingsavvy,11,0,train,25,1,-1,36,5,219,192,https://www.signingsavvy.com/signs/mp4/5/5811.mp4,stay_0004_signingsavvy_54561.mp4,ok
+5,54562,signingsavvy,11,1,val,25,1,-1,63,6,216,192,https://www.signingsavvy.com/signs/mp4/5/5812.mp4,stay_0005_signingsavvy_54562.mp4,ok
+6,54563,signingsavvy,11,1,train,25,1,-1,35,10,208,192,https://www.signingsavvy.com/signs/mp4/9/9726.mp4,stay_0006_signingsavvy_54563.mp4,ok
+7,54554,spreadthesign,63,0,train,25,1,-1,48,0,240,240,https://media.spreadthesign.com/video/mp4/13/50822.mp4,stay_0007_spreadthesign_54554.mp4,ok
+8,54564,aslu,5,0,train,25,1,-1,304,30,919,720,https://www.youtube.com/watch?v=k2VFMUf9mo8,stay_0008_aslu_54564.mp4,skipped_no_ytdlp
+9,54565,aslu,5,1,val,25,1,-1,135,20,503,360,https://www.youtube.com/watch?v=QmbOr-8K_Kw,stay_0009_aslu_54565.mp4,skipped_no_ytdlp
+10,54566,aslpro,83,1,train,25,1,-1,7,15,233,240,http://www.aslpro.com/main/s/stay.swf,stay_0010_aslpro_54566.mp4,skipped_swf
+11,54567,aslsearch,41,1,train,25,1,-1,232,35,484,400,http://www.aslsearch.com/signs/videos/stay.mp4,stay_0011_aslsearch_54567.mp4,ok
+12,54555,signschool,4,1,test,25,1,-1,500,52,1686,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay%202-g3ho3QEAE-o.mp4,stay_0012_signschool_54555.mp4,ok
+13,54556,signschool,45,0,train,25,1,-1,532,127,1539,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay%2C%20That-EwCyqwGVnhA.mp4,stay_0013_signschool_54556.mp4,ok
+14,54557,signschool,31,1,train,25,1,-1,658,58,1634,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Stay-cR-jmxeRoUg.mp4,stay_0014_signschool_54557.mp4,ok
+15,54558,asldeafined,13,0,val,25,1,-1,79,0,527,480,https://media.asldeafined.com/vocabulary/1468866523.9046.mp4,stay_0015_asldeafined_54558.mp4,ok

@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,64423,asl5200,9,0,val,25,362,404,0,0,360,240,https://www.youtube.com/watch?v=BRO-oYGV224,your_0000_asl5200_64423.mp4,skipped_no_ytdlp
+1,64432,handspeak,20,0,train,25,1,-1,51,0,276,240,https://www.handspeak.com/word/y/your-plu.mp4,your_0001_handspeak_64432.mp4,failed
+2,64433,signingsavvy,11,0,train,25,1,-1,70,13,217,192,https://www.signingsavvy.com/signs/mp4/7/7201.mp4,your_0002_signingsavvy_64433.mp4,ok
+3,64434,signingsavvy,11,0,val,25,1,-1,73,15,215,192,https://www.signingsavvy.com/signs/mp4/8/8638.mp4,your_0003_signingsavvy_64434.mp4,ok
+4,64435,aslu,5,0,train,25,1,-1,322,51,978,720,https://www.youtube.com/watch?v=-1Hz72xltNk,your_0004_aslu_64435.mp4,skipped_no_ytdlp
+5,64436,scott,47,0,train,25,1,-1,309,18,891,720,https://www.youtube.com/watch?v=8MrC2c29fnk,your_0005_scott_64436.mp4,skipped_no_ytdlp
+6,64427,spreadthesign,2,0,train,25,1,-1,68,15,239,240,https://media.spreadthesign.com/video/mp4/13/307682.mp4,your_0006_spreadthesign_64427.mp4,ok
+7,64437,aslu,5,0,train,25,1,-1,249,24,1019,720,https://www.youtube.com/watch?v=MijiYPUzXe4,your_0007_aslu_64437.mp4,skipped_no_ytdlp
+8,64438,aslu,5,0,train,25,1,-1,353,30,946,720,https://www.youtube.com/watch?v=TT6gxcZ8f2E,your_0008_aslu_64438.mp4,skipped_no_ytdlp
+9,64439,aslu,5,0,test,25,1,-1,86,45,967,720,https://www.youtube.com/watch?v=YzuOEjefcIY,your_0009_aslu_64439.mp4,skipped_no_ytdlp
+10,64440,aslpro,24,0,val,25,1,-1,15,20,223,240,http://www.aslpro.com/main/y/your.swf,your_0010_aslpro_64440.mp4,skipped_swf
+11,64428,startasl,36,0,test,25,1,-1,223,15,525,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/your.mp4,your_0011_startasl_64428.mp4,ok
+12,64429,signschool,31,0,train,25,1,-1,458,56,1010,717,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Your.mp4,your_0012_signschool_64429.mp4,ok
+13,64430,asldeafined,13,0,train,25,1,-1,103,8,521,480,https://media.asldeafined.com/vocabulary/1468775332.5006.mp4,your_0013_asldeafined_64430.mp4,ok
+14,64431,handspeak,20,0,train,25,1,-1,57,0,276,240,https://www.handspeak.com/word/y/your.mp4,your_0014_handspeak_64431.mp4,failed

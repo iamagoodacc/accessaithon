@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10395,asl5200,9,0,val,25,2763,2815,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,chicken_0000_asl5200_10395.mp4,skipped_no_ytdlp
+1,70060,northtexas,121,0,train,25,740,836,98,29,467,480,https://www.youtube.com/watch?v=jDCw7stJaM4,chicken_0001_northtexas_70060.mp4,skipped_no_ytdlp
+2,10399,handspeak,14,0,train,25,1,-1,104,19,515,477,https://www.handspeak.com/word/c/chicken.mp4,chicken_0002_handspeak_10399.mp4,failed
+3,10400,signingsavvy,10,0,train,25,1,-1,71,18,210,192,https://www.signingsavvy.com/signs/mp4/23/23779.mp4,chicken_0003_signingsavvy_10400.mp4,ok
+8,10405,signingsavvy,11,0,train,25,1,-1,74,18,207,192,https://www.signingsavvy.com/signs/mp4/9/9022.mp4,chicken_0008_signingsavvy_10405.mp4,ok
+9,10406,aslu,64,0,train,25,1,-1,139,36,402,342,https://www.youtube.com/watch?v=fmJZWdDmbQ0,chicken_0009_aslu_10406.mp4,skipped_no_ytdlp
+10,65349,aslsignbank,95,0,train,25,1,-1,169,10,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHICKEN-2901.mp4,chicken_0010_aslsignbank_65349.mp4,failed
+11,10397,startasl,38,0,train,25,1,-1,427,61,811,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/chicken.mp4,chicken_0011_startasl_10397.mp4,ok
+12,10407,nabboud,67,0,train,25,1,-1,315,56,900,720,https://www.youtube.com/watch?v=HVRRcxktvlw,chicken_0012_nabboud_10407.mp4,skipped_no_ytdlp
+13,10408,aslu,5,0,test,25,1,-1,301,65,918,720,https://www.youtube.com/watch?v=Pszo0ZVIcUA,chicken_0013_aslu_10408.mp4,skipped_no_ytdlp
+15,10410,aslpro,16,0,train,25,1,-1,28,20,198,240,http://www.aslpro.com/main/c/chicken_scared.swf,chicken_0015_aslpro_10410.mp4,skipped_swf
+16,10411,aslpro,16,0,test,25,1,-1,19,7,220,240,http://www.aslpro.com/main/c/chicken.swf,chicken_0016_aslpro_10411.mp4,skipped_swf
+17,10412,aslsearch,12,0,val,25,1,-1,188,59,557,400,http://www.aslsearch.com/signs/videos/chicken.mp4,chicken_0017_aslsearch_10412.mp4,ok

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10435,asl5200,9,0,val,25,2816,2865,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,child_0000_asl5200_10435.mp4,skipped_no_ytdlp
+2,10450,signingsavvy,11,0,train,25,1,-1,69,17,215,192,https://www.signingsavvy.com/signs/mp4/9/9191.mp4,child_0002_signingsavvy_10450.mp4,ok
+3,10451,aslu,5,0,train,25,1,-1,324,48,935,720,https://www.youtube.com/watch?v=32hgy9NSs7k,child_0003_aslu_10451.mp4,skipped_no_ytdlp
+4,10452,aslpro,24,0,train,25,1,-1,17,12,207,240,http://www.aslpro.com/main/c/child.swf,child_0004_aslpro_10452.mp4,skipped_swf
+5,65351,aslsignbank,90,0,train,25,1,-1,130,14,465,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHILD-75.mp4,child_0005_aslsignbank_65351.mp4,failed
+6,10443,spreadthesign,2,0,train,25,1,-1,64,0,269,240,https://media.spreadthesign.com/video/mp4/13/125977.mp4,child_0006_spreadthesign_10443.mp4,ok
+7,10453,aslsearch,12,0,train,25,1,-1,130,54,550,400,http://www.aslsearch.com/signs/videos/child.mp4,child_0007_aslsearch_10453.mp4,ok
+8,10444,signschool,32,0,train,25,1,-1,700,66,1636,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Child-D-7K4sSsMWw.mp4,child_0008_signschool_10444.mp4,ok
+9,10445,signschool,4,0,train,25,1,-1,616,61,1702,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Child-WrFMVymtcRs.mp4,child_0009_signschool_10445.mp4,ok
+10,10446,signschool,32,0,test,25,1,-1,693,70,1631,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Short-bjSx00_gSOs.mp4,child_0010_signschool_10446.mp4,ok
+11,10447,asldeafined,59,0,train,25,1,-1,50,24,520,480,https://media.asldeafined.com/vocabulary/1466732333.9614.mp4,child_0011_asldeafined_10447.mp4,ok
+12,10448,handspeak,20,0,test,25,1,-1,148,0,558,360,https://www.handspeak.com/word/c/child.mp4,child_0012_handspeak_10448.mp4,failed
+13,10449,signingsavvy,10,0,val,25,1,-1,50,17,219,192,https://www.signingsavvy.com/signs/mp4/23/23321.mp4,child_0013_signingsavvy_10449.mp4,ok

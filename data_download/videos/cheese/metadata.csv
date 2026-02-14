@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10260,asl5200,9,0,train,25,2453,2502,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cheese_0000_asl5200_10260.mp4,skipped_no_ytdlp
+1,70064,northtexas,121,0,train,25,1515,1623,98,34,501,480,https://www.youtube.com/watch?v=jDCw7stJaM4,cheese_0001_northtexas_70064.mp4,skipped_no_ytdlp
+2,10273,aslu,5,0,train,25,1,-1,335,44,945,720,https://www.youtube.com/watch?v=XTjuje1fk1E,cheese_0002_aslu_10273.mp4,skipped_no_ytdlp
+3,10274,aslpro,16,0,val,25,1,-1,8,6,232,240,http://www.aslpro.com/main/c/cheese.swf,cheese_0003_aslpro_10274.mp4,skipped_swf
+4,10275,aslsearch,12,0,train,25,1,-1,167,57,544,400,http://www.aslsearch.com/signs/videos/cheese.mp4,cheese_0004_aslsearch_10275.mp4,ok
+5,65345,aslsignbank,90,0,train,25,1,-1,163,16,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CH/CHEESE-430.mp4,cheese_0005_aslsignbank_65345.mp4,failed
+6,10266,spreadthesign,2,0,train,25,1,-1,14,0,272,240,https://media.spreadthesign.com/video/mp4/13/125952.mp4,cheese_0006_spreadthesign_10266.mp4,ok
+7,67492,asllex,109,0,train,25,1,-1,96,19,379,360,https://youtu.be/3NqQk0cNPA0,cheese_0007_asllex_67492.mp4,skipped_no_ytdlp
+8,10267,startasl,38,0,train,25,1,-1,393,60,821,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cheese.mp4,cheese_0008_startasl_10267.mp4,ok
+9,10268,signschool,4,0,test,25,1,-1,344,38,1027,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Cheese.mp4,cheese_0009_signschool_10268.mp4,ok
+10,10269,asldeafined,59,0,val,25,1,-1,95,24,539,480,https://media.asldeafined.com/vocabulary/1466731594.4868.mp4,cheese_0010_asldeafined_10269.mp4,ok
+11,10270,handspeak,20,0,test,25,1,-1,46,0,543,480,https://www.handspeak.com/word/c/cheese.mp4,cheese_0011_handspeak_10270.mp4,failed
+12,10271,signingsavvy,11,0,train,25,1,-1,77,7,213,192,https://www.signingsavvy.com/signs/mp4/5/5784.mp4,cheese_0012_signingsavvy_10271.mp4,ok
+13,10272,aslu,5,0,train,25,1,-1,316,54,939,720,https://www.youtube.com/watch?v=_s96-SeiXfo,cheese_0013_aslu_10272.mp4,skipped_no_ytdlp

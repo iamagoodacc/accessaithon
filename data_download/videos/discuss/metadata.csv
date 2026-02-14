@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16581,asl5200,9,0,val,25,3309,3371,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,discuss_0000_asl5200_16581.mp4,skipped_no_ytdlp
+1,16587,asldeafined,21,0,train,25,1,-1,35,13,558,480,https://media.asldeafined.com/vocabulary/1467770863.2302.mp4,discuss_0001_asldeafined_16587.mp4,ok
+2,16588,handspeak,20,0,train,25,1,-1,32,0,534,480,https://www.handspeak.com/word/d/discuss2.mp4,discuss_0002_handspeak_16588.mp4,failed
+3,16590,handspeak,20,0,val,25,1,-1,11,0,514,480,https://www.handspeak.com/word/d/discuss.mp4,discuss_0003_handspeak_16590.mp4,failed
+4,16591,signingsavvy,10,0,train,25,1,-1,73,20,189,192,https://www.signingsavvy.com/signs/mp4/22/22501.mp4,discuss_0004_signingsavvy_16591.mp4,ok
+5,16592,signingsavvy,10,0,train,25,1,-1,64,19,204,192,https://www.signingsavvy.com/signs/mp4/22/22503.mp4,discuss_0005_signingsavvy_16592.mp4,ok
+6,16593,signingsavvy,10,0,train,25,1,-1,57,20,204,192,https://www.signingsavvy.com/signs/mp4/22/22504.mp4,discuss_0006_signingsavvy_16593.mp4,ok
+7,65491,aslsignbank,99,0,train,25,1,-1,143,17,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DI/DISCUSS-723.mp4,discuss_0007_aslsignbank_65491.mp4,failed
+9,16594,aslu,5,0,train,25,1,-1,59,23,433,360,https://www.youtube.com/watch?v=OHYBUa4Lpaw,discuss_0009_aslu_16594.mp4,skipped_no_ytdlp
+10,16595,aslu,5,0,test,25,1,-1,304,24,994,720,https://www.youtube.com/watch?v=OHYBUa4Lpaw,discuss_0010_aslu_16595.mp4,skipped_no_ytdlp
+11,16596,aslu,5,0,val,25,1,-1,255,37,938,720,https://www.youtube.com/watch?v=V92uL0D6dI4,discuss_0011_aslu_16596.mp4,skipped_no_ytdlp
+12,16597,aslpro,25,0,test,25,1,-1,2,10,245,240,http://www.aslpro.com/main/d/discuss.swf,discuss_0012_aslpro_16597.mp4,skipped_swf
+13,16598,aslsearch,12,0,train,25,1,-1,182,62,555,400,http://www.aslsearch.com/signs/videos/discuss.mp4,discuss_0013_aslsearch_16598.mp4,ok
+14,16585,spreadthesign,2,0,train,25,1,-1,64,32,232,240,https://media.spreadthesign.com/video/mp4/13/93940.mp4,discuss_0014_spreadthesign_16585.mp4,ok
+15,16586,signschool,4,0,train,25,1,-1,612,40,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Discuss%20aspect-NZvyw3RhuyU.mp4,discuss_0015_signschool_16586.mp4,ok

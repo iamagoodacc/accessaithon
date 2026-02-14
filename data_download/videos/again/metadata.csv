@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01457,asl5200,9,0,test,25,1139,1178,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,again_0000_asl5200_01457.mp4,skipped_no_ytdlp
+1,68276,lillybauer,111,0,test,25,1,51,356,9,921,720,https://www.youtube.com/watch?v=6JlqUMRxHwo,again_0001_lillybauer_68276.mp4,skipped_no_ytdlp
+2,70219,northtexas,121,0,train,25,3541,3621,88,25,279,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,again_0002_northtexas_70219.mp4,skipped_no_ytdlp
+3,01466,signingsavvy,11,0,train,25,1,-1,69,15,209,192,https://www.signingsavvy.com/signs/mp4/6/6335.mp4,again_0003_signingsavvy_01466.mp4,ok
+4,01467,scott,47,0,train,25,1,-1,292,25,911,720,https://www.youtube.com/watch?v=FMsqLT9Acso,again_0004_scott_01467.mp4,skipped_no_ytdlp
+5,01468,aslu,5,0,val,25,1,-1,329,41,945,720,https://www.youtube.com/watch?v=wTNv94AY-yE,again_0005_aslu_01468.mp4,skipped_no_ytdlp
+6,01469,aslu,5,0,train,25,1,-1,351,50,956,720,https://www.youtube.com/watch?v=YEz-iyZ0kL0,again_0006_aslu_01469.mp4,skipped_no_ytdlp
+7,65032,aslsignbank,88,0,val,25,1,-1,170,13,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AG/AGAIN-400.mp4,again_0007_aslsignbank_65032.mp4,failed
+8,01460,spreadthesign,2,0,train,25,1,-1,68,9,239,240,https://media.spreadthesign.com/video/mp4/13/118365.mp4,again_0008_spreadthesign_01460.mp4,ok
+9,01470,aslpro,24,0,train,25,1,-1,1,19,211,240,http://www.aslpro.com/main/a/again.swf,again_0009_aslpro_01470.mp4,skipped_swf
+10,01471,aslsearch,12,0,train,25,1,-1,135,49,547,400,http://www.aslsearch.com/signs/videos/again.mp4,again_0010_aslsearch_01471.mp4,ok
+11,01461,startasl,36,0,train,25,1,-1,168,17,527,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/again.mp4,again_0011_startasl_01461.mp4,ok
+12,01462,signschool,27,0,val,25,1,-1,538,62,1765,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Again-EYX5aL3d8_M.mp4,again_0012_signschool_01462.mp4,ok
+13,01463,asldeafined,13,0,train,25,1,-1,101,29,514,480,https://media.asldeafined.com/vocabulary/1466171389.6039.mp4,again_0013_asldeafined_01463.mp4,ok
+14,01464,asldeafined,15,0,train,25,1,-1,123,30,580,480,https://media.asldeafined.com/vocabulary/1522766184.698.mp4,again_0014_asldeafined_01464.mp4,ok
+15,01465,handspeak,14,0,train,25,1,-1,178,35,509,480,https://www.handspeak.com/word/a/again.mp4,again_0015_handspeak_01465.mp4,failed

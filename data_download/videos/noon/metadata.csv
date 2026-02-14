@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38614,asl5200,9,0,train,25,1438,1480,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,noon_0000_asl5200_38614.mp4,skipped_no_ytdlp
+1,70280,northtexas,121,0,train,25,820,927,143,38,425,360,https://www.youtube.com/watch?v=CSj7IScvZnE,noon_0001_northtexas_70280.mp4,skipped_no_ytdlp
+2,68934,lillybauer,113,0,train,25,1,83,171,43,951,720,https://www.youtube.com/watch?v=uAX2-wwHeYk,noon_0002_lillybauer_68934.mp4,skipped_no_ytdlp
+3,38628,aslu,5,0,val,25,1,-1,339,30,929,720,https://www.youtube.com/watch?v=gEUUQT-arjQ,noon_0003_aslu_38628.mp4,skipped_no_ytdlp
+4,38629,aslu,5,0,train,25,1,-1,310,10,938,720,https://www.youtube.com/watch?v=WctweqnCFLc,noon_0004_aslu_38629.mp4,skipped_no_ytdlp
+5,38630,aslu,5,0,train,25,1,-1,251,14,1011,720,https://www.youtube.com/watch?v=Zjt7g0C5MTs,noon_0005_aslu_38630.mp4,skipped_no_ytdlp
+6,38621,startasl,38,0,train,25,1,-1,392,52,799,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/noon.mp4,noon_0006_startasl_38621.mp4,ok
+7,38631,aslpro,30,0,train,25,1,-1,0,0,228,240,http://www.aslpro.com/main/n/noon.swf,noon_0007_aslpro_38631.mp4,skipped_swf
+8,38632,aslsearch,41,0,train,25,1,-1,242,35,519,400,http://www.aslsearch.com/signs/videos/noon.mp4,noon_0008_aslsearch_38632.mp4,ok
+9,38622,signschool,46,0,test,25,1,-1,432,9,1251,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Noon-Eu4HtwwjVwk.mp4,noon_0009_signschool_38622.mp4,ok
+10,38623,signschool,6,0,val,25,1,-1,586,72,1486,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Noon-mCa1E6MwGMA.mp4,noon_0010_signschool_38623.mp4,ok
+11,38624,asldeafined,13,0,test,25,1,-1,120,0,565,480,https://media.asldeafined.com/vocabulary/1468719459.9712.mp4,noon_0011_asldeafined_38624.mp4,ok
+12,38625,handspeak,20,0,train,25,1,-1,110,0,536,480,https://www.handspeak.com/word/n/noon.mp4,noon_0012_handspeak_38625.mp4,failed
+13,38626,signingsavvy,11,0,train,25,1,-1,69,7,208,192,https://www.signingsavvy.com/signs/mp4/6/6997.mp4,noon_0013_signingsavvy_38626.mp4,ok

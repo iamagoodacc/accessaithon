@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14748,asl5200,9,0,test,25,287,336,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,daughter_0000_asl5200_14748.mp4,skipped_no_ytdlp
+1,70334,northtexas,121,0,test,25,1609,1704,173,46,443,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,daughter_0001_northtexas_70334.mp4,skipped_no_ytdlp
+2,68858,lillybauer,112,0,train,25,1,49,303,14,961,720,https://www.youtube.com/watch?v=Rfnpk9fqpGI,daughter_0002_lillybauer_68858.mp4,skipped_no_ytdlp
+3,14754,handspeak,14,0,train,25,1,-1,63,10,263,240,https://www.handspeak.com/word/d/daughter.mp4,daughter_0003_handspeak_14754.mp4,failed
+4,14755,signingsavvy,11,0,train,25,1,-1,63,16,210,192,https://www.signingsavvy.com/signs/mp4/6/6365.mp4,daughter_0004_signingsavvy_14755.mp4,ok
+5,14756,signingsavvy,11,0,val,25,1,-1,67,21,209,191,https://www.signingsavvy.com/signs/mp4/8/8464.mp4,daughter_0005_signingsavvy_14756.mp4,ok
+6,14757,signingsavvy,11,0,train,25,1,-1,66,19,207,192,https://www.signingsavvy.com/signs/mp4/8/8466.mp4,daughter_0006_signingsavvy_14757.mp4,ok
+7,65443,aslsignbank,90,0,val,25,1,-1,185,17,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DA/DAUGHTER-1211.mp4,daughter_0007_aslsignbank_65443.mp4,failed
+8,14758,aslu,5,0,train,25,1,-1,316,44,943,720,https://www.youtube.com/watch?v=hJD5uIn7ZHg,daughter_0008_aslu_14758.mp4,skipped_no_ytdlp
+9,14759,aslpro,16,0,train,25,1,-1,6,5,227,240,http://www.aslpro.com/main/d/daughter.swf,daughter_0009_aslpro_14759.mp4,skipped_swf
+10,14760,aslsearch,12,0,train,25,1,-1,183,61,534,400,http://www.aslsearch.com/signs/videos/daughter.mp4,daughter_0010_aslsearch_14760.mp4,ok
+11,14749,spreadthesign,75,0,train,25,1,-1,25,0,288,240,https://media.spreadthesign.com/video/mp4/13/399330.mp4,daughter_0011_spreadthesign_14749.mp4,ok
+12,14750,startasl,38,0,val,25,1,-1,435,70,855,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/daughter.mp4,daughter_0012_startasl_14750.mp4,ok
+13,14751,signschool,4,0,train,25,1,-1,412,40,1642,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Daughter%20Old-v4cNSS7EQus.mp4,daughter_0013_signschool_14751.mp4,ok
+14,14752,signschool,39,0,train,25,1,-1,867,55,1730,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Daughter--CRawrGay1g.mp4,daughter_0014_signschool_14752.mp4,ok
+15,14753,asldeafined,59,0,train,25,1,-1,110,18,533,480,https://media.asldeafined.com/vocabulary/1466906650.7965.mp4,daughter_0015_asldeafined_14753.mp4,ok

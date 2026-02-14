@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,09773,asl5200,9,0,train,25,1641,1703,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cereal_0000_asl5200_09773.mp4,skipped_no_ytdlp
+1,69264,aslbrick,117,0,test,25,1,-1,207,23,966,720,http://aslbricks.org/New/ASL-Videos/cereal.mp4,cereal_0001_aslbrick_69264.mp4,ok
+2,09777,asldeafined,17,0,val,25,1,-1,37,17,602,480,https://media.asldeafined.com/vocabulary/1471145368.3313.mp4,cereal_0002_asldeafined_09777.mp4,ok
+6,09781,signingsavvy,11,1,train,25,1,-1,68,13,225,192,https://www.signingsavvy.com/signs/mp4/7/7758.mp4,cereal_0006_signingsavvy_09781.mp4,ok
+7,09782,aslu,5,1,train,25,1,-1,329,41,934,718,https://www.youtube.com/watch?v=4uO8sY4hNYs,cereal_0007_aslu_09782.mp4,skipped_no_ytdlp
+8,65325,aslsignbank,90,1,train,25,1,-1,161,17,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CE/CEREAL-595.mp4,cereal_0008_aslsignbank_65325.mp4,failed
+9,67480,asllex,109,1,train,25,1,-1,103,18,381,360,https://youtu.be/Vmwa9EII64U,cereal_0009_asllex_67480.mp4,skipped_no_ytdlp
+10,09783,aslu,64,1,val,25,1,-1,141,35,410,342,https://www.youtube.com/watch?v=ZaJ02AFRjgk,cereal_0010_aslu_09783.mp4,skipped_no_ytdlp
+11,09784,aslpro,16,0,train,25,1,-1,6,21,203,240,http://www.aslpro.com/main/c/cereal_1.swf,cereal_0011_aslpro_09784.mp4,skipped_swf
+12,09785,aslpro,49,1,val,25,1,-1,7,18,204,240,http://www.aslpro.com/main/c/cereal_2.swf,cereal_0012_aslpro_09785.mp4,skipped_swf
+13,09786,aslsearch,41,1,train,25,1,-1,218,42,468,400,http://www.aslsearch.com/signs/videos/cereal.mp4,cereal_0013_aslsearch_09786.mp4,ok
+14,09774,spreadthesign,2,1,test,25,1,-1,51,2,254,240,https://media.spreadthesign.com/video/mp4/13/125908.mp4,cereal_0014_spreadthesign_09774.mp4,ok
+15,09775,signschool,6,0,train,25,1,-1,651,88,1542,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cereal-JUJ9iDk7_6Y.mp4,cereal_0015_signschool_09775.mp4,ok
+16,09776,signschool,52,1,train,25,1,-1,351,9,817,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cereal-TsB1bC1p81k.mp4,cereal_0016_signschool_09776.mp4,ok

@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15169,asl5200,9,0,val,25,848,927,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,deer_0000_asl5200_15169.mp4,skipped_no_ytdlp
+1,69292,aslbrick,116,0,train,25,1,-1,88,33,527,480,http://aslbricks.org/New/ASL-Videos/deer.mp4,deer_0001_aslbrick_69292.mp4,ok
+2,15179,aslpro,25,0,train,25,1,-1,0,17,247,240,http://www.aslpro.com/main/d/deer.swf,deer_0002_aslpro_15179.mp4,skipped_swf
+3,15180,aslsearch,41,0,train,25,1,-1,187,47,571,400,http://www.aslsearch.com/signs/videos/deer.mp4,deer_0003_aslsearch_15180.mp4,ok
+4,15171,spreadthesign,26,0,train,25,1,-1,28,22,288,240,https://media.spreadthesign.com/video/mp4/13/311578.mp4,deer_0004_spreadthesign_15171.mp4,ok
+5,67558,asllex,109,0,train,25,1,-1,86,12,397,360,https://youtu.be/8jFBkxz_KxA,deer_0005_asllex_67558.mp4,skipped_no_ytdlp
+6,15172,signschool,4,0,train,25,1,-1,376,46,1770,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Deer-NmHwkyJ7VTg.mp4,deer_0006_signschool_15172.mp4,ok
+7,15173,asldeafined,59,0,train,25,1,-1,83,6,590,480,https://media.asldeafined.com/vocabulary/1466907540.8808.mp4,deer_0007_asldeafined_15173.mp4,ok
+8,15174,handspeak,14,0,train,25,1,-1,8,13,309,240,https://www.handspeak.com/word/d/deer2.mp4,deer_0008_handspeak_15174.mp4,failed
+9,15175,handspeak,14,0,test,25,1,-1,5,14,305,238,https://www.handspeak.com/word/d/deer.mp4,deer_0009_handspeak_15175.mp4,failed
+10,15176,signingsavvy,10,0,train,25,1,-1,42,4,244,192,https://www.signingsavvy.com/signs/mp4/23/23656.mp4,deer_0010_signingsavvy_15176.mp4,ok
+11,15177,signingsavvy,10,0,test,25,1,-1,44,1,236,192,https://www.signingsavvy.com/signs/mp4/23/23657.mp4,deer_0011_signingsavvy_15177.mp4,ok
+12,15178,nabboud,67,0,val,25,1,-1,288,53,967,720,https://www.youtube.com/watch?v=c9AFBIWlh_A,deer_0012_nabboud_15178.mp4,skipped_no_ytdlp

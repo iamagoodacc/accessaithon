@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17422,asl5200,9,0,val,25,4346,4392,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,down_0000_asl5200_17422.mp4,skipped_no_ytdlp
+1,69301,aslbrick,118,0,train,25,1,-1,195,33,887,720,http://aslbricks.org/New/ASL-Videos/down.mp4,down_0001_aslbrick_69301.mp4,ok
+2,70045,northtexas,121,0,train,25,6314,6385,67,20,485,480,https://www.youtube.com/watch?v=sErq0TJMKEo,down_0002_northtexas_70045.mp4,skipped_no_ytdlp
+3,17436,aslsearch,41,0,train,25,1,-1,186,47,495,400,http://www.aslsearch.com/signs/videos/down.mp4,down_0003_aslsearch_17436.mp4,ok
+4,65526,aslsignbank,94,0,train,25,1,-1,94,16,464,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DO/DOWN-443.mp4,down_0004_aslsignbank_65526.mp4,failed
+5,17428,spreadthesign,37,0,train,25,1,-1,17,0,236,240,https://media.spreadthesign.com/video/mp4/13/456772.mp4,down_0005_spreadthesign_17428.mp4,ok
+6,17429,startasl,36,0,train,25,1,-1,221,15,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/down.mp4,down_0006_startasl_17429.mp4,ok
+7,17430,signschool,31,0,train,25,1,-1,684,82,1578,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Down-v7j6WiKpgiE.mp4,down_0007_signschool_17430.mp4,ok
+8,17431,asldeafined,21,0,train,25,1,-1,35,11,535,480,https://media.asldeafined.com/vocabulary/1467773387.7792.mp4,down_0008_asldeafined_17431.mp4,ok
+9,17432,handspeak,14,0,test,25,1,-1,50,14,277,240,https://www.handspeak.com/word/d/down.mp4,down_0009_handspeak_17432.mp4,failed
+10,17433,signingsavvy,11,0,train,25,1,-1,49,12,214,192,https://www.signingsavvy.com/signs/mp4/9/9526.mp4,down_0010_signingsavvy_17433.mp4,ok
+11,17434,aslu,64,0,test,25,1,-1,124,38,479,346,https://www.youtube.com/watch?v=TAJDFITIbUk,down_0011_aslu_17434.mp4,skipped_no_ytdlp
+12,17435,aslpro,30,0,val,25,1,-1,0,17,228,240,http://www.aslpro.com/main/d/down.swf,down_0012_aslpro_17435.mp4,skipped_swf

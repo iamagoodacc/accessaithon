@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58782,asl5200,9,0,val,25,3645,3704,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tomato_0000_asl5200_58782.mp4,skipped_no_ytdlp
+1,58789,handspeak,14,0,train,25,1,-1,44,0,484,480,https://www.handspeak.com/word/t/tomato2.mp4,tomato_0001_handspeak_58789.mp4,failed
+2,58790,handspeak,14,0,train,25,1,-1,102,0,541,480,https://www.handspeak.com/word/t/tomato.mp4,tomato_0002_handspeak_58790.mp4,failed
+3,58791,signingsavvy,11,0,val,25,1,-1,67,10,216,192,https://www.signingsavvy.com/signs/mp4/14/14013.mp4,tomato_0003_signingsavvy_58791.mp4,ok
+4,58792,aslu,5,0,train,25,1,-1,317,66,969,720,https://www.youtube.com/watch?v=Ft6JlxIIEP4,tomato_0004_aslu_58792.mp4,skipped_no_ytdlp
+5,58793,aslu,5,0,train,25,1,-1,346,33,973,720,https://www.youtube.com/watch?v=SSzqcLHaBWc,tomato_0005_aslu_58793.mp4,skipped_no_ytdlp
+6,66654,aslsignbank,98,0,train,25,1,-1,186,33,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TO/TOMATO-1253.mp4,tomato_0006_aslsignbank_66654.mp4,failed
+7,58784,startasl,38,0,train,25,1,-1,419,59,816,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tomato.mp4,tomato_0007_startasl_58784.mp4,ok
+8,67314,asllex,109,0,train,25,1,-1,90,19,367,360,https://youtu.be/7rEt_cwFVIk,tomato_0008_asllex_67314.mp4,skipped_no_ytdlp
+9,58794,aslpro,87,0,test,25,1,-1,30,19,222,240,http://www.aslpro.com/main/t/tomato.swf,tomato_0009_aslpro_58794.mp4,skipped_swf
+10,58795,aslsearch,12,0,val,25,1,-1,181,48,526,400,http://www.aslsearch.com/signs/videos/tomato.mp4,tomato_0010_aslsearch_58795.mp4,ok
+11,58785,signschool,39,0,test,25,1,-1,881,58,1782,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tomato-HC0J3JaPVqU.mp4,tomato_0011_signschool_58785.mp4,ok
+12,58786,signschool,32,0,train,25,1,-1,816,68,1653,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tomato-L8SGcD3I7jQ.mp4,tomato_0012_signschool_58786.mp4,ok
+13,58787,signschool,32,0,train,25,1,-1,544,42,1094,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Tomato%202.mp4,tomato_0013_signschool_58787.mp4,ok
+14,58788,asldeafined,13,0,train,25,1,-1,153,0,554,480,https://media.asldeafined.com/vocabulary/1468945869.6015.mp4,tomato_0014_asldeafined_58788.mp4,ok

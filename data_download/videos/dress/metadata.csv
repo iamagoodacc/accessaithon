@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65535,aslsignbank,94,0,val,25,1,-1,98,8,546,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRESS-118.mp4,dress_0000_aslsignbank_65535.mp4,failed
+1,68746,lillybauer,115,0,train,25,1,42,308,0,1003,720,https://www.youtube.com/watch?v=nZ3ec27-AAE,dress_0001_lillybauer_68746.mp4,skipped_no_ytdlp
+2,68040,valencia-asl,110,0,train,25,1,-1,119,0,723,480,https://www.youtube.com/watch?v=u1AcXPDcd_A,dress_0002_valencia-asl_68040.mp4,skipped_no_ytdlp
+3,70250,northtexas,121,0,val,25,2016,2116,115,42,428,360,https://www.youtube.com/watch?v=WprUBqi3iBc,dress_0003_northtexas_70250.mp4,skipped_no_ytdlp
+4,17660,signingsavvy,11,0,train,25,1,-1,56,8,243,192,https://www.signingsavvy.com/signs/mp4/6/6566.mp4,dress_0004_signingsavvy_17660.mp4,ok
+5,17661,aslu,5,0,train,25,1,-1,358,49,958,720,https://www.youtube.com/watch?v=kDyFU6UL3qk,dress_0005_aslu_17661.mp4,skipped_no_ytdlp
+8,17654,startasl,38,0,train,25,1,-1,344,73,922,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dress-2.mp4,dress_0008_startasl_17654.mp4,ok
+9,67593,asllex,109,0,train,25,1,-1,31,13,482,360,https://youtu.be/sgN-tC__yGI,dress_0009_asllex_67593.mp4,skipped_no_ytdlp
+10,17664,aslpro,72,0,train,25,1,-1,0,6,245,240,http://www.aslpro.com/main/d/dress.swf,dress_0010_aslpro_17664.mp4,skipped_swf
+11,17665,aslsearch,12,0,test,25,1,-1,124,57,610,400,http://www.aslsearch.com/signs/videos/dress.mp4,dress_0011_aslsearch_17665.mp4,ok
+12,17655,signschool,32,0,val,25,1,-1,652,50,1653,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dress-4bH5_C1XJTE.mp4,dress_0012_signschool_17655.mp4,ok
+13,17656,asldeafined,21,0,test,25,1,-1,0,3,631,480,https://media.asldeafined.com/vocabulary/1467773697.5120.mp4,dress_0013_asldeafined_17656.mp4,ok
+14,17657,asldeafined,21,0,train,25,1,-1,16,7,619,480,https://media.asldeafined.com/vocabulary/1467773747.4457.mp4,dress_0014_asldeafined_17657.mp4,ok
+15,17658,handspeak,14,0,train,25,1,-1,24,11,294,240,https://www.handspeak.com/word/d/dress.mp4,dress_0015_handspeak_17658.mp4,failed
+16,17659,signingsavvy,11,0,train,25,1,-1,64,5,231,192,https://www.signingsavvy.com/signs/mp4/6/6137.mp4,dress_0016_signingsavvy_17659.mp4,ok

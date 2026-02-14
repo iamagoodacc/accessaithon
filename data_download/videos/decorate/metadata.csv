@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15092,asl5200,9,0,val,25,738,797,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,decorate_0000_asl5200_15092.mp4,skipped_no_ytdlp
+1,15099,signingsavvy,11,1,train,25,1,-1,64,9,213,192,https://www.signingsavvy.com/signs/mp4/14/14302.mp4,decorate_0001_signingsavvy_15099.mp4,ok
+2,15100,signingsavvy,11,1,test,25,1,-1,54,9,245,192,https://www.signingsavvy.com/signs/mp4/6/6684.mp4,decorate_0002_signingsavvy_15100.mp4,ok
+3,15101,signingsavvy,11,1,val,25,1,-1,84,15,231,192,https://www.signingsavvy.com/signs/mp4/7/7934.mp4,decorate_0003_signingsavvy_15101.mp4,ok
+4,65451,aslsignbank,102,0,test,25,1,-1,106,17,539,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DECORATE-1227.mp4,decorate_0004_aslsignbank_65451.mp4,failed
+5,15102,aslpro,24,1,train,25,1,-1,1,0,240,240,http://www.aslpro.com/main/d/decorate.swf,decorate_0005_aslpro_15102.mp4,skipped_swf
+6,15103,aslsearch,41,0,train,25,1,-1,192,46,580,400,http://www.aslsearch.com/signs/videos/decorate.mp4,decorate_0006_aslsearch_15103.mp4,ok
+7,15093,spreadthesign,0,1,train,25,1,-1,55,8,264,240,https://media.spreadthesign.com/video/mp4/13/74965.mp4,decorate_0007_spreadthesign_15093.mp4,ok
+8,15094,signschool,4,0,train,25,1,-1,174,21,1899,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Decorate%203-cUmXEazwV_E.mp4,decorate_0008_signschool_15094.mp4,ok
+9,15095,signschool,4,0,train,25,1,-1,340,47,1677,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Decorate-3DpvG2tEL-Q.mp4,decorate_0009_signschool_15095.mp4,ok
+10,15096,asldeafined,59,0,val,25,1,-1,53,11,576,480,https://media.asldeafined.com/vocabulary/1466907412.9093.mp4,decorate_0010_asldeafined_15096.mp4,ok
+11,15097,handspeak,14,0,train,25,1,-1,43,38,293,240,https://www.handspeak.com/word/d/decorate2.mp4,decorate_0011_handspeak_15097.mp4,failed
+12,15098,handspeak,14,0,train,25,1,-1,45,30,294,240,https://www.handspeak.com/word/d/decorate.mp4,decorate_0012_handspeak_15098.mp4,failed

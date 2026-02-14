@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62921,asl5200,9,0,train,25,1691,1747,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,wet_0000_asl5200_62921.mp4,skipped_no_ytdlp
+1,69529,aslbrick,118,0,train,25,1,-1,383,40,882,720,http://aslbricks.org/New/ASL-Videos/wet.mp4,wet_0001_aslbrick_69529.mp4,ok
+2,62928,aslu,5,0,train,25,1,-1,350,37,940,717,https://www.youtube.com/watch?v=5Ns7zdDWcbg,wet_0002_aslu_62928.mp4,skipped_no_ytdlp
+3,62929,aslpro,87,0,val,25,1,-1,32,18,224,240,http://www.aslpro.com/main/w/wet.swf,wet_0003_aslpro_62929.mp4,skipped_swf
+4,62930,aslsearch,12,0,train,25,1,-1,208,62,571,400,http://www.aslsearch.com/signs/videos/wet.mp4,wet_0004_aslsearch_62930.mp4,ok
+5,66767,aslsignbank,88,0,train,25,1,-1,187,4,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WET-2234.mp4,wet_0005_aslsignbank_66767.mp4,failed
+6,66766,aslsignbank,88,0,train,25,1,-1,180,7,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WET-319.mp4,wet_0006_aslsignbank_66766.mp4,failed
+7,67056,asllex,109,0,train,25,1,-1,104,14,385,360,https://youtu.be/ArVu1vogzUc,wet_0007_asllex_67056.mp4,skipped_no_ytdlp
+8,62922,spreadthesign,2,0,train,25,1,-1,78,28,243,240,https://media.spreadthesign.com/video/mp4/13/92786.mp4,wet_0008_spreadthesign_62922.mp4,ok
+9,62923,signschool,52,0,test,25,1,-1,357,17,829,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wet-8GOtnwynsY8.mp4,wet_0009_signschool_62923.mp4,ok
+10,62924,signschool,32,0,val,25,1,-1,851,65,1620,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wet-ZawffMT3mC4.mp4,wet_0010_signschool_62924.mp4,ok
+11,62925,asldeafined,13,0,test,25,1,-1,153,0,532,480,https://media.asldeafined.com/vocabulary/1468776181.8555.mp4,wet_0011_asldeafined_62925.mp4,ok
+12,62926,handspeak,20,0,train,25,1,-1,61,19,270,240,https://www.handspeak.com/word/w/wet.mp4,wet_0012_handspeak_62926.mp4,failed
+13,62927,signingsavvy,10,0,train,25,1,-1,85,24,207,192,https://www.signingsavvy.com/signs/mp4/22/22323.mp4,wet_0013_signingsavvy_62927.mp4,ok

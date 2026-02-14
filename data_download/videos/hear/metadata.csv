@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26938,asl5200,9,0,train,25,961,993,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hear_0000_asl5200_26938.mp4,skipped_no_ytdlp
+1,26946,asldeafined,21,1,test,25,1,-1,72,11,537,480,https://media.asldeafined.com/vocabulary/1468580395.3846.mp4,hear_0001_asldeafined_26946.mp4,ok
+2,26947,handspeak,20,0,train,25,1,-1,112,0,529,480,https://www.handspeak.com/word/h/hear-news.mp4,hear_0002_handspeak_26947.mp4,failed
+3,26948,handspeak,20,1,train,25,1,-1,75,0,532,480,https://www.handspeak.com/word/h/hear-sound.mp4,hear_0003_handspeak_26948.mp4,failed
+5,26950,signingsavvy,10,0,train,25,1,-1,62,18,209,192,https://www.signingsavvy.com/signs/mp4/23/23800.mp4,hear_0005_signingsavvy_26950.mp4,ok
+6,26951,signingsavvy,10,0,train,25,1,-1,68,18,208,192,https://www.signingsavvy.com/signs/mp4/23/23801.mp4,hear_0006_signingsavvy_26951.mp4,ok
+7,26942,elementalasl,66,0,val,25,1,-1,98,13,221,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/hear.mov,hear_0007_elementalasl_26942.mp4,ok
+8,26952,signingsavvy,10,0,val,25,1,-1,68,18,208,192,https://www.signingsavvy.com/signs/mp4/23/23801.mp4,hear_0008_signingsavvy_26952.mp4,ok
+9,26953,aslu,5,0,train,25,1,-1,284,19,939,720,https://www.youtube.com/watch?v=CPAxecqxhzY,hear_0009_aslu_26953.mp4,skipped_no_ytdlp
+10,26954,nabboud,68,1,train,25,1,-1,272,63,894,720,https://www.youtube.com/watch?v=NiBN96pLt8U,hear_0010_nabboud_26954.mp4,skipped_no_ytdlp
+11,26955,aslpro,25,0,test,25,1,-1,1,9,246,240,http://www.aslpro.com/main/h/hear.swf,hear_0011_aslpro_26955.mp4,skipped_swf
+12,26956,aslsearch,41,1,train,25,1,-1,241,47,491,400,http://www.aslsearch.com/signs/videos/listen.mp4,hear_0012_aslsearch_26956.mp4,ok
+13,26943,spreadthesign,37,0,train,25,1,-1,67,0,243,240,https://media.spreadthesign.com/video/mp4/13/456566.mp4,hear_0013_spreadthesign_26943.mp4,ok
+14,26944,signschool,31,1,train,25,1,-1,682,132,1525,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hear%2C%20Listen-BtzSQzKxPl0.mp4,hear_0014_signschool_26944.mp4,ok
+15,26945,signschool,32,1,val,25,1,-1,663,76,1489,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hear-hGpJeStHR6I.mp4,hear_0015_signschool_26945.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13467,asl5200,9,0,train,25,6374,6426,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cough_0000_asl5200_13467.mp4,skipped_no_ytdlp
+1,13473,signingsavvy,11,0,train,25,1,-1,64,9,211,192,https://www.signingsavvy.com/signs/mp4/14/14188.mp4,cough_0001_signingsavvy_13473.mp4,ok
+2,13474,aslu,5,0,train,25,1,-1,288,58,878,720,https://www.youtube.com/watch?v=5GZ1yv24OII,cough_0002_aslu_13474.mp4,skipped_no_ytdlp
+3,13475,aslu,5,0,val,25,1,-1,333,36,935,720,https://www.youtube.com/watch?v=UUq9vik7gPw,cough_0003_aslu_13475.mp4,skipped_no_ytdlp
+4,13476,aslu,5,0,train,25,1,-1,307,33,939,720,https://www.youtube.com/watch?v=zcA5rEB5KIs,cough_0004_aslu_13476.mp4,skipped_no_ytdlp
+5,65411,aslsignbank,102,0,train,25,1,-1,171,16,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUGH-1169.mp4,cough_0005_aslsignbank_65411.mp4,failed
+6,67532,asllex,109,0,train,25,1,-1,96,19,381,360,https://youtu.be/kpLPR6He6dg,cough_0006_asllex_67532.mp4,skipped_no_ytdlp
+7,13477,aslpro,30,0,train,25,1,-1,0,17,218,240,http://www.aslpro.com/main/c/cough.swf,cough_0007_aslpro_13477.mp4,skipped_swf
+8,13478,aslsearch,12,0,train,25,1,-1,174,64,549,400,http://www.aslsearch.com/signs/videos/cough.mp4,cough_0008_aslsearch_13478.mp4,ok
+9,13468,spreadthesign,2,0,test,25,1,-1,66,35,235,240,https://media.spreadthesign.com/video/mp4/13/93256.mp4,cough_0009_spreadthesign_13468.mp4,ok
+10,13469,startasl,38,0,val,25,1,-1,399,57,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cough.mp4,cough_0010_startasl_13469.mp4,ok
+11,13470,asldeafined,59,0,test,25,1,-1,104,28,512,480,https://media.asldeafined.com/vocabulary/1466903703.2205.mp4,cough_0011_asldeafined_13470.mp4,ok
+12,13471,handspeak,14,0,train,25,1,-1,62,9,249,240,https://www.handspeak.com/word/c/cough2.mp4,cough_0012_handspeak_13471.mp4,failed
+13,13472,handspeak,14,0,train,25,1,-1,62,8,248,240,https://www.handspeak.com/word/c/cough.mp4,cough_0013_handspeak_13472.mp4,failed

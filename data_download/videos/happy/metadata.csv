@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26506,asl5200,9,0,test,25,465,527,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,happy_0000_asl5200_26506.mp4,skipped_no_ytdlp
+1,70284,northtexas,121,1,train,25,1404,1497,119,36,394,360,https://www.youtube.com/watch?v=CSj7IScvZnE,happy_0001_northtexas_70284.mp4,skipped_no_ytdlp
+2,26528,handspeak,14,1,train,25,1,-1,34,0,524,480,https://www.handspeak.com/word/h/happy.mp4,happy_0002_handspeak_26528.mp4,failed
+4,26530,signingsavvy,10,1,train,25,1,-1,66,15,210,192,https://www.signingsavvy.com/signs/mp4/23/23649.mp4,happy_0004_signingsavvy_26530.mp4,ok
+5,26531,signingsavvy,10,0,val,25,1,-1,67,13,230,192,https://www.signingsavvy.com/signs/mp4/23/23650.mp4,happy_0005_signingsavvy_26531.mp4,ok
+6,26532,signingsavvy,10,0,train,25,1,-1,59,14,234,192,https://www.signingsavvy.com/signs/mp4/23/23651.mp4,happy_0006_signingsavvy_26532.mp4,ok
+7,26533,nabboud,69,1,train,25,1,-1,326,50,848,720,https://www.youtube.com/watch?v=RYpAClHsBTM,happy_0007_nabboud_26533.mp4,skipped_no_ytdlp
+8,26524,spreadthesign,37,0,train,25,1,-1,42,3,276,240,https://media.spreadthesign.com/video/mp4/13/456551.mp4,happy_0008_spreadthesign_26524.mp4,ok
+9,67743,asllex,109,1,val,25,1,-1,93,14,373,360,https://youtu.be/deGERv54kIc,happy_0009_asllex_67743.mp4,skipped_no_ytdlp
+10,26534,aslu,5,1,val,25,1,-1,346,39,938,720,https://www.youtube.com/watch?v=SHc7_8aD9Rw,happy_0010_aslu_26534.mp4,skipped_no_ytdlp
+11,26535,aslu,5,0,train,25,1,-1,286,12,994,720,https://www.youtube.com/watch?v=ZXHHO_DY6_A,happy_0011_aslu_26535.mp4,skipped_no_ytdlp
+12,26536,aslpro,30,0,train,25,1,-1,0,8,241,240,http://www.aslpro.com/main/h/happy.swf,happy_0012_aslpro_26536.mp4,skipped_swf
+13,26537,aslsearch,12,1,train,25,1,-1,146,53,540,400,http://www.aslsearch.com/signs/videos/happy.mp4,happy_0013_aslsearch_26537.mp4,ok
+14,26525,startasl,36,1,test,25,1,-1,194,16,518,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/happy.mp4,happy_0014_startasl_26525.mp4,ok
+15,26526,signschool,46,0,train,25,1,-1,254,0,892,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Happy.mp4,happy_0015_signschool_26526.mp4,ok
+16,26527,asldeafined,21,1,train,25,1,-1,47,18,516,480,https://media.asldeafined.com/vocabulary/1468579583.2605.mp4,happy_0016_asldeafined_26527.mp4,ok

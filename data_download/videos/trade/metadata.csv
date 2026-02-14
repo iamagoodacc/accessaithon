@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59203,asl5200,9,0,test,25,4612,4671,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,trade_0000_asl5200_59203.mp4,skipped_no_ytdlp
+1,59206,signschool,31,0,test,25,1,-1,313,146,1721,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Exchange%2C%20Trade-Oz_fQfUSAbg.mp4,trade_0001_signschool_59206.mp4,ok
+2,59207,signschool,4,0,train,25,1,-1,632,47,1584,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Trade%20X%20over%20thumbs-D09V4CZTeq4.mp4,trade_0002_signschool_59207.mp4,ok
+3,59208,signschool,4,0,train,25,1,-1,642,29,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Trade%20X-cytY5T6rawk.mp4,trade_0003_signschool_59208.mp4,ok
+4,59209,signschool,4,0,train,25,1,-1,643,59,1743,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Trade%2C%20Exchange%202-Rdy6C3yWU9g.mp4,trade_0004_signschool_59209.mp4,ok
+5,59210,signschool,4,0,val,25,1,-1,690,89,1709,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Trade%2C%20Exchange-mrIg6AlheOY.mp4,trade_0005_signschool_59210.mp4,ok
+6,59211,signschool,31,0,train,25,1,-1,616,97,1435,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Trade-Qm_DAgDj07A.mp4,trade_0006_signschool_59211.mp4,ok
+7,59212,asldeafined,21,0,val,25,1,-1,35,13,603,480,https://media.asldeafined.com/vocabulary/1468946514.2444.mp4,trade_0007_asldeafined_59212.mp4,ok
+8,59213,handspeak,14,0,train,25,1,-1,20,0,604,480,https://www.handspeak.com/word/t/trade.mp4,trade_0008_handspeak_59213.mp4,failed
+9,59214,signingsavvy,11,0,train,25,1,-1,53,10,216,192,https://www.signingsavvy.com/signs/mp4/14/14028.mp4,trade_0009_signingsavvy_59214.mp4,ok
+10,59215,signingsavvy,11,0,train,25,1,-1,59,11,215,192,https://www.signingsavvy.com/signs/mp4/8/8890.mp4,trade_0010_signingsavvy_59215.mp4,ok
+11,59216,signingsavvy,11,0,train,25,1,-1,52,8,224,192,https://www.signingsavvy.com/signs/mp4/8/8891.mp4,trade_0011_signingsavvy_59216.mp4,ok
+13,59218,aslpro,25,0,val,25,1,-1,0,7,245,240,http://www.aslpro.com/main/t/trade.swf,trade_0013_aslpro_59218.mp4,skipped_swf
+14,59219,aslsearch,41,0,train,25,1,-1,213,49,508,400,http://www.aslsearch.com/signs/videos/exchange.mp4,trade_0014_aslsearch_59219.mp4,ok
+15,59204,elementalasl,19,0,train,25,1,-1,53,15,233,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/barter.mov,trade_0015_elementalasl_59204.mp4,ok
+16,59205,spreadthesign,28,0,train,25,1,-1,36,3,285,240,https://media.spreadthesign.com/video/mp4/13/482583.mp4,trade_0016_spreadthesign_59205.mp4,ok

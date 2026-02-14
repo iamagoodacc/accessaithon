@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07469,asl5200,9,0,val,25,4336,4382,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bracelet_0000_asl5200_07469.mp4,skipped_no_ytdlp
+1,07476,aslpro,49,0,train,25,1,-1,14,5,245,240,http://www.aslpro.com//main/b/bracelet_charm.swf,bracelet_0001_aslpro_07476.mp4,skipped_swf
+2,07477,aslpro,49,0,train,25,1,-1,10,5,248,240,http://www.aslpro.com//main/b/bracelet_id.swf,bracelet_0002_aslpro_07477.mp4,skipped_swf
+3,07478,aslpro,49,0,train,25,1,-1,11,5,238,240,http://www.aslpro.com/main/b/bracelet.swf,bracelet_0003_aslpro_07478.mp4,skipped_swf
+4,65247,aslsignbank,91,0,train,25,1,-1,218,34,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BR/BRACELET-1979.mp4,bracelet_0004_aslsignbank_65247.mp4,failed
+5,67436,asllex,109,0,train,25,1,-1,117,17,407,360,https://youtu.be/4wiQljLEcGw,bracelet_0005_asllex_67436.mp4,skipped_no_ytdlp
+6,07479,aslsearch,12,0,train,25,1,-1,170,52,541,400,http://www.aslsearch.com/signs/videos/bracelet.mp4,bracelet_0006_aslsearch_07479.mp4,ok
+7,07470,spreadthesign,2,0,train,25,1,-1,37,9,277,240,https://media.spreadthesign.com/video/mp4/13/125263.mp4,bracelet_0007_spreadthesign_07470.mp4,ok
+8,07471,startasl,38,0,train,25,1,-1,437,70,847,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bracelet.mp4,bracelet_0008_startasl_07471.mp4,ok
+9,07472,signschool,6,0,test,25,1,-1,676,88,1527,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wrist%20Bracelet-ARDQc024Byk.mp4,bracelet_0009_signschool_07472.mp4,ok
+10,07473,asldeafined,59,0,train,25,1,-1,86,18,559,480,https://media.asldeafined.com/vocabulary/1466685330.9799.mp4,bracelet_0010_asldeafined_07473.mp4,ok
+11,07474,handspeak,14,0,test,25,1,-1,302,29,1078,720,https://www.handspeak.com/word/b/bracelet.mp4,bracelet_0011_handspeak_07474.mp4,failed
+12,07475,signingsavvy,11,0,val,25,1,-1,66,12,209,192,https://www.signingsavvy.com/signs/mp4/9/9583.mp4,bracelet_0012_signingsavvy_07475.mp4,ok

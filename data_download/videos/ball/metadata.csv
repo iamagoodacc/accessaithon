@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04833,asl5200,9,0,test,25,577,633,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,ball_0000_asl5200_04833.mp4,skipped_no_ytdlp
+1,69221,aslbrick,119,0,test,25,1,-1,371,25,892,720,http://aslbricks.org/New/ASL-Videos/ball.mp4,ball_0001_aslbrick_69221.mp4,ok
+2,04850,startasl,36,0,train,25,1,-1,210,16,534,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/ball.mp4,ball_0002_startasl_04850.mp4,ok
+3,04851,signschool,52,0,train,25,1,-1,380,13,816,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20ball-u7YdwN89Leg.mp4,ball_0003_signschool_04851.mp4,ok
+4,04852,asldeafined,13,0,train,25,1,-1,95,20,565,480,https://media.asldeafined.com/vocabulary/1466648644.5380.mp4,ball_0004_asldeafined_04852.mp4,ok
+5,04853,handspeak,20,0,val,25,1,-1,113,3,511,480,https://www.handspeak.com/word/b/ball.mp4,ball_0005_handspeak_04853.mp4,failed
+6,04854,signingsavvy,11,0,train,25,1,-1,73,15,215,192,https://www.signingsavvy.com/signs/mp4/14/14844.mp4,ball_0006_signingsavvy_04854.mp4,ok
+10,04858,signingsavvy,11,0,val,25,1,-1,71,19,215,191,https://www.signingsavvy.com/signs/mp4/6/6775.mp4,ball_0010_signingsavvy_04858.mp4,ok
+11,65131,aslsignbank,88,0,train,25,1,-1,183,3,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALL-382.mp4,ball_0011_aslsignbank_65131.mp4,failed
+12,04849,spreadthesign,2,0,train,25,1,-1,43,8,262,240,https://media.spreadthesign.com/video/mp4/13/123213.mp4,ball_0012_spreadthesign_04849.mp4,ok
+13,67385,asllex,109,0,train,25,1,-1,93,13,395,360,https://youtu.be/pqPXlU9_Chc,ball_0013_asllex_67385.mp4,skipped_no_ytdlp
+14,04859,aslu,5,0,train,25,1,-1,371,18,1066,720,https://www.youtube.com/watch?v=1WX8ohyKYQY,ball_0014_aslu_04859.mp4,skipped_no_ytdlp
+15,04860,aslu,64,0,val,25,1,-1,130,37,400,342,https://www.youtube.com/watch?v=FXU1RbwSJvU,ball_0015_aslu_04860.mp4,skipped_no_ytdlp
+16,04861,aslu,5,0,train,25,1,-1,347,68,952,720,https://www.youtube.com/watch?v=vnmpdsQdbFc,ball_0016_aslu_04861.mp4,skipped_no_ytdlp
+17,04862,aslpro,49,0,train,25,1,-1,7,9,248,240,http://www.aslpro.com/main/b/ball.swf,ball_0017_aslpro_04862.mp4,skipped_swf
+19,04864,aslsearch,41,0,train,25,1,-1,217,39,481,400,http://www.aslsearch.com/signs/videos/ball.mp4,ball_0019_aslsearch_04864.mp4,ok

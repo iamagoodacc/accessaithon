@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69226,aslbrick,115,0,val,25,1,-1,594,50,1402,1080,http://aslbricks.org/New/ASL-Videos/bear.mp4,bear_0000_aslbrick_69226.mp4,ok
+1,65155,aslsignbank,88,0,train,25,1,-1,178,4,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEAR-394.mp4,bear_0001_aslsignbank_65155.mp4,failed
+2,05486,startasl,36,0,train,25,1,-1,215,17,527,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bear.mp4,bear_0002_startasl_05486.mp4,ok
+3,05487,asldeafined,13,0,train,25,1,-1,134,27,520,480,https://media.asldeafined.com/vocabulary/1466650058.9873.mp4,bear_0003_asldeafined_05487.mp4,ok
+4,05488,handspeak,20,0,train,25,1,-1,155,5,467,480,https://www.handspeak.com/word/b/bear.mp4,bear_0004_handspeak_05488.mp4,failed
+5,05489,signingsavvy,11,0,train,25,1,-1,81,13,207,192,https://www.signingsavvy.com/signs/mp4/14/14571.mp4,bear_0005_signingsavvy_05489.mp4,ok
+10,05484,spreadthesign,2,0,train,25,1,-1,53,12,268,240,https://media.spreadthesign.com/video/mp4/13/123615.mp4,bear_0010_spreadthesign_05484.mp4,ok
+11,67396,asllex,109,0,train,25,1,-1,98,16,373,360,https://youtu.be/sOWYYpscphg,bear_0011_asllex_67396.mp4,skipped_no_ytdlp
+12,05494,aslu,64,0,train,25,1,-1,126,37,404,348,https://www.youtube.com/watch?v=7qtNh6buYq8,bear_0012_aslu_05494.mp4,skipped_no_ytdlp
+13,05495,aslu,5,0,test,25,1,-1,309,42,986,720,https://www.youtube.com/watch?v=ujMxbgtxhvE,bear_0013_aslu_05495.mp4,skipped_no_ytdlp
+14,05496,nabboud,67,0,train,25,1,-1,334,59,893,720,https://www.youtube.com/watch?v=V_ZssFiY9fc,bear_0014_nabboud_05496.mp4,skipped_no_ytdlp
+15,05497,aslpro,49,0,test,25,1,-1,3,5,207,240,http://www.aslpro.com/main/b/bear.swf,bear_0015_aslpro_05497.mp4,skipped_swf
+16,05498,aslsearch,41,0,val,25,1,-1,246,40,498,400,http://www.aslsearch.com/signs/videos/bear2.mp4,bear_0016_aslsearch_05498.mp4,ok

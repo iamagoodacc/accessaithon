@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51772,asl5200,9,0,val,25,4278,4310,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,since_0000_asl5200_51772.mp4,skipped_no_ytdlp
+1,69472,aslbrick,117,0,train,25,1,-1,346,37,935,718,http://aslbricks.org/New/ASL-Videos/since.mp4,since_0001_aslbrick_69472.mp4,ok
+2,70351,northtexas,121,0,train,25,5829,5936,190,50,422,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,since_0002_northtexas_70351.mp4,skipped_no_ytdlp
+3,68548,lillybauer,113,0,val,25,1,73,204,31,1042,720,https://www.youtube.com/watch?v=ig7b4o7eqeU,since_0003_lillybauer_68548.mp4,skipped_no_ytdlp
+4,51779,aslu,5,0,train,25,1,-1,167,16,496,360,https://www.youtube.com/watch?v=tHr_Es_dL9s,since_0004_aslu_51779.mp4,skipped_no_ytdlp
+5,51780,aslpro,83,0,train,25,1,-1,4,17,230,240,http://www.aslpro.com/main/s/since.swf,since_0005_aslpro_51780.mp4,skipped_swf
+6,51781,aslsearch,12,0,train,25,1,-1,209,54,552,400,http://www.aslsearch.com/signs/videos/since.mp4,since_0006_aslsearch_51781.mp4,ok
+7,66482,aslsignbank,108,0,train,25,1,-1,176,43,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SINCE-1066.mp4,since_0007_aslsignbank_66482.mp4,failed
+8,66483,aslsignbank,108,0,train,25,1,-1,165,44,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SINCE-1067.mp4,since_0008_aslsignbank_66483.mp4,failed
+9,67204,asllex,109,0,test,25,1,-1,76,19,366,360,https://youtu.be/AXoaCnt3gH8,since_0009_asllex_67204.mp4,skipped_no_ytdlp
+10,51773,spreadthesign,26,0,val,25,1,-1,72,2,276,240,https://media.spreadthesign.com/video/mp4/13/116876.mp4,since_0010_spreadthesign_51773.mp4,ok
+11,51774,signschool,4,0,test,25,1,-1,549,16,1571,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Since-cjBD1unWQJs.mp4,since_0011_signschool_51774.mp4,ok
+12,51775,asldeafined,13,0,train,25,1,-1,104,0,560,480,https://media.asldeafined.com/vocabulary/1468767249.6700.mp4,since_0012_asldeafined_51775.mp4,ok
+13,51776,handspeak,14,0,train,25,1,-1,83,0,544,480,https://www.handspeak.com/word/s/since.mp4,since_0013_handspeak_51776.mp4,failed
+15,51778,signingsavvy,11,0,train,25,1,-1,67,13,205,192,https://www.signingsavvy.com/signs/mp4/6/6309.mp4,since_0015_signingsavvy_51778.mp4,ok

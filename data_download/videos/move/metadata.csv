@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66151,aslsignbank,90,0,train,25,1,-1,194,15,513,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MOVE-528.mp4,move_0000_aslsignbank_66151.mp4,failed
+1,68328,lillybauer,113,0,train,25,1,99,0,30,1001,720,https://www.youtube.com/watch?v=AJk44gGftoM,move_0001_lillybauer_68328.mp4,skipped_no_ytdlp
+2,37102,aslsearch,12,0,train,25,1,-1,194,52,559,400,http://www.aslsearch.com/signs/videos/move.mp4,move_0002_aslsearch_37102.mp4,ok
+3,37086,startasl,38,0,val,25,1,-1,321,58,836,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/move.mp4,move_0003_startasl_37086.mp4,ok
+4,37087,signschool,31,0,train,25,1,-1,448,102,1569,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Move-Ald0nKGegZQ.mp4,move_0004_signschool_37087.mp4,ok
+6,37089,asldeafined,13,0,train,25,1,-1,105,0,618,480,https://media.asldeafined.com/vocabulary/1468717054.6396.mp4,move_0006_asldeafined_37089.mp4,ok
+8,37091,handspeak,20,0,train,25,1,-1,84,0,555,480,https://www.handspeak.com/word/m/move.mp4,move_0008_handspeak_37091.mp4,failed
+10,37093,signingsavvy,11,0,train,25,1,-1,7,9,224,192,https://www.signingsavvy.com/signs/mp4/14/14617.mp4,move_0010_signingsavvy_37093.mp4,ok
+11,37094,signingsavvy,11,0,train,25,1,-1,48,13,226,192,https://www.signingsavvy.com/signs/mp4/2/2108.mp4,move_0011_signingsavvy_37094.mp4,ok
+12,37085,spreadthesign,0,0,test,25,1,-1,52,11,262,240,https://media.spreadthesign.com/video/mp4/13/63622.mp4,move_0012_spreadthesign_37085.mp4,ok
+13,67913,asllex,109,0,val,25,1,-1,89,20,384,360,https://youtu.be/zIePAaKHToM,move_0013_asllex_67913.mp4,skipped_no_ytdlp
+16,37097,signingsavvy,11,0,test,25,1,-1,35,11,239,192,https://www.signingsavvy.com/signs/mp4/6/6650.mp4,move_0016_signingsavvy_37097.mp4,ok
+17,37098,signingsavvy,11,0,train,25,1,-1,65,7,217,192,https://www.signingsavvy.com/signs/mp4/9/9912.mp4,move_0017_signingsavvy_37098.mp4,ok
+19,37100,aslu,5,0,train,25,1,-1,298,38,1084,720,https://www.youtube.com/watch?v=OxKJDUAYsjg,move_0019_aslu_37100.mp4,skipped_no_ytdlp

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15317,asl5200,9,0,train,25,1038,1097,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,delay_0000_asl5200_15317.mp4,skipped_no_ytdlp
+1,15324,handspeak,14,0,train,25,1,-1,52,8,256,240,https://www.handspeak.com/word/d/delay.mp4,delay_0001_handspeak_15324.mp4,failed
+2,15325,signingsavvy,11,0,train,25,1,-1,82,17,216,192,https://www.signingsavvy.com/signs/mp4/6/6586.mp4,delay_0002_signingsavvy_15325.mp4,ok
+3,15326,signingsavvy,11,0,val,25,1,-1,75,13,227,192,https://www.signingsavvy.com/signs/mp4/6/6587.mp4,delay_0003_signingsavvy_15326.mp4,ok
+4,15327,signingsavvy,11,0,train,25,1,-1,72,13,225,192,https://www.signingsavvy.com/signs/mp4/6/6588.mp4,delay_0004_signingsavvy_15327.mp4,ok
+5,15328,signingsavvy,11,0,train,25,1,-1,78,14,216,192,https://www.signingsavvy.com/signs/mp4/6/6589.mp4,delay_0005_signingsavvy_15328.mp4,ok
+6,15319,spreadthesign,37,0,train,25,1,-1,73,0,233,240,https://media.spreadthesign.com/video/mp4/13/456691.mp4,delay_0006_spreadthesign_15319.mp4,ok
+8,15330,signingsavvy,11,0,train,25,1,-1,75,14,235,192,https://www.signingsavvy.com/signs/mp4/6/6929.mp4,delay_0008_signingsavvy_15330.mp4,ok
+9,15331,aslpro,30,0,train,25,1,-1,0,15,232,240,http://www.aslpro.com/main/d/delay.swf,delay_0009_aslpro_15331.mp4,skipped_swf
+10,15332,aslsearch,12,0,test,25,1,-1,197,62,548,400,http://www.aslsearch.com/signs/videos/delay.mp4,delay_0010_aslsearch_15332.mp4,ok
+11,15320,signschool,4,0,val,25,1,-1,469,54,1678,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Delay%202-P-2XIzcDLm4.mp4,delay_0011_signschool_15320.mp4,ok
+12,15321,signschool,6,0,test,25,1,-1,532,69,1457,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Delay-nXXvCpAldrI.mp4,delay_0012_signschool_15321.mp4,ok
+13,15322,signschool,4,0,train,25,1,-1,451,41,1123,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Delay.mp4,delay_0013_signschool_15322.mp4,ok
+14,15323,asldeafined,13,0,train,25,1,-1,139,0,531,480,https://media.asldeafined.com/vocabulary/1468756474.6417.mp4,delay_0014_asldeafined_15323.mp4,ok

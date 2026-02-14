@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,09719,asl5200,9,0,val,25,1598,1640,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,center_0000_asl5200_09719.mp4,skipped_no_ytdlp
+2,09723,asldeafined,13,0,train,25,1,-1,52,0,502,480,https://media.asldeafined.com/vocabulary/1468715256.1056.mp4,center_0002_asldeafined_09723.mp4,ok
+3,09724,handspeak,20,0,train,25,1,-1,8,0,517,480,https://www.handspeak.com/word/c/center.mp4,center_0003_handspeak_09724.mp4,failed
+4,09725,signingsavvy,11,0,val,25,1,-1,71,5,208,192,https://www.signingsavvy.com/signs/mp4/14/14929.mp4,center_0004_signingsavvy_09725.mp4,ok
+5,09726,signingsavvy,11,0,train,25,1,-1,76,8,208,192,https://www.signingsavvy.com/signs/mp4/14/14930.mp4,center_0005_signingsavvy_09726.mp4,ok
+6,09727,aslu,5,0,train,25,1,-1,244,35,942,720,https://www.youtube.com/watch?v=9xbR8Yk9vXg,center_0006_aslu_09727.mp4,skipped_no_ytdlp
+7,09728,aslu,5,0,train,25,1,-1,223,36,1000,720,https://www.youtube.com/watch?v=EHp5m3a8qic,center_0007_aslu_09728.mp4,skipped_no_ytdlp
+8,65324,aslsignbank,90,0,train,25,1,-1,174,16,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CE/CENTER-653.mp4,center_0008_aslsignbank_65324.mp4,failed
+9,67481,asllex,109,0,train,25,1,-1,99,16,391,360,https://youtu.be/Z4fCvo5QWkI,center_0009_asllex_67481.mp4,skipped_no_ytdlp
+10,09729,aslu,5,0,test,25,1,-1,276,37,943,720,https://www.youtube.com/watch?v=ffFtDKuyw1Q,center_0010_aslu_09729.mp4,skipped_no_ytdlp
+11,09730,aslu,5,0,val,25,1,-1,278,27,941,720,https://www.youtube.com/watch?v=YFE0U8AtABQ,center_0011_aslu_09730.mp4,skipped_no_ytdlp
+12,09731,aslpro,16,0,test,25,1,-1,15,20,229,240,http://www.aslpro.com/main/c/center.swf,center_0012_aslpro_09731.mp4,skipped_swf
+13,09732,aslsearch,41,0,train,25,1,-1,223,41,472,400,http://www.aslsearch.com/signs/videos/center.mp4,center_0013_aslsearch_09732.mp4,ok
+15,09721,signschool,4,0,train,25,1,-1,511,41,1519,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Center%2C%20Central-oai4bYZwl8w.mp4,center_0015_signschool_09721.mp4,ok
+16,09722,signschool,6,0,train,25,1,-1,601,55,1483,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Center-Y_ClL9j86Ao.mp4,center_0016_signschool_09722.mp4,ok

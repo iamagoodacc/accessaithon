@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49127,asl5200,9,0,val,25,224,276,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,salt_0000_asl5200_49127.mp4,skipped_no_ytdlp
+1,69451,aslbrick,117,0,train,25,1,-1,307,30,988,720,http://aslbricks.org/New/ASL-Videos/salt.mp4,salt_0001_aslbrick_69451.mp4,ok
+2,49134,signingsavvy,11,0,train,25,1,-1,65,11,214,192,https://www.signingsavvy.com/signs/mp4/9/9688.mp4,salt_0002_signingsavvy_49134.mp4,ok
+4,49136,aslu,5,0,val,25,1,-1,290,70,996,720,https://www.youtube.com/watch?v=gk2fVViSW3Y,salt_0004_aslu_49136.mp4,skipped_no_ytdlp
+5,49137,aslu,5,0,train,25,1,-1,263,47,973,720,https://www.youtube.com/watch?v=H8Z6yk1hT7w,salt_0005_aslu_49137.mp4,skipped_no_ytdlp
+6,49138,aslu,5,0,train,25,1,-1,259,42,980,720,https://www.youtube.com/watch?v=Ln3uCrAlHK8,salt_0006_aslu_49138.mp4,skipped_no_ytdlp
+7,66422,aslsignbank,91,0,train,25,1,-1,226,26,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SA/SALT-2012.mp4,salt_0007_aslsignbank_66422.mp4,failed
+8,49129,spreadthesign,8,0,train,25,1,-1,37,2,256,240,https://media.spreadthesign.com/video/mp4/13/457619.mp4,salt_0008_spreadthesign_49129.mp4,ok
+9,67157,asllex,109,0,train,25,1,-1,94,5,392,360,https://youtu.be/XUlDh-wKIEM,salt_0009_asllex_67157.mp4,skipped_no_ytdlp
+10,49139,aslpro,87,0,test,25,1,-1,16,20,241,240,http://www.aslpro.com/main/s/salt.swf,salt_0010_aslpro_49139.mp4,skipped_swf
+11,49140,aslsearch,12,0,val,25,1,-1,200,48,573,400,http://www.aslsearch.com/signs/videos/salt.mp4,salt_0011_aslsearch_49140.mp4,ok
+12,49130,startasl,38,0,test,25,1,-1,419,56,834,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/salt.mp4,salt_0012_startasl_49130.mp4,ok
+13,49131,signschool,60,0,train,25,1,-1,353,22,801,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Salt-n9HhHHFm8A0.mp4,salt_0013_signschool_49131.mp4,ok
+14,49132,asldeafined,13,0,train,25,1,-1,70,0,585,480,https://media.asldeafined.com/vocabulary/1468762614.6611.mp4,salt_0014_asldeafined_49132.mp4,ok
+15,49133,handspeak,14,0,train,25,1,-1,45,6,280,240,https://www.handspeak.com/word/s/salt.mp4,salt_0015_handspeak_49133.mp4,failed

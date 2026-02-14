@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22071,asl5200,9,0,test,25,1482,1524,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,first_0000_asl5200_22071.mp4,skipped_no_ytdlp
+1,70083,northtexas,121,1,train,25,7313,7436,79,17,473,480,https://www.youtube.com/watch?v=jDCw7stJaM4,first_0001_northtexas_70083.mp4,skipped_no_ytdlp
+2,22086,startasl,38,1,train,25,1,-1,401,54,816,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/first.mp4,first_0002_startasl_22086.mp4,ok
+3,22087,asldeafined,21,1,train,25,1,-1,75,6,560,480,https://media.asldeafined.com/vocabulary/1468494663.4948.mp4,first_0003_asldeafined_22087.mp4,ok
+4,22088,handspeak,14,0,val,25,1,-1,34,13,252,240,https://www.handspeak.com/word/f/first-ordinal.mp4,first_0004_handspeak_22088.mp4,failed
+5,22089,handspeak,14,1,train,25,1,-1,30,16,244,240,https://www.handspeak.com/word/f/first-time.mp4,first_0005_handspeak_22089.mp4,failed
+10,22094,signingsavvy,11,1,val,25,1,-1,77,16,223,192,https://www.signingsavvy.com/signs/mp4/7/7760.mp4,first_0010_signingsavvy_22094.mp4,ok
+11,65729,aslsignbank,92,1,val,25,1,-1,149,21,446,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-1474.mp4,first_0011_aslsignbank_65729.mp4,failed
+12,65730,aslsignbank,106,1,train,25,1,-1,173,31,506,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-1475.mp4,first_0012_aslsignbank_65730.mp4,failed
+13,65728,aslsignbank,106,0,train,25,1,-1,154,28,497,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIRST-458.mp4,first_0013_aslsignbank_65728.mp4,failed
+14,22085,spreadthesign,37,0,train,25,1,-1,66,0,250,240,https://media.spreadthesign.com/video/mp4/13/455675.mp4,first_0014_spreadthesign_22085.mp4,ok
+15,67666,asllex,109,0,train,25,1,-1,108,20,341,360,https://youtu.be/y2qGwZW9V4g,first_0015_asllex_67666.mp4,skipped_no_ytdlp
+16,22095,signingsavvy,11,0,train,25,1,-1,92,18,226,191,https://www.signingsavvy.com/signs/mp4/8/8417.mp4,first_0016_signingsavvy_22095.mp4,ok
+17,22096,aslu,5,1,test,25,1,-1,234,12,976,720,https://www.youtube.com/watch?v=x5l3yT0VW_w,first_0017_aslu_22096.mp4,skipped_no_ytdlp
+18,22097,aslpro,83,1,train,25,1,-1,13,21,211,240,http://www.aslpro.com/main/f/first.swf,first_0018_aslpro_22097.mp4,skipped_swf
+19,22098,aslsearch,12,0,train,25,1,-1,176,51,563,400,http://www.aslsearch.com/signs/videos/first.mp4,first_0019_aslsearch_22098.mp4,ok

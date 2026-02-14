@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37356,asl5200,9,0,val,25,2671,2727,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,music_0000_asl5200_37356.mp4,skipped_no_ytdlp
+1,68105,valencia-asl,109,0,train,25,1,-1,103,0,1280,720,https://www.youtube.com/watch?v=aMGGgSwzukg,music_0001_valencia-asl_68105.mp4,skipped_no_ytdlp
+2,69044,lillybauer,113,0,train,25,1,107,116,11,580,360,https://www.youtube.com/watch?v=XvQTstoTD_Q,music_0002_lillybauer_69044.mp4,skipped_no_ytdlp
+3,37370,signingsavvy,11,0,val,25,1,-1,71,12,216,192,https://www.signingsavvy.com/signs/mp4/9/9815.mp4,music_0003_signingsavvy_37370.mp4,ok
+4,37371,aslu,5,0,train,25,1,-1,288,40,967,720,https://www.youtube.com/watch?v=Ln-bxWDR6Y8,music_0004_aslu_37371.mp4,skipped_no_ytdlp
+5,37372,aslpro,72,0,train,25,1,-1,15,3,212,240,http://www.aslpro.com/main/m/music.swf,music_0005_aslpro_37372.mp4,skipped_swf
+6,66156,aslsignbank,97,0,train,25,1,-1,173,31,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MU/MUSIC-1584.mp4,music_0006_aslsignbank_66156.mp4,failed
+7,37363,spreadthesign,56,0,train,25,1,-1,39,0,270,240,https://media.spreadthesign.com/video/mp4/13/48609.mp4,music_0007_spreadthesign_37363.mp4,ok
+8,67917,asllex,109,0,train,25,1,-1,104,0,450,360,https://youtu.be/KbV3lTNLgLg,music_0008_asllex_67917.mp4,skipped_no_ytdlp
+9,37373,aslsearch,12,0,test,25,1,-1,200,53,547,400,http://www.aslsearch.com/signs/videos/sing.mp4,music_0009_aslsearch_37373.mp4,ok
+10,37364,startasl,38,0,val,25,1,-1,396,53,819,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/music.mp4,music_0010_startasl_37364.mp4,ok
+11,37365,signschool,4,0,test,25,1,-1,477,47,1656,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Music%2C%20Sing-N2r3NCId7AE.mp4,music_0011_signschool_37365.mp4,ok
+12,37367,asldeafined,13,0,train,25,1,-1,160,0,542,480,https://media.asldeafined.com/vocabulary/1468717488.5224.mp4,music_0012_asldeafined_37367.mp4,ok
+13,37368,handspeak,20,0,train,25,1,-1,48,2,265,240,https://www.handspeak.com/word/m/music.mp4,music_0013_handspeak_37368.mp4,failed
+14,37369,signingsavvy,11,0,train,25,1,-1,80,15,224,192,https://www.signingsavvy.com/signs/mp4/7/7756.mp4,music_0014_signingsavvy_37369.mp4,ok

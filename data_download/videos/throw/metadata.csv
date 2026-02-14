@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58286,asl5200,9,0,train,25,2612,2654,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,throw_0000_asl5200_58286.mp4,skipped_no_ytdlp
+1,68560,lillybauer,113,0,test,25,1,41,100,28,994,720,https://www.youtube.com/watch?v=iOvWH7DQrqM,throw_0001_lillybauer_68560.mp4,skipped_no_ytdlp
+2,58299,handspeak,14,1,train,25,1,-1,29,13,266,240,https://www.handspeak.com/word/t/throw.mp4,throw_0002_handspeak_58299.mp4,failed
+3,58300,signingsavvy,10,1,train,25,1,-1,55,12,220,192,https://www.signingsavvy.com/signs/mp4/23/23885.mp4,throw_0003_signingsavvy_58300.mp4,ok
+4,58301,aslu,5,0,val,25,1,-1,336,39,953,720,https://www.youtube.com/watch?v=vsx5G2yhMR4,throw_0004_aslu_58301.mp4,skipped_no_ytdlp
+5,58302,aslpro,25,0,train,25,1,-1,0,8,236,240,http://www.aslpro.com/main/t/throw.swf,throw_0005_aslpro_58302.mp4,skipped_swf
+6,66636,aslsignbank,98,1,train,25,1,-1,179,32,457,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THROW-1222.mp4,throw_0006_aslsignbank_66636.mp4,failed
+7,58293,spreadthesign,28,1,train,25,1,-1,65,10,258,240,https://media.spreadthesign.com/video/mp4/13/483782.mp4,throw_0007_spreadthesign_58293.mp4,ok
+8,67305,asllex,109,1,val,25,1,-1,105,14,374,360,https://youtu.be/4msfTmjM4lI,throw_0008_asllex_67305.mp4,skipped_no_ytdlp
+9,58303,aslsearch,41,1,val,25,1,-1,234,37,513,400,http://www.aslsearch.com/signs/videos/pitch-baseball.mp4,throw_0009_aslsearch_58303.mp4,ok
+10,58294,signschool,52,1,train,25,1,-1,68,10,619,360,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20throw-PjmAKtyyIj8.mp4,throw_0010_signschool_58294.mp4,ok
+11,58295,signschool,4,1,test,25,1,-1,368,43,1592,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Throw-zw8jvUceB2U.mp4,throw_0011_signschool_58295.mp4,ok
+12,58296,asldeafined,13,1,train,25,1,-1,118,0,528,480,https://media.asldeafined.com/vocabulary/1468945148.6999.mp4,throw_0012_asldeafined_58296.mp4,ok
+13,58297,handspeak,20,0,train,25,1,-1,29,12,285,240,https://www.handspeak.com/word/t/throw-away.mp4,throw_0013_handspeak_58297.mp4,failed

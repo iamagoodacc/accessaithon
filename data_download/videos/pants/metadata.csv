@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66261,aslsignbank,101,0,test,25,1,-1,143,7,516,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PANTS-871.mp4,pants_0000_aslsignbank_66261.mp4,failed
+1,68126,valencia-asl,111,0,val,25,1,-1,196,0,633,480,https://www.youtube.com/watch?v=8S_A5xUi4tY,pants_0001_valencia-asl_68126.mp4,skipped_no_ytdlp
+2,40991,signingsavvy,11,0,train,25,1,-1,87,9,217,192,https://www.signingsavvy.com/signs/mp4/6/6347.mp4,pants_0002_signingsavvy_40991.mp4,ok
+3,40992,signingsavvy,11,1,val,25,1,-1,68,21,212,192,https://www.signingsavvy.com/signs/mp4/6/6350.mp4,pants_0003_signingsavvy_40992.mp4,ok
+4,40993,aslu,5,0,train,25,1,-1,344,40,960,720,https://www.youtube.com/watch?v=jB8Rgy2uVtU,pants_0004_aslu_40993.mp4,skipped_no_ytdlp
+5,40994,nabboud,65,1,test,25,1,-1,303,86,886,720,https://www.youtube.com/watch?v=of2z2YjJ2-k,pants_0005_nabboud_40994.mp4,skipped_no_ytdlp
+6,40985,startasl,38,1,train,25,1,-1,384,56,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/pants.mp4,pants_0006_startasl_40985.mp4,ok
+7,67959,asllex,109,1,train,25,1,-1,106,16,416,360,https://youtu.be/91SCmVAkLh4,pants_0007_asllex_67959.mp4,skipped_no_ytdlp
+8,40995,aslpro,72,0,train,25,1,-1,13,6,238,240,http://www.aslpro.com/main/p/pants.swf,pants_0008_aslpro_40995.mp4,skipped_swf
+9,40996,aslsearch,41,1,train,25,1,-1,209,48,539,400,http://www.aslsearch.com/signs/videos/jeans.mp4,pants_0009_aslsearch_40996.mp4,ok
+10,40986,signschool,32,0,train,25,1,-1,748,49,1604,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pants%202-GG4Pexh2M70.mp4,pants_0010_signschool_40986.mp4,ok
+11,40987,signschool,32,1,val,25,1,-1,773,57,1642,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pants-hiYuxvoKVxE.mp4,pants_0011_signschool_40987.mp4,ok
+12,40988,asldeafined,13,1,train,25,1,-1,90,0,577,480,https://media.asldeafined.com/vocabulary/1468723514.3164.mp4,pants_0012_asldeafined_40988.mp4,ok
+13,40989,handspeak,20,1,train,25,1,-1,30,0,293,240,https://www.handspeak.com/word/p/pants.mp4,pants_0013_handspeak_40989.mp4,failed
+14,40990,handspeak,14,0,train,25,1,-1,165,0,1097,720,https://www.handspeak.com/word/p/pants-usa.mp4,pants_0014_handspeak_40990.mp4,failed

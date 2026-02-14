@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11197,asl5200,9,0,val,25,3875,3937,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,clock_0000_asl5200_11197.mp4,skipped_no_ytdlp
+1,11198,spreadthesign,42,0,train,25,1,-1,12,6,293,240,https://media.spreadthesign.com/video/mp4/13/399309.mp4,clock_0001_spreadthesign_11198.mp4,ok
+2,11199,startasl,38,0,train,25,1,-1,337,60,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/clock.mp4,clock_0002_startasl_11199.mp4,ok
+3,11200,asldeafined,59,0,val,25,1,-1,85,25,603,480,https://media.asldeafined.com/vocabulary/1466899212.9557.mp4,clock_0003_asldeafined_11200.mp4,ok
+4,11201,handspeak,20,0,train,25,1,-1,64,11,266,240,https://www.handspeak.com/word/c/clock-desk.mp4,clock_0004_handspeak_11201.mp4,failed
+5,11202,handspeak,14,0,train,25,1,-1,25,12,261,240,https://www.handspeak.com/word/c/clock-wall.mp4,clock_0005_handspeak_11202.mp4,failed
+6,11203,signingsavvy,10,0,train,25,1,-1,71,9,250,192,https://www.signingsavvy.com/signs/mp4/23/23833.mp4,clock_0006_signingsavvy_11203.mp4,ok
+7,11204,aslu,5,0,train,25,1,-1,270,51,983,720,https://www.youtube.com/watch?v=pAoM56DCisM,clock_0007_aslu_11204.mp4,skipped_no_ytdlp
+8,11205,aslu,5,0,train,25,1,-1,296,29,985,720,https://www.youtube.com/watch?v=tPHSHfQaqbk,clock_0008_aslu_11205.mp4,skipped_no_ytdlp
+9,11206,aslpro,72,0,test,25,1,-1,0,10,242,240,http://www.aslpro.com//main/c/clock_grandfather.swf,clock_0009_aslpro_11206.mp4,skipped_swf
+10,67504,asllex,109,0,val,25,1,-1,67,16,415,360,https://youtu.be/ssDAJyrJndA,clock_0010_asllex_67504.mp4,skipped_no_ytdlp
+13,11209,aslpro,72,0,test,25,1,-1,15,3,240,240,http://www.aslpro.com/main/d/digital_clock.swf,clock_0013_aslpro_11209.mp4,skipped_swf
+14,11210,aslpro,72,0,train,25,1,-1,1,5,242,240,http://www.aslpro.com/main/d/dome_clock.swf,clock_0014_aslpro_11210.mp4,skipped_swf
+16,11212,aslpro,72,0,train,25,1,-1,11,4,241,240,http://www.aslpro.com/main/r/radio_clock.swf,clock_0016_aslpro_11212.mp4,skipped_swf
+18,11214,aslsearch,12,0,train,25,1,-1,182,55,573,400,http://www.aslsearch.com/signs/videos/clock.mp4,clock_0018_aslsearch_11214.mp4,ok

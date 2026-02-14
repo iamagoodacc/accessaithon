@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,70217,northtexas,121,0,val,25,3253,3353,90,23,274,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,mean_0001_northtexas_70217.mp4,skipped_no_ytdlp
+2,35305,aslsearch,12,0,test,25,1,-1,191,55,541,400,http://www.aslsearch.com/signs/videos/define.mp4,mean_0002_aslsearch_35305.mp4,ok
+3,35289,startasl,38,1,test,25,1,-1,402,58,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/mean.mp4,mean_0003_startasl_35289.mp4,ok
+5,35291,signschool,4,1,val,25,1,-1,638,64,1695,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mean!-Eigdeaxm2Do.mp4,mean_0005_signschool_35291.mp4,ok
+6,35292,signschool,31,0,train,25,1,-1,750,71,1728,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meaning-B__IgGoSizs.mp4,mean_0006_signschool_35292.mp4,ok
+7,35293,asldeafined,13,0,train,25,1,-1,48,0,523,480,https://media.asldeafined.com/vocabulary/1468714447.9631.mp4,mean_0007_asldeafined_35293.mp4,ok
+9,35295,asldeafined,34,1,train,25,1,-1,189,68,498,480,https://media.asldeafined.com/vocabulary/1546574475.3278.mp4,mean_0009_asldeafined_35295.mp4,ok
+10,35296,handspeak,20,1,train,25,1,-1,114,0,530,480,https://www.handspeak.com/word/m/mean-cruel.mp4,mean_0010_handspeak_35296.mp4,failed
+11,35297,handspeak,20,0,train,25,1,-1,22,0,534,480,https://www.handspeak.com/word/m/mean-idea.mp4,mean_0011_handspeak_35297.mp4,failed
+12,67880,asllex,109,0,val,25,1,-1,85,20,346,360,https://youtu.be/1u-ZZNdegH8,mean_0012_asllex_67880.mp4,skipped_no_ytdlp
+13,67881,asllex,109,1,train,25,1,-1,103,10,385,360,https://youtu.be/J_2jBrdb0zo,mean_0013_asllex_67881.mp4,skipped_no_ytdlp
+14,35298,signingsavvy,10,1,train,25,1,-1,83,19,199,192,https://www.signingsavvy.com/signs/mp4/22/22271.mp4,mean_0014_signingsavvy_35298.mp4,ok
+15,35299,signingsavvy,11,0,train,25,1,-1,48,12,219,192,https://www.signingsavvy.com/signs/mp4/6/6175.mp4,mean_0015_signingsavvy_35299.mp4,ok
+17,35301,aslpro,87,0,train,25,1,-1,4,19,222,240,http://www.aslpro.com/main/m/mean.swf,mean_0017_aslpro_35301.mp4,skipped_swf
+18,35302,aslpro,54,1,train,25,1,-1,14,7,235,240,http://www.aslpro.com//main/m/mean_trait.swf,mean_0018_aslpro_35302.mp4,skipped_swf

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04484,asl5200,9,0,train,25,87,139,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,baby_0000_asl5200_04484.mp4,skipped_no_ytdlp
+1,69217,aslbrick,116,0,train,25,1,-1,337,23,963,720,http://aslbricks.org/New/ASL-Videos/baby.mp4,baby_0001_aslbrick_69217.mp4,ok
+2,04512,aslu,5,0,train,25,1,-1,276,39,985,720,https://www.youtube.com/watch?v=ljYpx7ee9zg,baby_0002_aslu_04512.mp4,skipped_no_ytdlp
+3,04513,aslpro,44,0,val,25,1,-1,0,8,250,240,http://www.aslpro.com/main/b/baby.swf,baby_0003_aslpro_04513.mp4,skipped_swf
+4,04514,aslsearch,12,0,train,25,1,-1,172,48,591,400,http://www.aslsearch.com/signs/videos/baby.mp4,baby_0004_aslsearch_04514.mp4,ok
+5,65119,aslsignbank,88,0,train,25,1,-1,159,2,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BABY-407.mp4,baby_0005_aslsignbank_65119.mp4,failed
+6,04505,spreadthesign,2,0,train,25,1,-1,45,1,255,240,https://media.spreadthesign.com/video/mp4/13/123115.mp4,baby_0006_spreadthesign_04505.mp4,ok
+7,67377,asllex,109,0,train,25,1,-1,64,16,441,360,https://youtu.be/08I2GCN9YVM,baby_0007_asllex_67377.mp4,skipped_no_ytdlp
+8,04506,startasl,36,0,train,25,1,-1,186,21,578,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/baby.mp4,baby_0008_startasl_04506.mp4,ok
+9,04507,signschool,4,0,test,25,1,-1,632,59,1521,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Baby%204-oRjJ3LS6Xbk.mp4,baby_0009_signschool_04507.mp4,ok
+10,04508,signschool,4,0,val,25,1,-1,492,63,1586,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Baby-BUz2y48AUek.mp4,baby_0010_signschool_04508.mp4,ok
+11,04509,asldeafined,13,0,test,25,1,-1,63,22,621,480,https://media.asldeafined.com/vocabulary/1466647880.6971.mp4,baby_0011_asldeafined_04509.mp4,ok
+12,04510,handspeak,20,0,train,25,1,-1,34,0,547,480,https://www.handspeak.com/word/b/baby.mp4,baby_0012_handspeak_04510.mp4,failed
+13,04511,signingsavvy,11,0,train,25,1,-1,71,16,237,192,https://www.signingsavvy.com/signs/mp4/7/7757.mp4,baby_0013_signingsavvy_04511.mp4,ok

@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59479,asl5200,9,0,test,25,5026,5088,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,travel_0000_asl5200_59479.mp4,skipped_no_ytdlp
+1,68478,lillybauer,113,0,test,25,1,59,103,14,545,360,https://www.youtube.com/watch?v=gcDkayX2gC4,travel_0001_lillybauer_68478.mp4,skipped_no_ytdlp
+2,68173,valencia-asl,109,0,train,25,1,-1,78,0,1190,720,https://www.youtube.com/watch?v=yHcQesQ5cCs,travel_0002_valencia-asl_68173.mp4,skipped_no_ytdlp
+3,59500,asldeafined,13,0,train,25,1,-1,110,0,556,480,https://media.asldeafined.com/vocabulary/1468946919.6928.mp4,travel_0003_asldeafined_59500.mp4,ok
+4,59501,handspeak,14,0,train,25,1,-1,54,0,583,480,https://www.handspeak.com/word/t/travel.mp4,travel_0004_handspeak_59501.mp4,failed
+5,59502,signingsavvy,11,0,val,25,1,-1,52,8,230,192,https://www.signingsavvy.com/signs/mp4/14/14645.mp4,travel_0005_signingsavvy_59502.mp4,ok
+6,59503,signingsavvy,11,0,train,25,1,-1,67,16,217,192,https://www.signingsavvy.com/signs/mp4/9/9117.mp4,travel_0006_signingsavvy_59503.mp4,ok
+7,59504,aslu,5,0,val,25,1,-1,286,6,1029,720,https://www.youtube.com/watch?v=ZtG9hL7slCA,travel_0007_aslu_59504.mp4,skipped_no_ytdlp
+8,66672,aslsignbank,98,0,train,25,1,-1,142,30,454,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRAVEL-1307.mp4,travel_0008_aslsignbank_66672.mp4,failed
+9,59495,elementalasl,19,0,train,25,1,-1,76,11,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/travel.mov,travel_0009_elementalasl_59495.mp4,ok
+10,67323,asllex,109,0,train,25,1,-1,84,16,377,360,https://youtu.be/SurdQYvT3D8,travel_0010_asllex_67323.mp4,skipped_no_ytdlp
+11,59505,aslpro,87,0,train,25,1,-1,18,6,233,240,http://www.aslpro.com/main/t/travel.swf,travel_0011_aslpro_59505.mp4,skipped_swf
+12,59506,aslsearch,12,0,val,25,1,-1,139,68,559,400,http://www.aslsearch.com/signs/videos/journey.mp4,travel_0012_aslsearch_59506.mp4,ok
+13,59496,spreadthesign,56,0,train,25,1,-1,24,0,282,240,https://media.spreadthesign.com/video/mp4/13/50864.mp4,travel_0013_spreadthesign_59496.mp4,ok
+14,59497,signschool,6,0,train,25,1,-1,506,63,1505,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Travel-1_rFNRUUr1k.mp4,travel_0014_signschool_59497.mp4,ok
+16,59499,signschool,31,0,train,25,1,-1,719,129,1659,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Travel-uZpFYcIen1o.mp4,travel_0016_signschool_59499.mp4,ok

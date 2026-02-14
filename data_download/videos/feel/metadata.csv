@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21425,asl5200,9,0,val,25,1076,1132,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,feel_0000_asl5200_21425.mp4,skipped_no_ytdlp
+1,69319,aslbrick,119,0,train,25,1,-1,357,31,854,720,http://aslbricks.org/New/ASL-Videos/feel.mp4,feel_0001_aslbrick_69319.mp4,ok
+2,21438,aslu,5,0,train,25,1,-1,279,12,914,720,https://www.youtube.com/watch?v=mN3bof4MixQ,feel_0002_aslu_21438.mp4,skipped_no_ytdlp
+3,21439,aslu,5,0,val,25,1,-1,248,0,913,720,https://www.youtube.com/watch?v=UxO5Q0fSqOw,feel_0003_aslu_21439.mp4,skipped_no_ytdlp
+4,21440,aslu,5,0,train,25,1,-1,248,0,913,720,https://www.youtube.com/watch?v=UxO5Q0fSqOw,feel_0004_aslu_21440.mp4,skipped_no_ytdlp
+5,21441,aslpro,83,0,train,25,1,-1,15,19,208,240,http://www.aslpro.com/main/f/feel.swf,feel_0005_aslpro_21441.mp4,skipped_swf
+6,65696,aslsignbank,94,0,train,25,1,-1,136,21,432,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FE/FEEL-624.mp4,feel_0006_aslsignbank_65696.mp4,failed
+7,21432,spreadthesign,2,0,train,25,1,-1,67,34,242,240,https://media.spreadthesign.com/video/mp4/13/93005.mp4,feel_0007_spreadthesign_21432.mp4,ok
+8,67653,asllex,109,0,train,25,1,-1,89,22,384,360,https://youtu.be/VjSEIVJKae4,feel_0008_asllex_67653.mp4,skipped_no_ytdlp
+9,21442,aslsearch,41,0,test,25,1,-1,207,36,470,400,http://www.aslsearch.com/signs/videos/feel.mp4,feel_0009_aslsearch_21442.mp4,ok
+10,21433,signschool,27,0,val,25,1,-1,858,66,1731,1059,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Feel-X1Vq74m1ofY.mp4,feel_0010_signschool_21433.mp4,ok
+11,21434,asldeafined,21,0,test,25,1,-1,82,8,542,480,https://media.asldeafined.com/vocabulary/1468464003.6555.mp4,feel_0011_asldeafined_21434.mp4,ok
+12,21435,handspeak,20,0,train,25,1,-1,54,0,516,480,https://www.handspeak.com/word/f/feel.mp4,feel_0012_handspeak_21435.mp4,failed
+13,21436,signingsavvy,11,0,train,25,1,-1,75,10,223,192,https://www.signingsavvy.com/signs/mp4/6/6900.mp4,feel_0013_signingsavvy_21436.mp4,ok
+14,21437,nabboud,68,0,train,25,1,-1,311,69,888,720,https://www.youtube.com/watch?v=cH03d9ccwVI,feel_0014_nabboud_21437.mp4,skipped_no_ytdlp

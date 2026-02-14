@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04764,asl5200,9,0,train,25,394,440,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bake_0000_asl5200_04764.mp4,skipped_no_ytdlp
+1,70031,northtexas,121,0,train,25,3657,3766,67,22,559,480,https://www.youtube.com/watch?v=sErq0TJMKEo,bake_0001_northtexas_70031.mp4,skipped_no_ytdlp
+2,04773,aslu,5,0,train,25,1,-1,339,66,1007,720,https://www.youtube.com/watch?v=Q0vD9t1u5bI,bake_0002_aslu_04773.mp4,skipped_no_ytdlp
+3,04774,aslpro,24,0,val,25,1,-1,21,14,224,240,http://www.aslpro.com/main/b/bake.swf,bake_0003_aslpro_04774.mp4,skipped_swf
+4,04775,aslsearch,12,0,train,25,1,-1,158,50,532,400,http://www.aslsearch.com/signs/videos/bake.mp4,bake_0004_aslsearch_04775.mp4,ok
+5,65127,aslsignbank,90,0,train,25,1,-1,172,15,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BAKE_1-2402.mp4,bake_0005_aslsignbank_65127.mp4,failed
+6,65128,aslsignbank,88,0,train,25,1,-1,182,3,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BAKE_2-808.mp4,bake_0006_aslsignbank_65128.mp4,failed
+7,04768,spreadthesign,2,0,train,25,1,-1,45,24,276,240,https://media.spreadthesign.com/video/mp4/13/89787.mp4,bake_0007_spreadthesign_04768.mp4,ok
+8,67383,asllex,109,0,train,25,1,-1,91,0,405,360,https://youtu.be/1PIwp1JjHQs,bake_0008_asllex_67383.mp4,skipped_no_ytdlp
+9,67382,asllex,109,0,test,25,1,-1,124,21,396,360,https://youtu.be/PIWg0KJXdrw,bake_0009_asllex_67382.mp4,skipped_no_ytdlp
+10,04769,signschool,32,0,val,25,1,-1,654,66,1862,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bake%2C%20Oven-mSZqN3ief2Y.mp4,bake_0010_signschool_04769.mp4,ok
+11,04770,asldeafined,40,0,test,25,1,-1,90,12,639,480,https://media.asldeafined.com/vocabulary/1488805298.5520.mp4,bake_0011_asldeafined_04770.mp4,ok
+12,04771,handspeak,20,0,train,25,1,-1,76,0,512,480,https://www.handspeak.com/word/b/bake-oven.mp4,bake_0012_handspeak_04771.mp4,failed
+13,04772,signingsavvy,11,0,train,25,1,-1,70,17,208,192,https://www.signingsavvy.com/signs/mp4/6/6774.mp4,bake_0013_signingsavvy_04772.mp4,ok

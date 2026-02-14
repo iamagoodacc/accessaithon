@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22537,asl5200,9,0,train,25,2048,2104,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,flower_0000_asl5200_22537.mp4,skipped_no_ytdlp
+2,22554,aslu,5,0,train,25,1,-1,314,51,920,720,https://www.youtube.com/watch?v=33DHyOmJN1Y,flower_0002_aslu_22554.mp4,skipped_no_ytdlp
+3,22555,aslu,64,0,train,25,1,-1,143,38,396,339,https://www.youtube.com/watch?v=N-nl92AJkT4,flower_0003_aslu_22555.mp4,skipped_no_ytdlp
+4,22556,nabboud,65,0,val,25,1,-1,367,91,833,720,https://www.youtube.com/watch?v=vyPgSFdwH6M,flower_0004_nabboud_22556.mp4,skipped_no_ytdlp
+5,22557,aslpro,16,0,train,25,1,-1,30,7,228,240,http://www.aslpro.com/main/f/flower.swf,flower_0005_aslpro_22557.mp4,skipped_swf
+6,65746,aslsignbank,94,0,train,25,1,-1,172,18,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FL/FLOWER-381.mp4,flower_0006_aslsignbank_65746.mp4,failed
+7,22548,spreadthesign,37,0,train,25,1,-1,65,0,242,240,https://media.spreadthesign.com/video/mp4/13/456351.mp4,flower_0007_spreadthesign_22548.mp4,ok
+8,67672,asllex,109,0,train,25,1,-1,132,11,380,360,https://youtu.be/txhW46fHa4k,flower_0008_asllex_67672.mp4,skipped_no_ytdlp
+9,22558,aslsearch,12,0,train,25,1,-1,190,51,542,400,http://www.aslsearch.com/signs/videos/flower.mp4,flower_0009_aslsearch_22558.mp4,ok
+10,22549,startasl,36,0,test,25,1,-1,219,16,526,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/flower.mp4,flower_0010_startasl_22549.mp4,ok
+11,22550,signschool,31,0,val,25,1,-1,639,88,1435,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Flower-KPdJAe0K3YA.mp4,flower_0011_signschool_22550.mp4,ok
+12,22551,asldeafined,21,0,test,25,1,-1,113,12,550,480,https://media.asldeafined.com/vocabulary/1468512943.6534.mp4,flower_0012_asldeafined_22551.mp4,ok
+13,22552,handspeak,20,0,train,25,1,-1,65,10,512,480,https://www.handspeak.com/word/f/flower.mp4,flower_0013_handspeak_22552.mp4,failed
+14,22553,signingsavvy,11,0,train,25,1,-1,81,14,221,192,https://www.signingsavvy.com/signs/mp4/7/7392.mp4,flower_0014_signingsavvy_22553.mp4,ok

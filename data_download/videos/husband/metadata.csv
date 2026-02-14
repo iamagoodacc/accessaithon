@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28461,asl5200,9,0,val,25,2753,2792,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,husband_0000_asl5200_28461.mp4,skipped_no_ytdlp
+1,68772,lillybauer,112,0,train,25,1,49,273,15,856,720,https://www.youtube.com/watch?v=OQU_4_iw0vU,husband_0001_lillybauer_68772.mp4,skipped_no_ytdlp
+2,28469,signingsavvy,10,0,train,25,1,-1,53,22,204,192,https://www.signingsavvy.com/signs/mp4/23/23355.mp4,husband_0002_signingsavvy_28469.mp4,ok
+3,28470,aslu,5,0,val,25,1,-1,47,21,428,360,https://www.youtube.com/watch?v=MeIk9lFGPTo,husband_0003_aslu_28470.mp4,skipped_no_ytdlp
+4,28471,aslu,5,0,train,25,1,-1,294,28,961,720,https://www.youtube.com/watch?v=TYTsqVZU1dk,husband_0004_aslu_28471.mp4,skipped_no_ytdlp
+5,28472,aslpro,16,0,train,25,1,-1,10,6,229,240,http://www.aslpro.com/main/h/husband.swf,husband_0005_aslpro_28472.mp4,skipped_swf
+6,65913,aslsignbank,96,0,train,25,1,-1,196,35,512,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HU/HUSBAND-1753.mp4,husband_0006_aslsignbank_65913.mp4,failed
+7,28463,spreadthesign,35,0,train,25,1,-1,44,0,267,240,https://media.spreadthesign.com/video/mp4/13/51852.mp4,husband_0007_spreadthesign_28463.mp4,ok
+8,67781,asllex,109,0,train,25,1,-1,86,5,369,360,https://youtu.be/UnjYzs-m7hU,husband_0008_asllex_67781.mp4,skipped_no_ytdlp
+9,28473,aslsearch,12,0,test,25,1,-1,164,53,545,400,http://www.aslsearch.com/signs/videos/husband.mp4,husband_0009_aslsearch_28473.mp4,ok
+10,28464,startasl,36,0,val,25,1,-1,195,16,528,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/husband.mp4,husband_0010_startasl_28464.mp4,ok
+11,28465,signschool,4,0,test,25,1,-1,456,57,1601,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Husband-popFMRgpkSs.mp4,husband_0011_signschool_28465.mp4,ok
+12,28466,asldeafined,21,0,train,25,1,-1,57,3,557,480,https://media.asldeafined.com/vocabulary/1468639410.7652.mp4,husband_0012_asldeafined_28466.mp4,ok
+13,28467,handspeak,20,0,train,25,1,-1,21,0,544,480,https://www.handspeak.com/word/h/husband.mp4,husband_0013_handspeak_28467.mp4,failed
+14,28468,handspeak,20,0,train,25,1,-1,115,0,494,360,https://www.handspeak.com/word/h/husband-to-be.mp4,husband_0014_handspeak_28468.mp4,failed

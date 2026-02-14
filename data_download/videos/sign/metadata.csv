@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,66478,aslsignbank,108,0,val,25,1,-1,183,43,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SIGN-256.mp4,sign_0001_aslsignbank_66478.mp4,failed
+2,51621,asldeafined,21,0,train,25,1,-1,55,34,568,480,https://media.asldeafined.com/vocabulary/1532963329.1684.mp4,sign_0002_asldeafined_51621.mp4,ok
+3,68284,lillybauer,115,0,train,25,1,63,285,4,1029,720,https://www.youtube.com/watch?v=6XHu1uXQmS0,sign_0003_lillybauer_68284.mp4,skipped_no_ytdlp
+4,68466,lillybauer,115,0,val,25,1,123,69,0,597,360,https://www.youtube.com/watch?v=FyOFR1H6QoM,sign_0004_lillybauer_68466.mp4,skipped_no_ytdlp
+5,70209,northtexas,121,0,train,25,1545,1658,92,24,301,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,sign_0005_northtexas_70209.mp4,skipped_no_ytdlp
+6,68154,valencia-asl,110,0,train,25,1,-1,107,0,1228,720,https://www.youtube.com/watch?v=tl_1gdc166A,sign_0006_valencia-asl_68154.mp4,skipped_no_ytdlp
+7,51616,signschool,4,0,train,25,1,-1,584,77,1870,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sign%20copy-lE1xAUCA2RI.mp4,sign_0007_signschool_51616.mp4,ok
+9,51617,signschool,6,0,train,25,1,-1,543,47,1544,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sign-2d0l-Je3QP4.mp4,sign_0009_signschool_51617.mp4,ok
+16,51628,signingsavvy,10,0,train,25,1,-1,69,25,216,192,https://www.signingsavvy.com/signs/mp4/22/22309.mp4,sign_0016_signingsavvy_51628.mp4,ok
+17,51614,spreadthesign,0,0,test,25,1,-1,40,9,258,240,https://media.spreadthesign.com/video/mp4/13/437018.mp4,sign_0017_spreadthesign_51614.mp4,ok
+20,51630,nabboud,65,0,val,25,1,-1,261,40,941,720,https://www.youtube.com/watch?v=7AAnD4DyOnE,sign_0020_nabboud_51630.mp4,skipped_no_ytdlp
+22,51633,aslu,5,0,test,25,1,-1,265,42,1025,720,https://www.youtube.com/watch?v=TRLHLtgHyzo,sign_0022_aslu_51633.mp4,skipped_no_ytdlp
+26,51637,aslsearch,12,0,train,25,1,-1,194,52,582,400,http://www.aslsearch.com/signs/videos/sign.mp4,sign_0026_aslsearch_51637.mp4,ok
+27,51615,startasl,36,0,train,25,1,-1,204,13,599,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sign.mp4,sign_0027_startasl_51615.mp4,ok
+28,51622,asldeafined,21,0,train,25,1,-1,55,34,568,480,https://media.asldeafined.com/vocabulary/1532963329.1684.mp4,sign_0028_asldeafined_51622.mp4,ok

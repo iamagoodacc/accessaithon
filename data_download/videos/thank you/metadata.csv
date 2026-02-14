@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57653,asl5200,9,0,train,25,1425,1471,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,thank you_0000_asl5200_57653.mp4,skipped_no_ytdlp
+1,69502,aslbrick,115,0,train,25,1,-1,378,42,896,720,http://aslbricks.org/New/ASL-Videos/thank%20you.mp4,thank you_0001_aslbrick_69502.mp4,ok
+2,68796,lillybauer,115,0,train,25,1,39,321,22,916,720,https://www.youtube.com/watch?v=pj0YH_l8TNM,thank you_0002_lillybauer_68796.mp4,skipped_no_ytdlp
+6,57663,scott,82,0,val,25,1,-1,320,0,835,720,https://www.youtube.com/watch?v=7XHOmZYiBew,thank you_0006_scott_57663.mp4,skipped_no_ytdlp
+7,57664,nabboud,51,0,train,25,1,-1,380,73,852,720,https://www.youtube.com/watch?v=lJXvGI7r_Fc,thank you_0007_nabboud_57664.mp4,skipped_no_ytdlp
+8,66598,aslsignbank,98,0,train,25,1,-1,180,31,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THANK-YOU-1198.mp4,thank you_0008_aslsignbank_66598.mp4,failed
+9,57655,signschool,46,0,train,25,1,-1,697,39,1522,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20ThankYou-OGQTouYS3zM.mp4,thank you_0009_signschool_57655.mp4,ok
+10,57665,nabboud,51,0,train,25,1,-1,376,73,876,720,https://www.youtube.com/watch?v=sH87G_Bz_nA,thank you_0010_nabboud_57665.mp4,skipped_no_ytdlp
+11,57666,nabboud,51,0,train,25,1,-1,356,72,871,720,https://www.youtube.com/watch?v=t8Hr0IHghrQ,thank you_0011_nabboud_57666.mp4,skipped_no_ytdlp
+12,57667,aslsearch,12,0,test,25,1,-1,168,54,537,400,http://www.aslsearch.com/signs/videos/thank.mp4,thank you_0012_aslsearch_57667.mp4,ok
+13,57656,asldeafined,13,0,val,25,1,-1,144,0,521,480,https://media.asldeafined.com/vocabulary/1468944231.2757.mp4,thank you_0013_asldeafined_57656.mp4,ok
+14,57657,asldeafined,15,0,test,25,1,-1,147,32,521,480,https://media.asldeafined.com/vocabulary/1522767348.9440.mp4,thank you_0014_asldeafined_57657.mp4,ok
+15,57658,handspeak,14,0,train,25,1,-1,137,9,466,360,https://www.handspeak.com/word/t/thank.mp4,thank you_0015_handspeak_57658.mp4,failed
+16,57659,signingsavvy,11,0,train,25,1,-1,85,11,223,192,https://www.signingsavvy.com/signs/mp4/14/14353.mp4,thank you_0016_signingsavvy_57659.mp4,ok

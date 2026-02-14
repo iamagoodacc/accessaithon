@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11704,asl5200,9,0,test,25,4251,4297,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,college_0000_asl5200_11704.mp4,skipped_no_ytdlp
+1,68026,valencia-asl,109,0,test,25,1,-1,101,0,1148,720,https://www.youtube.com/watch?v=cdK1IiBMu_M,college_0001_valencia-asl_68026.mp4,skipped_no_ytdlp
+2,70206,northtexas,121,0,train,25,908,1024,96,25,280,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,college_0002_northtexas_70206.mp4,skipped_no_ytdlp
+3,11714,aslu,5,0,train,25,1,-1,273,47,953,720,https://www.youtube.com/watch?v=dVU0UNF7DEw,college_0003_aslu_11714.mp4,skipped_no_ytdlp
+4,11715,aslu,5,0,train,25,1,-1,102,13,483,360,https://www.youtube.com/watch?v=NK9T1HlF3H4,college_0004_aslu_11715.mp4,skipped_no_ytdlp
+5,11716,aslu,5,0,val,25,1,-1,245,39,958,720,https://www.youtube.com/watch?v=NK9T1HlF3H4,college_0005_aslu_11716.mp4,skipped_no_ytdlp
+6,11717,aslpro,72,0,train,25,1,-1,29,2,229,240,http://www.aslpro.com/main/c/college.swf,college_0006_aslpro_11717.mp4,skipped_swf
+7,65379,aslsignbank,92,0,val,25,1,-1,190,35,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COLLEGE-2038.mp4,college_0007_aslsignbank_65379.mp4,failed
+8,11708,spreadthesign,0,0,train,25,1,-1,46,5,256,240,https://media.spreadthesign.com/video/mp4/13/58486.mp4,college_0008_spreadthesign_11708.mp4,ok
+9,67512,asllex,109,0,train,25,1,-1,108,18,399,360,https://youtu.be/H1Axlp1fLIU,college_0009_asllex_67512.mp4,skipped_no_ytdlp
+10,11718,aslsearch,12,0,train,25,1,-1,181,56,536,400,http://www.aslsearch.com/signs/videos/college.mp4,college_0010_aslsearch_11718.mp4,ok
+11,11709,startasl,38,0,train,25,1,-1,405,73,845,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/college.mp4,college_0011_startasl_11709.mp4,ok
+12,11710,signschool,31,0,val,25,1,-1,431,36,1166,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20College.mp4,college_0012_signschool_11710.mp4,ok
+13,11711,asldeafined,59,0,train,25,1,-1,82,20,520,480,https://media.asldeafined.com/vocabulary/1466899881.4501.mp4,college_0013_asldeafined_11711.mp4,ok
+14,11712,handspeak,20,0,train,25,1,-1,50,13,556,480,https://www.handspeak.com/word/c/college.mp4,college_0014_handspeak_11712.mp4,failed
+15,11713,signingsavvy,11,0,train,25,1,-1,57,5,218,192,https://www.signingsavvy.com/signs/mp4/5/5794.mp4,college_0015_signingsavvy_11713.mp4,ok

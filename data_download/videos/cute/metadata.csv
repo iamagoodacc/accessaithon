@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14450,asl5200,9,0,test,25,7479,7518,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cute_0000_asl5200_14450.mp4,skipped_no_ytdlp
+1,68652,lillybauer,112,0,test,25,1,39,364,38,924,720,https://www.youtube.com/watch?v=lE--hnqz2lo,cute_0001_lillybauer_68652.mp4,skipped_no_ytdlp
+2,14455,handspeak,14,0,train,25,1,-1,144,0,485,480,https://www.handspeak.com/word/c/cute2.mp4,cute_0002_handspeak_14455.mp4,failed
+3,14456,handspeak,14,0,train,25,1,-1,163,0,517,480,https://www.handspeak.com/word/c/cute.mp4,cute_0003_handspeak_14456.mp4,failed
+4,14457,signingsavvy,11,0,train,25,1,-1,69,11,207,192,https://www.signingsavvy.com/signs/mp4/8/8732.mp4,cute_0004_signingsavvy_14457.mp4,ok
+5,14458,signingsavvy,11,0,val,25,1,-1,74,10,214,192,https://www.signingsavvy.com/signs/mp4/8/8733.mp4,cute_0005_signingsavvy_14458.mp4,ok
+6,14459,aslu,5,0,train,25,1,-1,350,28,935,720,https://www.youtube.com/watch?v=Swd3dXctl9E,cute_0006_aslu_14459.mp4,skipped_no_ytdlp
+7,65432,aslsignbank,99,0,val,25,1,-1,155,16,454,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CU/CUTE_1or2-438.mp4,cute_0007_aslsignbank_65432.mp4,failed
+8,67549,asllex,109,0,train,25,1,-1,123,22,360,360,https://youtu.be/SRF4kTJWSBQ,cute_0008_asllex_67549.mp4,skipped_no_ytdlp
+9,67548,asllex,109,0,train,25,1,-1,105,12,374,360,https://youtu.be/Tpd0LRCDzsY,cute_0009_asllex_67548.mp4,skipped_no_ytdlp
+10,14460,aslpro,16,0,train,25,1,-1,22,9,215,240,http://www.aslpro.com/main/c/cute.swf,cute_0010_aslpro_14460.mp4,skipped_swf
+11,14461,aslsearch,12,0,train,25,1,-1,186,63,546,400,http://www.aslsearch.com/signs/videos/cute.mp4,cute_0011_aslsearch_14461.mp4,ok
+12,14451,spreadthesign,0,0,val,25,1,-1,45,0,237,240,https://media.spreadthesign.com/video/mp4/13/58499.mp4,cute_0012_spreadthesign_14451.mp4,ok
+13,14452,startasl,38,0,train,25,1,-1,382,50,798,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cute.mp4,cute_0013_startasl_14452.mp4,ok
+14,14453,asldeafined,59,0,train,25,1,-1,144,38,528,480,https://media.asldeafined.com/vocabulary/1466906048.8806.mp4,cute_0014_asldeafined_14453.mp4,ok
+15,14454,asldeafined,34,0,train,25,1,-1,186,76,505,480,https://media.asldeafined.com/vocabulary/1546573069.1645.mp4,cute_0015_asldeafined_14454.mp4,ok

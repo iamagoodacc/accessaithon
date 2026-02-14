@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27254,asl5200,9,0,val,25,1467,1516,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,here_0000_asl5200_27254.mp4,skipped_no_ytdlp
+1,69365,aslbrick,115,0,train,25,1,-1,316,46,986,720,http://aslbricks.org/New/ASL-Videos/here.mp4,here_0001_aslbrick_69365.mp4,ok
+3,68072,valencia-asl,109,0,train,25,1,-1,123,0,1280,720,https://www.youtube.com/watch?v=JBIstMmmHxI,here_0003_valencia-asl_68072.mp4,skipped_no_ytdlp
+4,68610,lillybauer,115,0,val,25,1,57,347,23,990,720,https://www.youtube.com/watch?v=jx9_Ip1EXhA,here_0004_lillybauer_68610.mp4,skipped_no_ytdlp
+5,27268,signingsavvy,11,0,train,25,1,-1,66,7,219,192,https://www.signingsavvy.com/signs/mp4/5/5873.mp4,here_0005_signingsavvy_27268.mp4,ok
+6,27269,aslu,5,0,train,25,1,-1,272,50,962,720,https://www.youtube.com/watch?v=2dALbgMQWmk,here_0006_aslu_27269.mp4,skipped_no_ytdlp
+8,27271,aslu,5,0,train,25,1,-1,68,6,499,360,https://www.youtube.com/watch?v=qi1tgV5Fy5c,here_0008_aslu_27271.mp4,skipped_no_ytdlp
+9,27272,aslpro,30,0,train,25,1,-1,0,12,227,240,http://www.aslpro.com/main/h/here.swf,here_0009_aslpro_27272.mp4,skipped_swf
+11,65892,aslsignbank,90,0,train,25,1,-1,95,13,548,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HE/HERE-484.mp4,here_0011_aslsignbank_65892.mp4,failed
+12,27263,startasl,38,0,test,25,1,-1,444,71,858,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/here.mp4,here_0012_startasl_27263.mp4,ok
+13,67758,asllex,109,0,val,25,1,-1,62,16,401,360,https://youtu.be/e7ckmRr2la0,here_0013_asllex_67758.mp4,skipped_no_ytdlp
+14,27273,aslsearch,12,0,test,25,1,-1,173,53,564,400,http://www.aslsearch.com/signs/videos/here.mp4,here_0014_aslsearch_27273.mp4,ok
+15,27264,signschool,3,0,train,25,1,-1,425,14,1404,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Here-IxKduR6Lv4M.mp4,here_0015_signschool_27264.mp4,ok
+16,27265,asldeafined,21,0,train,25,1,-1,45,1,578,480,https://media.asldeafined.com/vocabulary/1468580742.7710.mp4,here_0016_asldeafined_27265.mp4,ok
+18,27267,handspeak,20,0,train,25,1,-1,76,0,611,480,https://www.handspeak.com/word/h/here.mp4,here_0018_handspeak_27267.mp4,failed

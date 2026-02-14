@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63750,asl5200,9,0,train,25,3478,3524,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,word_0000_asl5200_63750.mp4,skipped_no_ytdlp
+1,63758,handspeak,20,0,train,25,1,-1,63,2,270,240,https://www.handspeak.com/word/w/word.mp4,word_0001_handspeak_63758.mp4,failed
+2,63759,handspeak,20,0,train,25,1,-1,63,0,270,240,https://www.handspeak.com/word/w/word-plu.mp4,word_0002_handspeak_63759.mp4,failed
+3,63760,signingsavvy,11,0,val,25,1,-1,77,11,215,192,https://www.signingsavvy.com/signs/mp4/6/6032.mp4,word_0003_signingsavvy_63760.mp4,ok
+4,63761,aslu,5,0,train,25,1,-1,164,11,494,360,https://www.youtube.com/watch?v=QZsTrcfh4bI,word_0004_aslu_63761.mp4,skipped_no_ytdlp
+5,66803,aslsignbank,88,0,train,25,1,-1,152,6,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WO/WORD-1449.mp4,word_0005_aslsignbank_66803.mp4,failed
+6,63752,spreadthesign,42,0,train,25,1,-1,26,0,292,240,https://media.spreadthesign.com/video/mp4/13/51082.mp4,word_0006_spreadthesign_63752.mp4,ok
+7,63762,aslpro,24,0,train,25,1,-1,18,19,198,240,http://www.aslpro.com/main/w/word.swf,word_0007_aslpro_63762.mp4,skipped_swf
+8,63763,aslsearch,41,0,train,25,1,-1,236,38,496,400,http://www.aslsearch.com/signs/videos/word.mp4,word_0008_aslsearch_63763.mp4,ok
+9,63753,signschool,39,0,test,25,1,-1,749,124,1630,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Word%2C%20Vocabulary-Rhx-awd6ZT4.mp4,word_0009_signschool_63753.mp4,ok
+10,63754,signschool,32,0,val,25,1,-1,712,74,1629,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Word-BzoFToYY-JQ.mp4,word_0010_signschool_63754.mp4,ok
+11,63755,asldeafined,13,0,test,25,1,-1,116,8,526,480,https://media.asldeafined.com/vocabulary/1468929034.4913.mp4,word_0011_asldeafined_63755.mp4,ok
+12,63756,asldeafined,15,0,train,25,1,-1,137,22,516,480,https://media.asldeafined.com/vocabulary/1522768280.6181.mp4,word_0012_asldeafined_63756.mp4,ok
+13,63757,handspeak,14,0,train,25,1,-1,380,0,954,720,https://www.handspeak.com/word/w/word-cl.mp4,word_0013_handspeak_63757.mp4,failed

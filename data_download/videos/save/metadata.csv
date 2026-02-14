@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49367,asl5200,9,0,train,25,674,730,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,save_0000_asl5200_49367.mp4,skipped_no_ytdlp
+1,49376,handspeak,14,1,train,25,1,-1,78,18,240,240,https://www.handspeak.com/word/s/save-thing2.mp4,save_0001_handspeak_49376.mp4,failed
+2,49377,handspeak,14,1,train,25,1,-1,76,17,239,240,https://www.handspeak.com/word/s/save-thing.mp4,save_0002_handspeak_49377.mp4,failed
+3,49378,signingsavvy,10,1,train,25,1,-1,86,25,222,192,https://www.signingsavvy.com/signs/mp4/22/22978.mp4,save_0003_signingsavvy_49378.mp4,ok
+4,49379,signingsavvy,10,1,train,25,1,-1,87,23,209,192,https://www.signingsavvy.com/signs/mp4/22/22979.mp4,save_0004_signingsavvy_49379.mp4,ok
+5,49380,signingsavvy,11,0,test,25,1,-1,72,11,214,192,https://www.signingsavvy.com/signs/mp4/8/8775.mp4,save_0005_signingsavvy_49380.mp4,ok
+6,49371,spreadthesign,28,0,val,25,1,-1,30,4,286,240,https://media.spreadthesign.com/video/mp4/13/482569.mp4,save_0006_spreadthesign_49371.mp4,ok
+7,49381,aslu,5,1,val,25,1,-1,89,7,426,360,https://www.youtube.com/watch?v=PsEMHQEHNhE,save_0007_aslu_49381.mp4,skipped_no_ytdlp
+8,49382,aslpro,87,1,val,25,1,-1,19,18,220,240,http://www.aslpro.com/main/s/save.swf,save_0008_aslpro_49382.mp4,skipped_swf
+9,49383,aslsearch,12,0,train,25,1,-1,173,47,593,400,http://www.aslsearch.com/signs/videos/save2.mp4,save_0009_aslsearch_49383.mp4,ok
+10,49384,aslsearch,12,1,train,25,1,-1,218,50,566,400,http://www.aslsearch.com/signs/videos/save.mp4,save_0010_aslsearch_49384.mp4,ok
+11,49372,signschool,32,1,test,25,1,-1,697,79,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Saving-9ZSHxT8UfRg.mp4,save_0011_signschool_49372.mp4,ok
+13,49374,asldeafined,13,1,train,25,1,-1,137,0,555,480,https://media.asldeafined.com/vocabulary/1468763049.7173.mp4,save_0013_asldeafined_49374.mp4,ok
+14,49375,handspeak,14,0,train,25,1,-1,31,12,254,240,https://www.handspeak.com/word/s/save-rescue.mp4,save_0014_handspeak_49375.mp4,failed

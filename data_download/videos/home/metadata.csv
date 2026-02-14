@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27762,asl5200,9,0,test,25,1867,1906,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,home_0000_asl5200_27762.mp4,skipped_no_ytdlp
+1,69366,aslbrick,118,0,test,25,1,-1,290,33,882,720,http://aslbricks.org/New/ASL-Videos/home.mp4,home_0001_aslbrick_69366.mp4,ok
+2,68514,lillybauer,115,0,train,25,1,59,278,11,914,720,https://www.youtube.com/watch?v=h5auyidvtSc,home_0002_lillybauer_68514.mp4,skipped_no_ytdlp
+3,70085,northtexas,121,0,train,25,7998,8099,120,21,475,480,https://www.youtube.com/watch?v=jDCw7stJaM4,home_0003_northtexas_70085.mp4,skipped_no_ytdlp
+4,27772,aslu,5,0,train,25,1,-1,353,29,949,720,https://www.youtube.com/watch?v=n0Xb58PVX_A,home_0004_aslu_27772.mp4,skipped_no_ytdlp
+5,27773,aslu,5,0,val,25,1,-1,166,6,491,360,https://www.youtube.com/watch?v=WSHD1XX7kWk,home_0005_aslu_27773.mp4,skipped_no_ytdlp
+6,27774,aslpro,16,0,train,25,1,-1,24,8,226,240,http://www.aslpro.com/main/h/home.swf,home_0006_aslpro_27774.mp4,skipped_swf
+7,27765,elementalasl,19,0,val,25,1,-1,81,6,226,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/home.mov,home_0007_elementalasl_27765.mp4,ok
+8,67765,asllex,109,0,train,25,1,-1,99,12,366,360,https://youtu.be/kI8My8vQVXM,home_0008_asllex_67765.mp4,skipped_no_ytdlp
+9,27775,aslsearch,41,0,train,25,1,-1,224,40,477,400,http://www.aslsearch.com/signs/videos/residence.mp4,home_0009_aslsearch_27775.mp4,ok
+10,27766,spreadthesign,0,0,train,25,1,-1,50,8,236,240,https://media.spreadthesign.com/video/mp4/13/58526.mp4,home_0010_spreadthesign_27766.mp4,ok
+11,27767,startasl,36,0,train,25,1,-1,221,14,524,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/home.mp4,home_0011_startasl_27767.mp4,ok
+12,27768,asldeafined,21,0,val,25,1,-1,80,12,525,480,https://media.asldeafined.com/vocabulary/1468581607.3342.mp4,home_0012_asldeafined_27768.mp4,ok
+13,27769,handspeak,20,0,train,25,1,-1,84,5,502,480,https://www.handspeak.com/word/h/home.mp4,home_0013_handspeak_27769.mp4,failed
+14,27770,signingsavvy,11,0,train,25,1,-1,73,17,222,192,https://www.signingsavvy.com/signs/mp4/7/7180.mp4,home_0014_signingsavvy_27770.mp4,ok
+15,27771,nabboud,65,0,train,25,1,-1,318,89,843,720,https://www.youtube.com/watch?v=mq0ygGcmFKY,home_0015_nabboud_27771.mp4,skipped_no_ytdlp

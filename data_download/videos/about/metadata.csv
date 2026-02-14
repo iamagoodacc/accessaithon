@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,00412,asl5200,9,0,val,25,184,240,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,about_0000_asl5200_00412.mp4,skipped_no_ytdlp
+2,00416,asldeafined,13,0,train,25,1,-1,124,30,517,480,https://media.asldeafined.com/vocabulary/1466167160.124.mp4,about_0002_asldeafined_00416.mp4,ok
+5,00419,handspeak,14,0,train,25,1,-1,78,0,536,480,https://www.handspeak.com/word/a/about.mp4,about_0005_handspeak_00419.mp4,failed
+7,00421,signingsavvy,11,0,val,25,1,-1,54,16,219,192,https://www.signingsavvy.com/signs/mp4/7/7231.mp4,about_0007_signingsavvy_00421.mp4,ok
+8,00422,aslu,5,0,train,25,1,-1,357,53,962,720,https://www.youtube.com/watch?v=h-PNeRGh7nI,about_0008_aslu_00422.mp4,skipped_no_ytdlp
+9,00423,aslu,5,0,train,25,1,-1,360,56,958,720,https://www.youtube.com/watch?v=pH4E8ruOcSY,about_0009_aslu_00423.mp4,skipped_no_ytdlp
+10,65002,aslsignbank,89,0,train,25,1,-1,202,39,506,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AB/ABOUT-2042.mp4,about_0010_aslsignbank_65002.mp4,failed
+11,65003,aslsignbank,89,0,train,25,1,-1,207,40,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AB/ABOUT-2043.mp4,about_0011_aslsignbank_65003.mp4,failed
+12,00414,spreadthesign,26,0,train,25,1,-1,64,27,241,240,https://media.spreadthesign.com/video/mp4/13/307716.mp4,about_0012_spreadthesign_00414.mp4,ok
+13,67339,asllex,109,0,test,25,1,-1,94,1,387,360,https://youtu.be/7_FVUzjWdTM,about_0013_asllex_67339.mp4,skipped_no_ytdlp
+14,67341,asllex,109,0,val,25,1,-1,78,0,404,360,https://youtu.be/Yhlt-P3GeBM,about_0014_asllex_67341.mp4,skipped_no_ytdlp
+15,00424,aslu,5,0,test,25,1,-1,291,31,976,720,https://www.youtube.com/watch?v=wFkG56b4nuw,about_0015_aslu_00424.mp4,skipped_no_ytdlp
+16,00425,aslpro,16,0,train,25,1,-1,12,16,211,240,http://www.aslpro.com/main/a/about.swf,about_0016_aslpro_00425.mp4,skipped_swf
+17,00426,aslsearch,12,0,train,25,1,-1,181,47,575,400,http://www.aslsearch.com/signs/videos/about.mp4,about_0017_aslsearch_00426.mp4,ok
+18,00415,signschool,27,0,train,25,1,-1,795,65,1771,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20About-Tfj63Ai9tfw.mp4,about_0018_signschool_00415.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05800,asl5200,9,0,train,25,1890,1932,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,behind_0000_asl5200_05800.mp4,skipped_no_ytdlp
+1,05805,handspeak,14,0,train,25,1,-1,1,0,268,240,https://www.handspeak.com/word/b/behind-delay.mp4,behind_0001_handspeak_05805.mp4,failed
+2,05806,handspeak,14,0,train,25,1,-1,18,0,519,480,https://www.handspeak.com/word/b/behind.mp4,behind_0002_handspeak_05806.mp4,failed
+4,05808,signingsavvy,11,0,val,25,1,-1,55,17,211,192,https://www.signingsavvy.com/signs/mp4/8/8585.mp4,behind_0004_signingsavvy_05808.mp4,ok
+5,05809,aslu,5,0,train,25,1,-1,317,53,929,720,https://www.youtube.com/watch?v=l2fU_9FofrE,behind_0005_aslu_05809.mp4,skipped_no_ytdlp
+6,05810,aslu,5,0,train,25,1,-1,408,44,956,720,https://www.youtube.com/watch?v=r4ENXb64bwY,behind_0006_aslu_05810.mp4,skipped_no_ytdlp
+9,65169,aslsignbank,88,0,train,25,1,-1,180,1,480,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEHIND-38.mp4,behind_0009_aslsignbank_65169.mp4,failed
+10,05803,signschool,3,0,train,25,1,-1,389,0,1372,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Behind-UEemVJCWpq0.mp4,behind_0010_signschool_05803.mp4,ok
+11,67404,asllex,109,0,train,25,1,-1,102,3,384,360,https://youtu.be/Qw59mUm6ioU,behind_0011_asllex_67404.mp4,skipped_no_ytdlp
+12,05813,aslu,5,0,test,25,1,-1,150,12,493,360,https://www.youtube.com/watch?v=v13foapJy8M,behind_0012_aslu_05813.mp4,skipped_no_ytdlp
+13,05814,aslu,5,0,val,25,1,-1,292,47,937,720,https://www.youtube.com/watch?v=v13foapJy8M,behind_0013_aslu_05814.mp4,skipped_no_ytdlp
+14,05815,aslpro,16,0,test,25,1,-1,9,20,214,240,http://www.aslpro.com/main/b/behind.swf,behind_0014_aslpro_05815.mp4,skipped_swf
+15,05816,aslsearch,12,0,train,25,1,-1,149,53,516,400,http://www.aslsearch.com/signs/videos/behind3.mp4,behind_0015_aslsearch_05816.mp4,ok
+17,05804,asldeafined,13,0,train,25,1,-1,103,24,524,480,https://media.asldeafined.com/vocabulary/1466681482.5953.mp4,behind_0017_asldeafined_05804.mp4,ok

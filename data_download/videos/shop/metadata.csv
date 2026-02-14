@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66468,aslsignbank,103,0,train,25,1,-1,147,30,527,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SH/SHOP_2-1039.mp4,shop_0000_aslsignbank_66468.mp4,failed
+1,68508,lillybauer,115,1,train,25,1,98,117,10,563,360,https://www.youtube.com/watch?v=GVGPyPQ886A,shop_0001_lillybauer_68508.mp4,skipped_no_ytdlp
+2,68600,lillybauer,113,0,test,25,1,105,197,22,1080,720,https://www.youtube.com/watch?v=JjR_8IzvtiA,shop_0002_lillybauer_68600.mp4,skipped_no_ytdlp
+3,68151,valencia-asl,109,1,train,25,1,-1,103,0,1167,720,https://www.youtube.com/watch?v=T7aaVukx06U,shop_0003_valencia-asl_68151.mp4,skipped_no_ytdlp
+5,51185,aslsearch,12,1,train,25,1,-1,209,61,565,400,http://www.aslsearch.com/signs/videos/shop.mp4,shop_0005_aslsearch_51185.mp4,ok
+6,51177,asldeafined,13,1,train,25,1,-1,92,0,533,480,https://media.asldeafined.com/vocabulary/1468766273.8526.mp4,shop_0006_asldeafined_51177.mp4,ok
+7,67190,asllex,109,1,val,25,1,-1,81,23,395,360,https://youtu.be/YIqsGH_Cupc,shop_0007_asllex_67190.mp4,skipped_no_ytdlp
+8,67192,asllex,109,0,val,25,1,-1,58,17,416,360,https://youtu.be/Yp6frB0YVDo,shop_0008_asllex_67192.mp4,skipped_no_ytdlp
+9,51178,asldeafined,15,1,val,25,1,-1,139,18,561,480,https://media.asldeafined.com/vocabulary/1522678509.3333.mp4,shop_0009_asldeafined_51178.mp4,ok
+10,51179,handspeak,14,0,train,25,1,-1,86,0,566,480,https://www.handspeak.com/word/s/shop.mp4,shop_0010_handspeak_51179.mp4,failed
+11,51180,signingsavvy,11,1,train,25,1,-1,55,11,214,192,https://www.signingsavvy.com/signs/mp4/14/14628.mp4,shop_0011_signingsavvy_51180.mp4,ok
+12,51181,signingsavvy,11,1,test,25,1,-1,39,14,223,192,https://www.signingsavvy.com/signs/mp4/6/6703.mp4,shop_0012_signingsavvy_51181.mp4,ok
+13,51182,nabboud,62,1,train,25,1,-1,398,79,918,720,https://www.youtube.com/watch?v=zGC3WSRmr_8,shop_0013_nabboud_51182.mp4,skipped_no_ytdlp
+14,51183,aslpro,87,0,train,25,1,-1,17,17,241,240,http://www.aslpro.com/main/s/shop.swf,shop_0014_aslpro_51183.mp4,skipped_swf

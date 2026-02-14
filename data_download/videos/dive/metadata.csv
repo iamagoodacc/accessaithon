@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16889,asl5200,9,0,val,25,3533,3589,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dive_0000_asl5200_16889.mp4,skipped_no_ytdlp
+1,16896,handspeak,20,0,test,25,1,-1,22,12,640,480,https://www.handspeak.com/word/d/dive.mp4,dive_0001_handspeak_16896.mp4,failed
+2,16897,signingsavvy,11,0,train,25,1,-1,84,13,214,192,https://www.signingsavvy.com/signs/mp4/14/14506.mp4,dive_0002_signingsavvy_16897.mp4,ok
+3,16898,aslpro,30,1,train,25,1,-1,0,14,240,240,http://www.aslpro.com/main/d/dive.swf,dive_0003_aslpro_16898.mp4,skipped_swf
+4,65495,aslsignbank,95,0,train,25,1,-1,131,3,518,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DI/DIVE-2743.mp4,dive_0004_aslsignbank_65495.mp4,failed
+5,67576,asllex,109,0,train,25,1,-1,87,16,387,360,https://youtu.be/EAh4a3urnnc,dive_0005_asllex_67576.mp4,skipped_no_ytdlp
+6,16899,aslsearch,12,1,test,25,1,-1,198,63,562,400,http://www.aslsearch.com/signs/videos/dive.mp4,dive_0006_aslsearch_16899.mp4,ok
+7,16890,spreadthesign,2,0,val,25,1,-1,65,36,229,240,https://media.spreadthesign.com/video/mp4/13/93949.mp4,dive_0007_spreadthesign_16890.mp4,ok
+8,16891,signschool,45,1,val,25,1,-1,517,121,1552,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dive%202-9FoEUKCydlc.mp4,dive_0008_signschool_16891.mp4,ok
+9,16892,signschool,45,0,train,25,1,-1,522,148,1744,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dive%203-6S9GpH11uqk.mp4,dive_0009_signschool_16892.mp4,ok
+10,16893,signschool,45,1,train,25,1,-1,533,0,1804,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dive-kq5nxPOwkF4.mp4,dive_0010_signschool_16893.mp4,ok
+11,16894,signschool,31,0,train,25,1,-1,537,78,1566,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dive-mw-2iRCBPFQ.mp4,dive_0011_signschool_16894.mp4,ok
+12,16895,asldeafined,21,1,train,25,1,-1,72,5,573,480,https://media.asldeafined.com/vocabulary/1467771942.8053.mp4,dive_0012_asldeafined_16895.mp4,ok

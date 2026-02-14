@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27917,asl5200,9,0,train,25,2098,2154,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hope_0000_asl5200_27917.mp4,skipped_no_ytdlp
+1,27922,signschool,39,0,test,25,1,-1,763,146,1568,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Expect-oMpdybUn-9Y.mp4,hope_0001_signschool_27922.mp4,ok
+2,27923,signschool,39,1,train,25,1,-1,668,148,1587,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hope%202-W-ZNwgTlrGo.mp4,hope_0002_signschool_27923.mp4,ok
+4,27925,signschool,39,1,train,25,1,-1,689,147,1575,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hope-ja2Crl0Zpyo.mp4,hope_0004_signschool_27925.mp4,ok
+5,27926,asldeafined,21,1,train,25,1,-1,46,11,590,480,https://media.asldeafined.com/vocabulary/1468581776.8100.mp4,hope_0005_asldeafined_27926.mp4,ok
+6,27927,handspeak,20,1,val,25,1,-1,79,14,561,477,https://www.handspeak.com/word/h/hope.mp4,hope_0006_handspeak_27927.mp4,failed
+8,27929,signingsavvy,10,1,train,25,1,-1,69,7,198,192,https://www.signingsavvy.com/signs/mp4/22/22197.mp4,hope_0008_signingsavvy_27929.mp4,ok
+9,65905,aslsignbank,96,1,val,25,1,-1,169,31,532,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/HO/HOPE-1760.mp4,hope_0009_aslsignbank_65905.mp4,failed
+10,27920,spreadthesign,2,1,train,25,1,-1,55,31,251,240,https://media.spreadthesign.com/video/mp4/13/91439.mp4,hope_0010_spreadthesign_27920.mp4,ok
+11,67769,asllex,109,1,train,25,1,-1,77,19,407,360,https://youtu.be/7tuVYLmh-Dg,hope_0011_asllex_67769.mp4,skipped_no_ytdlp
+13,27931,aslu,5,0,val,25,1,-1,236,17,1115,720,https://www.youtube.com/watch?v=aOyZk0caisk,hope_0013_aslu_27931.mp4,skipped_no_ytdlp
+14,27932,aslu,5,0,train,25,1,-1,236,17,1115,720,https://www.youtube.com/watch?v=aOyZk0caisk,hope_0014_aslu_27932.mp4,skipped_no_ytdlp
+15,27933,aslpro,25,1,test,25,1,-1,2,9,255,240,http://www.aslpro.com/main/h/hope.swf,hope_0015_aslpro_27933.mp4,skipped_swf
+16,27934,aslsearch,12,0,train,25,1,-1,165,48,573,400,http://www.aslsearch.com/signs/videos/hope.mp4,hope_0016_aslsearch_27934.mp4,ok
+17,27921,signschool,6,1,train,25,1,-1,541,50,1533,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Expectation%2C%20Hope-PoYF8CCs1Cg.mp4,hope_0017_signschool_27921.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,15363,signschool,39,0,train,25,1,-1,560,107,1573,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Delicious%202-EGPbter02aU.mp4,delicious_0001_signschool_15363.mp4,ok
+2,15364,signschool,39,0,train,25,1,-1,693,122,1620,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Delicious%203-rfAdArfzx2Q.mp4,delicious_0002_signschool_15364.mp4,ok
+3,15365,signschool,39,0,train,25,1,-1,673,118,1564,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Delicious-z4EGd4Y2TOs.mp4,delicious_0003_signschool_15365.mp4,ok
+4,15366,signschool,60,0,val,25,1,-1,357,19,808,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20really%20delicious-_HJPMED-hHE.mp4,delicious_0004_signschool_15366.mp4,ok
+6,15368,handspeak,14,0,train,25,1,-1,108,0,534,478,https://www.handspeak.com/word/d/delicious.mp4,delicious_0006_handspeak_15368.mp4,failed
+7,15369,signingsavvy,10,0,train,25,1,-1,69,23,202,192,https://www.signingsavvy.com/signs/mp4/22/22563.mp4,delicious_0007_signingsavvy_15369.mp4,ok
+8,65457,aslsignbank,90,0,train,25,1,-1,175,16,482,369,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DELICIOUS-105.mp4,delicious_0008_aslsignbank_65457.mp4,failed
+9,67559,asllex,109,0,train,25,1,-1,107,11,372,360,https://youtu.be/qam8P_wUuhg,delicious_0009_asllex_67559.mp4,skipped_no_ytdlp
+10,15370,signingsavvy,10,0,train,25,1,-1,49,22,211,192,https://www.signingsavvy.com/signs/mp4/22/22564.mp4,delicious_0010_signingsavvy_15370.mp4,ok
+12,15372,aslu,5,0,test,25,1,-1,352,63,924,720,https://www.youtube.com/watch?v=jHACe_ba-tc,delicious_0012_aslu_15372.mp4,skipped_no_ytdlp
+13,15373,aslpro,16,0,val,25,1,-1,21,21,205,240,http://www.aslpro.com/main/d/delicious.swf,delicious_0013_aslpro_15373.mp4,skipped_swf
+14,15374,aslsearch,12,0,test,25,1,-1,191,64,533,400,http://www.aslsearch.com/signs/videos/delicious.mp4,delicious_0014_aslsearch_15374.mp4,ok
+15,15361,spreadthesign,2,0,train,25,1,-1,86,36,233,240,https://media.spreadthesign.com/video/mp4/13/93286.mp4,delicious_0015_spreadthesign_15361.mp4,ok
+16,15362,startasl,38,0,train,25,1,-1,428,56,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/delicious.mp4,delicious_0016_startasl_15362.mp4,ok

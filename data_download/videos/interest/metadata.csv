@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65950,aslsignbank,96,0,val,25,1,-1,201,27,516,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INTEREST-1725.mp4,interest_0000_aslsignbank_65950.mp4,failed
+1,30153,spreadthesign,8,0,test,25,1,-1,61,0,242,240,https://media.spreadthesign.com/video/mp4/13/457884.mp4,interest_0001_spreadthesign_30153.mp4,ok
+2,30154,spreadthesign,37,0,train,25,1,-1,66,0,242,240,https://media.spreadthesign.com/video/mp4/13/457885.mp4,interest_0002_spreadthesign_30154.mp4,ok
+3,30155,startasl,38,1,test,25,1,-1,422,60,801,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/interest.mp4,interest_0003_startasl_30155.mp4,ok
+4,30156,asldeafined,21,1,val,25,1,-1,102,12,540,480,https://media.asldeafined.com/vocabulary/1468667579.3674.mp4,interest_0004_asldeafined_30156.mp4,ok
+6,30158,handspeak,20,1,train,25,1,-1,107,0,605,480,https://www.handspeak.com/word/i/interest-pay.mp4,interest_0006_handspeak_30158.mp4,failed
+8,30160,signingsavvy,11,0,train,25,1,-1,71,12,218,192,https://www.signingsavvy.com/signs/mp4/6/6396.mp4,interest_0008_signingsavvy_30160.mp4,ok
+10,30152,elementalasl,19,1,train,25,1,-1,96,10,254,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/interest_-_money.mov,interest_0010_elementalasl_30152.mp4,ok
+11,67794,asllex,109,0,train,25,1,-1,85,9,408,360,https://youtu.be/tacRhsELGVA,interest_0011_asllex_67794.mp4,skipped_no_ytdlp
+12,30162,signingsavvy,11,1,train,25,1,-1,69,11,208,192,https://www.signingsavvy.com/signs/mp4/9/9969.mp4,interest_0012_signingsavvy_30162.mp4,ok
+13,30163,aslu,5,1,train,25,1,-1,97,7,418,360,https://www.youtube.com/watch?v=0GMCqBh8TiU,interest_0013_aslu_30163.mp4,skipped_no_ytdlp
+14,30164,aslu,5,0,val,25,1,-1,147,10,493,360,https://www.youtube.com/watch?v=AmQT3MjOtU0,interest_0014_aslu_30164.mp4,skipped_no_ytdlp
+15,30165,aslpro,30,0,train,25,1,-1,2,12,234,240,http://www.aslpro.com/main/i/interest.swf,interest_0015_aslpro_30165.mp4,skipped_swf
+16,30166,aslsearch,41,0,train,25,1,-1,253,48,501,400,http://www.aslsearch.com/signs/videos/interest2.mp4,interest_0016_aslsearch_30166.mp4,ok
+18,30168,aslsearch,41,1,train,25,1,-1,252,46,503,400,http://www.aslsearch.com/signs/videos/interest.mp4,interest_0018_aslsearch_30168.mp4,ok

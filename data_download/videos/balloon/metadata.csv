@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04866,asl5200,9,0,val,25,634,686,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,balloon_0000_asl5200_04866.mp4,skipped_no_ytdlp
+1,04873,signingsavvy,11,0,train,25,1,-1,66,12,226,192,https://www.signingsavvy.com/signs/mp4/7/7189.mp4,balloon_0001_signingsavvy_04873.mp4,ok
+2,04874,aslpro,49,0,train,25,1,-1,15,6,231,240,http://www.aslpro.com/main/b/balloon.swf,balloon_0002_aslpro_04874.mp4,skipped_swf
+3,04875,aslsearch,41,0,train,25,1,-1,138,40,560,400,http://www.aslsearch.com/signs/videos/balloon.mp4,balloon_0003_aslsearch_04875.mp4,ok
+4,65132,aslsignbank,89,0,train,25,1,-1,191,41,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALLOON-2087.mp4,balloon_0004_aslsignbank_65132.mp4,failed
+5,65133,aslsignbank,89,0,train,25,1,-1,189,41,487,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALLOON-2088.mp4,balloon_0005_aslsignbank_65133.mp4,failed
+6,67386,asllex,109,0,train,25,1,-1,95,0,435,360,https://youtu.be/0j6f9C6hvSU,balloon_0006_asllex_67386.mp4,skipped_no_ytdlp
+7,04867,spreadthesign,2,0,train,25,1,-1,25,9,282,240,https://media.spreadthesign.com/video/mp4/13/123217.mp4,balloon_0007_spreadthesign_04867.mp4,ok
+8,04868,signschool,4,0,train,25,1,-1,608,48,1730,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Balloon%202-pwZGdgrbI90.mp4,balloon_0008_signschool_04868.mp4,ok
+9,04869,signschool,4,0,test,25,1,-1,695,51,1715,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Balloon-Unhi156uf3o.mp4,balloon_0009_signschool_04869.mp4,ok
+10,04870,asldeafined,13,0,train,25,1,-1,61,22,597,480,https://media.asldeafined.com/vocabulary/1466648685.4078.mp4,balloon_0010_asldeafined_04870.mp4,ok
+11,04871,handspeak,14,0,test,25,1,-1,91,0,538,480,https://www.handspeak.com/word/b/balloon.mp4,balloon_0011_handspeak_04871.mp4,failed
+12,04872,signingsavvy,11,0,val,25,1,-1,88,16,216,192,https://www.signingsavvy.com/signs/mp4/7/7188.mp4,balloon_0012_signingsavvy_04872.mp4,ok

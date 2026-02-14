@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62267,asl5200,9,0,val,25,347,413,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,war_0000_asl5200_62267.mp4,skipped_no_ytdlp
+1,62278,handspeak,20,0,train,25,1,-1,90,0,580,480,https://www.handspeak.com/word/w/war.mp4,war_0001_handspeak_62278.mp4,failed
+2,62279,signingsavvy,10,0,train,25,1,-1,62,17,232,192,https://www.signingsavvy.com/signs/mp4/23/23933.mp4,war_0002_signingsavvy_62279.mp4,ok
+3,62280,aslu,5,0,val,25,1,-1,307,38,1171,720,https://www.youtube.com/watch?v=7ZtVGhboh1I,war_0003_aslu_62280.mp4,skipped_no_ytdlp
+4,62281,aslu,5,0,train,25,1,-1,88,13,1094,720,https://www.youtube.com/watch?v=FEwcGT6M5zs,war_0004_aslu_62281.mp4,skipped_no_ytdlp
+5,62282,aslu,5,0,train,25,1,-1,230,46,1070,720,https://www.youtube.com/watch?v=Ngj5Q3wsGmw,war_0005_aslu_62282.mp4,skipped_no_ytdlp
+6,66746,aslsignbank,93,0,train,25,1,-1,152,30,555,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WA/WAR-831.mp4,war_0006_aslsignbank_66746.mp4,failed
+7,62273,elementalasl,19,0,train,25,1,-1,58,10,241,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/civil_war.mov,war_0007_elementalasl_62273.mp4,ok
+8,67039,asllex,109,0,train,25,1,-1,98,12,397,360,https://youtu.be/1orso0-X5bU,war_0008_asllex_67039.mp4,skipped_no_ytdlp
+9,62283,aslpro,24,0,test,25,1,-1,0,18,252,240,http://www.aslpro.com/main/w/war.swf,war_0009_aslpro_62283.mp4,skipped_swf
+10,62284,aslsearch,12,0,val,25,1,-1,174,64,580,400,http://www.aslsearch.com/signs/videos/combat.mp4,war_0010_aslsearch_62284.mp4,ok
+11,62274,spreadthesign,56,0,test,25,1,-1,34,0,293,240,https://media.spreadthesign.com/video/mp4/13/50937.mp4,war_0011_spreadthesign_62274.mp4,ok
+12,62275,startasl,38,0,train,25,1,-1,441,57,947,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/war.mp4,war_0012_startasl_62275.mp4,ok
+13,62276,asldeafined,13,0,train,25,1,-1,88,0,603,480,https://media.asldeafined.com/vocabulary/1468926962.8087.mp4,war_0013_asldeafined_62276.mp4,ok
+14,62277,handspeak,20,0,train,25,1,-1,98,0,602,480,https://www.handspeak.com/word/w/war2.mp4,war_0014_handspeak_62277.mp4,failed

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39582,asl5200,9,0,train,25,575,617,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,ok_0000_asl5200_39582.mp4,skipped_no_ytdlp
+1,39589,asldeafined,13,0,train,25,1,-1,135,0,520,479,https://media.asldeafined.com/vocabulary/1468721247.921.mp4,ok_0001_asldeafined_39589.mp4,ok
+2,68342,lillybauer,115,0,train,25,1,86,96,17,552,360,https://www.youtube.com/watch?v=AWDiP3EXydk,ok_0002_lillybauer_68342.mp4,skipped_no_ytdlp
+3,68118,valencia-asl,109,0,val,25,1,-1,301,26,988,720,https://www.youtube.com/watch?v=eXNd79kbUIg,ok_0003_valencia-asl_68118.mp4,skipped_no_ytdlp
+4,39594,aslu,5,0,train,25,1,-1,327,71,928,720,https://www.youtube.com/watch?v=qSIBZEk8FG0,ok_0004_aslu_39594.mp4,skipped_no_ytdlp
+5,39595,aslu,5,0,train,25,1,-1,289,54,949,720,https://www.youtube.com/watch?v=rGmYiZ6AzBI,ok_0005_aslu_39595.mp4,skipped_no_ytdlp
+6,39596,aslsearch,12,0,train,25,1,-1,202,58,551,400,http://www.aslsearch.com/signs/videos/ok.mp4,ok_0006_aslsearch_39596.mp4,ok
+7,39583,spreadthesign,56,0,train,25,1,-1,42,0,261,240,https://media.spreadthesign.com/video/mp4/13/49162.mp4,ok_0007_spreadthesign_39583.mp4,ok
+8,39590,handspeak,14,0,train,25,1,-1,90,0,558,480,https://www.handspeak.com/word/o/ok.mp4,ok_0008_handspeak_39590.mp4,failed
+9,39584,startasl,38,0,test,25,1,-1,420,53,807,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/ok3.mp4,ok_0009_startasl_39584.mp4,ok
+11,39585,signschool,3,0,val,25,1,-1,813,39,1660,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20OK-Qb4Pt5lG6ho.mp4,ok_0011_signschool_39585.mp4,ok
+12,39592,signingsavvy,11,0,test,25,1,-1,84,17,213,192,https://www.signingsavvy.com/signs/mp4/9/9249.mp4,ok_0012_signingsavvy_39592.mp4,ok
+13,39586,signschool,3,0,train,25,1,-1,813,39,1660,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20OK-Qb4Pt5lG6ho.mp4,ok_0013_signschool_39586.mp4,ok
+14,39593,aslu,5,0,train,25,1,-1,76,8,494,360,https://www.youtube.com/watch?v=iVb3HLz3Ab8,ok_0014_aslu_39593.mp4,skipped_no_ytdlp

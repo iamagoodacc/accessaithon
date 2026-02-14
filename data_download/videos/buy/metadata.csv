@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08478,asl5200,9,0,test,25,5392,5428,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,buy_0000_asl5200_08478.mp4,skipped_no_ytdlp
+1,69255,aslbrick,115,0,test,25,1,-1,512,62,1374,1080,http://aslbricks.org/New/ASL-Videos/buy.mp4,buy_0001_aslbrick_69255.mp4,ok
+2,68566,lillybauer,115,0,train,25,1,62,333,21,930,720,https://www.youtube.com/watch?v=irVfUAKKYpg,buy_0002_lillybauer_68566.mp4,skipped_no_ytdlp
+3,08488,signingsavvy,11,0,train,25,1,-1,68,14,215,192,https://www.signingsavvy.com/signs/mp4/6/6442.mp4,buy_0003_signingsavvy_08488.mp4,ok
+4,08489,aslu,5,0,train,25,1,-1,355,42,974,720,https://www.youtube.com/watch?v=wEPDfmy2M8w,buy_0004_aslu_08489.mp4,skipped_no_ytdlp
+5,08490,aslu,5,0,val,25,1,-1,92,12,426,360,https://www.youtube.com/watch?v=-XubDLk1b10,buy_0005_aslu_08490.mp4,skipped_no_ytdlp
+6,08491,aslpro,16,0,train,25,1,-1,13,22,213,240,http://www.aslpro.com/main/b/buy.swf,buy_0006_aslpro_08491.mp4,skipped_swf
+7,65282,aslsignbank,93,0,val,25,1,-1,178,40,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BU/BUY-424.mp4,buy_0007_aslsignbank_65282.mp4,failed
+8,08482,spreadthesign,26,0,train,25,1,-1,55,0,265,240,https://media.spreadthesign.com/video/mp4/13/125647.mp4,buy_0008_spreadthesign_08482.mp4,ok
+9,67453,asllex,109,0,train,25,1,-1,82,19,378,360,https://youtu.be/-dvQ-z8mVlM,buy_0009_asllex_67453.mp4,skipped_no_ytdlp
+10,08492,aslsearch,41,0,train,25,1,-1,231,40,486,400,http://www.aslsearch.com/signs/videos/buy.mp4,buy_0010_aslsearch_08492.mp4,ok
+11,08483,startasl,36,0,train,25,1,-1,210,16,527,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/buy.mp4,buy_0011_startasl_08483.mp4,ok
+12,08484,signschool,32,0,val,25,1,-1,720,71,1645,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Buy%202-8DpqiNo5tl4.mp4,buy_0012_signschool_08484.mp4,ok
+13,08485,signschool,31,0,train,25,1,-1,441,65,911,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Buy.mp4,buy_0013_signschool_08485.mp4,ok
+14,08486,asldeafined,59,0,train,25,1,-1,74,28,524,480,https://media.asldeafined.com/vocabulary/1466725657.9852.mp4,buy_0014_asldeafined_08486.mp4,ok
+15,08487,handspeak,14,0,train,25,1,-1,67,12,254,240,https://www.handspeak.com/word/b/buy.mp4,buy_0015_handspeak_08487.mp4,failed

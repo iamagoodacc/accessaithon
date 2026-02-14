@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11552,asl5200,9,0,test,25,4194,4250,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,coffee_0000_asl5200_11552.mp4,skipped_no_ytdlp
+1,70298,northtexas,121,0,test,25,4817,4919,154,38,395,360,https://www.youtube.com/watch?v=CSj7IScvZnE,coffee_0001_northtexas_70298.mp4,skipped_no_ytdlp
+2,70033,northtexas,121,0,train,25,3949,4075,167,26,486,480,https://www.youtube.com/watch?v=sErq0TJMKEo,coffee_0002_northtexas_70033.mp4,skipped_no_ytdlp
+3,68025,valencia-asl,109,0,train,25,1,-1,107,0,1171,720,https://www.youtube.com/watch?v=vcB472PRkJM,coffee_0003_valencia-asl_68025.mp4,skipped_no_ytdlp
+4,69024,lillybauer,113,0,train,25,1,106,114,20,523,356,https://www.youtube.com/watch?v=xFRvV_RkEQI,coffee_0004_lillybauer_69024.mp4,skipped_no_ytdlp
+5,11565,aslpro,25,0,val,25,1,-1,0,7,242,240,http://www.aslpro.com/main/c/coffee.swf,coffee_0005_aslpro_11565.mp4,skipped_swf
+6,11566,aslsearch,12,0,train,25,1,-1,191,55,560,400,http://www.aslsearch.com/signs/videos/coffee.mp4,coffee_0006_aslsearch_11566.mp4,ok
+7,65375,aslsignbank,92,0,val,25,1,-1,193,34,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COFFEE-2035.mp4,coffee_0007_aslsignbank_65375.mp4,failed
+8,11558,spreadthesign,0,0,train,25,1,-1,48,10,252,240,https://media.spreadthesign.com/video/mp4/13/74941.mp4,coffee_0008_spreadthesign_11558.mp4,ok
+9,67510,asllex,109,0,train,25,1,-1,135,20,376,360,https://youtu.be/dBm92x_A4M4,coffee_0009_asllex_67510.mp4,skipped_no_ytdlp
+10,11559,startasl,38,0,train,25,1,-1,421,59,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/coffee.mp4,coffee_0010_startasl_11559.mp4,ok
+11,11560,signschool,70,0,train,25,1,-1,380,12,734,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20coffee-zjqRswd2CkM.mp4,coffee_0011_signschool_11560.mp4,ok
+12,11561,asldeafined,59,0,val,25,1,-1,128,22,520,480,https://media.asldeafined.com/vocabulary/1466899664.8061.mp4,coffee_0012_asldeafined_11561.mp4,ok
+13,11562,handspeak,20,0,train,25,1,-1,112,0,563,480,https://www.handspeak.com/word/c/coffee.mp4,coffee_0013_handspeak_11562.mp4,failed
+14,11563,signingsavvy,11,0,train,25,1,-1,89,14,228,192,https://www.signingsavvy.com/signs/mp4/7/7924.mp4,coffee_0014_signingsavvy_11563.mp4,ok
+15,11564,aslu,5,0,train,25,1,-1,364,38,973,720,https://www.youtube.com/watch?v=1wk1W5GuGiI,coffee_0015_aslu_11564.mp4,skipped_no_ytdlp

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18301,asl5200,9,0,train,25,619,671,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,easy_0000_asl5200_18301.mp4,skipped_no_ytdlp
+1,70079,northtexas,121,0,train,25,5665,5741,103,20,484,480,https://www.youtube.com/watch?v=jDCw7stJaM4,easy_0001_northtexas_70079.mp4,skipped_no_ytdlp
+2,68043,valencia-asl,109,0,train,25,1,-1,241,4,1085,720,https://www.youtube.com/watch?v=MAujGjrbw1A,easy_0002_valencia-asl_68043.mp4,skipped_no_ytdlp
+3,68966,lillybauer,113,0,val,25,1,97,108,12,526,357,https://www.youtube.com/watch?v=vlyJPZMDZUw,easy_0003_lillybauer_68966.mp4,skipped_no_ytdlp
+4,18313,aslpro,16,0,train,25,1,-1,10,20,214,240,http://www.aslpro.com/main/e/easy.swf,easy_0004_aslpro_18313.mp4,skipped_swf
+6,18315,aslsearch,12,0,train,25,1,-1,187,55,560,400,http://www.aslsearch.com/signs/videos/easy.mp4,easy_0006_aslsearch_18315.mp4,ok
+7,65600,aslsignbank,90,0,train,25,1,-1,177,12,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EASY-684.mp4,easy_0007_aslsignbank_65600.mp4,failed
+8,18306,spreadthesign,35,0,train,25,1,-1,59,0,273,240,https://media.spreadthesign.com/video/mp4/13/399489.mp4,easy_0008_spreadthesign_18306.mp4,ok
+9,67609,asllex,109,0,train,25,1,-1,83,19,384,360,https://youtu.be/uhlOam0rw90,easy_0009_asllex_67609.mp4,skipped_no_ytdlp
+10,18307,signschool,6,0,test,25,1,-1,703,64,1576,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Easy-ibHrnI23lTc.mp4,easy_0010_signschool_18307.mp4,ok
+11,18308,asldeafined,21,0,val,25,1,-1,90,4,558,480,https://media.asldeafined.com/vocabulary/1468347802.2280.mp4,easy_0011_asldeafined_18308.mp4,ok
+12,18309,handspeak,20,0,test,25,1,-1,87,0,588,480,https://www.handspeak.com/word/e/easy.mp4,easy_0012_handspeak_18309.mp4,failed
+14,18311,signingsavvy,11,0,train,25,1,-1,87,16,230,192,https://www.signingsavvy.com/signs/mp4/8/8403.mp4,easy_0014_signingsavvy_18311.mp4,ok
+15,18312,aslu,5,0,train,25,1,-1,269,30,991,720,https://www.youtube.com/watch?v=k5RKXRKYCrM,easy_0015_aslu_18312.mp4,skipped_no_ytdlp

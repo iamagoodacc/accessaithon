@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39402,asl5200,9,0,train,25,391,427,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,off_0000_asl5200_39402.mp4,skipped_no_ytdlp
+1,69418,aslbrick,118,0,train,25,1,-1,235,36,891,720,http://aslbricks.org/New/ASL-Videos/off.mp4,off_0001_aslbrick_69418.mp4,ok
+2,39449,aslu,5,0,train,25,1,-1,167,14,490,360,https://www.youtube.com/watch?v=7UUglgkkcV8,off_0002_aslu_39449.mp4,skipped_no_ytdlp
+3,39450,aslu,5,1,train,25,1,-1,160,15,499,360,https://www.youtube.com/watch?v=vl1LG51Wd1c,off_0003_aslu_39450.mp4,skipped_no_ytdlp
+4,39451,aslpro,87,1,test,25,1,-1,0,11,235,240,http://www.aslpro.com/main/o/off.swf,off_0004_aslpro_39451.mp4,skipped_swf
+5,39442,spreadthesign,0,0,train,25,1,-1,51,11,238,240,https://media.spreadthesign.com/video/mp4/13/63624.mp4,off_0005_spreadthesign_39442.mp4,ok
+6,39452,aslsearch,12,1,val,25,1,-1,194,55,558,400,http://www.aslsearch.com/signs/videos/off2.mp4,off_0006_aslsearch_39452.mp4,ok
+7,39453,aslsearch,12,0,val,25,1,-1,183,56,561,400,http://www.aslsearch.com/signs/videos/off.mp4,off_0007_aslsearch_39453.mp4,ok
+8,39443,startasl,36,1,train,25,1,-1,177,17,537,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/off.mp4,off_0008_startasl_39443.mp4,ok
+9,39444,asldeafined,13,0,val,25,1,-1,90,0,501,480,https://media.asldeafined.com/vocabulary/1468721061.9926.mp4,off_0009_asldeafined_39444.mp4,ok
+10,39445,handspeak,14,0,train,25,1,-1,45,0,576,480,https://www.handspeak.com/word/o/off-fs.mp4,off_0010_handspeak_39445.mp4,failed
+11,39446,handspeak,14,1,train,25,1,-1,18,0,547,480,https://www.handspeak.com/word/o/off.mp4,off_0011_handspeak_39446.mp4,failed
+12,39447,signingsavvy,11,0,test,25,1,-1,80,9,219,192,https://www.signingsavvy.com/signs/mp4/14/14404.mp4,off_0012_signingsavvy_39447.mp4,ok
+13,39448,aslu,5,0,train,25,1,-1,354,49,959,720,https://www.youtube.com/watch?v=0NT8n6PZ4pI,off_0013_aslu_39448.mp4,skipped_no_ytdlp

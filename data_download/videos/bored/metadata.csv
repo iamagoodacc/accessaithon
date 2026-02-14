@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65229,aslsignbank,89,0,val,25,1,-1,190,3,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BORED-2124.mp4,bored_0000_aslsignbank_65229.mp4,failed
+1,07196,signingsavvy,10,0,train,25,1,-1,62,27,211,192,https://www.signingsavvy.com/signs/mp4/22/22923.mp4,bored_0001_signingsavvy_07196.mp4,ok
+2,07197,signingsavvy,10,0,train,25,1,-1,65,27,211,192,https://www.signingsavvy.com/signs/mp4/22/22924.mp4,bored_0002_signingsavvy_07197.mp4,ok
+3,07198,signingsavvy,11,0,train,25,1,-1,51,9,214,192,https://www.signingsavvy.com/signs/mp4/8/8726.mp4,bored_0003_signingsavvy_07198.mp4,ok
+4,07199,nabboud,69,0,train,25,1,-1,371,55,843,720,https://www.youtube.com/watch?v=csFsZla1UHo,bored_0004_nabboud_07199.mp4,skipped_no_ytdlp
+5,07200,aslu,5,0,train,25,1,-1,255,0,957,720,https://www.youtube.com/watch?v=QvyazQaCmtM,bored_0005_aslu_07200.mp4,skipped_no_ytdlp
+6,07191,signschool,6,0,train,25,1,-1,524,55,1467,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bored-VwmM3tpIf80.mp4,bored_0006_signschool_07191.mp4,ok
+7,67427,asllex,109,0,train,25,1,-1,106,9,373,360,https://youtu.be/m7HMAM7YYSM,bored_0007_asllex_67427.mp4,skipped_no_ytdlp
+8,07201,nabboud,69,0,train,25,1,-1,355,55,865,720,https://www.youtube.com/watch?v=SJEkJzHd8Pg,bored_0008_nabboud_07201.mp4,skipped_no_ytdlp
+9,07202,aslpro,25,0,test,25,1,-1,0,9,235,240,http://www.aslpro.com/main/b/bored.swf,bored_0009_aslpro_07202.mp4,skipped_swf
+10,07203,aslsearch,41,0,train,25,1,-1,215,38,469,400,http://www.aslsearch.com/signs/videos/bore.mp4,bored_0010_aslsearch_07203.mp4,ok
+11,07192,asldeafined,59,0,test,25,1,-1,68,19,505,480,https://media.asldeafined.com/vocabulary/1466684554.6883.mp4,bored_0011_asldeafined_07192.mp4,ok
+13,07194,handspeak,20,0,val,25,1,-1,38,3,490,480,https://www.handspeak.com/word/b/bored.mp4,bored_0013_handspeak_07194.mp4,failed

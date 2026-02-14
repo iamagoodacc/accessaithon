@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61031,asl5200,9,0,train,25,666,722,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,use_0000_asl5200_61031.mp4,skipped_no_ytdlp
+2,61060,handspeak,14,0,train,25,1,-1,104,0,515,480,https://www.handspeak.com/word/u/use.mp4,use_0002_handspeak_61060.mp4,failed
+3,61061,handspeak,14,0,train,25,1,-1,122,0,554,480,https://www.handspeak.com/word/u/use-to.mp4,use_0003_handspeak_61061.mp4,failed
+4,61062,signingsavvy,11,0,val,25,1,-1,67,18,205,192,https://www.signingsavvy.com/signs/mp4/9/9042.mp4,use_0004_signingsavvy_61062.mp4,ok
+5,61063,aslu,5,0,train,25,1,-1,290,42,898,720,https://www.youtube.com/watch?v=7-VZxQD8G7Q,use_0005_aslu_61063.mp4,skipped_no_ytdlp
+7,61065,aslu,5,0,train,25,1,-1,161,11,490,360,https://www.youtube.com/watch?v=fNF72XrF0ZY,use_0007_aslu_61065.mp4,skipped_no_ytdlp
+8,61056,spreadthesign,35,0,train,25,1,-1,40,0,286,240,https://media.spreadthesign.com/video/mp4/13/51159.mp4,use_0008_spreadthesign_61056.mp4,ok
+9,67022,asllex,109,0,train,25,1,-1,88,18,369,360,https://youtu.be/wT0iVtB_4NA,use_0009_asllex_67022.mp4,skipped_no_ytdlp
+10,61066,aslu,5,0,train,25,1,-1,277,0,946,720,https://www.youtube.com/watch?v=gvU21ZCewRk,use_0010_aslu_61066.mp4,skipped_no_ytdlp
+11,61067,aslu,5,0,test,25,1,-1,273,48,911,720,https://www.youtube.com/watch?v=tmstshzQJGk,use_0011_aslu_61067.mp4,skipped_no_ytdlp
+12,61068,aslu,5,0,val,25,1,-1,259,0,952,720,https://www.youtube.com/watch?v=yQScIrYGgaE,use_0012_aslu_61068.mp4,skipped_no_ytdlp
+14,61070,aslsearch,12,0,test,25,1,-1,190,55,540,400,http://www.aslsearch.com/signs/videos/use.mp4,use_0014_aslsearch_61070.mp4,ok
+15,61057,startasl,38,0,train,25,1,-1,456,62,833,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/use.mp4,use_0015_startasl_61057.mp4,ok
+16,61058,asldeafined,13,0,train,25,1,-1,145,0,555,480,https://media.asldeafined.com/vocabulary/1468925570.3817.mp4,use_0016_asldeafined_61058.mp4,ok

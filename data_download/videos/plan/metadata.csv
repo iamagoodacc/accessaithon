@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43037,asl5200,9,0,val,25,2787,2819,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,plan_0000_asl5200_43037.mp4,skipped_no_ytdlp
+1,70177,northtexas,121,0,train,25,6518,6641,66,22,616,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,plan_0001_northtexas_70177.mp4,skipped_no_ytdlp
+2,43062,signingsavvy,11,0,train,25,1,-1,48,9,225,192,https://www.signingsavvy.com/signs/mp4/14/14686.mp4,plan_0002_signingsavvy_43062.mp4,ok
+3,43063,aslu,5,0,val,25,1,-1,151,16,494,360,https://www.youtube.com/watch?v=pvDfBvY2-Sc,plan_0003_aslu_43063.mp4,skipped_no_ytdlp
+4,43064,aslu,5,0,train,25,1,-1,309,30,1090,720,https://www.youtube.com/watch?v=uOwG3ZEN-IE,plan_0004_aslu_43064.mp4,skipped_no_ytdlp
+5,43065,aslu,5,0,train,25,1,-1,331,22,1102,720,https://www.youtube.com/watch?v=yndCPGXCqwU,plan_0005_aslu_43065.mp4,skipped_no_ytdlp
+6,66298,aslsignbank,101,0,train,25,1,-1,115,7,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PL/PLAN-905.mp4,plan_0006_aslsignbank_66298.mp4,failed
+7,43056,spreadthesign,56,0,train,25,1,-1,38,0,288,240,https://media.spreadthesign.com/video/mp4/13/49197.mp4,plan_0007_spreadthesign_43056.mp4,ok
+8,43066,aslpro,24,0,train,25,1,-1,2,20,252,240,http://www.aslpro.com/main/p/plan.swf,plan_0008_aslpro_43066.mp4,skipped_swf
+9,43067,aslsearch,41,0,test,25,1,-1,184,33,542,400,http://www.aslsearch.com/signs/videos/arrange.mp4,plan_0009_aslsearch_43067.mp4,ok
+10,43057,signschool,4,0,val,25,1,-1,419,42,1661,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Plan-8OhwY0hO-_I.mp4,plan_0010_signschool_43057.mp4,ok
+11,43058,asldeafined,13,0,test,25,1,-1,126,0,615,480,https://media.asldeafined.com/vocabulary/1468726461.868.mp4,plan_0011_asldeafined_43058.mp4,ok
+12,43059,handspeak,14,0,train,25,1,-1,40,0,587,480,https://www.handspeak.com/word/p/plan2.mp4,plan_0012_handspeak_43059.mp4,failed
+13,43060,handspeak,14,0,train,25,1,-1,54,10,573,480,https://www.handspeak.com/word/p/plan.mp4,plan_0013_handspeak_43060.mp4,failed
+14,43061,signingsavvy,11,0,train,25,1,-1,55,10,231,192,https://www.signingsavvy.com/signs/mp4/14/14678.mp4,plan_0014_signingsavvy_43061.mp4,ok

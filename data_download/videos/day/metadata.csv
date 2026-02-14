@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14780,asl5200,9,0,val,25,384,443,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,day_0000_asl5200_14780.mp4,skipped_no_ytdlp
+1,69291,aslbrick,118,0,train,25,1,-1,245,32,945,720,http://aslbricks.org/New/ASL-Videos/day.mp4,day_0001_aslbrick_69291.mp4,ok
+2,14797,handspeak,14,0,train,25,1,-1,54,8,253,240,https://www.handspeak.com/word/d/day.mp4,day_0002_handspeak_14797.mp4,failed
+4,14799,signingsavvy,11,0,val,25,1,-1,78,13,216,192,https://www.signingsavvy.com/signs/mp4/7/7674.mp4,day_0004_signingsavvy_14799.mp4,ok
+5,14800,aslu,5,0,train,25,1,-1,332,32,1005,720,https://www.youtube.com/watch?v=6Ag2Q2J9DAU,day_0005_aslu_14800.mp4,skipped_no_ytdlp
+6,14801,aslpro,72,0,train,25,1,-1,58,0,283,240,http://www.aslpro.com/main/d/day_2.swf,day_0006_aslpro_14801.mp4,skipped_swf
+7,65444,aslsignbank,90,0,train,25,1,-1,162,14,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DA/DAY-102.mp4,day_0007_aslsignbank_65444.mp4,failed
+8,14792,spreadthesign,8,0,train,25,1,-1,51,0,261,240,https://media.spreadthesign.com/video/mp4/13/456643.mp4,day_0008_spreadthesign_14792.mp4,ok
+9,67553,asllex,109,0,train,25,1,-1,77,18,399,360,https://youtu.be/mcv4l7iIeaI,day_0009_asllex_67553.mp4,skipped_no_ytdlp
+10,14802,aslpro,16,0,test,25,1,-1,0,6,230,240,http://www.aslpro.com/main/d/day.swf,day_0010_aslpro_14802.mp4,skipped_swf
+11,14803,aslsearch,12,0,val,25,1,-1,173,62,534,400,http://www.aslsearch.com/signs/videos/day.mp4,day_0011_aslsearch_14803.mp4,ok
+12,14793,startasl,38,0,test,25,1,-1,332,52,842,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/day.mp4,day_0012_startasl_14793.mp4,ok
+13,14794,signschool,31,0,train,25,1,-1,607,61,1500,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Day-KOvfQg--Y9U.mp4,day_0013_signschool_14794.mp4,ok
+14,14795,signschool,46,0,train,25,1,-1,436,15,1317,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Day-mcGOqOlbRDg.mp4,day_0014_signschool_14795.mp4,ok
+15,14796,asldeafined,59,0,train,25,1,-1,103,19,546,480,https://media.asldeafined.com/vocabulary/1466906673.7670.mp4,day_0015_asldeafined_14796.mp4,ok

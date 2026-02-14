@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65290,aslsignbank,90,0,train,25,1,-1,169,13,457,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CALL-65.mp4,call_0000_aslsignbank_65290.mp4,failed
+4,08706,signingsavvy,11,1,test,25,1,-1,67,11,215,192,https://www.signingsavvy.com/signs/mp4/8/8872.mp4,call_0004_signingsavvy_08706.mp4,ok
+6,08707,signingsavvy,11,1,val,25,1,-1,51,14,208,192,https://www.signingsavvy.com/signs/mp4/9/9229.mp4,call_0006_signingsavvy_08707.mp4,ok
+11,65556,aslsignbank,104,0,train,25,1,-1,153,6,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/E(/E(call)-1909.mp4,call_0011_aslsignbank_65556.mp4,failed
+13,08713,aslsearch,12,0,train,25,1,-1,162,51,538,400,http://www.aslsearch.com/signs/videos/call.mp4,call_0013_aslsearch_08713.mp4,ok
+14,08689,signschool,4,1,train,25,1,-1,523,23,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Call%20copy-Y2Mgkkiy_xA.mp4,call_0014_signschool_08689.mp4,ok
+15,08690,signschool,31,0,train,25,1,-1,741,149,1483,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Call-ypM7UO3bocI.mp4,call_0015_signschool_08690.mp4,ok
+16,08691,asldeafined,59,1,train,25,1,-1,96,17,536,480,https://media.asldeafined.com/vocabulary/1466726118.1106.mp4,call_0016_asldeafined_08691.mp4,ok
+17,08692,asldeafined,17,1,train,25,1,-1,22,19,586,480,https://media.asldeafined.com/vocabulary/1471143923.4012.mp4,call_0017_asldeafined_08692.mp4,ok
+19,08694,asldeafined,15,0,val,25,1,-1,85,23,532,480,https://media.asldeafined.com/vocabulary/1527808150.9457.mp4,call_0019_asldeafined_08694.mp4,ok
+20,08695,handspeak,14,1,train,25,1,-1,5,1,279,240,https://www.handspeak.com/word/c/call-me-phone.mp4,call_0020_handspeak_08695.mp4,failed
+23,67460,asllex,109,0,val,25,1,-1,102,19,383,360,https://youtu.be/oroJy8hOvpc,call_0023_asllex_67460.mp4,skipped_no_ytdlp
+24,08697,handspeak,14,0,train,25,1,-1,23,5,294,240,https://www.handspeak.com/word/c/call-phone2.mp4,call_0024_handspeak_08697.mp4,failed
+25,08698,handspeak,20,1,train,25,1,-1,37,3,280,240,https://www.handspeak.com/word/c/call-phone.mp4,call_0025_handspeak_08698.mp4,failed
+28,08701,signingsavvy,11,0,test,25,1,-1,57,13,216,192,https://www.signingsavvy.com/signs/mp4/6/6738.mp4,call_0028_signingsavvy_08701.mp4,ok
+29,08702,signingsavvy,11,0,train,25,1,-1,75,14,229,192,https://www.signingsavvy.com/signs/mp4/6/6918.mp4,call_0029_signingsavvy_08702.mp4,ok

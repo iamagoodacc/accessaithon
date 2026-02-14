@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69380,aslbrick,115,0,train,25,1,-1,281,24,955,720,http://aslbricks.org/New/ASL-Videos/jump.mp4,jump_0000_aslbrick_69380.mp4,ok
+1,65983,aslsignbank,90,0,train,25,1,-1,167,16,480,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/JU/JUMP-159.mp4,jump_0001_aslsignbank_65983.mp4,failed
+2,68080,valencia-asl,110,0,train,25,1,-1,193,0,651,480,https://www.youtube.com/watch?v=60gzerYeUhA,jump_0002_valencia-asl_68080.mp4,skipped_no_ytdlp
+3,69000,lillybauer,115,0,val,25,1,55,311,0,901,720,https://www.youtube.com/watch?v=WLKcFS7LFYk,jump_0003_lillybauer_69000.mp4,skipped_no_ytdlp
+4,31323,aslpro,44,0,train,25,1,-1,0,4,201,240,http://www.aslpro.com//main/j/jump.swf,jump_0004_aslpro_31323.mp4,skipped_swf
+5,31324,aslsearch,12,0,train,25,1,-1,190,64,560,400,http://www.aslsearch.com/signs/videos/jump.mp4,jump_0005_aslsearch_31324.mp4,ok
+6,31315,signschool,6,0,train,25,1,-1,621,82,1603,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Jump-FuG-Tt5rjqY.mp4,jump_0006_signschool_31315.mp4,ok
+7,67810,asllex,109,0,train,25,1,-1,78,23,384,360,https://youtu.be/V7-4NGS-3EM,jump_0007_asllex_67810.mp4,skipped_no_ytdlp
+8,31316,asldeafined,21,0,train,25,1,-1,28,10,550,480,https://media.asldeafined.com/vocabulary/1468669834.1773.mp4,jump_0008_asldeafined_31316.mp4,ok
+9,31317,handspeak,20,0,test,25,1,-1,84,0,586,480,https://www.handspeak.com/word/j/jump2.mp4,jump_0009_handspeak_31317.mp4,failed
+10,31318,handspeak,20,0,val,25,1,-1,85,0,575,480,https://www.handspeak.com/word/j/jump.mp4,jump_0010_handspeak_31318.mp4,failed
+12,31320,signingsavvy,10,0,test,25,1,-1,59,22,207,192,https://www.signingsavvy.com/signs/mp4/22/22210.mp4,jump_0012_signingsavvy_31320.mp4,ok
+13,31321,nabboud,80,0,train,25,1,-1,286,121,853,720,https://www.youtube.com/watch?v=j0CEh6MdtCs,jump_0013_nabboud_31321.mp4,skipped_no_ytdlp
+14,31322,aslu,5,0,train,25,1,-1,290,44,938,720,https://www.youtube.com/watch?v=yCL4l8WBMVo,jump_0014_aslu_31322.mp4,skipped_no_ytdlp

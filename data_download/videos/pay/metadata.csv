@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41578,asl5200,9,0,train,25,760,789,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pay_0000_asl5200_41578.mp4,skipped_no_ytdlp
+1,68736,lillybauer,115,0,train,25,1,62,365,28,1011,720,https://www.youtube.com/watch?v=NITbWXFWvYs,pay_0001_lillybauer_68736.mp4,skipped_no_ytdlp
+2,41608,aslsearch,12,0,train,25,1,-1,181,52,552,400,http://www.aslsearch.com/signs/videos/pay.mp4,pay_0002_aslsearch_41608.mp4,ok
+3,41592,startasl,38,0,val,25,1,-1,366,56,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/pay.mp4,pay_0003_startasl_41592.mp4,ok
+6,41595,signschool,32,0,train,25,1,-1,698,72,1634,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pay-Mw8SMIRky0M.mp4,pay_0006_signschool_41595.mp4,ok
+7,41596,asldeafined,13,0,train,25,1,-1,58,0,499,480,https://media.asldeafined.com/vocabulary/1468724496.7165.mp4,pay_0007_asldeafined_41596.mp4,ok
+8,41597,handspeak,14,0,train,25,1,-1,45,0,479,480,https://www.handspeak.com/word/p/pay.mp4,pay_0008_handspeak_41597.mp4,failed
+9,41598,signingsavvy,11,0,train,25,1,-1,69,13,203,192,https://www.signingsavvy.com/signs/mp4/14/14618.mp4,pay_0009_signingsavvy_41598.mp4,ok
+12,66271,aslsignbank,101,0,train,25,1,-1,137,9,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PAY-878.mp4,pay_0012_aslsignbank_66271.mp4,failed
+14,41601,signingsavvy,11,0,test,25,1,-1,81,18,216,192,https://www.signingsavvy.com/signs/mp4/6/6920.mp4,pay_0014_signingsavvy_41601.mp4,ok
+15,41602,aslu,5,0,val,25,1,-1,138,13,492,360,https://www.youtube.com/watch?v=iANhkGhvyHs,pay_0015_aslu_41602.mp4,skipped_no_ytdlp
+17,41604,aslu,5,0,test,25,1,-1,263,29,918,720,https://www.youtube.com/watch?v=QsO6GlRytyM,pay_0017_aslu_41604.mp4,skipped_no_ytdlp
+19,41606,aslu,5,0,train,25,1,-1,66,30,437,357,https://www.youtube.com/watch?v=vCBq1QirTVA,pay_0019_aslu_41606.mp4,skipped_no_ytdlp
+20,41607,aslpro,87,0,train,25,1,-1,4,8,225,240,http://www.aslpro.com/main/p/pay.swf,pay_0020_aslpro_41607.mp4,skipped_swf

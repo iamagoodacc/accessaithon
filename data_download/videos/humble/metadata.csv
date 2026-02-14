@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28306,asl5200,9,0,train,25,2506,2558,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,humble_0000_asl5200_28306.mp4,skipped_no_ytdlp
+1,28311,signschool,4,0,train,25,1,-1,651,55,1673,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Humble-F-HKno7xg2w.mp4,humble_0001_signschool_28311.mp4,ok
+2,28312,asldeafined,21,0,train,25,1,-1,56,1,555,480,https://media.asldeafined.com/vocabulary/1468639103.527.mp4,humble_0002_asldeafined_28312.mp4,ok
+3,28313,handspeak,20,0,val,25,1,-1,86,0,539,480,https://www.handspeak.com/word/h/humble.mp4,humble_0003_handspeak_28313.mp4,failed
+4,28314,signingsavvy,10,0,train,25,1,-1,80,22,219,192,https://www.signingsavvy.com/signs/mp4/23/23640.mp4,humble_0004_signingsavvy_28314.mp4,ok
+5,28315,signingsavvy,10,0,train,25,1,-1,82,22,220,192,https://www.signingsavvy.com/signs/mp4/23/23641.mp4,humble_0005_signingsavvy_28315.mp4,ok
+6,67778,asllex,109,0,train,25,1,-1,163,18,435,360,https://youtu.be/akuiYBq3bEk,humble_0006_asllex_67778.mp4,skipped_no_ytdlp
+7,28316,aslu,5,0,train,25,1,-1,320,36,978,720,https://www.youtube.com/watch?v=hmjNdVwDvfs,humble_0007_aslu_28316.mp4,skipped_no_ytdlp
+8,28317,aslu,5,0,train,25,1,-1,303,25,899,720,https://www.youtube.com/watch?v=q7GZV06uA-4,humble_0008_aslu_28317.mp4,skipped_no_ytdlp
+9,28318,aslpro,25,0,test,25,1,-1,0,5,245,240,http://www.aslpro.com/main/h/humble.swf,humble_0009_aslpro_28318.mp4,skipped_swf
+10,28319,aslsearch,12,0,val,25,1,-1,186,54,562,400,http://www.aslsearch.com/signs/videos/humble.mp4,humble_0010_aslsearch_28319.mp4,ok
+12,28308,startasl,38,0,test,25,1,-1,404,55,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/humble.mp4,humble_0012_startasl_28308.mp4,ok
+13,28309,signschool,4,0,train,25,1,-1,639,40,1550,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Humble%202-itSn6wRGPH4.mp4,humble_0013_signschool_28309.mp4,ok
+14,28310,signschool,4,0,train,25,1,-1,665,52,1600,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Humble%203-BOuuBoXydzY.mp4,humble_0014_signschool_28310.mp4,ok

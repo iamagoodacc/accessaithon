@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57298,asl5200,9,0,train,25,877,929,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,temperature_0000_asl5200_57298.mp4,skipped_no_ytdlp
+1,57305,handspeak,14,0,train,25,1,-1,31,12,249,240,https://www.handspeak.com/word/t/temperature.mp4,temperature_0001_handspeak_57305.mp4,failed
+2,57306,signingsavvy,11,0,train,25,1,-1,69,10,200,192,https://www.signingsavvy.com/signs/mp4/14/14159.mp4,temperature_0002_signingsavvy_57306.mp4,ok
+3,57307,signingsavvy,11,0,val,25,1,-1,59,12,203,192,https://www.signingsavvy.com/signs/mp4/14/14160.mp4,temperature_0003_signingsavvy_57307.mp4,ok
+4,57308,aslu,5,0,train,25,1,-1,260,32,942,720,https://www.youtube.com/watch?v=0Q8DzhYUabI,temperature_0004_aslu_57308.mp4,skipped_no_ytdlp
+5,57309,aslu,5,0,train,25,1,-1,204,40,948,720,https://www.youtube.com/watch?v=cbonYmSP_k0,temperature_0005_aslu_57309.mp4,skipped_no_ytdlp
+6,57300,elementalasl,19,0,train,25,1,-1,85,12,233,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/temperature.mov,temperature_0006_elementalasl_57300.mp4,ok
+7,57310,aslu,5,0,train,25,1,-1,262,37,1000,720,https://www.youtube.com/watch?v=GcPs10m803Q,temperature_0007_aslu_57310.mp4,skipped_no_ytdlp
+9,57312,aslpro,72,0,train,25,1,-1,0,0,228,240,http://www.aslpro.com/main/t/temperature.swf,temperature_0009_aslpro_57312.mp4,skipped_swf
+10,57313,aslsearch,12,0,test,25,1,-1,171,53,540,400,http://www.aslsearch.com/signs/videos/temperature.mp4,temperature_0010_aslsearch_57313.mp4,ok
+11,57301,spreadthesign,56,0,val,25,1,-1,24,0,273,240,https://media.spreadthesign.com/video/mp4/13/50895.mp4,temperature_0011_spreadthesign_57301.mp4,ok
+12,57302,signschool,32,0,test,25,1,-1,658,67,1652,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Temperature-PjNflmc_eTw.mp4,temperature_0012_signschool_57302.mp4,ok
+13,57303,asldeafined,13,0,train,25,1,-1,138,0,533,480,https://media.asldeafined.com/vocabulary/1468943765.2189.mp4,temperature_0013_asldeafined_57303.mp4,ok
+14,57304,asldeafined,13,0,train,25,1,-1,41,0,545,480,https://media.asldeafined.com/vocabulary/1468943786.9052.mp4,temperature_0014_asldeafined_57304.mp4,ok

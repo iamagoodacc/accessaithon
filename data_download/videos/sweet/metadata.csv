@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,69499,aslbrick,115,0,train,25,1,-1,549,64,1316,1080,http://aslbricks.org/New/ASL-Videos/sweet.mp4,sweet_0001_aslbrick_69499.mp4,ok
+2,56312,signingsavvy,11,0,train,25,1,-1,76,4,215,192,https://www.signingsavvy.com/signs/mp4/5/5860.mp4,sweet_0002_signingsavvy_56312.mp4,ok
+3,56313,signingsavvy,11,0,train,25,1,-1,70,9,211,192,https://www.signingsavvy.com/signs/mp4/8/8734.mp4,sweet_0003_signingsavvy_56313.mp4,ok
+4,56314,signingsavvy,11,0,val,25,1,-1,70,12,212,192,https://www.signingsavvy.com/signs/mp4/8/8735.mp4,sweet_0004_signingsavvy_56314.mp4,ok
+5,56315,aslu,5,0,train,25,1,-1,350,68,924,720,https://www.youtube.com/watch?v=pYKpw_4wTpw,sweet_0005_aslu_56315.mp4,skipped_no_ytdlp
+6,66585,aslsignbank,93,0,train,25,1,-1,189,35,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SW/SWEET-281.mp4,sweet_0006_aslsignbank_66585.mp4,failed
+7,56306,spreadthesign,26,0,train,25,1,-1,74,13,236,240,https://media.spreadthesign.com/video/mp4/13/310748.mp4,sweet_0007_spreadthesign_56306.mp4,ok
+8,56316,aslpro,87,0,train,25,1,-1,26,9,225,240,http://www.aslpro.com/main/s/sweet.swf,sweet_0008_aslpro_56316.mp4,skipped_swf
+9,56317,aslsearch,12,0,train,25,1,-1,198,52,538,400,http://www.aslsearch.com/signs/videos/sugar.mp4,sweet_0009_aslsearch_56317.mp4,ok
+10,56307,startasl,38,0,test,25,1,-1,423,55,805,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sweet.mp4,sweet_0010_startasl_56307.mp4,ok
+11,56308,signschool,4,0,val,25,1,-1,490,44,1048,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Sweet.mp4,sweet_0011_signschool_56308.mp4,ok
+12,56309,asldeafined,13,0,test,25,1,-1,182,0,545,480,https://media.asldeafined.com/vocabulary/1468898646.9636.mp4,sweet_0012_asldeafined_56309.mp4,ok
+13,56310,handspeak,20,0,train,25,1,-1,22,27,293,240,https://www.handspeak.com/word/s/sweet2.mp4,sweet_0013_handspeak_56310.mp4,failed
+14,56311,handspeak,20,0,train,25,1,-1,24,28,292,240,https://www.handspeak.com/word/s/sweet.mp4,sweet_0014_handspeak_56311.mp4,failed

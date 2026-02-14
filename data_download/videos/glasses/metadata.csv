@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24718,asl5200,9,0,train,25,824,886,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,glasses_0000_asl5200_24718.mp4,skipped_no_ytdlp
+1,68334,lillybauer,115,0,train,25,1,51,332,10,944,720,https://www.youtube.com/watch?v=aMUgr_JttSM,glasses_0001_lillybauer_68334.mp4,skipped_no_ytdlp
+2,24724,signschool,32,0,train,25,1,-1,686,81,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Glasses%202-vxyyYSeMsoQ.mp4,glasses_0002_signschool_24724.mp4,ok
+3,24725,signschool,32,0,val,25,1,-1,657,73,1668,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Glasses-YAWpePAtslQ.mp4,glasses_0003_signschool_24725.mp4,ok
+4,24726,asldeafined,21,0,train,25,1,-1,31,4,595,480,https://media.asldeafined.com/vocabulary/1468549134.8281.mp4,glasses_0004_asldeafined_24726.mp4,ok
+6,24728,signingsavvy,11,0,train,25,1,-1,67,13,237,192,https://www.signingsavvy.com/signs/mp4/7/7800.mp4,glasses_0006_signingsavvy_24728.mp4,ok
+7,24729,aslu,5,0,train,25,1,-1,289,20,1006,720,https://www.youtube.com/watch?v=m4qO1tVEIAw,glasses_0007_aslu_24729.mp4,skipped_no_ytdlp
+8,65822,aslsignbank,106,0,train,25,1,-1,158,41,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GL/GLASSES-467.mp4,glasses_0008_aslsignbank_65822.mp4,failed
+9,24720,spreadthesign,26,0,train,25,1,-1,57,13,262,240,https://media.spreadthesign.com/video/mp4/13/311370.mp4,glasses_0009_spreadthesign_24720.mp4,ok
+10,67710,asllex,109,0,test,25,1,-1,94,4,397,360,https://youtu.be/pLkrF4guZFU,glasses_0010_asllex_67710.mp4,skipped_no_ytdlp
+12,24731,aslpro,72,0,val,25,1,-1,28,6,232,240,http://www.aslpro.com//main/g/glasses_reading.swf,glasses_0012_aslpro_24731.mp4,skipped_swf
+13,24732,aslsearch,12,0,test,25,1,-1,182,55,539,400,http://www.aslsearch.com/signs/videos/glasses.mp4,glasses_0013_aslsearch_24732.mp4,ok
+14,24721,startasl,38,0,train,25,1,-1,423,71,846,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/glasses-2.mp4,glasses_0014_startasl_24721.mp4,ok
+15,24722,startasl,38,0,train,25,1,-1,420,77,817,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/glasses-3.mp4,glasses_0015_startasl_24722.mp4,ok

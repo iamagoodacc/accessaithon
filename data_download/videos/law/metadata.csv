@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66017,aslsignbank,96,0,train,25,1,-1,209,26,508,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAW-1687.mp4,law_0000_aslsignbank_66017.mp4,failed
+1,70158,northtexas,121,0,train,25,2953,3077,170,10,524,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,law_0001_northtexas_70158.mp4,skipped_no_ytdlp
+2,32454,aslu,5,0,train,25,1,-1,197,5,1030,720,https://www.youtube.com/watch?v=b0_QecPrt7I,law_0002_aslu_32454.mp4,skipped_no_ytdlp
+3,32455,aslu,5,0,val,25,1,-1,349,37,992,720,https://www.youtube.com/watch?v=OZy1ugYqyyc,law_0003_aslu_32455.mp4,skipped_no_ytdlp
+4,32456,aslu,5,0,train,25,1,-1,346,29,948,720,https://www.youtube.com/watch?v=UiZFngz5QJg,law_0004_aslu_32456.mp4,skipped_no_ytdlp
+5,32447,spreadthesign,0,0,train,25,1,-1,60,0,267,240,https://media.spreadthesign.com/video/mp4/13/58320.mp4,law_0005_spreadthesign_32447.mp4,ok
+6,32457,aslpro,30,0,train,25,1,-1,0,10,222,240,http://www.aslpro.com/main/l/law.swf,law_0006_aslpro_32457.mp4,skipped_swf
+7,32458,aslsearch,12,0,train,25,1,-1,178,55,534,400,http://www.aslsearch.com/signs/videos/law.mp4,law_0007_aslsearch_32458.mp4,ok
+8,32448,startasl,38,0,train,25,1,-1,416,56,805,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/law.mp4,law_0008_startasl_32448.mp4,ok
+9,32449,signschool,32,0,test,25,1,-1,730,61,1615,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Law-HsdxXXBNXIw.mp4,law_0009_signschool_32449.mp4,ok
+10,32450,asldeafined,13,0,val,25,1,-1,174,0,546,480,https://media.asldeafined.com/vocabulary/1468671514.5370.mp4,law_0010_asldeafined_32450.mp4,ok
+11,32451,handspeak,20,0,test,25,1,-1,160,0,549,480,https://www.handspeak.com/word/l/law.mp4,law_0011_handspeak_32451.mp4,failed
+12,32452,signingsavvy,11,0,train,25,1,-1,77,16,212,192,https://www.signingsavvy.com/signs/mp4/6/6447.mp4,law_0012_signingsavvy_32452.mp4,ok
+13,32453,aslu,5,0,train,25,1,-1,197,5,1030,720,https://www.youtube.com/watch?v=b0_QecPrt7I,law_0013_aslu_32453.mp4,skipped_no_ytdlp

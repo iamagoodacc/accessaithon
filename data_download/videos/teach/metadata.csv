@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57035,asl5200,9,0,val,25,477,519,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,teach_0000_asl5200_57035.mp4,skipped_no_ytdlp
+1,70204,northtexas,121,0,train,25,316,412,99,24,292,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,teach_0001_northtexas_70204.mp4,skipped_no_ytdlp
+2,68167,valencia-asl,109,0,train,25,1,-1,297,0,1153,720,https://www.youtube.com/watch?v=wjqXCZ4SSi8,teach_0002_valencia-asl_68167.mp4,skipped_no_ytdlp
+3,57065,aslu,5,0,val,25,1,-1,199,6,1029,720,https://www.youtube.com/watch?v=cUpQCU24VC0,teach_0003_aslu_57065.mp4,skipped_no_ytdlp
+4,57066,scott,82,0,train,25,1,-1,179,0,1042,719,https://www.youtube.com/watch?v=Xe2PC-pIMcI,teach_0004_scott_57066.mp4,skipped_no_ytdlp
+5,57067,aslpro,87,0,train,25,1,-1,31,16,229,240,http://www.aslpro.com/main/t/teach.swf,teach_0005_aslpro_57067.mp4,skipped_swf
+6,57058,spreadthesign,56,0,train,25,1,-1,50,0,285,240,https://media.spreadthesign.com/video/mp4/13/50896.mp4,teach_0006_spreadthesign_57058.mp4,ok
+7,67281,asllex,109,0,train,25,1,-1,64,19,417,360,https://youtu.be/qldl3qSEsOA,teach_0007_asllex_67281.mp4,skipped_no_ytdlp
+8,57068,aslsearch,12,0,train,25,1,-1,168,55,565,400,http://www.aslsearch.com/signs/videos/instruct.mp4,teach_0008_aslsearch_57068.mp4,ok
+9,57059,signschool,4,0,test,25,1,-1,591,62,1631,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Teach-bmZ47t6hLP8.mp4,teach_0009_signschool_57059.mp4,ok
+10,57060,signschool,31,0,val,25,1,-1,506,101,1423,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Teach-hN7WKfdT_BU.mp4,teach_0010_signschool_57060.mp4,ok
+11,57061,asldeafined,13,0,test,25,1,-1,58,0,577,480,https://media.asldeafined.com/vocabulary/1468943416.7262.mp4,teach_0011_asldeafined_57061.mp4,ok
+12,57062,handspeak,14,0,train,25,1,-1,53,0,586,480,https://www.handspeak.com/word/t/teach.mp4,teach_0012_handspeak_57062.mp4,failed
+13,57063,signingsavvy,11,0,train,25,1,-1,51,13,227,192,https://www.signingsavvy.com/signs/mp4/6/6746.mp4,teach_0013_signingsavvy_57063.mp4,ok
+14,57064,signingsavvy,11,0,train,25,1,-1,70,15,251,192,https://www.signingsavvy.com/signs/mp4/8/8206.mp4,teach_0014_signingsavvy_57064.mp4,ok

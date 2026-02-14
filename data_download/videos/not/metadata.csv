@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38765,asl5200,9,0,train,25,1691,1737,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,not_0000_asl5200_38765.mp4,skipped_no_ytdlp
+1,68774,lillybauer,112,0,train,25,1,39,347,28,904,720,https://www.youtube.com/watch?v=o_U50ODqKdY,not_0001_lillybauer_68774.mp4,skipped_no_ytdlp
+2,38864,aslu,5,0,train,25,1,-1,91,0,463,360,https://www.youtube.com/watch?v=pPcpuHCFCFU,not_0002_aslu_38864.mp4,skipped_no_ytdlp
+3,38865,aslu,5,0,val,25,1,-1,344,32,910,720,https://www.youtube.com/watch?v=pUn7pNE5HEE,not_0003_aslu_38865.mp4,skipped_no_ytdlp
+4,38866,aslu,5,0,train,25,1,-1,398,37,943,719,https://www.youtube.com/watch?v=v1Dvu-KIDKk,not_0004_aslu_38866.mp4,skipped_no_ytdlp
+5,38857,spreadthesign,2,0,train,25,1,-1,91,43,234,240,https://media.spreadthesign.com/video/mp4/13/92963.mp4,not_0005_spreadthesign_38857.mp4,ok
+6,38867,aslpro,87,0,train,25,1,-1,20,3,210,240,http://www.aslpro.com/main/n/not.swf,not_0006_aslpro_38867.mp4,skipped_swf
+7,38868,aslsearch,12,0,train,25,1,-1,204,58,549,400,http://www.aslsearch.com/signs/videos/not.mp4,not_0007_aslsearch_38868.mp4,ok
+8,38858,startasl,36,0,train,25,1,-1,233,15,520,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/not.mp4,not_0008_startasl_38858.mp4,ok
+9,38859,signschool,3,0,test,25,1,-1,523,6,1390,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Not-BCUwejC9ZMw.mp4,not_0009_signschool_38859.mp4,ok
+10,38860,signschool,4,0,val,25,1,-1,748,65,1659,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Not-WHFdDSSBcrg.mp4,not_0010_signschool_38860.mp4,ok
+11,38861,asldeafined,13,0,test,25,1,-1,149,0,511,480,https://media.asldeafined.com/vocabulary/1468719771.6543.mp4,not_0011_asldeafined_38861.mp4,ok
+12,38862,handspeak,20,0,train,25,1,-1,118,0,576,480,https://www.handspeak.com/word/n/not.mp4,not_0012_handspeak_38862.mp4,failed
+13,38863,signingsavvy,11,0,train,25,1,-1,82,8,224,192,https://www.signingsavvy.com/signs/mp4/14/14591.mp4,not_0013_signingsavvy_38863.mp4,ok

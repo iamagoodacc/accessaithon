@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02581,asl5200,9,0,train,25,2580,2646,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,animal_0000_asl5200_02581.mp4,skipped_no_ytdlp
+1,69211,aslbrick,116,0,train,25,1,-1,314,27,982,720,http://aslbricks.org/New/ASL-Videos/animal.mp4,animal_0001_aslbrick_69211.mp4,ok
+2,02590,aslu,5,0,train,25,1,-1,268,33,1014,720,https://www.youtube.com/watch?v=IyMuDawJZu0,animal_0002_aslu_02590.mp4,skipped_no_ytdlp
+3,02591,aslpro,24,0,val,25,1,-1,0,12,231,240,http://www.aslpro.com/main/a/animal.swf,animal_0003_aslpro_02591.mp4,skipped_swf
+4,02592,aslsearch,41,0,train,25,1,-1,207,35,507,400,http://www.aslsearch.com/signs/videos/animal.mp4,animal_0004_aslsearch_02592.mp4,ok
+5,65073,aslsignbank,88,0,train,25,1,-1,164,0,502,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AN/ANIMAL-16.mp4,animal_0005_aslsignbank_65073.mp4,failed
+6,02583,elementalasl,19,0,train,25,1,-1,18,3,320,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/animal.mov,animal_0006_elementalasl_02583.mp4,ok
+7,67363,asllex,109,0,train,25,1,-1,92,9,410,360,https://youtu.be/7uGqFbh6Un4,animal_0007_asllex_67363.mp4,skipped_no_ytdlp
+8,02584,spreadthesign,2,0,train,25,1,-1,60,4,273,240,https://media.spreadthesign.com/video/mp4/13/118511.mp4,animal_0008_spreadthesign_02584.mp4,ok
+9,02585,startasl,36,0,test,25,1,-1,218,16,539,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/animal.mp4,animal_0009_startasl_02585.mp4,ok
+10,02586,signschool,4,0,val,25,1,-1,446,47,1125,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Animal.mp4,animal_0010_signschool_02586.mp4,ok
+11,02587,asldeafined,13,0,test,25,1,-1,80,15,622,480,https://media.asldeafined.com/vocabulary/1466510256.6098.mp4,animal_0011_asldeafined_02587.mp4,ok
+12,02588,handspeak,20,0,train,25,1,-1,133,15,537,480,https://www.handspeak.com/word/a/animal.mp4,animal_0012_handspeak_02588.mp4,failed
+13,02589,signingsavvy,11,0,train,25,1,-1,68,8,225,192,https://www.signingsavvy.com/signs/mp4/14/14630.mp4,animal_0013_signingsavvy_02589.mp4,ok

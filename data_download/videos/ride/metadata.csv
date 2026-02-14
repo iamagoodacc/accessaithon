@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48038,asl5200,9,0,val,25,3231,3300,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,ride_0000_asl5200_48038.mp4,skipped_no_ytdlp
+1,68898,lillybauer,115,0,train,25,1,82,328,15,911,720,https://www.youtube.com/watch?v=t2a5dcHmTBk,ride_0001_lillybauer_68898.mp4,skipped_no_ytdlp
+3,48047,handspeak,14,0,train,25,1,-1,77,0,567,480,https://www.handspeak.com/word/r/ride-vehicle2.mp4,ride_0003_handspeak_48047.mp4,failed
+5,48049,handspeak,14,0,val,25,1,-1,75,7,595,480,https://www.handspeak.com/word/r/ride-vehicle.mp4,ride_0005_handspeak_48049.mp4,failed
+6,48050,signingsavvy,10,0,train,25,1,-1,80,15,201,192,https://www.signingsavvy.com/signs/mp4/23/23884.mp4,ride_0006_signingsavvy_48050.mp4,ok
+7,48051,signingsavvy,10,0,train,25,1,-1,64,16,215,192,https://www.signingsavvy.com/signs/mp4/24/24005.mp4,ride_0007_signingsavvy_48051.mp4,ok
+8,66405,aslsignbank,103,0,train,25,1,-1,114,26,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RI/RIDE-974.mp4,ride_0008_aslsignbank_66405.mp4,failed
+9,48042,signschool,31,0,train,25,1,-1,581,134,1488,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ride-a35RcUi-rxk.mp4,ride_0009_signschool_48042.mp4,ok
+10,48052,aslu,5,0,train,25,1,-1,352,48,988,720,https://www.youtube.com/watch?v=kg8MJwFhiiw,ride_0010_aslu_48052.mp4,skipped_no_ytdlp
+11,48053,aslpro,24,0,test,25,1,-1,7,14,203,240,http://www.aslpro.com/main/r/ride.swf,ride_0011_aslpro_48053.mp4,skipped_swf
+12,48054,aslsearch,12,0,val,25,1,-1,190,50,542,400,http://www.aslsearch.com/signs/videos/ride2.mp4,ride_0012_aslsearch_48054.mp4,ok
+13,48055,aslsearch,12,0,test,25,1,-1,190,51,543,400,http://www.aslsearch.com/signs/videos/ride.mp4,ride_0013_aslsearch_48055.mp4,ok
+14,48043,signschool,6,0,train,25,1,-1,474,58,1495,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ride-huEE3RXyL-0.mp4,ride_0014_signschool_48043.mp4,ok
+15,48044,asldeafined,13,0,train,25,1,-1,149,0,553,480,https://media.asldeafined.com/vocabulary/1468760986.966.mp4,ride_0015_asldeafined_48044.mp4,ok
+16,48045,handspeak,14,0,train,25,1,-1,138,0,579,480,https://www.handspeak.com/word/r/ride-animal.mp4,ride_0016_handspeak_48045.mp4,failed

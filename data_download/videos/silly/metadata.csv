@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51702,asl5200,9,0,train,25,4065,4157,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,silly_0000_asl5200_51702.mp4,skipped_no_ytdlp
+1,51708,signingsavvy,10,0,train,25,1,-1,89,19,210,192,https://www.signingsavvy.com/signs/mp4/23/23392.mp4,silly_0001_signingsavvy_51708.mp4,ok
+2,51709,signingsavvy,10,0,train,25,1,-1,80,24,208,192,https://www.signingsavvy.com/signs/mp4/23/23532.mp4,silly_0002_signingsavvy_51709.mp4,ok
+3,51710,signingsavvy,11,0,val,25,1,-1,77,18,216,192,https://www.signingsavvy.com/signs/mp4/9/9096.mp4,silly_0003_signingsavvy_51710.mp4,ok
+4,51711,aslpro,30,0,train,25,1,-1,6,16,229,240,http://www.aslpro.com/main/s/silly.swf,silly_0004_aslpro_51711.mp4,skipped_swf
+5,66481,aslsignbank,108,0,train,25,1,-1,184,41,457,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SILLY-259.mp4,silly_0005_aslsignbank_66481.mp4,failed
+6,67202,asllex,109,0,train,25,1,-1,102,14,372,360,https://youtu.be/Bmc7vzcNGb8,silly_0006_asllex_67202.mp4,skipped_no_ytdlp
+7,51712,aslsearch,12,0,train,25,1,-1,197,48,558,400,http://www.aslsearch.com/signs/videos/absurd.mp4,silly_0007_aslsearch_51712.mp4,ok
+8,51713,aslsearch,12,0,train,25,1,-1,197,48,558,400,http://www.aslsearch.com/signs/videos/absurd.mp4,silly_0008_aslsearch_51713.mp4,ok
+9,51703,spreadthesign,2,0,test,25,1,-1,90,36,237,240,https://media.spreadthesign.com/video/mp4/13/94021.mp4,silly_0009_spreadthesign_51703.mp4,ok
+10,51704,startasl,38,0,val,25,1,-1,400,57,797,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/silly.mp4,silly_0010_startasl_51704.mp4,ok
+11,51705,signschool,31,0,test,25,1,-1,442,67,1002,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Silly.mp4,silly_0011_signschool_51705.mp4,ok
+12,51706,asldeafined,13,0,train,25,1,-1,149,0,540,480,https://media.asldeafined.com/vocabulary/1468767097.7777.mp4,silly_0012_asldeafined_51706.mp4,ok
+13,51707,handspeak,14,0,train,25,1,-1,39,11,276,240,https://www.handspeak.com/word/s/silly.mp4,silly_0013_handspeak_51707.mp4,failed

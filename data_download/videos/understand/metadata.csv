@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60543,asl5200,9,0,train,25,257,299,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,understand_0000_asl5200_60543.mp4,skipped_no_ytdlp
+1,60553,aslu,5,0,train,25,1,-1,313,38,925,720,https://www.youtube.com/watch?v=5N10dIavSYc,understand_0001_aslu_60553.mp4,skipped_no_ytdlp
+2,70215,northtexas,121,0,train,25,2846,2924,104,27,277,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,understand_0002_northtexas_70215.mp4,skipped_no_ytdlp
+3,60551,signingsavvy,10,0,val,25,1,-1,83,10,225,192,https://www.signingsavvy.com/signs/mp4/23/23293.mp4,understand_0003_signingsavvy_60551.mp4,ok
+4,66704,aslsignbank,93,0,train,25,1,-1,182,36,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/UN/UNDERSTAND-311.mp4,understand_0004_aslsignbank_66704.mp4,failed
+5,67018,asllex,109,0,train,25,1,-1,107,28,368,360,https://youtu.be/-5J6ZDndBxw,understand_0005_asllex_67018.mp4,skipped_no_ytdlp
+6,60545,spreadthesign,56,0,train,25,1,-1,41,0,271,240,https://media.spreadthesign.com/video/mp4/13/50869.mp4,understand_0006_spreadthesign_60545.mp4,ok
+7,60546,signschool,6,0,train,25,1,-1,669,75,1604,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Understand-zgYUzElmp1k.mp4,understand_0007_signschool_60546.mp4,ok
+8,60554,scott,82,0,train,25,1,-1,273,5,848,720,https://www.youtube.com/watch?v=zOrPlZruN0Y,understand_0008_scott_60554.mp4,skipped_no_ytdlp
+9,60547,asldeafined,13,0,test,25,1,-1,110,0,518,480,https://media.asldeafined.com/vocabulary/1468924808.7518.mp4,understand_0009_asldeafined_60547.mp4,ok
+10,60555,aslpro,87,0,val,25,1,-1,22,7,223,240,http://www.aslpro.com/main/u/understand.swf,understand_0010_aslpro_60555.mp4,skipped_swf
+11,60548,asldeafined,15,0,test,25,1,-1,148,31,522,480,https://media.asldeafined.com/vocabulary/1522767381.9090.mp4,understand_0011_asldeafined_60548.mp4,ok
+12,60556,aslsearch,12,0,train,25,1,-1,156,59,529,400,http://www.aslsearch.com/signs/videos/understand.mp4,understand_0012_aslsearch_60556.mp4,ok
+14,60550,handspeak,20,0,train,25,1,-1,60,16,271,240,https://www.handspeak.com/word/u/understand.mp4,understand_0014_handspeak_60550.mp4,failed

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07803,asl5200,9,0,train,25,4806,4842,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bring_0000_asl5200_07803.mp4,skipped_no_ytdlp
+1,69250,aslbrick,115,0,train,25,1,-1,118,32,1019,720,http://aslbricks.org/New/ASL-Videos/bring.mp4,bring_0001_aslbrick_69250.mp4,ok
+2,68828,lillybauer,115,0,train,25,1,57,22,5,951,720,https://www.youtube.com/watch?v=qBSia-6R78M,bring_0002_lillybauer_68828.mp4,skipped_no_ytdlp
+3,07814,aslpro,25,0,val,25,1,-1,0,13,252,240,http://www.aslpro.com/main/b/bring.swf,bring_0003_aslpro_07814.mp4,skipped_swf
+4,07815,aslsearch,12,0,train,25,1,-1,148,54,576,400,http://www.aslsearch.com/signs/videos/bring.mp4,bring_0004_aslsearch_07815.mp4,ok
+5,65260,aslsignbank,90,0,train,25,1,-1,159,18,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BR/BRING-51.mp4,bring_0005_aslsignbank_65260.mp4,failed
+6,07806,spreadthesign,2,0,train,25,1,-1,18,8,298,240,https://media.spreadthesign.com/video/mp4/13/125551.mp4,bring_0006_spreadthesign_07806.mp4,ok
+7,07807,startasl,38,0,train,25,1,-1,371,68,876,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bring.mp4,bring_0007_startasl_07807.mp4,ok
+8,07808,asldeafined,59,0,train,25,1,-1,87,22,577,480,https://media.asldeafined.com/vocabulary/1466724072.8490.mp4,bring_0008_asldeafined_07808.mp4,ok
+9,07809,handspeak,20,0,test,25,1,-1,12,14,552,480,https://www.handspeak.com/word/b/bring.mp4,bring_0009_handspeak_07809.mp4,failed
+10,07810,signingsavvy,11,0,val,25,1,-1,60,9,219,192,https://www.signingsavvy.com/signs/mp4/9/9896.mp4,bring_0010_signingsavvy_07810.mp4,ok
+11,07811,signingsavvy,11,0,test,25,1,-1,57,8,222,192,https://www.signingsavvy.com/signs/mp4/9/9897.mp4,bring_0011_signingsavvy_07811.mp4,ok
+12,07812,aslu,5,0,train,25,1,-1,148,8,558,360,https://www.youtube.com/watch?v=Sm94OknTMI8,bring_0012_aslu_07812.mp4,skipped_no_ytdlp
+13,07813,aslu,5,0,train,25,1,-1,125,15,499,360,https://www.youtube.com/watch?v=zIshtrNs_54,bring_0013_aslu_07813.mp4,skipped_no_ytdlp

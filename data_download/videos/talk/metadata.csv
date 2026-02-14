@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56800,asl5200,9,0,train,25,208,257,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,talk_0000_asl5200_56800.mp4,skipped_no_ytdlp
+1,68165,valencia-asl,109,0,train,25,1,-1,38,0,1106,720,https://www.youtube.com/watch?v=8FrWB5VSoNQ,talk_0001_valencia-asl_68165.mp4,skipped_no_ytdlp
+2,68868,lillybauer,113,0,train,25,1,121,119,13,523,359,https://www.youtube.com/watch?v=RuDTzUVgKFM,talk_0002_lillybauer_68868.mp4,skipped_no_ytdlp
+3,56828,nabboud,62,0,val,25,1,-1,423,63,923,720,https://www.youtube.com/watch?v=WhUh8CHjj4k,talk_0003_nabboud_56828.mp4,skipped_no_ytdlp
+4,56829,aslpro,87,0,train,25,1,-1,21,8,219,240,http://www.aslpro.com/main/t/talk.swf,talk_0004_aslpro_56829.mp4,skipped_swf
+5,56830,aslsearch,12,0,train,25,1,-1,205,52,546,400,http://www.aslsearch.com/signs/videos/speak.mp4,talk_0005_aslsearch_56830.mp4,ok
+7,56813,signschool,32,0,train,25,1,-1,860,71,1588,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Talk-6MXys6LpYAo.mp4,talk_0007_signschool_56813.mp4,ok
+10,56816,asldeafined,13,0,train,25,1,-1,156,0,534,480,https://media.asldeafined.com/vocabulary/1468943013.6512.mp4,talk_0010_asldeafined_56816.mp4,ok
+13,56811,spreadthesign,42,0,train,25,1,-1,34,0,295,240,https://media.spreadthesign.com/video/mp4/13/50902.mp4,talk_0013_spreadthesign_56811.mp4,ok
+14,56819,signingsavvy,11,0,test,25,1,-1,77,12,219,192,https://www.signingsavvy.com/signs/mp4/14/14613.mp4,talk_0014_signingsavvy_56819.mp4,ok
+15,56820,signingsavvy,11,0,val,25,1,-1,80,11,222,192,https://www.signingsavvy.com/signs/mp4/14/14614.mp4,talk_0015_signingsavvy_56820.mp4,ok
+16,67277,asllex,109,0,test,25,1,-1,106,28,368,360,https://youtu.be/2C95Ib4KdOg,talk_0016_asllex_67277.mp4,skipped_no_ytdlp
+17,56821,signingsavvy,10,0,train,25,1,-1,52,15,214,192,https://www.signingsavvy.com/signs/mp4/22/22166.mp4,talk_0017_signingsavvy_56821.mp4,ok
+23,56827,aslu,5,0,train,25,1,-1,350,28,982,720,https://www.youtube.com/watch?v=vB3APsM4FFQ,talk_0023_aslu_56827.mp4,skipped_no_ytdlp

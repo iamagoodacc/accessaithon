@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13133,asl5200,9,0,train,25,5879,5931,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,convince_0000_asl5200_13133.mp4,skipped_no_ytdlp
+1,13135,spreadthesign,0,0,test,25,1,-1,48,7,253,240,https://media.spreadthesign.com/video/mp4/13/58492.mp4,convince_0001_spreadthesign_13135.mp4,ok
+2,13136,signschool,39,1,train,25,1,-1,526,111,1589,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-QqwBIa-D10c.mp4,convince_0002_signschool_13136.mp4,ok
+3,13137,signschool,31,1,train,25,1,-1,680,63,1789,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-x7kJUcT3Qjc.mp4,convince_0003_signschool_13137.mp4,ok
+4,13138,asldeafined,13,1,train,25,1,-1,120,0,509,480,https://media.asldeafined.com/vocabulary/1468725280.2519.mp4,convince_0004_asldeafined_13138.mp4,ok
+5,13139,handspeak,14,1,val,25,1,-1,38,11,266,240,https://www.handspeak.com/word/c/convince-me2.mp4,convince_0005_handspeak_13139.mp4,failed
+7,13141,handspeak,14,1,train,25,1,-1,34,10,242,240,https://www.handspeak.com/word/c/convince.mp4,convince_0007_handspeak_13141.mp4,failed
+9,65400,aslsignbank,102,1,val,25,1,-1,150,19,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1138.mp4,convince_0009_aslsignbank_65400.mp4,failed
+10,65401,aslsignbank,91,0,val,25,1,-1,189,32,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1984.mp4,convince_0010_aslsignbank_65401.mp4,failed
+11,13143,signingsavvy,10,0,train,25,1,-1,86,17,228,192,https://www.signingsavvy.com/signs/mp4/23/23342.mp4,convince_0011_signingsavvy_13143.mp4,ok
+12,13144,signingsavvy,10,1,train,25,1,-1,89,20,203,192,https://www.signingsavvy.com/signs/mp4/23/23343.mp4,convince_0012_signingsavvy_13144.mp4,ok
+14,13146,aslu,5,1,train,25,1,-1,286,38,947,720,https://www.youtube.com/watch?v=fsYZa-XFStA,convince_0014_aslu_13146.mp4,skipped_no_ytdlp
+15,13147,aslpro,16,0,train,25,1,-1,0,19,245,240,http://www.aslpro.com/main/c/convince.swf,convince_0015_aslpro_13147.mp4,skipped_swf
+16,13148,aslsearch,12,1,test,25,1,-1,134,54,536,400,http://www.aslsearch.com/signs/videos/convince.mp4,convince_0016_aslsearch_13148.mp4,ok
+17,13134,elementalasl,43,1,train,25,1,-1,70,9,227,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/convince.mov,convince_0017_elementalasl_13134.mp4,ok

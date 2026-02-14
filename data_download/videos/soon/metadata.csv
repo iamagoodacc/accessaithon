@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53290,asl5200,9,0,test,25,6748,6804,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,soon_0000_asl5200_53290.mp4,skipped_no_ytdlp
+1,53295,signschool,4,1,train,25,1,-1,620,49,1564,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Temporary-K7MTuhcMSfQ.mp4,soon_0001_signschool_53295.mp4,ok
+2,53296,asldeafined,13,1,test,25,1,-1,132,0,579,480,https://media.asldeafined.com/vocabulary/1468776598.3772.mp4,soon_0002_asldeafined_53296.mp4,ok
+3,53297,handspeak,20,0,train,25,1,-1,60,8,247,240,https://www.handspeak.com/word/s/soon.mp4,soon_0003_handspeak_53297.mp4,failed
+4,53298,handspeak,20,1,val,25,1,-1,59,10,265,240,https://www.handspeak.com/word/s/soon-short.mp4,soon_0004_handspeak_53298.mp4,failed
+6,53300,signingsavvy,10,1,train,25,1,-1,83,23,214,192,https://www.signingsavvy.com/signs/mp4/23/23534.mp4,soon_0006_signingsavvy_53300.mp4,ok
+7,53301,signingsavvy,11,0,train,25,1,-1,69,14,214,192,https://www.signingsavvy.com/signs/mp4/9/9723.mp4,soon_0007_signingsavvy_53301.mp4,ok
+8,66533,aslsignbank,108,0,val,25,1,-1,181,45,458,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOON-266.mp4,soon_0008_aslsignbank_66533.mp4,failed
+9,66534,aslsignbank,108,0,train,25,1,-1,185,41,457,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOON-268.mp4,soon_0009_aslsignbank_66534.mp4,failed
+10,53292,spreadthesign,63,0,test,25,1,-1,52,0,241,240,https://media.spreadthesign.com/video/mp4/13/50817.mp4,soon_0010_spreadthesign_53292.mp4,ok
+11,53302,aslu,5,0,train,25,1,-1,325,45,930,720,https://www.youtube.com/watch?v=ty0cXz3tYlM,soon_0011_aslu_53302.mp4,skipped_no_ytdlp
+12,53303,aslpro,87,0,train,25,1,-1,16,2,223,240,http://www.aslpro.com/main/s/soon.swf,soon_0012_aslpro_53303.mp4,skipped_swf
+13,53304,aslsearch,12,1,train,25,1,-1,191,54,568,400,http://www.aslsearch.com/signs/videos/soon2.mp4,soon_0013_aslsearch_53304.mp4,ok
+14,53305,aslsearch,12,0,train,25,1,-1,190,61,572,400,http://www.aslsearch.com/signs/videos/soon.mp4,soon_0014_aslsearch_53305.mp4,ok
+15,53293,signschool,70,0,train,25,1,-1,428,12,790,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20soon-8tDdpDqZ1tY.mp4,soon_0015_signschool_53293.mp4,ok
+16,53294,signschool,45,0,val,25,1,-1,437,129,1472,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Soon-iGlkQGOMCEY.mp4,soon_0016_signschool_53294.mp4,ok

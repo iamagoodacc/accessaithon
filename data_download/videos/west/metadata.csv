@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62901,asl5200,9,0,train,25,1651,1690,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,west_0000_asl5200_62901.mp4,skipped_no_ytdlp
+1,70186,northtexas,121,0,train,25,2660,2793,147,39,490,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,west_0001_northtexas_70186.mp4,skipped_no_ytdlp
+2,62913,aslu,5,0,train,25,1,-1,309,41,922,720,https://www.youtube.com/watch?v=i5hZZy5Sl_A,west_0002_aslu_62913.mp4,skipped_no_ytdlp
+3,62914,aslpro,84,0,val,25,1,-1,33,0,257,240,http://www.aslpro.com/main/w/west.swf,west_0003_aslpro_62914.mp4,skipped_swf
+4,62915,aslsearch,12,0,train,25,1,-1,176,54,571,400,http://www.aslsearch.com/signs/videos/west.mp4,west_0004_aslsearch_62915.mp4,ok
+5,66765,aslsignbank,100,0,train,25,1,-1,123,26,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEST-1422.mp4,west_0005_aslsignbank_66765.mp4,failed
+6,62906,elementalasl,19,0,train,25,1,-1,93,10,242,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/west.mov,west_0006_elementalasl_62906.mp4,ok
+7,67055,asllex,109,0,train,25,1,-1,94,15,365,360,https://youtu.be/4M_eGGD6eEs,west_0007_asllex_67055.mp4,skipped_no_ytdlp
+8,62907,spreadthesign,2,0,train,25,1,-1,72,12,274,240,https://media.spreadthesign.com/video/mp4/13/92785.mp4,west_0008_spreadthesign_62907.mp4,ok
+9,62908,startasl,38,0,test,25,1,-1,432,59,831,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/west.mp4,west_0009_startasl_62908.mp4,ok
+10,62909,signschool,31,0,val,25,1,-1,671,72,1494,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20West-yTYwtQ6OTsI.mp4,west_0010_signschool_62909.mp4,ok
+11,62910,asldeafined,13,0,test,25,1,-1,147,0,554,480,https://media.asldeafined.com/vocabulary/1468927753.3770.mp4,west_0011_asldeafined_62910.mp4,ok
+12,62911,handspeak,14,0,train,25,1,-1,91,10,261,240,https://www.handspeak.com/word/w/west.mp4,west_0012_handspeak_62911.mp4,failed
+13,62912,signingsavvy,11,0,train,25,1,-1,83,14,225,192,https://www.signingsavvy.com/signs/mp4/6/6864.mp4,west_0013_signingsavvy_62912.mp4,ok

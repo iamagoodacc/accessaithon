@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49327,asl5200,9,0,train,25,457,513,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,saturday_0000_asl5200_49327.mp4,skipped_no_ytdlp
+1,49333,handspeak,14,0,train,25,1,-1,39,10,270,240,https://www.handspeak.com/word/s/saturdays.mp4,saturday_0001_handspeak_49333.mp4,failed
+2,49334,signingsavvy,11,0,train,25,1,-1,81,5,217,192,https://www.signingsavvy.com/signs/mp4/6/6023.mp4,saturday_0002_signingsavvy_49334.mp4,ok
+3,49335,signingsavvy,11,0,val,25,1,-1,58,15,215,192,https://www.signingsavvy.com/signs/mp4/8/8984.mp4,saturday_0003_signingsavvy_49335.mp4,ok
+4,49336,aslu,5,0,train,25,1,-1,350,41,952,720,https://www.youtube.com/watch?v=6aYPttH2RzM,saturday_0004_aslu_49336.mp4,skipped_no_ytdlp
+5,66428,aslsignbank,103,0,train,25,1,-1,165,32,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SA/SATURDAY-997.mp4,saturday_0005_aslsignbank_66428.mp4,failed
+6,67164,asllex,109,0,train,25,1,-1,76,19,366,360,https://youtu.be/Z8QQaRIGHjI,saturday_0006_asllex_67164.mp4,skipped_no_ytdlp
+7,49337,aslpro,83,0,train,25,1,-1,4,15,228,240,http://www.aslpro.com/main/s/saturday.swf,saturday_0007_aslpro_49337.mp4,skipped_swf
+8,49338,aslsearch,12,0,train,25,1,-1,198,50,568,400,http://www.aslsearch.com/signs/videos/saturday.mp4,saturday_0008_aslsearch_49338.mp4,ok
+9,49328,startasl,38,0,test,25,1,-1,408,56,812,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/saturday.mp4,saturday_0009_startasl_49328.mp4,ok
+10,49329,signschool,3,0,val,25,1,-1,517,0,1359,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Saturday-rr2mkJCxX2g.mp4,saturday_0010_signschool_49329.mp4,ok
+11,49330,asldeafined,13,0,test,25,1,-1,143,0,514,480,https://media.asldeafined.com/vocabulary/1468762994.5904.mp4,saturday_0011_asldeafined_49330.mp4,ok
+12,49331,handspeak,14,0,train,25,1,-1,59,9,274,240,https://www.handspeak.com/word/s/saturday2.mp4,saturday_0012_handspeak_49331.mp4,failed
+13,49332,handspeak,14,0,train,25,1,-1,46,10,273,240,https://www.handspeak.com/word/s/saturday.mp4,saturday_0013_handspeak_49332.mp4,failed

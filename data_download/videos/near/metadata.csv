@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37773,asl5200,9,0,train,25,270,326,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,near_0000_asl5200_37773.mp4,skipped_no_ytdlp
+1,70180,northtexas,121,0,train,25,734,848,138,39,478,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,near_0001_northtexas_70180.mp4,skipped_no_ytdlp
+2,37790,asldeafined,13,0,train,25,1,-1,125,0,556,480,https://media.asldeafined.com/vocabulary/1468718072.176.mp4,near_0002_asldeafined_37790.mp4,ok
+3,37791,handspeak,14,0,val,25,1,-1,2,0,308,240,https://www.handspeak.com/word/n/near2.mp4,near_0003_handspeak_37791.mp4,failed
+4,37792,handspeak,20,0,train,25,1,-1,123,0,526,480,https://www.handspeak.com/word/n/near.mp4,near_0004_handspeak_37792.mp4,failed
+6,37784,spreadthesign,56,0,train,25,1,-1,53,0,268,240,https://media.spreadthesign.com/video/mp4/13/48810.mp4,near_0006_spreadthesign_37784.mp4,ok
+7,37794,signingsavvy,11,0,train,25,1,-1,67,13,207,192,https://www.signingsavvy.com/signs/mp4/14/14713.mp4,near_0007_signingsavvy_37794.mp4,ok
+8,37795,aslpro,24,0,train,25,1,-1,19,17,212,240,http://www.aslpro.com/main/n/near.swf,near_0008_aslpro_37795.mp4,skipped_swf
+9,37796,aslsearch,12,0,train,25,1,-1,186,57,555,400,http://www.aslsearch.com/signs/videos/close.mp4,near_0009_aslsearch_37796.mp4,ok
+10,37785,startasl,38,0,test,25,1,-1,397,51,827,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/near.mp4,near_0010_startasl_37785.mp4,ok
+11,37786,signschool,6,0,val,25,1,-1,687,68,1441,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Near%202-mNYYD8m5cdA.mp4,near_0011_signschool_37786.mp4,ok
+12,37787,signschool,4,0,test,25,1,-1,713,45,1681,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Near-FvpESshurCM.mp4,near_0012_signschool_37787.mp4,ok
+13,37788,signschool,6,0,train,25,1,-1,685,55,1456,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Near-NHzMwjY1u8k.mp4,near_0013_signschool_37788.mp4,ok
+14,37789,signschool,3,0,train,25,1,-1,538,0,1367,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Near-xLl0ptpuPfA.mp4,near_0014_signschool_37789.mp4,ok

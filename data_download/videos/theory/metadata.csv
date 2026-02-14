@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57781,asl5200,9,0,val,25,1839,1895,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,theory_0000_asl5200_57781.mp4,skipped_no_ytdlp
+1,57785,asldeafined,13,0,train,25,1,-1,119,0,542,480,https://media.asldeafined.com/vocabulary/1468944483.6649.mp4,theory_0001_asldeafined_57785.mp4,ok
+2,57786,handspeak,20,0,train,25,1,-1,39,12,277,240,https://www.handspeak.com/word/t/theory.mp4,theory_0002_handspeak_57786.mp4,failed
+3,57787,handspeak,74,0,val,25,1,-1,35,0,472,260,https://www.handspeak.com/word/t/theory-v.mp4,theory_0003_handspeak_57787.mp4,failed
+4,57788,signingsavvy,11,0,train,25,1,-1,57,1,224,192,https://www.signingsavvy.com/signs/mp4/14/14454.mp4,theory_0004_signingsavvy_57788.mp4,ok
+5,57789,signingsavvy,11,0,train,25,1,-1,71,9,223,192,https://www.signingsavvy.com/signs/mp4/14/14838.mp4,theory_0005_signingsavvy_57789.mp4,ok
+7,66603,aslsignbank,98,0,train,25,1,-1,135,30,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THEORY-1204.mp4,theory_0007_aslsignbank_66603.mp4,failed
+8,66604,aslsignbank,98,0,train,25,1,-1,156,30,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THEORY-1205.mp4,theory_0008_aslsignbank_66604.mp4,failed
+9,57791,signingsavvy,11,0,train,25,1,-1,59,5,216,192,https://www.signingsavvy.com/signs/mp4/8/8900.mp4,theory_0009_signingsavvy_57791.mp4,ok
+10,57792,aslu,5,0,test,25,1,-1,340,28,1024,720,https://www.youtube.com/watch?v=ZFq2RPlwOrg,theory_0010_aslu_57792.mp4,skipped_no_ytdlp
+11,57793,aslpro,87,0,val,25,1,-1,15,16,207,240,http://www.aslpro.com/main/t/theory.swf,theory_0011_aslpro_57793.mp4,skipped_swf
+12,57794,aslsearch,12,0,test,25,1,-1,162,53,535,400,http://www.aslsearch.com/signs/videos/theory.mp4,theory_0012_aslsearch_57794.mp4,ok
+13,57782,elementalasl,19,0,train,25,1,-1,74,9,229,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/theory.mov,theory_0013_elementalasl_57782.mp4,ok
+14,57783,spreadthesign,2,0,train,25,1,-1,38,29,253,240,https://media.spreadthesign.com/video/mp4/13/90020.mp4,theory_0014_spreadthesign_57783.mp4,ok
+15,57784,signschool,6,0,train,25,1,-1,633,52,1536,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Theory-bRbzwZtVa3k.mp4,theory_0015_signschool_57784.mp4,ok

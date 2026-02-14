@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,37575,asl5200,9,0,test,25,24,66,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,name_0000_asl5200_37575.mp4,skipped_no_ytdlp
+1,69405,aslbrick,118,0,test,25,1,-1,331,37,917,720,http://aslbricks.org/New/ASL-Videos/name.mp4,name_0001_aslbrick_69405.mp4,ok
+2,68480,lillybauer,115,0,train,25,1,32,370,19,903,720,https://www.youtube.com/watch?v=GDAvnSKfZoU,name_0002_lillybauer_68480.mp4,skipped_no_ytdlp
+3,68106,valencia-asl,111,0,train,25,1,-1,158,0,667,480,https://www.youtube.com/watch?v=_ObcZbitfJg,name_0003_valencia-asl_68106.mp4,skipped_no_ytdlp
+4,37587,aslu,5,0,train,25,1,-1,173,14,497,360,https://www.youtube.com/watch?v=GbeC9TFuSX4,name_0004_aslu_37587.mp4,skipped_no_ytdlp
+5,37588,aslu,5,0,val,25,1,-1,351,49,963,720,https://www.youtube.com/watch?v=nMFZhDcynoY,name_0005_aslu_37588.mp4,skipped_no_ytdlp
+6,37589,aslpro,87,0,train,25,1,-1,16,5,224,240,http://www.aslpro.com/main/n/name.swf,name_0006_aslpro_37589.mp4,skipped_swf
+7,37580,spreadthesign,56,0,val,25,1,-1,23,0,272,240,https://media.spreadthesign.com/video/mp4/13/48612.mp4,name_0007_spreadthesign_37580.mp4,ok
+8,67922,asllex,109,0,train,25,1,-1,89,20,368,360,https://youtu.be/yFYsa9KPUXc,name_0008_asllex_67922.mp4,skipped_no_ytdlp
+9,37590,aslsearch,12,0,train,25,1,-1,213,53,573,400,http://www.aslsearch.com/signs/videos/name.mp4,name_0009_aslsearch_37590.mp4,ok
+10,37581,signschool,32,0,train,25,1,-1,610,67,1575,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Name-DikA_15hmng.mp4,name_0010_signschool_37581.mp4,ok
+11,37582,asldeafined,13,0,train,25,1,-1,154,0,534,480,https://media.asldeafined.com/vocabulary/1468717645.5170.mp4,name_0011_asldeafined_37582.mp4,ok
+12,37583,handspeak,20,0,val,25,1,-1,66,0,563,480,https://www.handspeak.com/word/n/name.mp4,name_0012_handspeak_37583.mp4,failed
+13,37584,handspeak,20,0,train,25,1,-1,122,0,535,480,https://www.handspeak.com/word/n/name-verb.mp4,name_0013_handspeak_37584.mp4,failed
+14,37585,signingsavvy,11,0,train,25,1,-1,81,15,229,192,https://www.signingsavvy.com/signs/mp4/7/7751.mp4,name_0014_signingsavvy_37585.mp4,ok
+15,37586,scott,47,0,train,25,1,-1,328,24,898,720,https://www.youtube.com/watch?v=7ZeN8irshAc,name_0015_scott_37586.mp4,skipped_no_ytdlp

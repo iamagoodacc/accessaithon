@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43213,asl5200,9,0,val,25,2950,3009,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,please_0000_asl5200_43213.mp4,skipped_no_ytdlp
+1,69434,aslbrick,115,0,train,25,1,-1,335,46,904,719,http://aslbricks.org/New/ASL-Videos/please.mp4,please_0001_aslbrick_69434.mp4,ok
+2,70220,northtexas,121,0,train,25,3666,3698,100,25,278,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,please_0002_northtexas_70220.mp4,skipped_no_ytdlp
+3,68670,lillybauer,115,0,val,25,1,72,267,13,928,720,https://www.youtube.com/watch?v=LTVv46_N764,please_0003_lillybauer_68670.mp4,skipped_no_ytdlp
+4,43225,aslpro,30,0,train,25,1,-1,0,8,234,240,http://www.aslpro.com/main/p/please.swf,please_0004_aslpro_43225.mp4,skipped_swf
+5,43226,aslsearch,12,0,train,25,1,-1,171,50,547,400,http://www.aslsearch.com/signs/videos/please.mp4,please_0005_aslsearch_43226.mp4,ok
+6,43217,startasl,36,0,train,25,1,-1,212,15,525,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/please.mp4,please_0006_startasl_43217.mp4,ok
+7,67083,asllex,109,0,train,25,1,-1,91,15,371,360,https://youtu.be/RHeFBNVYii4,please_0007_asllex_67083.mp4,skipped_no_ytdlp
+8,43218,signschool,3,0,train,25,1,-1,643,11,1710,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Please-eyu0V3s1-XA.mp4,please_0008_signschool_43218.mp4,ok
+9,43219,asldeafined,13,0,test,25,1,-1,118,0,561,480,https://media.asldeafined.com/vocabulary/1468754067.6864.mp4,please_0009_asldeafined_43219.mp4,ok
+10,43220,asldeafined,15,0,val,25,1,-1,108,33,536,480,https://media.asldeafined.com/vocabulary/1522767174.1064.mp4,please_0010_asldeafined_43220.mp4,ok
+11,43221,handspeak,14,0,test,25,1,-1,25,7,264,240,https://www.handspeak.com/word/p/please.mp4,please_0011_handspeak_43221.mp4,failed
+12,43222,signingsavvy,11,0,train,25,1,-1,68,13,224,192,https://www.signingsavvy.com/signs/mp4/6/6966.mp4,please_0012_signingsavvy_43222.mp4,ok
+13,43223,nabboud,51,0,train,25,1,-1,308,71,861,720,https://www.youtube.com/watch?v=QyqHzUY36cw,please_0013_nabboud_43223.mp4,skipped_no_ytdlp
+14,43224,aslu,5,0,train,25,1,-1,284,26,942,720,https://www.youtube.com/watch?v=rnb9FxPO7is,please_0014_aslu_43224.mp4,skipped_no_ytdlp

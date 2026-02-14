@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55768,asl5200,9,0,test,25,10324,10370,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sunday_0000_asl5200_55768.mp4,skipped_no_ytdlp
+1,70022,northtexas,121,0,test,25,817,943,108,22,538,480,https://www.youtube.com/watch?v=sErq0TJMKEo,sunday_0001_northtexas_70022.mp4,skipped_no_ytdlp
+2,55773,asldeafined,13,0,train,25,1,-1,82,0,605,480,https://media.asldeafined.com/vocabulary/1468898005.2311.mp4,sunday_0002_asldeafined_55773.mp4,ok
+3,55774,handspeak,14,0,train,25,1,-1,51,10,261,240,https://www.handspeak.com/word/s/sunday.mp4,sunday_0003_handspeak_55774.mp4,failed
+4,55775,handspeak,14,0,train,25,1,-1,29,5,297,240,https://www.handspeak.com/word/s/sundays.mp4,sunday_0004_handspeak_55775.mp4,failed
+5,55776,signingsavvy,11,0,val,25,1,-1,54,1,230,192,https://www.signingsavvy.com/signs/mp4/6/6328.mp4,sunday_0005_signingsavvy_55776.mp4,ok
+6,55777,signingsavvy,11,0,train,25,1,-1,46,6,234,192,https://www.signingsavvy.com/signs/mp4/6/6329.mp4,sunday_0006_signingsavvy_55777.mp4,ok
+7,55778,aslu,5,0,val,25,1,-1,233,0,1114,720,https://www.youtube.com/watch?v=bmy6YRYlW0Y,sunday_0007_aslu_55778.mp4,skipped_no_ytdlp
+8,55779,aslu,5,0,train,25,1,-1,246,0,1095,720,https://www.youtube.com/watch?v=EUoby_wzGzY,sunday_0008_aslu_55779.mp4,skipped_no_ytdlp
+9,55780,aslu,5,0,train,25,1,-1,253,0,1076,720,https://www.youtube.com/watch?v=Gh5pD88Vgw0,sunday_0009_aslu_55780.mp4,skipped_no_ytdlp
+10,55781,aslpro,24,0,train,25,1,-1,5,15,223,240,http://www.aslpro.com/main/s/sunday.swf,sunday_0010_aslpro_55781.mp4,skipped_swf
+11,55782,aslsearch,41,0,train,25,1,-1,226,37,511,400,http://www.aslsearch.com/signs/videos/sunday.mp4,sunday_0011_aslsearch_55782.mp4,ok
+12,55769,spreadthesign,0,0,val,25,1,-1,47,7,269,240,https://media.spreadthesign.com/video/mp4/13/63590.mp4,sunday_0012_spreadthesign_55769.mp4,ok
+13,55770,startasl,38,0,train,25,1,-1,372,55,861,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sunday.mp4,sunday_0013_startasl_55770.mp4,ok
+14,55771,signschool,4,0,train,25,2,-1,271,20,1691,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sunday%20var-ijo4CWiHimg.mp4,sunday_0014_signschool_55771.mp4,ok
+15,55772,signschool,3,0,train,25,1,-1,446,0,1482,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sunday-lI1t5IWPw30.mp4,sunday_0015_signschool_55772.mp4,ok

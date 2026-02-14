@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20064,asl5200,9,0,train,25,2933,2969,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,example_0000_asl5200_20064.mp4,skipped_no_ytdlp
+1,20067,signschool,4,1,test,25,1,-1,741,17,1678,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example%202-y3XklXpz9Xc.mp4,example_0001_signschool_20067.mp4,ok
+2,20068,signschool,4,1,train,25,1,-1,709,16,1686,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example%203-eKHr0uVDy9g.mp4,example_0002_signschool_20068.mp4,ok
+4,20070,signschool,6,0,train,25,1,-1,592,68,1506,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example-H2rgcfiBkbo.mp4,example_0004_signschool_20070.mp4,ok
+5,20071,signschool,4,1,train,25,1,-1,583,25,1707,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Example-luDr_yqrP4s.mp4,example_0005_signschool_20071.mp4,ok
+6,20072,asldeafined,21,0,train,25,1,-1,64,11,581,480,https://media.asldeafined.com/vocabulary/1468378376.6984.mp4,example_0006_asldeafined_20072.mp4,ok
+7,20073,handspeak,20,0,val,25,1,-1,112,0,583,480,https://www.handspeak.com/word/e/example.mp4,example_0007_handspeak_20073.mp4,failed
+8,65652,aslsignbank,98,0,train,25,1,-1,172,30,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-1337.mp4,example_0008_aslsignbank_65652.mp4,failed
+9,65653,aslsignbank,92,0,val,25,1,-1,194,40,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-2305.mp4,example_0009_aslsignbank_65653.mp4,failed
+10,65654,aslsignbank,92,1,train,25,1,-1,187,39,466,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXAMPLE-2958.mp4,example_0010_aslsignbank_65654.mp4,failed
+11,20074,signingsavvy,11,0,train,25,1,-1,76,15,213,192,https://www.signingsavvy.com/signs/mp4/6/6176.mp4,example_0011_signingsavvy_20074.mp4,ok
+12,20075,aslu,5,0,train,25,1,-1,366,49,1031,720,https://www.youtube.com/watch?v=DnIb38DHk30,example_0012_aslu_20075.mp4,skipped_no_ytdlp
+13,20076,aslpro,25,1,train,25,1,-1,4,8,250,240,http://www.aslpro.com/main/e/example.swf,example_0013_aslpro_20076.mp4,skipped_swf
+14,20077,aslsearch,41,0,test,25,1,-1,236,46,485,400,http://www.aslsearch.com/signs/videos/example.mp4,example_0014_aslsearch_20077.mp4,ok
+16,20066,spreadthesign,37,0,train,25,1,-1,75,1,239,240,https://media.spreadthesign.com/video/mp4/13/455572.mp4,example_0016_spreadthesign_20066.mp4,ok

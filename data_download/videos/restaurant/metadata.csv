@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47655,asl5200,9,0,val,25,2758,2824,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,restaurant_0000_asl5200_47655.mp4,skipped_no_ytdlp
+1,70170,northtexas,121,0,train,25,5221,5339,178,19,506,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,restaurant_0001_northtexas_70170.mp4,skipped_no_ytdlp
+2,68996,lillybauer,113,0,train,25,1,80,232,23,979,720,https://www.youtube.com/watch?v=WjAntLANPAE,restaurant_0002_lillybauer_68996.mp4,skipped_no_ytdlp
+3,47661,signingsavvy,10,0,val,25,1,-1,92,17,213,192,https://www.signingsavvy.com/signs/mp4/22/22673.mp4,restaurant_0003_signingsavvy_47661.mp4,ok
+5,47663,aslu,5,0,train,25,1,-1,372,35,943,720,https://www.youtube.com/watch?v=4Mr8Op72wR4,restaurant_0005_aslu_47663.mp4,skipped_no_ytdlp
+6,47664,aslu,5,0,train,25,1,-1,381,15,989,720,https://www.youtube.com/watch?v=oH72yDS3Lok,restaurant_0006_aslu_47664.mp4,skipped_no_ytdlp
+7,66398,aslsignbank,103,0,train,25,1,-1,127,31,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESTAURANT-969.mp4,restaurant_0007_aslsignbank_66398.mp4,failed
+8,67139,asllex,109,0,train,25,1,-1,94,20,364,360,https://youtu.be/ga1SpOcX4_4,restaurant_0008_asllex_67139.mp4,skipped_no_ytdlp
+9,47665,aslpro,87,0,train,25,1,-1,23,7,225,240,http://www.aslpro.com/main/r/restaurant.swf,restaurant_0009_aslpro_47665.mp4,skipped_swf
+10,47666,aslsearch,41,0,test,25,1,-1,228,42,474,400,http://www.aslsearch.com/signs/videos/restaurant.mp4,restaurant_0010_aslsearch_47666.mp4,ok
+11,47656,spreadthesign,63,0,val,25,1,-1,55,0,257,240,https://media.spreadthesign.com/video/mp4/13/50756.mp4,restaurant_0011_spreadthesign_47656.mp4,ok
+12,47657,startasl,36,0,test,25,1,-1,222,16,521,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/restaurant.mp4,restaurant_0012_startasl_47657.mp4,ok
+13,47658,signschool,45,0,train,25,1,-1,823,131,1464,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Restaurant%202-uv8d_492XI0.mp4,restaurant_0013_signschool_47658.mp4,ok
+14,47659,asldeafined,13,0,train,25,1,-1,173,0,543,480,https://media.asldeafined.com/vocabulary/1468760497.4726.mp4,restaurant_0014_asldeafined_47659.mp4,ok
+15,47660,handspeak,14,0,train,25,1,-1,130,0,481,480,https://www.handspeak.com/word/r/restaurant.mp4,restaurant_0015_handspeak_47660.mp4,failed

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61991,asl5200,9,0,train,25,1049,1108,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,vote_0000_asl5200_61991.mp4,skipped_no_ytdlp
+1,61997,asldeafined,13,0,train,25,1,-1,116,0,519,480,https://media.asldeafined.com/vocabulary/1468926806.6053.mp4,vote_0001_asldeafined_61997.mp4,ok
+2,61998,handspeak,14,0,train,25,1,-1,82,0,556,480,https://www.handspeak.com/word/v/vote2.mp4,vote_0002_handspeak_61998.mp4,failed
+3,61999,handspeak,14,0,val,25,1,-1,98,0,543,480,https://www.handspeak.com/word/v/vote.mp4,vote_0003_handspeak_61999.mp4,failed
+4,62000,signingsavvy,11,0,train,25,1,-1,67,13,206,192,https://www.signingsavvy.com/signs/mp4/8/8929.mp4,vote_0004_signingsavvy_62000.mp4,ok
+5,67032,asllex,109,0,train,25,1,-1,69,13,380,360,https://youtu.be/n-hsa81bP2k,vote_0005_asllex_67032.mp4,skipped_no_ytdlp
+6,62001,aslu,5,0,train,25,1,-1,285,53,920,720,https://www.youtube.com/watch?v=4jJq0AU7oXM,vote_0006_aslu_62001.mp4,skipped_no_ytdlp
+7,62002,aslpro,83,0,train,25,1,-1,0,14,221,240,http://www.aslpro.com/main/v/vote.swf,vote_0007_aslpro_62002.mp4,skipped_swf
+8,62003,aslsearch,41,0,train,25,1,-1,240,39,488,400,http://www.aslsearch.com/signs/videos/vote.mp4,vote_0008_aslsearch_62003.mp4,ok
+9,61992,elementalasl,19,0,test,25,1,-1,85,10,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/vote.mov,vote_0009_elementalasl_61992.mp4,ok
+10,61993,spreadthesign,26,0,val,25,1,-1,75,21,235,240,https://media.spreadthesign.com/video/mp4/13/308832.mp4,vote_0010_spreadthesign_61993.mp4,ok
+11,61994,signschool,39,0,test,25,1,-1,701,52,1719,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea%2C%20Vote-JGnz_I9hFCY.mp4,vote_0011_signschool_61994.mp4,ok
+12,61995,signschool,4,0,train,25,1,-1,540,78,1566,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Vote-H-oMq_v7uHE.mp4,vote_0012_signschool_61995.mp4,ok
+13,61996,signschool,4,0,train,25,1,-1,487,90,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Voting%2C%20Ballot%2C%20Election-gQLAMfsYOno.mp4,vote_0013_signschool_61996.mp4,ok

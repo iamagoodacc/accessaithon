@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43519,asl5200,9,0,test,25,3246,3305,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,police_0000_asl5200_43519.mp4,skipped_no_ytdlp
+1,70198,northtexas,121,0,test,25,5152,5285,139,34,452,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,police_0001_northtexas_70198.mp4,skipped_no_ytdlp
+2,43526,handspeak,20,0,train,25,1,-1,123,3,482,360,https://www.handspeak.com/word/p/police-c.mp4,police_0002_handspeak_43526.mp4,failed
+3,43527,handspeak,14,0,train,25,1,-1,92,0,537,480,https://www.handspeak.com/word/p/police.mp4,police_0003_handspeak_43527.mp4,failed
+4,43528,signingsavvy,11,0,train,25,1,-1,74,7,211,192,https://www.signingsavvy.com/signs/mp4/14/14010.mp4,police_0004_signingsavvy_43528.mp4,ok
+5,43529,signingsavvy,11,0,val,25,1,-1,74,6,211,192,https://www.signingsavvy.com/signs/mp4/14/14012.mp4,police_0005_signingsavvy_43529.mp4,ok
+7,43531,nabboud,62,0,train,25,1,-1,387,59,899,720,https://www.youtube.com/watch?v=1DmLfk0JE84,police_0007_nabboud_43531.mp4,skipped_no_ytdlp
+8,66306,aslsignbank,101,0,val,25,1,-1,199,10,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POLICE-912.mp4,police_0008_aslsignbank_66306.mp4,failed
+9,43522,spreadthesign,56,0,train,25,1,-1,49,0,259,240,https://media.spreadthesign.com/video/mp4/13/49201.mp4,police_0009_spreadthesign_43522.mp4,ok
+10,43532,aslu,5,0,train,25,1,-1,126,0,481,360,https://www.youtube.com/watch?v=aPcjl3P94xc,police_0010_aslu_43532.mp4,skipped_no_ytdlp
+11,43533,aslu,5,0,train,25,1,-1,263,40,949,720,https://www.youtube.com/watch?v=TyxYhCL1RSA,police_0011_aslu_43533.mp4,skipped_no_ytdlp
+12,43534,aslpro,87,0,train,25,1,-1,7,20,206,240,http://www.aslpro.com/main/p/police.swf,police_0012_aslpro_43534.mp4,skipped_swf
+13,43535,aslsearch,12,0,val,25,1,-1,176,51,530,400,http://www.aslsearch.com/signs/videos/cop.mp4,police_0013_aslsearch_43535.mp4,ok
+14,43523,signschool,4,0,train,25,1,-1,739,67,1542,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cop%202-Nba4p7eNbnY.mp4,police_0014_signschool_43523.mp4,ok
+15,43524,signschool,4,0,train,25,1,-1,768,57,1539,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Officer-_bWGe-DFJdw.mp4,police_0015_signschool_43524.mp4,ok
+16,43525,asldeafined,13,0,train,25,1,-1,132,0,518,480,https://media.asldeafined.com/vocabulary/1468754360.5475.mp4,police_0016_asldeafined_43525.mp4,ok

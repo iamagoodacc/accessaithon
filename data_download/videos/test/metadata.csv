@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57519,asl5200,9,0,test,25,1229,1281,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,test_0000_asl5200_57519.mp4,skipped_no_ytdlp
+1,57530,asldeafined,13,0,test,25,1,-1,104,0,578,480,https://media.asldeafined.com/vocabulary/1468943975.361.mp4,test_0001_asldeafined_57530.mp4,ok
+2,57531,asldeafined,15,0,train,25,1,-1,109,29,529,480,https://media.asldeafined.com/vocabulary/1522768230.8891.mp4,test_0002_asldeafined_57531.mp4,ok
+3,57532,handspeak,14,0,train,25,1,-1,25,0,608,480,https://www.handspeak.com/word/t/test2.mp4,test_0003_handspeak_57532.mp4,failed
+4,57533,handspeak,14,0,train,25,1,-1,66,0,558,480,https://www.handspeak.com/word/t/test.mp4,test_0004_handspeak_57533.mp4,failed
+5,57534,signingsavvy,10,0,val,25,1,-1,80,21,207,192,https://www.signingsavvy.com/signs/mp4/22/22108.mp4,test_0005_signingsavvy_57534.mp4,ok
+6,57535,signingsavvy,10,0,train,25,1,-1,70,20,217,192,https://www.signingsavvy.com/signs/mp4/22/22529.mp4,test_0006_signingsavvy_57535.mp4,ok
+7,57536,aslu,5,0,val,25,1,-1,342,40,999,720,https://www.youtube.com/watch?v=GtBVLsZBlC8,test_0007_aslu_57536.mp4,skipped_no_ytdlp
+8,57527,spreadthesign,0,0,train,25,1,-1,50,7,274,240,https://media.spreadthesign.com/video/mp4/13/58477.mp4,test_0008_spreadthesign_57527.mp4,ok
+9,67290,asllex,109,0,train,25,1,-1,82,18,382,360,https://youtu.be/gluH0Ql0Yvg,test_0009_asllex_67290.mp4,skipped_no_ytdlp
+10,57537,aslpro,58,0,train,25,1,-1,22,8,224,240,http://www.aslpro.com//main/t/test_computer_program.swf,test_0010_aslpro_57537.mp4,skipped_swf
+12,57539,aslpro,87,0,train,25,1,-1,22,5,225,240,http://www.aslpro.com/main/t/test.swf,test_0012_aslpro_57539.mp4,skipped_swf
+13,57540,aslpro,72,0,val,25,1,-1,24,7,227,240,http://www.aslpro.com/main/t/test_taking.swf,test_0013_aslpro_57540.mp4,skipped_swf
+14,57541,aslsearch,12,0,train,25,1,-1,173,51,557,400,http://www.aslsearch.com/signs/videos/test.mp4,test_0014_aslsearch_57541.mp4,ok
+15,57528,signschool,4,0,train,25,1,-1,657,70,1739,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Test%202-KlDer4bQzcg.mp4,test_0015_signschool_57528.mp4,ok
+16,57529,signschool,4,0,train,25,1,-1,676,54,1713,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Test-4PFnoJMNOeI.mp4,test_0016_signschool_57529.mp4,ok

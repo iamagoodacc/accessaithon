@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21052,asl5200,9,0,test,25,480,519,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,far_0000_asl5200_21052.mp4,skipped_no_ytdlp
+2,21073,signschool,6,0,train,25,1,-1,493,68,1462,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-Is4-JyMoX5A.mp4,far_0002_signschool_21073.mp4,ok
+3,21074,signschool,32,0,train,25,1,-1,482,57,1647,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-sfcP223iU-4.mp4,far_0003_signschool_21074.mp4,ok
+4,21075,asldeafined,15,1,train,25,1,-1,143,35,525,480,https://media.asldeafined.com/vocabulary/1499869515.5396.mp4,far_0004_asldeafined_21075.mp4,ok
+5,21076,handspeak,20,0,val,25,1,-1,8,0,629,480,https://www.handspeak.com/word/f/far.mp4,far_0005_handspeak_21076.mp4,failed
+6,21077,signingsavvy,10,0,train,25,1,-1,45,0,208,192,https://www.signingsavvy.com/signs/mp4/23/23561.mp4,far_0006_signingsavvy_21077.mp4,ok
+7,21078,signingsavvy,10,1,test,25,1,-1,48,14,222,192,https://www.signingsavvy.com/signs/mp4/23/23562.mp4,far_0007_signingsavvy_21078.mp4,ok
+8,65682,aslsignbank,94,0,test,25,1,-1,163,23,453,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FA/FAR-699.mp4,far_0008_aslsignbank_65682.mp4,failed
+9,21069,spreadthesign,37,0,train,25,1,-1,67,0,248,240,https://media.spreadthesign.com/video/mp4/13/455630.mp4,far_0009_spreadthesign_21069.mp4,ok
+10,67643,asllex,109,0,train,25,1,-1,67,15,384,360,https://youtu.be/fpCyfaQ5bXY,far_0010_asllex_67643.mp4,skipped_no_ytdlp
+11,21079,aslu,5,0,train,25,1,-1,128,0,494,360,https://www.youtube.com/watch?v=zVJ7-WuHsow,far_0011_aslu_21079.mp4,skipped_no_ytdlp
+12,21080,aslpro,83,0,train,25,1,-1,21,0,217,240,http://www.aslpro.com/main/f/far.swf,far_0012_aslpro_21080.mp4,skipped_swf
+13,21081,aslsearch,41,0,val,25,1,-1,183,42,489,400,http://www.aslsearch.com/signs/videos/remote.mp4,far_0013_aslsearch_21081.mp4,ok
+14,21070,startasl,38,1,val,25,1,-1,362,57,898,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/far.mp4,far_0014_startasl_21070.mp4,ok
+15,21071,signschool,6,1,train,25,1,-1,539,64,1456,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far%202-0WbL8BG12fo.mp4,far_0015_signschool_21071.mp4,ok
+16,21072,signschool,3,1,train,25,1,-1,359,0,1402,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Far-6By4ve8GCtI.mp4,far_0016_signschool_21072.mp4,ok

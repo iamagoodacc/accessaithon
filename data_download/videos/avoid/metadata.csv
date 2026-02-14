@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04341,asl5200,9,0,val,25,5362,5411,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,avoid_0000_asl5200_04341.mp4,skipped_no_ytdlp
+1,04350,aslu,5,0,train,25,1,-1,323,59,913,720,https://www.youtube.com/watch?v=VmmkI3r_JGk,avoid_0001_aslu_04350.mp4,skipped_no_ytdlp
+2,04351,aslpro,24,0,train,25,1,-1,3,16,220,240,http://www.aslpro.com/main/a/avoid.swf,avoid_0002_aslpro_04351.mp4,skipped_swf
+3,04352,aslsearch,12,0,train,25,1,-1,184,49,547,400,http://www.aslsearch.com/signs/videos/avoid.mp4,avoid_0003_aslsearch_04352.mp4,ok
+4,65114,aslsignbank,89,0,train,25,1,-1,200,41,482,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AV/AVOID-2083.mp4,avoid_0004_aslsignbank_65114.mp4,failed
+5,65115,aslsignbank,90,0,train,25,1,-1,161,15,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/AV/AVOID-2411.mp4,avoid_0005_aslsignbank_65115.mp4,failed
+6,04343,spreadthesign,2,0,train,25,1,-1,51,3,253,240,https://media.spreadthesign.com/video/mp4/13/123103.mp4,avoid_0006_spreadthesign_04343.mp4,ok
+7,04344,signschool,4,0,train,25,1,-1,661,55,1674,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Avoid-yLNR1bTv8ek.mp4,avoid_0007_signschool_04344.mp4,ok
+8,04345,asldeafined,13,0,train,25,1,-1,102,18,525,480,https://media.asldeafined.com/vocabulary/1466647301.1318.mp4,avoid_0008_asldeafined_04345.mp4,ok
+9,04346,handspeak,14,0,test,25,1,-1,137,25,475,480,https://www.handspeak.com/word/a/avoid.mp4,avoid_0009_handspeak_04346.mp4,failed
+10,04347,signingsavvy,11,0,train,25,1,-1,74,16,211,192,https://www.signingsavvy.com/signs/mp4/7/7468.mp4,avoid_0010_signingsavvy_04347.mp4,ok
+11,04348,signingsavvy,11,0,test,25,1,-1,71,16,214,192,https://www.signingsavvy.com/signs/mp4/7/7469.mp4,avoid_0011_signingsavvy_04348.mp4,ok
+12,04349,aslu,5,0,val,25,1,-1,330,55,914,720,https://www.youtube.com/watch?v=ESOxu86BLGw,avoid_0012_aslu_04349.mp4,skipped_no_ytdlp

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38314,asl5200,9,0,train,25,1218,1270,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,niece_0000_asl5200_38314.mp4,skipped_no_ytdlp
+1,70338,northtexas,121,0,train,25,2203,2314,196,46,440,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,niece_0001_northtexas_70338.mp4,skipped_no_ytdlp
+2,68584,lillybauer,112,0,train,25,1,38,303,20,877,720,https://www.youtube.com/watch?v=j7ybSP4gw98,niece_0002_lillybauer_68584.mp4,skipped_no_ytdlp
+3,38322,aslu,5,0,val,25,1,-1,294,39,925,720,https://www.youtube.com/watch?v=NOv6lpXTnyo,niece_0003_aslu_38322.mp4,skipped_no_ytdlp
+4,38323,aslpro,30,0,train,25,1,-1,1,11,225,240,http://www.aslpro.com/main/n/niece.swf,niece_0004_aslpro_38323.mp4,skipped_swf
+5,66171,aslsignbank,97,0,train,25,1,-1,163,28,455,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/NI/NIECE-1571.mp4,niece_0005_aslsignbank_66171.mp4,failed
+6,38324,aslsearch,41,0,train,25,1,-1,250,39,501,400,http://www.aslsearch.com/signs/videos/niece.mp4,niece_0006_aslsearch_38324.mp4,ok
+7,38315,spreadthesign,56,0,train,25,1,-1,52,0,263,240,https://media.spreadthesign.com/video/mp4/13/48820.mp4,niece_0007_spreadthesign_38315.mp4,ok
+8,38316,startasl,36,0,train,25,1,-1,226,14,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/neice.mp4,niece_0008_startasl_38316.mp4,ok
+9,38317,signschool,60,0,test,25,1,-1,353,15,761,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Niece-9toTZ-aMVWs.mp4,niece_0009_signschool_38317.mp4,ok
+10,38318,asldeafined,13,0,val,25,1,-1,97,0,498,480,https://media.asldeafined.com/vocabulary/1468719070.6193.mp4,niece_0010_asldeafined_38318.mp4,ok
+11,38319,handspeak,20,0,test,25,1,-1,91,0,591,480,https://www.handspeak.com/word/n/niece.mp4,niece_0011_handspeak_38319.mp4,failed
+12,38320,signingsavvy,11,0,train,25,1,-1,67,9,216,192,https://www.signingsavvy.com/signs/mp4/5/5890.mp4,niece_0012_signingsavvy_38320.mp4,ok
+13,38321,aslu,5,0,train,25,1,-1,275,48,978,720,https://www.youtube.com/watch?v=2QjBxzVbD7Y,niece_0013_aslu_38321.mp4,skipped_no_ytdlp

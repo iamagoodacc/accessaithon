@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61977,asl5200,9,0,train,25,996,1048,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,vomit_0000_asl5200_61977.mp4,skipped_no_ytdlp
+1,61982,signschool,32,0,train,25,1,-1,706,72,1605,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Puke%2C%20Vomit-RRGvr-dhQHo.mp4,vomit_0001_signschool_61982.mp4,ok
+2,61983,signschool,60,0,train,25,1,-1,344,35,753,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Throwing%20Up-q7oFG6PzyxQ.mp4,vomit_0002_signschool_61983.mp4,ok
+3,61984,asldeafined,13,0,val,25,1,-1,144,0,519,480,https://media.asldeafined.com/vocabulary/1468926788.2550.mp4,vomit_0003_asldeafined_61984.mp4,ok
+4,61985,handspeak,14,0,train,25,1,-1,91,8,546,480,https://www.handspeak.com/word/v/vomit.mp4,vomit_0004_handspeak_61985.mp4,failed
+5,61986,signingsavvy,11,0,train,25,1,-1,79,13,223,192,https://www.signingsavvy.com/signs/mp4/7/7819.mp4,vomit_0005_signingsavvy_61986.mp4,ok
+6,67033,asllex,109,0,train,25,1,-1,88,20,375,360,https://youtu.be/Vfxe3bvoKdY,vomit_0006_asllex_67033.mp4,skipped_no_ytdlp
+7,61987,signingsavvy,11,0,train,25,1,-1,78,16,212,192,https://www.signingsavvy.com/signs/mp4/9/9190.mp4,vomit_0007_signingsavvy_61987.mp4,ok
+8,61988,aslu,5,0,train,25,1,-1,345,40,939,720,https://www.youtube.com/watch?v=eyu6rDm1uFM,vomit_0008_aslu_61988.mp4,skipped_no_ytdlp
+9,61989,aslpro,87,0,test,25,1,-1,28,15,230,240,http://www.aslpro.com/main/v/vomit.swf,vomit_0009_aslpro_61989.mp4,skipped_swf
+10,61990,aslsearch,41,0,val,25,1,-1,239,40,488,400,http://www.aslsearch.com/signs/videos/vomit.mp4,vomit_0010_aslsearch_61990.mp4,ok
+11,61978,spreadthesign,28,0,test,25,1,-1,62,9,280,240,https://media.spreadthesign.com/video/mp4/13/483787.mp4,vomit_0011_spreadthesign_61978.mp4,ok
+12,61979,startasl,38,0,train,25,1,-1,407,51,805,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/vomit.mp4,vomit_0012_startasl_61979.mp4,ok
+13,61980,signschool,32,0,train,25,1,-1,728,75,1599,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Puke%2C%20Vomit%202-bjEi_7qYcBQ.mp4,vomit_0013_signschool_61980.mp4,ok

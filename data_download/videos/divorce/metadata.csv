@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16961,asl5200,9,0,train,25,3656,3712,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,divorce_0000_asl5200_16961.mp4,skipped_no_ytdlp
+1,70341,northtexas,121,0,train,25,2658,2762,179,46,480,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,divorce_0001_northtexas_70341.mp4,skipped_no_ytdlp
+2,68426,lillybauer,112,0,train,25,1,32,352,34,985,720,https://www.youtube.com/watch?v=Ec8ZZe6p7gw,divorce_0002_lillybauer_68426.mp4,skipped_no_ytdlp
+3,16966,startasl,36,0,val,25,1,-1,210,17,545,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/divorce.mp4,divorce_0003_startasl_16966.mp4,ok
+5,16968,signschool,6,0,train,25,1,-1,634,36,1506,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Divorce-bOAMrTyVSAU.mp4,divorce_0005_signschool_16968.mp4,ok
+8,16971,handspeak,20,0,train,25,1,-1,65,0,552,480,https://www.handspeak.com/word/d/divorce.mp4,divorce_0008_handspeak_16971.mp4,failed
+9,16972,signingsavvy,11,0,train,25,1,-1,64,3,226,192,https://www.signingsavvy.com/signs/mp4/5/5694.mp4,divorce_0009_signingsavvy_16972.mp4,ok
+10,65500,aslsignbank,99,0,train,25,1,-1,141,21,444,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/DI/DIVORCE-2158.mp4,divorce_0010_aslsignbank_65500.mp4,failed
+11,16963,spreadthesign,77,0,train,25,1,-1,27,0,281,240,https://media.spreadthesign.com/video/mp4/13/185037.mp4,divorce_0011_spreadthesign_16963.mp4,ok
+12,67577,asllex,109,0,test,25,1,-1,97,21,392,360,https://youtu.be/66grF_7ckhY,divorce_0012_asllex_67577.mp4,skipped_no_ytdlp
+13,16973,aslu,5,0,val,25,1,-1,371,48,958,720,https://www.youtube.com/watch?v=JCTgLJFs4c8,divorce_0013_aslu_16973.mp4,skipped_no_ytdlp
+15,16975,aslpro,24,0,test,25,1,-1,5,7,221,240,http://www.aslpro.com/main/d/divorce.swf,divorce_0015_aslpro_16975.mp4,skipped_swf
+16,16976,aslsearch,12,0,train,25,1,-1,181,57,572,400,http://www.aslsearch.com/signs/videos/divorce.mp4,divorce_0016_aslsearch_16976.mp4,ok
+18,16965,spreadthesign,0,0,train,25,1,-1,65,0,276,240,https://media.spreadthesign.com/video/mp4/13/58289.mp4,divorce_0018_spreadthesign_16965.mp4,ok

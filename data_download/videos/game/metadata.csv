@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24023,asl5200,9,0,val,25,127,169,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,game_0000_asl5200_24023.mp4,skipped_no_ytdlp
+1,68242,lillybauer,113,0,train,25,1,72,115,14,543,357,https://www.youtube.com/watch?v=3YlB2Mi3Mko,game_0001_lillybauer_68242.mp4,skipped_no_ytdlp
+2,68798,lillybauer,113,0,train,25,1,105,227,17,1009,720,https://www.youtube.com/watch?v=PkvCJZckEPc,game_0002_lillybauer_68798.mp4,skipped_no_ytdlp
+3,68056,valencia-asl,109,0,val,25,1,-1,111,0,1192,720,https://www.youtube.com/watch?v=PuyPRaYlQFw,game_0003_valencia-asl_68056.mp4,skipped_no_ytdlp
+4,24032,aslpro,16,0,train,25,1,-1,13,19,222,240,http://www.aslpro.com/main/g/game.swf,game_0004_aslpro_24032.mp4,skipped_swf
+5,24033,aslsearch,12,0,train,25,1,-1,169,52,532,400,http://www.aslsearch.com/signs/videos/game.mp4,game_0005_aslsearch_24033.mp4,ok
+6,65800,aslsignbank,106,0,train,25,1,-1,158,39,472,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GA/GAME-463.mp4,game_0006_aslsignbank_65800.mp4,failed
+7,24025,startasl,38,0,train,25,1,-1,382,46,811,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/game.mp4,game_0007_startasl_24025.mp4,ok
+8,67702,asllex,109,0,train,25,1,-1,103,22,388,360,https://youtu.be/iOxb7dWWa2E,game_0008_asllex_67702.mp4,skipped_no_ytdlp
+9,24026,signschool,52,0,test,25,1,-1,257,9,618,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20game.mp4,game_0009_signschool_24026.mp4,ok
+10,24027,asldeafined,21,0,val,25,1,-1,115,14,569,480,https://media.asldeafined.com/vocabulary/1468514906.7628.mp4,game_0010_asldeafined_24027.mp4,ok
+11,24028,handspeak,20,0,test,25,1,-1,56,0,490,480,https://www.handspeak.com/word/g/game.mp4,game_0011_handspeak_24028.mp4,failed
+12,24029,signingsavvy,11,0,train,25,1,-1,63,16,215,192,https://www.signingsavvy.com/signs/mp4/6/6522.mp4,game_0012_signingsavvy_24029.mp4,ok
+13,24030,aslu,5,0,train,25,1,-1,150,10,498,360,https://www.youtube.com/watch?v=eEr2VVdFtWg,game_0013_aslu_24030.mp4,skipped_no_ytdlp
+14,24031,aslu,5,0,train,25,1,-1,353,55,928,720,https://www.youtube.com/watch?v=eEr2VVdFtWg,game_0014_aslu_24031.mp4,skipped_no_ytdlp

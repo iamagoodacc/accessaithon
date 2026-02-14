@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69218,aslbrick,115,0,train,25,1,-1,250,45,900,720,http://aslbricks.org/New/ASL-Videos/back.mp4,back_0000_aslbrick_69218.mp4,ok
+1,65120,aslsignbank,88,0,train,25,1,-1,127,0,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BACK-27.mp4,back_0001_aslsignbank_65120.mp4,failed
+2,70164,northtexas,121,0,train,25,4050,4146,153,22,511,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,back_0002_northtexas_70164.mp4,skipped_no_ytdlp
+3,04596,handspeak,20,0,train,25,1,-1,23,0,493,476,https://www.handspeak.com/word/b/back-body.mp4,back_0003_handspeak_04596.mp4,failed
+4,04597,handspeak,14,1,train,25,1,-1,94,5,535,360,https://www.handspeak.com/word/b/back-fs.mp4,back_0004_handspeak_04597.mp4,failed
+7,04600,signingsavvy,11,1,test,25,1,-1,54,8,223,192,https://www.signingsavvy.com/signs/mp4/6/6154.mp4,back_0007_signingsavvy_04600.mp4,ok
+8,04601,signingsavvy,11,1,val,25,1,-1,31,8,224,192,https://www.signingsavvy.com/signs/mp4/6/6155.mp4,back_0008_signingsavvy_04601.mp4,ok
+9,04592,signschool,4,1,train,25,1,-1,738,81,1631,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Back%20copy-1DjBwnA6i5o.mp4,back_0009_signschool_04592.mp4,ok
+10,67379,asllex,109,0,val,25,1,-1,97,17,370,360,https://youtu.be/tM18pnANcJA,back_0010_asllex_67379.mp4,skipped_no_ytdlp
+11,04602,aslu,5,1,train,25,1,-1,212,5,947,720,https://www.youtube.com/watch?v=qp7gCgcExlA,back_0011_aslu_04602.mp4,skipped_no_ytdlp
+12,04603,aslpro,25,0,val,25,1,-1,0,8,260,240,http://www.aslpro.com/main/b/back.swf,back_0012_aslpro_04603.mp4,skipped_swf
+13,04604,aslsearch,12,0,train,25,1,-1,161,51,542,398,http://www.aslsearch.com/signs/videos/back2.mp4,back_0013_aslsearch_04604.mp4,ok
+15,04593,signschool,4,0,test,25,1,-1,350,52,1649,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Back-kzjPOzLlaI0.mp4,back_0015_signschool_04593.mp4,ok
+17,04595,handspeak,14,0,train,25,1,-1,29,0,492,480,https://www.handspeak.com/word/b/back-body2.mp4,back_0017_handspeak_04595.mp4,failed

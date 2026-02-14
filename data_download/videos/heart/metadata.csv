@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,27013,asl5200,9,0,test,25,1057,1113,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,heart_0000_asl5200_27013.mp4,skipped_no_ytdlp
+1,27044,signschool,4,0,val,25,1,-1,675,55,1512,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Heart%20copy-ruzHjYmh9Yw.mp4,heart_0001_signschool_27044.mp4,ok
+3,27046,asldeafined,21,0,train,25,1,-1,93,12,531,480,https://media.asldeafined.com/vocabulary/1468580452.623.mp4,heart_0003_asldeafined_27046.mp4,ok
+4,27047,handspeak,20,1,test,25,1,-1,89,0,588,480,https://www.handspeak.com/word/h/heart2.mp4,heart_0004_handspeak_27047.mp4,failed
+5,27048,handspeak,20,0,train,25,1,-1,123,0,552,480,https://www.handspeak.com/word/h/heart.mp4,heart_0005_handspeak_27048.mp4,failed
+7,27050,signingsavvy,11,0,train,25,1,-1,87,14,231,192,https://www.signingsavvy.com/signs/mp4/8/8387.mp4,heart_0007_signingsavvy_27050.mp4,ok
+8,27051,signingsavvy,11,1,val,25,1,-1,81,14,236,192,https://www.signingsavvy.com/signs/mp4/8/8388.mp4,heart_0008_signingsavvy_27051.mp4,ok
+9,27042,spreadthesign,37,1,train,25,1,-1,61,0,264,240,https://media.spreadthesign.com/video/mp4/13/456569.mp4,heart_0009_spreadthesign_27042.mp4,ok
+10,67752,asllex,109,1,train,25,1,-1,95,20,394,360,https://youtu.be/0jSUF1b4YiU,heart_0010_asllex_67752.mp4,skipped_no_ytdlp
+12,27053,aslu,5,0,train,25,1,-1,160,4,492,360,https://www.youtube.com/watch?v=t6qHzKr2t2s,heart_0012_aslu_27053.mp4,skipped_no_ytdlp
+14,27055,aslpro,44,1,train,25,1,-1,0,5,217,240,http://www.aslpro.com/main/h/heart.swf,heart_0014_aslpro_27055.mp4,skipped_swf
+15,27056,aslsearch,12,1,train,25,1,-1,182,52,559,400,http://www.aslsearch.com/signs/videos/heart2.mp4,heart_0015_aslsearch_27056.mp4,ok
+16,27057,aslsearch,12,0,train,25,1,-1,192,60,563,400,http://www.aslsearch.com/signs/videos/heart.mp4,heart_0016_aslsearch_27057.mp4,ok
+17,27043,signschool,4,1,train,25,1,-1,670,51,1580,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Heart%202-HROvaYjDSms.mp4,heart_0017_signschool_27043.mp4,ok

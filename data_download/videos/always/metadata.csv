@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,02227,asl5200,9,0,train,25,2106,2168,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,always_0000_asl5200_02227.mp4,skipped_no_ytdlp
+1,70037,northtexas,121,0,train,25,4535,4666,92,19,478,480,https://www.youtube.com/watch?v=sErq0TJMKEo,always_0001_northtexas_70037.mp4,skipped_no_ytdlp
+2,02234,aslu,5,0,train,25,1,-1,100,1,498,360,https://www.youtube.com/watch?v=Y3zx5yBwHRE,always_0002_aslu_02234.mp4,skipped_no_ytdlp
+3,02235,aslu,5,0,val,25,1,-1,223,37,889,720,https://www.youtube.com/watch?v=Y3zx5yBwHRE,always_0003_aslu_02235.mp4,skipped_no_ytdlp
+4,02236,aslu,5,0,train,25,1,-1,118,5,489,360,https://www.youtube.com/watch?v=Yqf6EJAeohg,always_0004_aslu_02236.mp4,skipped_no_ytdlp
+5,65061,aslsignbank,89,0,train,25,1,-1,210,1,514,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AL/ALWAYS-265.mp4,always_0005_aslsignbank_65061.mp4,failed
+6,02237,aslpro,16,0,train,25,1,-1,13,9,225,240,http://www.aslpro.com/main/a/always.swf,always_0006_aslpro_02237.mp4,skipped_swf
+7,02238,aslsearch,41,0,train,25,1,-1,220,34,483,400,http://www.aslsearch.com/signs/videos/always.mp4,always_0007_aslsearch_02238.mp4,ok
+8,02228,spreadthesign,2,0,train,25,1,-1,70,8,255,240,https://media.spreadthesign.com/video/mp4/13/118426.mp4,always_0008_spreadthesign_02228.mp4,ok
+9,02229,startasl,36,0,test,25,1,-1,144,17,525,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/always.mp4,always_0009_startasl_02229.mp4,ok
+10,02230,signschool,4,0,val,25,1,-1,182,56,1552,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Always-2A6SSJx4Atg.mp4,always_0010_signschool_02230.mp4,ok
+11,02231,asldeafined,13,0,test,25,1,-1,103,26,510,480,https://media.asldeafined.com/vocabulary/1466177950.1837.mp4,always_0011_asldeafined_02231.mp4,ok
+12,02232,handspeak,20,0,train,25,1,-1,35,1,515,480,https://www.handspeak.com/word/a/always.mp4,always_0012_handspeak_02232.mp4,failed
+13,02233,signingsavvy,10,0,train,25,1,-1,65,26,209,192,https://www.signingsavvy.com/signs/mp4/22/22879.mp4,always_0013_signingsavvy_02233.mp4,ok

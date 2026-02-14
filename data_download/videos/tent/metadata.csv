@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57430,asl5200,9,0,train,25,1139,1171,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tent_0000_asl5200_57430.mp4,skipped_no_ytdlp
+1,69501,aslbrick,115,0,train,25,1,-1,337,33,1006,720,http://aslbricks.org/New/ASL-Videos/tent.mp4,tent_0001_aslbrick_69501.mp4,ok
+2,57443,aslu,5,0,train,25,1,-1,336,26,945,720,https://www.youtube.com/watch?v=dCOOqPOnX-k,tent_0002_aslu_57443.mp4,skipped_no_ytdlp
+3,57444,aslu,5,0,val,25,1,-1,341,21,978,720,https://www.youtube.com/watch?v=rhEiR86Su-o,tent_0003_aslu_57444.mp4,skipped_no_ytdlp
+4,57445,aslu,5,0,train,25,1,-1,355,46,964,720,https://www.youtube.com/watch?v=WkZNxhbnCb0,tent_0004_aslu_57445.mp4,skipped_no_ytdlp
+5,57436,spreadthesign,2,0,train,25,1,-1,37,0,282,240,https://media.spreadthesign.com/video/mp4/13/400981.mp4,tent_0005_spreadthesign_57436.mp4,ok
+6,57446,aslpro,84,0,train,25,1,-1,5,1,255,240,http://www.aslpro.com/main/t/tent.swf,tent_0006_aslpro_57446.mp4,skipped_swf
+7,57447,aslsearch,12,0,train,25,1,-1,174,49,536,400,http://www.aslsearch.com/signs/videos/camp.mp4,tent_0007_aslsearch_57447.mp4,ok
+8,57437,spreadthesign,56,0,train,25,1,-1,22,0,299,240,https://media.spreadthesign.com/video/mp4/13/51650.mp4,tent_0008_spreadthesign_57437.mp4,ok
+9,57438,signschool,31,0,test,25,1,-1,521,130,1603,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tent-EpweU31Lx0M.mp4,tent_0009_signschool_57438.mp4,ok
+10,57439,asldeafined,15,0,val,25,1,-1,140,13,675,540,https://media.asldeafined.com/vocabulary/1546377503.8570.mp4,tent_0010_asldeafined_57439.mp4,ok
+11,57440,handspeak,14,0,test,25,1,-1,88,0,602,480,https://www.handspeak.com/word/t/tent.mp4,tent_0011_handspeak_57440.mp4,failed
+12,57441,signingsavvy,10,0,train,25,1,-1,78,23,222,192,https://www.signingsavvy.com/signs/mp4/22/22809.mp4,tent_0012_signingsavvy_57441.mp4,ok
+13,57442,signingsavvy,10,0,train,25,1,-1,61,22,223,192,https://www.signingsavvy.com/signs/mp4/22/22811.mp4,tent_0013_signingsavvy_57442.mp4,ok

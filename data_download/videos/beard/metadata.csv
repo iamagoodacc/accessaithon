@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,68990,lillybauer,115,0,val,25,1,51,337,6,937,720,https://www.youtube.com/watch?v=w73mN_0UQSI,beard_0001_lillybauer_68990.mp4,skipped_no_ytdlp
+2,70254,northtexas,121,0,train,25,3866,4004,163,39,434,360,https://www.youtube.com/watch?v=WprUBqi3iBc,beard_0002_northtexas_70254.mp4,skipped_no_ytdlp
+3,05470,startasl,36,0,train,25,1,-1,203,19,556,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/beard.mp4,beard_0003_startasl_05470.mp4,ok
+4,05471,signschool,4,0,val,25,1,-1,485,33,1646,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Beard-nm7gopWGZw8.mp4,beard_0004_signschool_05471.mp4,ok
+5,05472,asldeafined,13,0,train,25,1,-1,106,27,550,480,https://media.asldeafined.com/vocabulary/1466650094.4952.mp4,beard_0005_asldeafined_05472.mp4,ok
+6,05473,asldeafined,34,0,train,25,1,-1,147,20,550,480,https://media.asldeafined.com/vocabulary/1546572824.1237.mp4,beard_0006_asldeafined_05473.mp4,ok
+7,05474,handspeak,20,0,train,25,1,-1,301,0,1062,720,https://www.handspeak.com/word/b/beard-bandholz.mp4,beard_0007_handspeak_05474.mp4,failed
+8,05475,handspeak,14,0,train,25,1,-1,98,0,503,360,https://www.handspeak.com/word/b/beard.mp4,beard_0008_handspeak_05475.mp4,failed
+9,65156,aslsignbank,89,0,train,25,1,-1,190,40,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BEARD-2098.mp4,beard_0009_aslsignbank_65156.mp4,failed
+10,67397,asllex,109,0,test,25,1,-1,99,19,392,360,https://youtu.be/pH_2h_UrnX4,beard_0010_asllex_67397.mp4,skipped_no_ytdlp
+11,05476,signingsavvy,11,0,val,25,1,-1,70,17,215,192,https://www.signingsavvy.com/signs/mp4/8/8965.mp4,beard_0011_signingsavvy_05476.mp4,ok
+12,05477,aslu,5,0,test,25,1,-1,347,36,982,720,https://www.youtube.com/watch?v=d_ME0WTSuVI,beard_0012_aslu_05477.mp4,skipped_no_ytdlp
+14,05479,aslsearch,41,0,train,25,1,-1,235,40,502,400,http://www.aslsearch.com/signs/videos/beard.mp4,beard_0014_aslsearch_05479.mp4,ok
+15,05467,spreadthesign,2,0,train,25,1,-1,41,12,270,240,https://media.spreadthesign.com/video/mp4/13/123617.mp4,beard_0015_spreadthesign_05467.mp4,ok
+16,05468,spreadthesign,37,0,train,25,1,-1,66,0,251,240,https://media.spreadthesign.com/video/mp4/13/186277.mp4,beard_0016_spreadthesign_05468.mp4,ok

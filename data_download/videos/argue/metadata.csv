@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,03266,asl5200,9,0,train,25,3624,3686,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,argue_0000_asl5200_03266.mp4,skipped_no_ytdlp
+1,03268,startasl,36,0,train,25,1,-1,156,17,579,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/argue.mp4,argue_0001_startasl_03268.mp4,ok
+3,03270,startasl,38,0,train,25,1,-1,359,52,905,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/spat.mp4,argue_0003_startasl_03270.mp4,ok
+5,03272,signschool,31,0,val,25,1,-1,533,61,1661,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Quarrel%2C%20Argue%2C%20Fight%202-OartPoM9-SU.mp4,argue_0005_signschool_03272.mp4,ok
+6,03273,signschool,31,0,train,25,1,-1,463,77,1769,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Quarrel%2C%20Argue%2C%20Fight-UcpFQj0a-Zs.mp4,argue_0006_signschool_03273.mp4,ok
+7,03274,asldeafined,13,0,train,25,1,-1,127,22,612,480,https://media.asldeafined.com/vocabulary/1466512503.4091.mp4,argue_0007_asldeafined_03274.mp4,ok
+9,65092,aslsignbank,88,0,train,25,1,-1,174,2,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AR/ARGUE-740.mp4,argue_0009_aslsignbank_65092.mp4,failed
+10,03276,handspeak,20,0,train,25,1,-1,44,0,543,480,https://www.handspeak.com/word/a/argue.mp4,argue_0010_handspeak_03276.mp4,failed
+11,03277,signingsavvy,10,0,train,25,1,-1,60,21,233,192,https://www.signingsavvy.com/signs/mp4/22/22238.mp4,argue_0011_signingsavvy_03277.mp4,ok
+12,03278,signingsavvy,10,0,test,25,1,-1,63,22,221,192,https://www.signingsavvy.com/signs/mp4/22/22240.mp4,argue_0012_signingsavvy_03278.mp4,ok
+14,03280,aslu,5,0,val,25,1,-1,256,25,1083,720,https://www.youtube.com/watch?v=ydnYnugXZa4,argue_0014_aslu_03280.mp4,skipped_no_ytdlp
+15,03281,aslpro,24,0,test,25,1,-1,4,18,221,240,http://www.aslpro.com/main/a/argue.swf,argue_0015_aslpro_03281.mp4,skipped_swf
+16,03282,aslsearch,12,0,train,25,1,-1,175,50,553,400,http://www.aslsearch.com/signs/videos/argue.mp4,argue_0016_aslsearch_03282.mp4,ok
+17,03267,spreadthesign,2,0,train,25,1,-1,32,3,295,240,https://media.spreadthesign.com/video/mp4/13/122547.mp4,argue_0017_spreadthesign_03267.mp4,ok

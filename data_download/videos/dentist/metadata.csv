@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15527,asl5200,9,0,val,25,1335,1397,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dentist_0000_asl5200_15527.mp4,skipped_no_ytdlp
+1,15534,signingsavvy,11,0,test,25,1,-1,79,13,225,192,https://www.signingsavvy.com/signs/mp4/8/8399.mp4,dentist_0001_signingsavvy_15534.mp4,ok
+2,15535,aslu,5,1,train,25,1,-1,359,29,985,720,https://www.youtube.com/watch?v=Zx8scLXglQU,dentist_0002_aslu_15535.mp4,skipped_no_ytdlp
+3,15536,aslpro,25,1,test,25,1,-1,0,14,244,240,http://www.aslpro.com/main/d/dentist.swf,dentist_0003_aslpro_15536.mp4,skipped_swf
+4,65460,aslsignbank,95,0,train,25,1,-1,161,6,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DENTIST-2572.mp4,dentist_0004_aslsignbank_65460.mp4,failed
+5,67561,asllex,109,0,train,25,1,-1,130,14,376,360,https://youtu.be/hFYz2cLYRQw,dentist_0005_asllex_67561.mp4,skipped_no_ytdlp
+6,15537,aslsearch,12,1,val,25,1,-1,186,61,545,400,http://www.aslsearch.com/signs/videos/dentist.mp4,dentist_0006_aslsearch_15537.mp4,ok
+7,15528,spreadthesign,2,1,train,25,1,-1,81,41,232,240,https://media.spreadthesign.com/video/mp4/13/93289.mp4,dentist_0007_spreadthesign_15528.mp4,ok
+8,15529,startasl,36,1,train,25,1,-1,222,16,519,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dentist.mp4,dentist_0008_startasl_15529.mp4,ok
+9,15530,signschool,60,0,train,25,1,-1,359,20,761,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dentist-vBgLdeGFOSg.mp4,dentist_0009_signschool_15530.mp4,ok
+10,15531,asldeafined,59,0,val,25,1,-1,136,24,528,480,https://media.asldeafined.com/vocabulary/1466908033.4604.mp4,dentist_0010_asldeafined_15531.mp4,ok
+11,15532,handspeak,20,0,train,25,1,-1,51,0,526,480,https://www.handspeak.com/word/d/dentist.mp4,dentist_0011_handspeak_15532.mp4,failed
+12,15533,signingsavvy,11,0,train,25,1,-1,86,15,228,192,https://www.signingsavvy.com/signs/mp4/8/8398.mp4,dentist_0012_signingsavvy_15533.mp4,ok

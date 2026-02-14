@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13258,asl5200,9,0,test,25,6091,6137,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,copy_0000_asl5200_13258.mp4,skipped_no_ytdlp
+1,68756,lillybauer,115,0,test,25,1,71,207,1,625,480,https://www.youtube.com/watch?v=Oacp14zeUUk,copy_0001_lillybauer_68756.mp4,skipped_no_ytdlp
+2,13269,asldeafined,59,0,train,25,1,-1,133,22,526,480,https://media.asldeafined.com/vocabulary/1466903369.6461.mp4,copy_0002_asldeafined_13269.mp4,ok
+3,13270,handspeak,20,0,train,25,1,-1,74,0,579,480,https://www.handspeak.com/word/c/copy-everyone.mp4,copy_0003_handspeak_13270.mp4,failed
+4,13271,handspeak,20,0,train,25,1,-1,113,0,489,360,https://www.handspeak.com/word/c/copy-me.mp4,copy_0004_handspeak_13271.mp4,failed
+5,13272,handspeak,14,0,val,25,1,-1,25,0,296,240,https://www.handspeak.com/word/c/copy.mp4,copy_0005_handspeak_13272.mp4,failed
+6,13273,signingsavvy,11,0,train,25,1,-1,72,14,217,192,https://www.signingsavvy.com/signs/mp4/1/1380.mp4,copy_0006_signingsavvy_13273.mp4,ok
+8,13275,signingsavvy,10,0,val,25,1,-1,89,17,211,192,https://www.signingsavvy.com/signs/mp4/24/24147.mp4,copy_0008_signingsavvy_13275.mp4,ok
+9,65405,aslsignbank,102,0,train,25,1,-1,171,19,496,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COPY-1165.mp4,copy_0009_aslsignbank_65405.mp4,failed
+11,67528,asllex,109,0,train,25,1,-1,95,16,386,360,https://youtu.be/czmcAskan8Y,copy_0011_asllex_67528.mp4,skipped_no_ytdlp
+12,13276,aslu,5,0,train,25,1,-1,368,52,950,720,https://www.youtube.com/watch?v=dm0PExvlbKY,copy_0012_aslu_13276.mp4,skipped_no_ytdlp
+13,13277,aslpro,24,0,train,25,1,-1,22,13,194,240,http://www.aslpro.com/main/c/copy.swf,copy_0013_aslpro_13277.mp4,skipped_swf
+14,13278,aslsearch,12,0,val,25,1,-1,179,56,532,400,http://www.aslsearch.com/signs/videos/copy2.mp4,copy_0014_aslsearch_13278.mp4,ok
+15,13279,aslsearch,12,0,train,25,1,-1,172,54,530,400,http://www.aslsearch.com/signs/videos/copy.mp4,copy_0015_aslsearch_13279.mp4,ok
+16,13267,signschool,31,0,train,25,1,-1,574,62,1437,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Copy%202-JFnW_6la6nc.mp4,copy_0016_signschool_13267.mp4,ok
+17,13268,signschool,39,0,train,25,1,-1,856,128,1714,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Copy-bxtQREjPuTg.mp4,copy_0017_signschool_13268.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05270,asl5200,9,0,train,25,1085,1141,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bath_0000_asl5200_05270.mp4,skipped_no_ytdlp
+1,05281,aslu,64,0,train,25,1,-1,121,36,422,346,https://www.youtube.com/watch?v=7bbaTCiY58w,bath_0001_aslu_05281.mp4,skipped_no_ytdlp
+2,05282,aslu,5,0,train,25,1,-1,311,20,1001,720,https://www.youtube.com/watch?v=p-SjHugBUeg,bath_0002_aslu_05282.mp4,skipped_no_ytdlp
+3,05283,aslu,5,0,val,25,1,-1,338,36,1023,720,https://www.youtube.com/watch?v=r8wxFtDjU5Y,bath_0003_aslu_05283.mp4,skipped_no_ytdlp
+4,05284,aslpro,25,0,train,25,1,-1,1,4,257,240,http://www.aslpro.com/main/b/bath.swf,bath_0004_aslpro_05284.mp4,skipped_swf
+5,65147,aslsignbank,88,0,train,25,1,-1,162,0,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATH-31.mp4,bath_0005_aslsignbank_65147.mp4,failed
+6,05275,spreadthesign,2,0,train,25,1,-1,62,13,277,240,https://media.spreadthesign.com/video/mp4/13/123597.mp4,bath_0006_spreadthesign_05275.mp4,ok
+7,67393,asllex,109,0,train,25,1,-1,78,5,411,360,https://youtu.be/ezZRpQUUZqI,bath_0007_asllex_67393.mp4,skipped_no_ytdlp
+8,05285,aslsearch,12,0,train,25,1,-1,154,50,570,400,http://www.aslsearch.com/signs/videos/bath.mp4,bath_0008_aslsearch_05285.mp4,ok
+9,05276,startasl,36,0,test,25,1,-1,190,16,564,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bath.mp4,bath_0009_startasl_05276.mp4,ok
+10,05277,signschool,52,0,val,25,1,-1,360,5,833,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bath-KhHnoYpI-Bk.mp4,bath_0010_signschool_05277.mp4,ok
+11,05278,asldeafined,13,0,test,25,1,-1,100,16,595,480,https://media.asldeafined.com/vocabulary/1466649730.5475.mp4,bath_0011_asldeafined_05278.mp4,ok
+12,05279,handspeak,14,0,train,25,1,-1,110,0,560,480,https://www.handspeak.com/word/b/bath.mp4,bath_0012_handspeak_05279.mp4,failed
+13,05280,signingsavvy,10,0,train,25,1,-1,65,17,222,192,https://www.signingsavvy.com/signs/mp4/22/22127.mp4,bath_0013_signingsavvy_05280.mp4,ok

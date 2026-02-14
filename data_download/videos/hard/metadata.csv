@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26559,asl5200,9,0,train,25,528,567,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hard_0000_asl5200_26559.mp4,skipped_no_ytdlp
+1,69358,aslbrick,115,0,train,25,1,-1,569,81,1310,1080,http://aslbricks.org/New/ASL-Videos/hard.mp4,hard_0001_aslbrick_69358.mp4,ok
+2,68065,valencia-asl,109,0,train,25,1,-1,373,6,1069,720,https://www.youtube.com/watch?v=6mbmSZcH8vA,hard_0002_valencia-asl_68065.mp4,skipped_no_ytdlp
+3,68352,lillybauer,113,0,val,25,1,60,111,11,522,359,https://www.youtube.com/watch?v=BkACe7lYnRE,hard_0003_lillybauer_68352.mp4,skipped_no_ytdlp
+4,26573,signingsavvy,11,0,train,25,1,-1,76,17,212,192,https://www.signingsavvy.com/signs/mp4/6/6655.mp4,hard_0004_signingsavvy_26573.mp4,ok
+5,26574,signingsavvy,11,0,train,25,1,-1,73,18,210,192,https://www.signingsavvy.com/signs/mp4/8/8596.mp4,hard_0005_signingsavvy_26574.mp4,ok
+7,26576,aslu,5,0,train,25,1,-1,330,55,918,720,https://www.youtube.com/watch?v=RgGjl2y6dkM,hard_0007_aslu_26576.mp4,skipped_no_ytdlp
+9,67744,asllex,109,0,train,25,1,-1,115,26,372,360,https://youtu.be/7ayLX9x_g9w,hard_0009_asllex_67744.mp4,skipped_no_ytdlp
+10,26577,aslpro,24,0,train,25,1,-1,25,11,222,240,http://www.aslpro.com/main/h/hard.swf,hard_0010_aslpro_26577.mp4,skipped_swf
+12,26568,startasl,38,0,test,25,1,-1,422,51,821,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hard.mp4,hard_0012_startasl_26568.mp4,ok
+13,26569,signschool,31,0,val,25,1,-1,672,140,1435,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hard-wuktyvLrrWI.mp4,hard_0013_signschool_26569.mp4,ok
+14,26570,asldeafined,21,0,test,25,1,-1,44,19,544,480,https://media.asldeafined.com/vocabulary/1468579638.8470.mp4,hard_0014_asldeafined_26570.mp4,ok
+15,26571,handspeak,20,0,train,25,1,-1,90,0,521,480,https://www.handspeak.com/word/h/hard2.mp4,hard_0015_handspeak_26571.mp4,failed
+16,26572,handspeak,20,0,train,25,1,-1,60,0,524,480,https://www.handspeak.com/word/h/hard.mp4,hard_0016_handspeak_26572.mp4,failed

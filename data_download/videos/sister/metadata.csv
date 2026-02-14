@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,51882,asl5200,9,0,train,25,4498,4544,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sister_0000_asl5200_51882.mp4,skipped_no_ytdlp
+1,68680,lillybauer,112,0,train,25,1,52,357,17,923,720,https://www.youtube.com/watch?v=M6_hX1QTzIM,sister_0001_lillybauer_68680.mp4,skipped_no_ytdlp
+2,51886,signschool,52,0,train,25,1,-1,197,19,576,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Sister.mp4,sister_0002_signschool_51886.mp4,ok
+3,51887,asldeafined,13,0,val,25,1,-1,117,0,515,480,https://media.asldeafined.com/vocabulary/1468767389.1341.mp4,sister_0003_asldeafined_51887.mp4,ok
+4,51888,handspeak,14,0,train,25,1,-1,123,0,531,480,https://www.handspeak.com/word/s/sister.mp4,sister_0004_handspeak_51888.mp4,failed
+5,51889,signingsavvy,11,0,train,25,1,-1,83,15,214,192,https://www.signingsavvy.com/signs/mp4/7/7158.mp4,sister_0005_signingsavvy_51889.mp4,ok
+8,66488,aslsignbank,108,0,train,25,1,-1,190,43,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SISTER-260.mp4,sister_0008_aslsignbank_66488.mp4,failed
+9,67206,asllex,109,0,train,25,1,-1,89,18,379,360,https://youtu.be/bqLtmk7uYCg,sister_0009_asllex_67206.mp4,skipped_no_ytdlp
+10,51892,aslu,5,0,train,25,1,-1,316,44,952,720,https://www.youtube.com/watch?v=1skSbSMPlMI,sister_0010_aslu_51892.mp4,skipped_no_ytdlp
+11,51893,aslu,5,0,test,25,1,-1,315,46,956,720,https://www.youtube.com/watch?v=glJmYf137OM,sister_0011_aslu_51893.mp4,skipped_no_ytdlp
+12,51894,aslpro,24,0,val,25,1,-1,15,13,201,240,http://www.aslpro.com/main/s/sister.swf,sister_0012_aslpro_51894.mp4,skipped_swf
+14,51883,startasl,36,0,test,25,1,-1,239,11,545,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sister.mp4,sister_0014_startasl_51883.mp4,ok
+15,51884,signschool,39,0,train,25,1,-1,897,55,1753,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sister%202-Nir1m7wW0MA.mp4,sister_0015_signschool_51884.mp4,ok
+16,51885,signschool,39,0,train,25,1,-1,844,44,1759,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sister-X7vWbKADW8w.mp4,sister_0016_signschool_51885.mp4,ok

@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25240,asl5200,9,0,val,25,1430,1476,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,government_0000_asl5200_25240.mp4,skipped_no_ytdlp
+1,25244,signschool,4,0,train,25,1,-1,498,39,1647,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Government%202-VsivllxcxiI.mp4,government_0001_signschool_25244.mp4,ok
+2,25245,signschool,4,0,train,25,1,-1,494,34,1646,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Government%203-1vnxVTcVms4.mp4,government_0002_signschool_25245.mp4,ok
+3,25246,signschool,4,0,val,25,1,-1,515,49,1642,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Government-IBDl4aXPFgM.mp4,government_0003_signschool_25246.mp4,ok
+4,25247,asldeafined,21,0,train,25,1,-1,28,0,535,480,https://media.asldeafined.com/vocabulary/1468549814.5634.mp4,government_0004_asldeafined_25247.mp4,ok
+6,25249,handspeak,20,0,train,25,1,-1,57,11,556,480,https://www.handspeak.com/word/g/government-us.mp4,government_0006_handspeak_25249.mp4,failed
+7,65840,aslsignbank,94,0,train,25,1,-1,105,6,454,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GO/GOVERNMENT-652.mp4,government_0007_aslsignbank_65840.mp4,failed
+8,67721,asllex,109,0,train,25,1,-1,83,7,375,360,https://youtu.be/ZcFkE7qjmcc,government_0008_asllex_67721.mp4,skipped_no_ytdlp
+9,25250,signingsavvy,10,0,train,25,1,-1,38,22,207,192,https://www.signingsavvy.com/signs/mp4/23/23369.mp4,government_0009_signingsavvy_25250.mp4,ok
+10,25251,aslu,5,0,test,25,1,-1,128,7,485,360,https://www.youtube.com/watch?v=qUqPruV10Gg,government_0010_aslu_25251.mp4,skipped_no_ytdlp
+11,25252,aslu,5,0,val,25,1,-1,265,18,937,720,https://www.youtube.com/watch?v=qUqPruV10Gg,government_0011_aslu_25252.mp4,skipped_no_ytdlp
+12,25253,aslsearch,12,0,test,25,1,-1,157,66,536,400,http://www.aslsearch.com/signs/videos/govern.mp4,government_0012_aslsearch_25253.mp4,ok
+13,25241,elementalasl,19,0,train,25,1,-1,56,12,227,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/government.mov,government_0013_elementalasl_25241.mp4,ok
+14,25242,spreadthesign,37,0,train,25,1,-1,30,0,252,240,https://media.spreadthesign.com/video/mp4/13/456468.mp4,government_0014_spreadthesign_25242.mp4,ok
+15,25243,startasl,38,0,train,25,1,-1,347,51,797,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/government.mp4,government_0015_startasl_25243.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38654,asl5200,9,0,train,25,1531,1583,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,north_0000_asl5200_38654.mp4,skipped_no_ytdlp
+1,70187,northtexas,121,0,train,25,2837,2951,120,33,460,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,north_0001_northtexas_70187.mp4,skipped_no_ytdlp
+2,38688,aslu,5,0,train,25,1,-1,299,40,925,720,https://www.youtube.com/watch?v=mLWGFVIVUXY,north_0002_aslu_38688.mp4,skipped_no_ytdlp
+3,38689,aslu,5,0,val,25,1,-1,242,37,967,720,https://www.youtube.com/watch?v=TyNK9nBCNeg,north_0003_aslu_38689.mp4,skipped_no_ytdlp
+4,38690,aslpro,44,0,train,25,1,-1,21,0,207,240,http://www.aslpro.com/main/n/north.swf,north_0004_aslpro_38690.mp4,skipped_swf
+5,38681,elementalasl,19,0,train,25,1,-1,82,11,249,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/north.mov,north_0005_elementalasl_38681.mp4,ok
+6,67933,asllex,109,0,train,25,1,-1,121,13,363,360,https://youtu.be/wrgzFvTqqPw,north_0006_asllex_67933.mp4,skipped_no_ytdlp
+7,38691,aslsearch,41,0,train,25,1,-1,257,35,508,400,http://www.aslsearch.com/signs/videos/north.mp4,north_0007_aslsearch_38691.mp4,ok
+8,38682,spreadthesign,56,0,train,25,1,-1,33,0,265,240,https://media.spreadthesign.com/video/mp4/13/49001.mp4,north_0008_spreadthesign_38682.mp4,ok
+9,38683,startasl,38,0,test,25,1,-1,409,58,821,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/north.mp4,north_0009_startasl_38683.mp4,ok
+10,38684,signschool,31,0,val,25,1,-1,656,82,1517,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20North-J_4pPcg2bAk.mp4,north_0010_signschool_38684.mp4,ok
+11,38685,asldeafined,13,0,test,25,1,-1,107,0,511,480,https://media.asldeafined.com/vocabulary/1468719562.50.mp4,north_0011_asldeafined_38685.mp4,ok
+12,38686,handspeak,14,0,train,25,1,-1,60,17,264,240,https://www.handspeak.com/word/n/north.mp4,north_0012_handspeak_38686.mp4,failed
+13,38687,signingsavvy,11,0,train,25,1,-1,67,9,212,192,https://www.signingsavvy.com/signs/mp4/8/8805.mp4,north_0013_signingsavvy_38687.mp4,ok

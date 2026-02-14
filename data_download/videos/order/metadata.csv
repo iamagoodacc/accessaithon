@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66248,aslsignbank,103,0,test,25,1,-1,88,30,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OR/ORDER_1-1020.mp4,order_0000_aslsignbank_66248.mp4,failed
+1,70172,northtexas,121,1,val,25,5548,5667,145,19,505,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,order_0001_northtexas_70172.mp4,skipped_no_ytdlp
+2,40183,aslsearch,41,0,val,25,1,-1,184,33,542,400,http://www.aslsearch.com/signs/videos/arrange.mp4,order_0002_aslsearch_40183.mp4,ok
+3,40184,aslsearch,12,1,test,25,1,-1,180,62,546,400,http://www.aslsearch.com/signs/videos/command.mp4,order_0003_aslsearch_40184.mp4,ok
+5,40171,asldeafined,13,0,train,25,1,-1,81,0,520,480,https://media.asldeafined.com/vocabulary/1468722551.8765.mp4,order_0005_asldeafined_40171.mp4,ok
+6,40172,asldeafined,13,1,train,25,1,-1,143,0,499,480,https://media.asldeafined.com/vocabulary/1468722573.1848.mp4,order_0006_asldeafined_40172.mp4,ok
+8,40174,handspeak,14,1,train,25,1,-1,93,0,546,480,https://www.handspeak.com/word/o/order.mp4,order_0008_handspeak_40174.mp4,failed
+9,40175,handspeak,14,0,train,25,1,-1,63,0,559,360,https://www.handspeak.com/word/o/order-organize.mp4,order_0009_handspeak_40175.mp4,failed
+11,40177,signingsavvy,11,1,train,25,1,-1,60,8,204,192,https://www.signingsavvy.com/signs/mp4/14/14253.mp4,order_0011_signingsavvy_40177.mp4,ok
+13,40178,signingsavvy,11,0,train,25,1,-1,51,8,231,192,https://www.signingsavvy.com/signs/mp4/14/14680.mp4,order_0013_signingsavvy_40178.mp4,ok
+14,66249,aslsignbank,107,1,val,25,1,-1,143,2,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OR/ORDER_2-805.mp4,order_0014_aslsignbank_66249.mp4,failed
+15,40169,spreadthesign,37,1,train,25,1,-1,46,0,251,240,https://media.spreadthesign.com/video/mp4/13/457187.mp4,order_0015_spreadthesign_40169.mp4,ok
+16,67950,asllex,109,0,train,25,1,-1,94,28,392,360,https://youtu.be/5EnWNCgPK6k,order_0016_asllex_67950.mp4,skipped_no_ytdlp
+17,67951,asllex,109,1,train,25,1,-1,100,27,384,360,https://youtu.be/Ol0t4VFTLbk,order_0017_asllex_67951.mp4,skipped_no_ytdlp
+18,40179,signingsavvy,11,0,train,25,1,-1,53,8,222,192,https://www.signingsavvy.com/signs/mp4/14/14688.mp4,order_0018_signingsavvy_40179.mp4,ok

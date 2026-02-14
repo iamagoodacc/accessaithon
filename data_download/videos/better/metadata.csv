@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06062,asl5200,9,0,val,25,2423,2462,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,better_0000_asl5200_06062.mp4,skipped_no_ytdlp
+1,70328,northtexas,121,0,train,25,5579,5682,99,31,284,240,https://www.youtube.com/watch?v=pc0-gVEETVg,better_0001_northtexas_70328.mp4,skipped_no_ytdlp
+2,06074,aslpro,25,0,train,25,1,-1,0,8,240,240,http://www.aslpro.com/main/b/better.swf,better_0002_aslpro_06074.mp4,skipped_swf
+3,06075,aslsearch,12,0,train,25,1,-1,165,52,533,400,http://www.aslsearch.com/signs/videos/better.mp4,better_0003_aslsearch_06075.mp4,ok
+4,65179,aslsignbank,90,0,train,25,1,-1,179,21,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BETTER-409.mp4,better_0004_aslsignbank_65179.mp4,failed
+5,06066,spreadthesign,35,0,train,25,1,-1,29,0,264,240,https://media.spreadthesign.com/video/mp4/13/51367.mp4,better_0005_spreadthesign_06066.mp4,ok
+6,06067,asldeafined,59,0,train,25,1,-1,71,22,529,480,https://media.asldeafined.com/vocabulary/1466681844.1234.mp4,better_0006_asldeafined_06067.mp4,ok
+7,06068,handspeak,20,0,train,25,1,-1,33,0,506,480,https://www.handspeak.com/word/b/better.mp4,better_0007_handspeak_06068.mp4,failed
+8,06069,signingsavvy,11,0,train,25,1,-1,40,9,216,192,https://www.signingsavvy.com/signs/mp4/9/9289.mp4,better_0008_signingsavvy_06069.mp4,ok
+9,06070,aslu,5,0,test,25,1,-1,274,48,930,720,https://www.youtube.com/watch?v=ELNnJbiS8NU,better_0009_aslu_06070.mp4,skipped_no_ytdlp
+10,06071,aslu,5,0,train,25,1,-1,294,37,932,720,https://www.youtube.com/watch?v=sQ_ABcs0n0A,better_0010_aslu_06071.mp4,skipped_no_ytdlp
+11,06072,aslu,5,0,test,25,1,-1,57,5,469,360,https://www.youtube.com/watch?v=XiGTZRk-ofg,better_0011_aslu_06072.mp4,skipped_no_ytdlp
+12,06073,aslu,5,0,val,25,1,-1,281,30,924,720,https://www.youtube.com/watch?v=XiGTZRk-ofg,better_0012_aslu_06073.mp4,skipped_no_ytdlp

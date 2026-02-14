@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19402,asl5200,9,0,val,25,2022,2081,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,environment_0000_asl5200_19402.mp4,skipped_no_ytdlp
+1,19410,signschool,39,1,test,25,1,-1,624,124,1642,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Environment-VCvnRK0u1Pc.mp4,environment_0001_signschool_19410.mp4,ok
+2,19411,signschool,31,1,train,25,1,-1,649,66,1753,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Surrounding%2C%20Context%2C%20Environment-X2ZSi5tkW0I.mp4,environment_0002_signschool_19411.mp4,ok
+3,19412,asldeafined,21,1,train,25,1,-1,17,0,573,480,https://media.asldeafined.com/vocabulary/1468376731.9585.mp4,environment_0003_asldeafined_19412.mp4,ok
+4,19413,handspeak,14,0,test,25,1,-1,27,0,290,240,https://www.handspeak.com/word/e/environment.mp4,environment_0004_handspeak_19413.mp4,failed
+5,19414,signingsavvy,11,0,train,25,1,-1,89,19,207,192,https://www.signingsavvy.com/signs/mp4/7/7187.mp4,environment_0005_signingsavvy_19414.mp4,ok
+7,65638,aslsignbank,98,0,train,25,1,-1,157,29,483,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EN/ENVIRONMENT-1315.mp4,environment_0007_aslsignbank_65638.mp4,failed
+8,65639,aslsignbank,91,1,train,25,1,-1,207,33,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EN/ENVIRONMENT-1965.mp4,environment_0008_aslsignbank_65639.mp4,failed
+9,19406,elementalasl,19,0,train,25,1,-1,96,10,249,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/environment.mov,environment_0009_elementalasl_19406.mp4,ok
+11,19417,aslpro,30,0,val,25,1,-1,0,16,224,240,http://www.aslpro.com/main/e/environment.swf,environment_0011_aslpro_19417.mp4,skipped_swf
+12,19418,aslsearch,12,0,train,25,1,-1,187,55,541,400,http://www.aslsearch.com/signs/videos/environment.mp4,environment_0012_aslsearch_19418.mp4,ok
+13,19407,spreadthesign,77,1,train,25,1,-1,6,0,281,240,https://media.spreadthesign.com/video/mp4/13/185053.mp4,environment_0013_spreadthesign_19407.mp4,ok
+14,19408,spreadthesign,0,0,train,25,1,-1,61,0,268,240,https://media.spreadthesign.com/video/mp4/13/58294.mp4,environment_0014_spreadthesign_19408.mp4,ok
+15,19409,startasl,38,1,val,25,1,-1,329,57,822,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/environment.mp4,environment_0015_startasl_19409.mp4,ok

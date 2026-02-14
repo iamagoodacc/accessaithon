@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,64351,asl5200,9,0,test,25,242,291,0,0,360,240,https://www.youtube.com/watch?v=BRO-oYGV224,you_0000_asl5200_64351.mp4,skipped_no_ytdlp
+1,69547,aslbrick,118,0,test,25,1,-1,347,34,873,720,http://aslbricks.org/New/ASL-Videos/you.mp4,you_0001_aslbrick_69547.mp4,ok
+2,64384,handspeak,20,0,train,25,1,-1,147,21,481,360,https://www.handspeak.com/word/y/you.mp4,you_0002_handspeak_64384.mp4,failed
+3,64385,signingsavvy,10,0,train,25,1,-1,72,16,210,192,https://www.signingsavvy.com/signs/mp4/24/24020.mp4,you_0003_signingsavvy_64385.mp4,ok
+4,64386,aslu,5,0,train,25,1,-1,369,57,946,717,https://www.youtube.com/watch?v=K9m1pAFMqyw,you_0004_aslu_64386.mp4,skipped_no_ytdlp
+5,64387,scott,47,0,val,25,1,-1,325,19,887,720,https://www.youtube.com/watch?v=qC83X1nR5-I,you_0005_scott_64387.mp4,skipped_no_ytdlp
+6,64388,aslu,5,0,train,25,1,-1,397,52,970,720,https://www.youtube.com/watch?v=R6-Md4KCHPY,you_0006_aslu_64388.mp4,skipped_no_ytdlp
+7,64379,spreadthesign,42,0,val,25,1,-1,52,0,277,240,https://media.spreadthesign.com/video/mp4/13/51110.mp4,you_0007_spreadthesign_64379.mp4,ok
+8,67015,asllex,109,0,train,25,1,-1,93,19,369,360,https://youtu.be/u4ECcCgXTqs,you_0008_asllex_67015.mp4,skipped_no_ytdlp
+9,64389,aslu,5,0,train,25,1,-1,355,45,943,720,https://www.youtube.com/watch?v=WQdU1hAJFoI,you_0009_aslu_64389.mp4,skipped_no_ytdlp
+10,64390,aslpro,24,0,train,25,1,-1,19,18,192,240,http://www.aslpro.com/main/y/you.swf,you_0010_aslpro_64390.mp4,skipped_swf
+11,64391,aslsearch,41,0,train,25,1,-1,256,50,496,400,http://www.aslsearch.com/signs/videos/you.mp4,you_0011_aslsearch_64391.mp4,ok
+12,64380,startasl,36,0,val,25,1,-1,237,16,528,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/you.mp4,you_0012_startasl_64380.mp4,ok
+13,64381,signschool,70,0,train,25,1,-1,402,10,785,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20you%202-3TH0mPZ3gbE.mp4,you_0013_signschool_64381.mp4,ok
+14,64382,asldeafined,13,0,train,25,1,-1,153,6,521,480,https://media.asldeafined.com/vocabulary/1468775202.6030.mp4,you_0014_asldeafined_64382.mp4,ok
+15,64383,asldeafined,13,0,train,25,1,-1,18,7,555,480,https://media.asldeafined.com/vocabulary/1468775230.7358.mp4,you_0015_asldeafined_64383.mp4,ok

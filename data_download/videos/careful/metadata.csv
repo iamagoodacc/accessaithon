@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,09178,asl5200,9,0,val,25,912,981,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,careful_0000_asl5200_09178.mp4,skipped_no_ytdlp
+1,70200,northtexas,121,0,train,25,5489,5638,121,28,502,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,careful_0001_northtexas_70200.mp4,skipped_no_ytdlp
+2,09184,handspeak,14,0,train,25,1,-1,45,17,254,240,https://www.handspeak.com/word/c/careful.mp4,careful_0002_handspeak_09184.mp4,failed
+3,09185,signingsavvy,11,0,val,25,1,-1,72,15,206,192,https://www.signingsavvy.com/signs/mp4/9/9207.mp4,careful_0003_signingsavvy_09185.mp4,ok
+4,09186,signingsavvy,11,0,train,25,1,-1,76,16,206,192,https://www.signingsavvy.com/signs/mp4/9/9208.mp4,careful_0004_signingsavvy_09186.mp4,ok
+5,09187,aslu,5,0,train,25,1,-1,394,20,1030,720,https://www.youtube.com/watch?v=GgjVnyBLmhg,careful_0005_aslu_09187.mp4,skipped_no_ytdlp
+6,65307,aslsignbank,89,0,train,25,1,-1,196,40,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAREFUL-2160.mp4,careful_0006_aslsignbank_65307.mp4,failed
+7,65306,aslsignbank,100,0,train,25,1,-1,202,31,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAREFUL-68.mp4,careful_0007_aslsignbank_65306.mp4,failed
+8,67475,asllex,109,0,train,25,1,-1,103,9,381,360,https://youtu.be/ltUxgwLA__8,careful_0008_asllex_67475.mp4,skipped_no_ytdlp
+9,09188,aslsearch,12,0,test,25,1,-1,186,62,556,400,http://www.aslsearch.com/signs/videos/careful.mp4,careful_0009_aslsearch_09188.mp4,ok
+10,09179,spreadthesign,2,0,val,25,1,-1,63,11,236,240,https://media.spreadthesign.com/video/mp4/13/93902.mp4,careful_0010_spreadthesign_09179.mp4,ok
+11,09180,signschool,4,0,test,25,1,-1,679,94,1538,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Babysit%2C%20Careful-DWkoB_Way20.mp4,careful_0011_signschool_09180.mp4,ok
+12,09181,signschool,31,0,train,25,1,-1,422,53,906,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Careful.mp4,careful_0012_signschool_09181.mp4,ok
+13,09182,asldeafined,59,0,train,25,1,-1,68,24,551,480,https://media.asldeafined.com/vocabulary/1466727394.8230.mp4,careful_0013_asldeafined_09182.mp4,ok
+14,09183,handspeak,14,0,train,25,1,-1,63,13,249,240,https://www.handspeak.com/word/c/careful-be.mp4,careful_0014_handspeak_09183.mp4,failed

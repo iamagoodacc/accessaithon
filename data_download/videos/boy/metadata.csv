@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07436,asl5200,9,0,val,25,4233,4295,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,boy_0000_asl5200_07436.mp4,skipped_no_ytdlp
+1,69245,aslbrick,118,0,train,25,1,-1,262,29,890,720,http://aslbricks.org/New/ASL-Videos/boy.mp4,boy_0001_aslbrick_69245.mp4,ok
+2,69002,lillybauer,112,0,train,25,1,36,303,20,913,720,https://www.youtube.com/watch?v=WmTNL-wFK14,boy_0002_lillybauer_69002.mp4,skipped_no_ytdlp
+3,07459,aslu,5,0,val,25,1,-1,233,44,925,720,https://www.youtube.com/watch?v=5H6OSAy-Mzs,boy_0003_aslu_07459.mp4,skipped_no_ytdlp
+4,07460,aslu,5,0,train,25,1,-1,202,4,930,720,https://www.youtube.com/watch?v=E-wBrs3PJhU,boy_0004_aslu_07460.mp4,skipped_no_ytdlp
+5,07461,aslpro,25,0,train,25,1,-1,0,10,237,240,http://www.aslpro.com/main/b/boy.swf,boy_0005_aslpro_07461.mp4,skipped_swf
+6,65245,aslsignbank,90,0,train,25,1,-1,140,18,488,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BO/BOY-377.mp4,boy_0006_aslsignbank_65245.mp4,failed
+7,07452,spreadthesign,2,0,train,25,1,-1,12,8,254,240,https://media.spreadthesign.com/video/mp4/13/125250.mp4,boy_0007_spreadthesign_07452.mp4,ok
+8,67433,asllex,109,0,train,25,1,-1,87,7,376,360,https://youtu.be/s7SmV4gec-U,boy_0008_asllex_67433.mp4,skipped_no_ytdlp
+9,07462,aslsearch,12,0,test,25,1,-1,168,51,555,400,http://www.aslsearch.com/signs/videos/boy.mp4,boy_0009_aslsearch_07462.mp4,ok
+10,07453,startasl,36,0,val,25,1,-1,188,9,517,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/boy.mp4,boy_0010_startasl_07453.mp4,ok
+11,07454,signschool,27,0,test,25,1,-1,478,54,1792,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Boy-Clm0Un7EOrE.mp4,boy_0011_signschool_07454.mp4,ok
+12,07455,asldeafined,59,0,train,25,1,-1,65,29,534,480,https://media.asldeafined.com/vocabulary/1466685230.7583.mp4,boy_0012_asldeafined_07455.mp4,ok
+13,07457,handspeak,20,0,train,25,1,-1,26,27,531,480,https://www.handspeak.com/word/b/boy.mp4,boy_0013_handspeak_07457.mp4,failed
+14,07458,signingsavvy,11,0,train,25,1,-1,49,8,224,192,https://www.signingsavvy.com/signs/mp4/6/6638.mp4,boy_0014_signingsavvy_07458.mp4,ok

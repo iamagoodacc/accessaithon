@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08586,asl5200,9,0,val,25,61,117,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cafeteria_0000_asl5200_08586.mp4,skipped_no_ytdlp
+1,70228,northtexas,121,0,train,25,1326,1432,137,39,409,360,https://www.youtube.com/watch?v=4Nh1iFv2BMc,cafeteria_0001_northtexas_70228.mp4,skipped_no_ytdlp
+2,69064,lillybauer,115,0,train,25,1,59,372,39,979,720,https://www.youtube.com/watch?v=-ynqS9XaFwY,cafeteria_0002_lillybauer_69064.mp4,skipped_no_ytdlp
+4,08595,aslsearch,12,0,train,25,1,-1,176,51,568,400,http://www.aslsearch.com/signs/videos/cafeteria.mp4,cafeteria_0004_aslsearch_08595.mp4,ok
+5,65284,aslsignbank,89,0,train,25,1,-1,189,5,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAFETERIA-2145.mp4,cafeteria_0005_aslsignbank_65284.mp4,failed
+6,67458,asllex,109,0,train,25,1,-1,121,17,384,360,https://youtu.be/KmDKguy0lTg,cafeteria_0006_asllex_67458.mp4,skipped_no_ytdlp
+7,08587,spreadthesign,0,0,train,25,1,-1,60,2,251,240,https://media.spreadthesign.com/video/mp4/13/74898.mp4,cafeteria_0007_spreadthesign_08587.mp4,ok
+8,08588,startasl,38,0,train,25,1,-1,406,51,800,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cafeteria.mp4,cafeteria_0008_startasl_08588.mp4,ok
+9,08589,signschool,4,0,train,25,1,-1,697,51,1675,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cafeteria-Wh1kREgi9tE.mp4,cafeteria_0009_signschool_08589.mp4,ok
+10,08590,asldeafined,59,0,test,25,1,-1,108,19,517,480,https://media.asldeafined.com/vocabulary/1466725761.86.mp4,cafeteria_0010_asldeafined_08590.mp4,ok
+11,08591,handspeak,14,0,train,25,1,-1,68,16,267,240,https://www.handspeak.com/word/c/cafeteria.mp4,cafeteria_0011_handspeak_08591.mp4,failed
+12,08592,signingsavvy,10,0,test,25,1,-1,77,22,209,192,https://www.signingsavvy.com/signs/mp4/22/22163.mp4,cafeteria_0012_signingsavvy_08592.mp4,ok
+13,08593,signingsavvy,10,0,val,25,1,-1,68,17,203,192,https://www.signingsavvy.com/signs/mp4/23/23896.mp4,cafeteria_0013_signingsavvy_08593.mp4,ok

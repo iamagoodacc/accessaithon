@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58588,asl5200,9,0,test,25,2978,3064,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tired_0000_asl5200_58588.mp4,skipped_no_ytdlp
+1,68488,lillybauer,112,0,test,25,1,60,103,11,567,360,https://www.youtube.com/watch?v=gm7e09gL4_g,tired_0001_lillybauer_68488.mp4,skipped_no_ytdlp
+2,68172,valencia-asl,109,0,train,25,1,-1,322,11,1087,720,https://www.youtube.com/watch?v=qdC7SfVp8iQ,tired_0002_valencia-asl_68172.mp4,skipped_no_ytdlp
+3,58594,asldeafined,13,0,train,25,1,-1,66,0,623,480,https://media.asldeafined.com/vocabulary/1468945582.6285.mp4,tired_0003_asldeafined_58594.mp4,ok
+4,58595,handspeak,14,0,train,25,1,-1,96,0,541,480,https://www.handspeak.com/word/t/tired.mp4,tired_0004_handspeak_58595.mp4,failed
+5,58596,aslu,5,0,val,25,1,-1,275,23,1037,720,https://www.youtube.com/watch?v=1RRUK21Xyzw,tired_0005_aslu_58596.mp4,skipped_no_ytdlp
+6,58597,nabboud,69,0,train,25,1,-1,285,43,924,720,https://www.youtube.com/watch?v=iDYM464AxEk,tired_0006_nabboud_58597.mp4,skipped_no_ytdlp
+7,67310,asllex,109,0,val,25,1,-1,36,19,440,360,https://youtu.be/O3KYtygHfpU,tired_0007_asllex_67310.mp4,skipped_no_ytdlp
+8,58598,aslu,5,0,train,25,1,-1,286,26,961,720,https://www.youtube.com/watch?v=YS5PgjNNxME,tired_0008_aslu_58598.mp4,skipped_no_ytdlp
+9,58599,aslpro,30,0,train,25,1,-1,6,17,231,240,http://www.aslpro.com/main/t/tired.swf,tired_0009_aslpro_58599.mp4,skipped_swf
+10,58600,aslsearch,12,0,train,25,1,-1,179,51,572,400,http://www.aslsearch.com/signs/videos/exhausted.mp4,tired_0010_aslsearch_58600.mp4,ok
+11,58589,spreadthesign,56,0,train,25,1,-1,36,0,313,240,https://media.spreadthesign.com/video/mp4/13/50878.mp4,tired_0011_spreadthesign_58589.mp4,ok
+12,58590,startasl,38,0,val,25,1,-1,410,51,840,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tired.mp4,tired_0012_startasl_58590.mp4,ok
+13,58591,signschool,60,0,train,25,1,-1,337,22,809,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20tired--IXJYyWRLKU.mp4,tired_0013_signschool_58591.mp4,ok
+14,58592,signschool,46,0,train,25,1,-1,282,1,1430,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tired-QFUlgHrzrI8.mp4,tired_0014_signschool_58592.mp4,ok
+15,58593,signschool,39,0,train,25,1,-1,709,141,1674,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tired-UrUrq5kVmxo.mp4,tired_0015_signschool_58593.mp4,ok

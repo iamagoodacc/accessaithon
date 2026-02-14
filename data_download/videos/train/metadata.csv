@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59298,asl5200,9,0,val,25,4776,4818,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,train_0000_asl5200_59298.mp4,skipped_no_ytdlp
+1,68496,lillybauer,115,0,train,25,1,65,334,19,944,720,https://www.youtube.com/watch?v=gRdnCFgaLFw,train_0001_lillybauer_68496.mp4,skipped_no_ytdlp
+2,59310,asldeafined,13,0,train,25,1,-1,134,0,610,480,https://media.asldeafined.com/vocabulary/1468946601.1688.mp4,train_0002_asldeafined_59310.mp4,ok
+3,59311,handspeak,20,0,val,25,1,-1,70,0,289,240,https://www.handspeak.com/word/t/train.mp4,train_0003_handspeak_59311.mp4,failed
+6,59314,signingsavvy,11,0,train,25,1,-1,72,16,217,192,https://www.signingsavvy.com/signs/mp4/7/7255.mp4,train_0006_signingsavvy_59314.mp4,ok
+8,59316,signingsavvy,11,0,train,25,1,-1,71,12,212,192,https://www.signingsavvy.com/signs/mp4/9/9822.mp4,train_0008_signingsavvy_59316.mp4,ok
+9,66665,aslsignbank,93,0,train,25,1,-1,176,37,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TR/TRAIN-368.mp4,train_0009_aslsignbank_66665.mp4,failed
+10,59307,spreadthesign,56,0,train,25,1,-1,11,0,274,240,https://media.spreadthesign.com/video/mp4/13/50917.mp4,train_0010_spreadthesign_59307.mp4,ok
+11,67319,asllex,109,0,train,25,1,-1,96,16,390,360,https://youtu.be/dO9Ti2bgHIk,train_0011_asllex_67319.mp4,skipped_no_ytdlp
+12,59317,aslu,5,0,test,25,1,-1,339,47,993,720,https://www.youtube.com/watch?v=yne0A8Z7ijU,train_0012_aslu_59317.mp4,skipped_no_ytdlp
+13,59318,aslpro,87,0,val,25,1,-1,12,6,231,240,http://www.aslpro.com/main/t/train.swf,train_0013_aslpro_59318.mp4,skipped_swf
+14,59319,aslsearch,12,0,test,25,1,-1,189,56,559,400,http://www.aslsearch.com/signs/videos/practice.mp4,train_0014_aslsearch_59319.mp4,ok
+15,59320,aslsearch,12,0,train,25,1,-1,190,48,556,400,http://www.aslsearch.com/signs/videos/train.mp4,train_0015_aslsearch_59320.mp4,ok
+16,59308,startasl,36,0,train,25,1,-1,221,13,536,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/train.mp4,train_0016_startasl_59308.mp4,ok
+17,59309,signschool,32,0,train,25,1,-1,685,75,1678,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Train-g5-udWgwNwo.mp4,train_0017_signschool_59309.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,21202,asl5200,9,0,train,25,593,645,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,father_0000_asl5200_21202.mp4,skipped_no_ytdlp
+1,69318,aslbrick,116,0,train,25,1,-1,147,4,549,480,http://aslbricks.org/New/ASL-Videos/father.mp4,father_0001_aslbrick_69318.mp4,ok
+2,21220,aslpro,16,0,train,25,1,-1,18,5,230,240,http://www.aslpro.com/main/f/father.swf,father_0002_aslpro_21220.mp4,skipped_swf
+3,21221,aslsearch,12,0,val,25,1,-1,157,35,553,400,http://www.aslsearch.com/signs/videos/dad.mp4,father_0003_aslsearch_21221.mp4,ok
+4,21205,startasl,36,0,train,25,1,-1,127,7,519,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/father.mp4,father_0004_startasl_21205.mp4,ok
+6,21207,signschool,52,0,train,25,1,-1,192,11,590,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Father.mp4,father_0006_signschool_21207.mp4,ok
+8,21209,asldeafined,21,0,train,25,1,-1,123,0,597,480,https://media.asldeafined.com/vocabulary/1468463544.4624.mp4,father_0008_asldeafined_21209.mp4,ok
+9,21210,handspeak,14,0,train,25,1,-1,57,14,267,240,https://www.handspeak.com/word/f/father.mp4,father_0009_handspeak_21210.mp4,failed
+11,21212,signingsavvy,11,0,train,25,1,-1,53,0,218,192,https://www.signingsavvy.com/signs/mp4/6/6510.mp4,father_0011_signingsavvy_21212.mp4,ok
+14,21204,spreadthesign,37,0,test,25,1,-1,57,9,244,240,https://media.spreadthesign.com/video/mp4/13/455635.mp4,father_0014_spreadthesign_21204.mp4,ok
+15,67647,asllex,109,0,val,25,1,-1,89,7,375,360,https://youtu.be/0LUoVGzdENo,father_0015_asllex_67647.mp4,skipped_no_ytdlp
+19,21217,aslu,5,0,test,25,1,-1,274,59,1004,720,https://www.youtube.com/watch?v=4px5GII_5ws,father_0019_aslu_21217.mp4,skipped_no_ytdlp
+20,21218,aslu,5,0,train,25,1,-1,145,19,483,360,https://www.youtube.com/watch?v=Fa66XIJ2df0,father_0020_aslu_21218.mp4,skipped_no_ytdlp
+21,21219,aslu,5,0,train,25,1,-1,364,41,942,718,https://www.youtube.com/watch?v=UnAiMqWCzNs,father_0021_aslu_21219.mp4,skipped_no_ytdlp

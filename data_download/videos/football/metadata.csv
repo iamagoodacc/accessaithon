@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22798,asl5200,9,0,val,25,2345,2384,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,football_0000_asl5200_22798.mp4,skipped_no_ytdlp
+1,69331,aslbrick,116,0,train,25,1,-1,319,23,989,720,http://aslbricks.org/New/ASL-Videos/football.mp4,football_0001_aslbrick_69331.mp4,ok
+2,70129,northtexas,121,0,train,25,779,889,139,22,497,480,https://www.youtube.com/watch?v=VwejDy96MzM,football_0002_northtexas_70129.mp4,skipped_no_ytdlp
+3,22818,aslsearch,12,0,val,25,1,-1,178,52,550,400,http://www.aslsearch.com/signs/videos/football.mp4,football_0003_aslsearch_22818.mp4,ok
+4,22803,signschool,32,0,train,25,1,-1,543,78,1632,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Football%202-RTuaLYQjaeQ.mp4,football_0004_signschool_22803.mp4,ok
+5,22804,signschool,32,0,train,25,1,-1,567,87,1579,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Football-qqA50X9lf20.mp4,football_0005_signschool_22804.mp4,ok
+6,22805,signschool,32,0,train,25,1,-1,376,56,1055,719,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Football.mp4,football_0006_signschool_22805.mp4,ok
+7,22806,asldeafined,21,0,train,25,1,-1,89,16,559,480,https://media.asldeafined.com/vocabulary/1468513230.5625.mp4,football_0007_asldeafined_22806.mp4,ok
+10,22809,handspeak,20,0,train,25,1,-1,72,9,523,480,https://www.handspeak.com/word/f/football.mp4,football_0010_handspeak_22809.mp4,failed
+11,22810,signingsavvy,11,0,test,25,1,-1,65,15,220,192,https://www.signingsavvy.com/signs/mp4/6/6507.mp4,football_0011_signingsavvy_22810.mp4,ok
+13,65755,aslsignbank,94,0,val,25,1,-1,147,17,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FOOTBALL-734.mp4,football_0013_aslsignbank_65755.mp4,failed
+14,22802,startasl,38,0,test,25,1,-1,474,70,863,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/football.mp4,football_0014_startasl_22802.mp4,ok
+15,67673,asllex,109,0,train,25,1,-1,111,1,402,360,https://youtu.be/rALpH4aCRzo,football_0015_asllex_67673.mp4,skipped_no_ytdlp
+18,22814,aslu,5,0,train,25,1,-1,359,54,924,720,https://www.youtube.com/watch?v=jgfU7uDgV0k,football_0018_aslu_22814.mp4,skipped_no_ytdlp
+19,22815,aslpro,16,0,train,25,1,-1,28,21,222,240,http://www.aslpro.com/main/f/football_a.swf,football_0019_aslpro_22815.mp4,skipped_swf

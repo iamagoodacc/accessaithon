@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62706,asl5200,9,0,train,25,1287,1343,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,wednesday_0000_asl5200_62706.mp4,skipped_no_ytdlp
+1,62712,signingsavvy,11,0,train,25,1,-1,82,14,222,192,https://www.signingsavvy.com/signs/mp4/6/6985.mp4,wednesday_0001_signingsavvy_62712.mp4,ok
+2,62713,signingsavvy,11,0,train,25,1,-1,64,18,213,192,https://www.signingsavvy.com/signs/mp4/8/8982.mp4,wednesday_0002_signingsavvy_62713.mp4,ok
+3,62714,aslu,5,0,val,25,1,-1,357,34,954,720,https://www.youtube.com/watch?v=btWz421kwLY,wednesday_0003_aslu_62714.mp4,skipped_no_ytdlp
+4,62715,aslu,5,0,train,25,1,-1,251,0,910,720,https://www.youtube.com/watch?v=hm2ElJe2H-Y,wednesday_0004_aslu_62715.mp4,skipped_no_ytdlp
+5,66758,aslsignbank,100,0,train,25,1,-1,203,28,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WE/WEDNESDAY-1417.mp4,wednesday_0005_aslsignbank_66758.mp4,failed
+6,67051,asllex,109,0,train,25,1,-1,97,17,368,360,https://youtu.be/B4oR1A0G2gI,wednesday_0006_asllex_67051.mp4,skipped_no_ytdlp
+7,62716,aslpro,87,0,train,25,1,-1,39,21,213,240,http://www.aslpro.com/main/w/wednesday.swf,wednesday_0007_aslpro_62716.mp4,skipped_swf
+8,62717,aslsearch,12,0,train,25,1,-1,195,54,577,400,http://www.aslsearch.com/signs/videos/wednesday.mp4,wednesday_0008_aslsearch_62717.mp4,ok
+9,62707,spreadthesign,56,0,test,25,1,-1,47,0,267,240,https://media.spreadthesign.com/video/mp4/13/50953.mp4,wednesday_0009_spreadthesign_62707.mp4,ok
+10,62708,startasl,38,0,val,25,1,-1,397,50,811,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/wednesday.mp4,wednesday_0010_startasl_62708.mp4,ok
+11,62709,signschool,3,0,test,25,1,-1,473,0,1378,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wednesday-Z_oc_AuWufA.mp4,wednesday_0011_signschool_62709.mp4,ok
+12,62710,asldeafined,13,0,train,25,1,-1,124,0,519,480,https://media.asldeafined.com/vocabulary/1468927555.6491.mp4,wednesday_0012_asldeafined_62710.mp4,ok
+13,62711,handspeak,20,0,train,25,1,-1,57,2,300,240,https://www.handspeak.com/word/w/wednesday.mp4,wednesday_0013_handspeak_62711.mp4,failed

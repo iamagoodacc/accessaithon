@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55035,asl5200,9,0,train,25,9107,9159,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,straight_0000_asl5200_55035.mp4,skipped_no_ytdlp
+1,68564,lillybauer,112,0,train,25,1,37,363,30,926,720,https://www.youtube.com/watch?v=IrTkb6JGeOw,straight_0001_lillybauer_68564.mp4,skipped_no_ytdlp
+2,55047,handspeak,14,0,train,25,1,-1,101,0,580,480,https://www.handspeak.com/word/s/straight-line.mp4,straight_0002_handspeak_55047.mp4,failed
+3,55048,signingsavvy,10,0,val,25,1,-1,90,23,208,192,https://www.signingsavvy.com/signs/mp4/22/22392.mp4,straight_0003_signingsavvy_55048.mp4,ok
+5,55050,signingsavvy,11,0,train,25,1,-1,64,9,209,192,https://www.signingsavvy.com/signs/mp4/9/9608.mp4,straight_0005_signingsavvy_55050.mp4,ok
+6,55051,aslu,5,0,train,25,1,-1,350,50,945,720,https://www.youtube.com/watch?v=NtF3hIyAReY,straight_0006_aslu_55051.mp4,skipped_no_ytdlp
+7,55052,aslu,5,0,train,25,1,-1,325,31,953,720,https://www.youtube.com/watch?v=nuntx2_hRP4,straight_0007_aslu_55052.mp4,skipped_no_ytdlp
+8,66563,aslsignbank,90,0,train,25,1,-1,198,16,452,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ST/STRAIGHT-821.mp4,straight_0008_aslsignbank_66563.mp4,failed
+9,55043,spreadthesign,26,0,train,25,1,-1,76,12,238,240,https://media.spreadthesign.com/video/mp4/13/307919.mp4,straight_0009_spreadthesign_55043.mp4,ok
+12,55055,aslsearch,12,0,test,25,1,-1,206,54,550,400,http://www.aslsearch.com/signs/videos/straight.mp4,straight_0012_aslsearch_55055.mp4,ok
+13,55056,aslsearch,12,0,val,25,1,-1,206,54,550,400,http://www.aslsearch.com/signs/videos/straight.mp4,straight_0013_aslsearch_55056.mp4,ok
+14,55044,signschool,4,0,test,25,1,-1,760,56,1643,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blunt%203-v_ecWucb4co.mp4,straight_0014_signschool_55044.mp4,ok
+15,55045,asldeafined,13,0,train,25,1,-1,153,0,531,480,https://media.asldeafined.com/vocabulary/1468896716.3147.mp4,straight_0015_asldeafined_55045.mp4,ok
+16,55046,handspeak,14,0,train,25,1,-1,136,0,608,480,https://www.handspeak.com/word/s/straight-blunt.mp4,straight_0016_handspeak_55046.mp4,failed

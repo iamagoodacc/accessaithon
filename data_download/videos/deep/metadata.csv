@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15153,asl5200,9,0,val,25,798,847,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,deep_0000_asl5200_15153.mp4,skipped_no_ytdlp
+1,15164,aslu,5,0,train,25,1,-1,263,58,1010,720,https://www.youtube.com/watch?v=0vcF3e4c4nc,deep_0001_aslu_15164.mp4,skipped_no_ytdlp
+2,15165,aslpro,24,0,train,25,1,-1,0,15,217,240,http://www.aslpro.com/main/d/deep.swf,deep_0002_aslpro_15165.mp4,skipped_swf
+3,15166,aslsearch,41,0,train,25,1,-1,228,48,507,400,http://www.aslsearch.com/signs/videos/deep.mp4,deep_0003_aslsearch_15166.mp4,ok
+4,65453,aslsignbank,102,0,train,25,1,-1,142,16,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DEEP-1237.mp4,deep_0004_aslsignbank_65453.mp4,failed
+5,15157,spreadthesign,2,0,train,25,1,-1,82,36,240,240,https://media.spreadthesign.com/video/mp4/13/93281.mp4,deep_0005_spreadthesign_15157.mp4,ok
+6,67557,asllex,109,0,train,25,1,-1,89,20,389,360,https://youtu.be/yBEoFX3PTFU,deep_0006_asllex_67557.mp4,skipped_no_ytdlp
+7,15158,signschool,6,0,train,25,1,-1,526,94,1439,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Deep-rsqIbk2Jp-E.mp4,deep_0007_signschool_15158.mp4,ok
+8,15159,signschool,32,0,train,25,1,-1,612,68,1762,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Intense%2C%20Deep%2C%20%20Fracking-Gkd4jkxN0Yg.mp4,deep_0008_signschool_15159.mp4,ok
+9,15160,asldeafined,59,0,test,25,1,-1,127,26,521,480,https://media.asldeafined.com/vocabulary/1466907507.22.mp4,deep_0009_asldeafined_15160.mp4,ok
+10,15161,handspeak,14,0,train,25,1,-1,54,0,271,240,https://www.handspeak.com/word/d/deep.mp4,deep_0010_handspeak_15161.mp4,failed
+11,15162,signingsavvy,11,0,test,25,1,-1,43,5,234,192,https://www.signingsavvy.com/signs/mp4/14/14648.mp4,deep_0011_signingsavvy_15162.mp4,ok
+12,15163,signingsavvy,11,0,val,25,1,-1,47,4,240,192,https://www.signingsavvy.com/signs/mp4/5/5918.mp4,deep_0012_signingsavvy_15163.mp4,ok

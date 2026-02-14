@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13169,asl5200,9,0,val,25,5985,6047,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cookie_0000_asl5200_13169.mp4,skipped_no_ytdlp
+1,69280,aslbrick,117,0,train,25,1,-1,207,30,942,720,http://aslbricks.org/New/ASL-Videos/cookie.mp4,cookie_0001_aslbrick_69280.mp4,ok
+2,13179,signingsavvy,10,0,train,25,1,-1,81,23,210,192,https://www.signingsavvy.com/signs/mp4/23/23051.mp4,cookie_0002_signingsavvy_13179.mp4,ok
+3,13180,aslu,5,0,train,25,1,-1,310,46,948,720,https://www.youtube.com/watch?v=X7Bu7NVbl6k,cookie_0003_aslu_13180.mp4,skipped_no_ytdlp
+4,13181,aslpro,24,0,train,25,1,-1,12,15,198,240,http://www.aslpro.com/main/c/cookie.swf,cookie_0004_aslpro_13181.mp4,skipped_swf
+5,13172,spreadthesign,0,0,train,25,1,-1,34,7,254,240,https://media.spreadthesign.com/video/mp4/13/74946.mp4,cookie_0005_spreadthesign_13172.mp4,ok
+6,67526,asllex,109,0,train,25,1,-1,78,11,392,360,https://youtu.be/_v3tnw-SLDc,cookie_0006_asllex_67526.mp4,skipped_no_ytdlp
+7,13182,aslsearch,12,0,train,25,1,-1,161,55,523,400,http://www.aslsearch.com/signs/videos/cookie.mp4,cookie_0007_aslsearch_13182.mp4,ok
+8,13173,startasl,36,0,train,25,1,-1,192,15,543,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/cookie.mp4,cookie_0008_startasl_13173.mp4,ok
+9,13174,signschool,32,0,test,25,1,-1,572,78,1647,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cookie%202-VDyv32guxac.mp4,cookie_0009_signschool_13174.mp4,ok
+10,13175,signschool,52,0,train,25,1,-1,303,9,824,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cookies-bC_ITFy15iM.mp4,cookie_0010_signschool_13175.mp4,ok
+12,13177,asldeafined,59,0,test,25,1,-1,111,25,513,480,https://media.asldeafined.com/vocabulary/1466903059.2055.mp4,cookie_0012_asldeafined_13177.mp4,ok
+13,13178,handspeak,20,0,val,25,1,-1,17,2,517,480,https://www.handspeak.com/word/c/cookie.mp4,cookie_0013_handspeak_13178.mp4,failed

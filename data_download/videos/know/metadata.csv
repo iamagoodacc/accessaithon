@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31896,asl5200,9,0,test,25,624,673,0,0,360,240,https://www.youtube.com/watch?v=D2Vg3lKjX78,know_0000_asl5200_31896.mp4,skipped_no_ytdlp
+1,31900,asldeafined,21,0,test,25,1,-1,81,21,583,480,https://media.asldeafined.com/vocabulary/1468670827.8910.mp4,know_0001_asldeafined_31900.mp4,ok
+2,31901,asldeafined,15,0,train,25,1,-1,144,30,526,480,https://media.asldeafined.com/vocabulary/1522766867.4800.mp4,know_0002_asldeafined_31901.mp4,ok
+3,31902,handspeak,20,0,train,25,1,-1,86,28,590,480,https://www.handspeak.com/word/k/know.mp4,know_0003_handspeak_31902.mp4,failed
+4,31903,signingsavvy,11,0,train,25,1,-1,48,9,221,192,https://www.signingsavvy.com/signs/mp4/9/9496.mp4,know_0004_signingsavvy_31903.mp4,ok
+5,31904,aslu,5,0,val,25,1,-1,237,42,949,720,https://www.youtube.com/watch?v=6jP9ZtXcQkM,know_0005_aslu_31904.mp4,skipped_no_ytdlp
+6,31905,aslu,5,0,train,25,1,-1,224,0,924,720,https://www.youtube.com/watch?v=Ht2B0VzHFwQ,know_0006_aslu_31905.mp4,skipped_no_ytdlp
+7,66002,aslsignbank,90,0,val,25,1,-1,178,12,484,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KN/KNOW-554.mp4,know_0007_aslsignbank_66002.mp4,failed
+8,67823,asllex,109,0,train,25,1,-1,93,23,378,360,https://youtu.be/AMYxu_v6Caw,know_0008_asllex_67823.mp4,skipped_no_ytdlp
+9,31906,aslu,5,0,train,25,1,-1,334,56,928,720,https://www.youtube.com/watch?v=MBzzJk_5WwY,know_0009_aslu_31906.mp4,skipped_no_ytdlp
+10,31907,scott,82,0,train,25,1,-1,209,0,834,720,https://www.youtube.com/watch?v=RLjz2Q1WMQ4,know_0010_scott_31907.mp4,skipped_no_ytdlp
+11,31908,aslpro,87,0,train,25,1,-1,21,5,228,240,http://www.aslpro.com/main/k/know.swf,know_0011_aslpro_31908.mp4,skipped_swf
+12,31909,aslsearch,12,0,val,25,1,-1,168,67,554,400,http://www.aslsearch.com/signs/videos/know.mp4,know_0012_aslsearch_31909.mp4,ok
+13,31897,spreadthesign,8,0,train,25,1,-1,62,2,238,240,https://media.spreadthesign.com/video/mp4/13/457474.mp4,know_0013_spreadthesign_31897.mp4,ok
+14,31898,startasl,36,0,train,25,1,-1,184,17,522,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/know.mp4,know_0014_startasl_31898.mp4,ok
+15,31899,signschool,27,0,train,25,1,-1,456,46,1792,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Know-aCx2fU-hklU.mp4,know_0015_signschool_31899.mp4,ok

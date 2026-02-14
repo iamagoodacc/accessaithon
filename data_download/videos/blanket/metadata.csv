@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06550,asl5200,9,0,test,25,3189,3255,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,blanket_0000_asl5200_06550.mp4,skipped_no_ytdlp
+1,06553,signschool,39,0,test,25,1,-1,638,94,1852,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket-56AEFvJQNKM.mp4,blanket_0001_signschool_06553.mp4,ok
+2,06554,signschool,4,0,train,25,1,-1,387,45,1893,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket-PGnWLYRHS4Y.mp4,blanket_0002_signschool_06554.mp4,ok
+3,06555,asldeafined,59,0,train,25,1,-1,103,13,524,480,https://media.asldeafined.com/vocabulary/1466682724.4542.mp4,blanket_0003_asldeafined_06555.mp4,ok
+5,06557,handspeak,14,0,train,25,1,-1,31,2,272,240,https://www.handspeak.com/word/b/blanket.mp4,blanket_0005_handspeak_06557.mp4,failed
+6,06558,signingsavvy,10,0,val,25,1,-1,47,16,237,192,https://www.signingsavvy.com/signs/mp4/24/24250.mp4,blanket_0006_signingsavvy_06558.mp4,ok
+7,06559,signingsavvy,11,0,train,25,1,-1,52,7,222,192,https://www.signingsavvy.com/signs/mp4/9/9933.mp4,blanket_0007_signingsavvy_06559.mp4,ok
+8,65204,aslsignbank,90,0,val,25,1,-1,147,23,514,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLANKET-40.mp4,blanket_0008_aslsignbank_65204.mp4,failed
+9,65205,aslsignbank,90,0,train,25,1,-1,165,24,509,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BL/BLANKET-41.mp4,blanket_0009_aslsignbank_65205.mp4,failed
+10,67415,asllex,109,0,train,25,1,-1,78,15,446,360,https://youtu.be/zvl9WNR_Jco,blanket_0010_asllex_67415.mp4,skipped_no_ytdlp
+11,06560,aslu,5,0,train,25,1,-1,320,35,1029,720,https://www.youtube.com/watch?v=M4dD1mvydVw,blanket_0011_aslu_06560.mp4,skipped_no_ytdlp
+12,06561,aslpro,25,0,train,25,1,-1,0,0,245,234,http://www.aslpro.com/main/b/blanket_electric.swf,blanket_0012_aslpro_06561.mp4,skipped_swf
+13,06562,aslpro,25,0,val,25,1,-1,0,0,237,234,http://www.aslpro.com/main/b/blanket.swf,blanket_0013_aslpro_06562.mp4,skipped_swf
+14,06563,aslsearch,12,0,train,25,1,-1,152,51,559,400,http://www.aslsearch.com/signs/videos/blanket.mp4,blanket_0014_aslsearch_06563.mp4,ok
+15,06551,startasl,38,0,train,25,1,-1,373,54,798,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/blanket.mp4,blanket_0015_startasl_06551.mp4,ok
+16,06552,signschool,4,0,train,25,1,-1,489,59,1920,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Blanket%202-TpMWkAVN-yo.mp4,blanket_0016_signschool_06552.mp4,ok

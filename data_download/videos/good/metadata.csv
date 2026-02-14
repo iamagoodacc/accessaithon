@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25037,asl5200,9,0,train,25,1194,1236,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,good_0000_asl5200_25037.mp4,skipped_no_ytdlp
+1,69347,aslbrick,118,0,train,25,1,-1,363,43,868,720,http://aslbricks.org/New/ASL-Videos/good.mp4,good_0001_aslbrick_69347.mp4,ok
+2,70259,northtexas,121,0,train,25,5256,5351,182,46,414,360,https://www.youtube.com/watch?v=WprUBqi3iBc,good_0002_northtexas_70259.mp4,skipped_no_ytdlp
+3,25072,signingsavvy,11,1,test,25,1,-1,79,10,216,192,https://www.signingsavvy.com/signs/mp4/14/14369.mp4,good_0003_signingsavvy_25072.mp4,ok
+4,25073,signingsavvy,11,0,train,25,1,-1,77,16,217,192,https://www.signingsavvy.com/signs/mp4/6/6519.mp4,good_0004_signingsavvy_25073.mp4,ok
+5,25074,aslu,5,1,val,25,1,-1,256,0,955,720,https://www.youtube.com/watch?v=tTDXplV6TKA,good_0005_aslu_25074.mp4,skipped_no_ytdlp
+6,25075,aslpro,16,1,train,25,1,-1,24,8,228,240,http://www.aslpro.com/main/g/good.swf,good_0006_aslpro_25075.mp4,skipped_swf
+7,65835,aslsignbank,94,0,val,25,1,-1,165,19,451,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GO/GOOD-472.mp4,good_0007_aslsignbank_65835.mp4,failed
+8,25066,spreadthesign,8,1,train,25,1,-1,69,0,250,240,https://media.spreadthesign.com/video/mp4/13/456461.mp4,good_0008_spreadthesign_25066.mp4,ok
+9,67723,asllex,109,0,val,25,1,-1,105,12,374,360,https://youtu.be/nTaaoVc75-k,good_0009_asllex_67723.mp4,skipped_no_ytdlp
+10,25076,aslsearch,41,1,train,25,1,-1,244,43,499,400,http://www.aslsearch.com/signs/videos/good.mp4,good_0010_aslsearch_25076.mp4,ok
+11,25067,startasl,36,1,train,25,1,-1,224,16,519,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/good.mp4,good_0011_startasl_25067.mp4,ok
+12,25068,signschool,52,0,train,25,1,-1,287,11,778,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20good2-teA9no8RAog.mp4,good_0012_signschool_25068.mp4,ok
+13,25069,signschool,4,1,train,25,1,-1,759,56,1660,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Good-kA-FPrCV88o.mp4,good_0013_signschool_25069.mp4,ok
+14,25070,asldeafined,21,0,test,25,1,-1,87,8,536,480,https://media.asldeafined.com/vocabulary/1468549579.7523.mp4,good_0014_asldeafined_25070.mp4,ok
+15,25071,handspeak,20,0,train,25,1,-1,88,15,545,480,https://www.handspeak.com/word/g/good.mp4,good_0015_handspeak_25071.mp4,failed

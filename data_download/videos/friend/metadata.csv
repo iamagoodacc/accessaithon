@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23567,asl5200,9,0,test,25,3083,3142,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,friend_0000_asl5200_23567.mp4,skipped_no_ytdlp
+1,68214,lillybauer,112,0,test,25,1,52,303,16,889,720,https://www.youtube.com/watch?v=25OsRZMSydI,friend_0001_lillybauer_68214.mp4,skipped_no_ytdlp
+2,70342,northtexas,121,0,train,25,2961,3060,188,38,449,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,friend_0002_northtexas_70342.mp4,skipped_no_ytdlp
+3,68952,lillybauer,113,0,train,25,1,102,235,31,981,720,https://www.youtube.com/watch?v=uvhVws-LlfM,friend_0003_lillybauer_68952.mp4,skipped_no_ytdlp
+4,23574,signingsavvy,11,0,train,25,1,-1,71,10,215,192,https://www.signingsavvy.com/signs/mp4/14/14372.mp4,friend_0004_signingsavvy_23574.mp4,ok
+5,23575,aslu,5,0,val,25,1,-1,108,5,518,360,https://www.youtube.com/watch?v=6a571i9uA3U,friend_0005_aslu_23575.mp4,skipped_no_ytdlp
+6,23576,aslu,5,0,train,25,1,-1,318,33,1020,720,https://www.youtube.com/watch?v=6RRmIyhkMx0,friend_0006_aslu_23576.mp4,skipped_no_ytdlp
+7,65782,aslsignbank,106,0,val,25,1,-1,156,41,485,369,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FR/FRIEND-462.mp4,friend_0007_aslsignbank_65782.mp4,failed
+8,67691,asllex,109,0,train,25,1,-1,65,17,391,360,https://youtu.be/VXN_PVcYgKc,friend_0008_asllex_67691.mp4,skipped_no_ytdlp
+9,23577,aslpro,16,0,train,25,1,-1,0,4,226,240,http://www.aslpro.com/main/f/friend.swf,friend_0009_aslpro_23577.mp4,skipped_swf
+10,23578,aslsearch,12,0,train,25,1,-1,178,51,542,400,http://www.aslsearch.com/signs/videos/friend.mp4,friend_0010_aslsearch_23578.mp4,ok
+11,23568,spreadthesign,37,0,train,25,1,-1,45,0,283,240,https://media.spreadthesign.com/video/mp4/13/456372.mp4,friend_0011_spreadthesign_23568.mp4,ok
+12,23569,startasl,36,0,val,25,1,-1,217,18,524,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/friend.mp4,friend_0012_startasl_23569.mp4,ok
+13,23570,signschool,70,0,train,25,1,-1,389,15,812,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Friend-kf4Rs2291OM.mp4,friend_0013_signschool_23570.mp4,ok
+14,23572,asldeafined,21,0,train,25,1,-1,66,9,582,480,https://media.asldeafined.com/vocabulary/1468514220.311.mp4,friend_0014_asldeafined_23572.mp4,ok
+15,23573,handspeak,20,0,train,25,1,-1,94,0,572,480,https://www.handspeak.com/word/f/friend.mp4,friend_0015_handspeak_23573.mp4,failed

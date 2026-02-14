@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,68380,lillybauer,112,0,val,25,1,29,375,36,927,719,https://www.youtube.com/watch?v=cJOyCgIKyeA,past_0001_lillybauer_68380.mp4,skipped_no_ytdlp
+2,70151,northtexas,121,0,train,25,7081,7206,115,27,484,480,https://www.youtube.com/watch?v=VwejDy96MzM,past_0002_northtexas_70151.mp4,skipped_no_ytdlp
+3,41452,signingsavvy,11,0,train,25,1,-1,65,9,219,192,https://www.signingsavvy.com/signs/mp4/5/5971.mp4,past_0003_signingsavvy_41452.mp4,ok
+4,41453,signingsavvy,11,0,val,25,1,-1,67,14,216,192,https://www.signingsavvy.com/signs/mp4/6/6164.mp4,past_0004_signingsavvy_41453.mp4,ok
+5,41454,signingsavvy,11,0,train,25,1,-1,43,3,212,192,https://www.signingsavvy.com/signs/mp4/9/9194.mp4,past_0005_signingsavvy_41454.mp4,ok
+6,41455,aslu,5,0,train,25,1,-1,306,15,958,720,https://www.youtube.com/watch?v=j7rjBay5FIE,past_0006_aslu_41455.mp4,skipped_no_ytdlp
+7,41446,elementalasl,19,0,train,25,1,-1,57,9,249,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/past.mov,past_0007_elementalasl_41446.mp4,ok
+8,67965,asllex,109,0,train,25,1,-1,104,25,372,360,https://youtu.be/0vVP7dDToDQ,past_0008_asllex_67965.mp4,skipped_no_ytdlp
+9,41456,aslu,5,0,train,25,1,-1,353,45,941,720,https://www.youtube.com/watch?v=L2x7sOguFg0,past_0009_aslu_41456.mp4,skipped_no_ytdlp
+10,41457,aslsearch,41,0,test,25,1,-1,196,38,478,400,http://www.aslsearch.com/signs/videos/past.mp4,past_0010_aslsearch_41457.mp4,ok
+11,41447,spreadthesign,2,0,val,25,1,-1,53,8,260,240,https://media.spreadthesign.com/video/mp4/13/157905.mp4,past_0011_spreadthesign_41447.mp4,ok
+12,41448,signschool,4,0,test,25,1,-1,570,98,1535,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Last-0SLfkAHELAs.mp4,past_0012_signschool_41448.mp4,ok
+13,41449,asldeafined,13,0,train,25,1,-1,103,25,528,480,https://media.asldeafined.com/vocabulary/1466681314.2550.mp4,past_0013_asldeafined_41449.mp4,ok
+14,41450,asldeafined,13,0,train,25,1,-1,110,0,519,480,https://media.asldeafined.com/vocabulary/1468724279.1587.mp4,past_0014_asldeafined_41450.mp4,ok
+15,41451,handspeak,20,0,train,25,1,-1,11,0,260,240,https://www.handspeak.com/word/p/past.mp4,past_0015_handspeak_41451.mp4,failed

@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44677,asl5200,9,0,test,25,5650,5706,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,problem_0000_asl5200_44677.mp4,skipped_no_ytdlp
+1,44684,asldeafined,13,0,test,25,1,-1,111,0,610,480,https://media.asldeafined.com/vocabulary/1468756235.8420.mp4,problem_0001_asldeafined_44684.mp4,ok
+2,44685,handspeak,14,0,train,25,1,-1,86,3,562,480,https://www.handspeak.com/word/p/problem.mp4,problem_0002_handspeak_44685.mp4,failed
+3,44686,signingsavvy,11,0,train,25,1,-1,55,14,218,192,https://www.signingsavvy.com/signs/mp4/6/6659.mp4,problem_0003_signingsavvy_44686.mp4,ok
+4,44687,signingsavvy,11,0,train,25,1,-1,42,12,231,192,https://www.signingsavvy.com/signs/mp4/6/6661.mp4,problem_0004_signingsavvy_44687.mp4,ok
+5,44688,aslu,5,0,val,25,1,-1,178,0,1003,720,https://www.youtube.com/watch?v=eNutcT89QIQ,problem_0005_aslu_44688.mp4,skipped_no_ytdlp
+6,44689,aslu,5,0,train,25,1,-1,178,0,1003,720,https://www.youtube.com/watch?v=eNutcT89QIQ,problem_0006_aslu_44689.mp4,skipped_no_ytdlp
+7,66335,aslsignbank,93,0,val,25,1,-1,134,22,495,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PROBLEM_1-2483.mp4,problem_0007_aslsignbank_66335.mp4,failed
+8,44680,elementalasl,19,0,train,25,1,-1,76,7,233,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/problem.mov,problem_0008_elementalasl_44680.mp4,ok
+9,67107,asllex,109,0,train,25,1,-1,97,15,397,360,https://youtu.be/2EVzT-lydyk,problem_0009_asllex_67107.mp4,skipped_no_ytdlp
+10,67105,asllex,109,0,train,25,1,-1,76,26,416,360,https://youtu.be/5iOCz7V4-fA,problem_0010_asllex_67105.mp4,skipped_no_ytdlp
+11,44690,aslpro,87,0,train,25,1,-1,0,18,250,240,http://www.aslpro.com/main/p/problem.swf,problem_0011_aslpro_44690.mp4,skipped_swf
+12,44691,aslsearch,12,0,val,25,1,-1,179,53,554,400,http://www.aslsearch.com/signs/videos/problem.mp4,problem_0012_aslsearch_44691.mp4,ok
+13,44681,spreadthesign,0,0,train,25,1,-1,54,10,258,240,https://media.spreadthesign.com/video/mp4/13/63567.mp4,problem_0013_spreadthesign_44681.mp4,ok
+14,44682,signschool,4,0,train,25,1,-1,519,55,1768,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Problem%20copy-H6BM_-Y6GF8.mp4,problem_0014_signschool_44682.mp4,ok
+15,44683,signschool,31,0,train,25,1,-1,658,144,1510,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Problem-cDVI4LelnNc.mp4,problem_0015_signschool_44683.mp4,ok

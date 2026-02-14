@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53453,asl5200,9,0,val,25,7035,7077,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,south_0000_asl5200_53453.mp4,skipped_no_ytdlp
+1,70188,northtexas,121,0,train,25,2994,3106,96,35,462,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,south_0001_northtexas_70188.mp4,skipped_no_ytdlp
+2,53488,signingsavvy,11,0,train,25,1,-1,78,16,218,192,https://www.signingsavvy.com/signs/mp4/6/6861.mp4,south_0002_signingsavvy_53488.mp4,ok
+3,53489,aslu,5,0,val,25,1,-1,321,46,920,720,https://www.youtube.com/watch?v=Of670lCy0dI,south_0003_aslu_53489.mp4,skipped_no_ytdlp
+4,53490,aslu,5,0,train,25,1,-1,389,51,959,720,https://www.youtube.com/watch?v=SaBd7wv9_0k,south_0004_aslu_53490.mp4,skipped_no_ytdlp
+5,53491,aslu,5,0,train,25,1,-1,328,27,914,720,https://www.youtube.com/watch?v=Y9sgSdYk--A,south_0005_aslu_53491.mp4,skipped_no_ytdlp
+6,53482,elementalasl,19,0,train,25,1,-1,81,7,221,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/south.mov,south_0006_elementalasl_53482.mp4,ok
+7,67230,asllex,109,0,train,25,1,-1,123,18,361,360,https://youtu.be/0Q2GygbNlro,south_0007_asllex_67230.mp4,skipped_no_ytdlp
+8,53492,aslpro,84,0,train,25,1,-1,37,0,208,240,http://www.aslpro.com/main/s/south.swf,south_0008_aslpro_53492.mp4,skipped_swf
+9,53493,aslsearch,12,0,test,25,1,-1,197,53,544,400,http://www.aslsearch.com/signs/videos/south.mp4,south_0009_aslsearch_53493.mp4,ok
+10,53483,spreadthesign,0,0,val,25,1,-1,51,12,245,240,https://media.spreadthesign.com/video/mp4/13/63581.mp4,south_0010_spreadthesign_53483.mp4,ok
+11,53484,startasl,38,0,test,25,1,-1,423,57,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/south.mp4,south_0011_startasl_53484.mp4,ok
+12,53485,signschool,31,0,train,25,1,-1,674,80,1420,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20South-_HBJaYxZG2Q.mp4,south_0012_signschool_53485.mp4,ok
+13,53486,asldeafined,13,0,train,25,1,-1,113,0,507,480,https://media.asldeafined.com/vocabulary/1468842043.2402.mp4,south_0013_asldeafined_53486.mp4,ok
+14,53487,handspeak,14,0,train,25,1,-1,68,13,262,240,https://www.handspeak.com/word/s/south.mp4,south_0014_handspeak_53487.mp4,failed

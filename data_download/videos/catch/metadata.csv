@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69262,aslbrick,117,0,train,25,1,-1,389,41,931,720,http://aslbricks.org/New/ASL-Videos/catch.mp4,catch_0000_aslbrick_69262.mp4,ok
+2,09459,signschool,31,0,train,25,1,-1,573,54,1868,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Catch%2C%20Capture-OZ7GNRw1vSI.mp4,catch_0002_signschool_09459.mp4,ok
+3,09458,signschool,31,0,train,25,1,-1,693,72,1529,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Catch%2C%20Attack-XuQl7xpAHhw.mp4,catch_0003_signschool_09458.mp4,ok
+4,65314,aslsignbank,90,0,val,25,1,-1,183,17,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CATCH-70.mp4,catch_0004_aslsignbank_65314.mp4,failed
+6,09457,spreadthesign,2,0,train,25,1,-1,55,0,292,240,https://media.spreadthesign.com/video/mp4/13/125845.mp4,catch_0006_spreadthesign_09457.mp4,ok
+7,09461,asldeafined,59,0,train,25,1,-1,121,14,519,480,https://media.asldeafined.com/vocabulary/1466728397.505.mp4,catch_0007_asldeafined_09461.mp4,ok
+8,09462,handspeak,20,0,train,25,1,-1,51,0,531,480,https://www.handspeak.com/word/c/catch.mp4,catch_0008_handspeak_09462.mp4,failed
+9,09467,signingsavvy,11,0,train,25,1,-1,74,19,217,192,https://www.signingsavvy.com/signs/mp4/6/6498.mp4,catch_0009_signingsavvy_09467.mp4,ok
+10,09463,handspeak,14,0,train,25,1,-1,84,0,482,360,https://www.handspeak.com/word/c/catch-object.mp4,catch_0010_handspeak_09463.mp4,failed
+11,09468,signingsavvy,11,0,test,25,1,-1,54,14,213,192,https://www.signingsavvy.com/signs/mp4/6/6499.mp4,catch_0011_signingsavvy_09468.mp4,ok
+12,09464,handspeak,20,0,val,25,1,-1,29,1,567,480,https://www.handspeak.com/word/c/catch-talon.mp4,catch_0012_handspeak_09464.mp4,failed
+15,09470,aslu,5,0,test,25,1,-1,337,29,1041,720,https://www.youtube.com/watch?v=aVIJMRL1NGE,catch_0015_aslu_09470.mp4,skipped_no_ytdlp
+18,09472,aslpro,16,0,train,25,1,-1,25,21,225,240,http://www.aslpro.com/main/c/catch.swf,catch_0018_aslpro_09472.mp4,skipped_swf
+19,09473,aslsearch,41,0,train,25,1,-1,219,44,478,400,http://www.aslsearch.com/signs/videos/catch.mp4,catch_0019_aslsearch_09473.mp4,ok

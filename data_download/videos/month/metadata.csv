@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36732,asl5200,9,0,train,25,1877,1916,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,month_0000_asl5200_36732.mp4,skipped_no_ytdlp
+1,68608,lillybauer,112,0,train,25,1,38,356,44,912,720,https://www.youtube.com/watch?v=jX-4SgCtG84,month_0001_lillybauer_68608.mp4,skipped_no_ytdlp
+2,70305,northtexas,121,0,train,25,716,817,95,22,283,240,https://www.youtube.com/watch?v=pc0-gVEETVg,month_0002_northtexas_70305.mp4,skipped_no_ytdlp
+3,36740,aslpro,30,0,val,25,1,-1,0,12,227,240,http://www.aslpro.com/main/m/month.swf,month_0003_aslpro_36740.mp4,skipped_swf
+4,36741,aslsearch,12,0,train,25,1,-1,175,53,551,400,http://www.aslsearch.com/signs/videos/month.mp4,month_0004_aslsearch_36741.mp4,ok
+5,66141,aslsignbank,97,0,train,25,1,-1,193,28,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MONTH-1595.mp4,month_0005_aslsignbank_66141.mp4,failed
+6,67904,asllex,109,0,train,25,1,-1,82,0,418,360,https://youtu.be/cod2AgTLLx0,month_0006_asllex_67904.mp4,skipped_no_ytdlp
+7,36733,spreadthesign,56,0,train,25,1,-1,26,0,272,240,https://media.spreadthesign.com/video/mp4/13/48599.mp4,month_0007_spreadthesign_36733.mp4,ok
+8,36734,startasl,36,0,train,25,1,-1,211,13,533,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/month.mp4,month_0008_startasl_36734.mp4,ok
+9,36735,signschool,31,0,test,25,1,-1,667,154,1477,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20One%20Month-9QenKoWzTbo.mp4,month_0009_signschool_36735.mp4,ok
+10,36736,asldeafined,13,0,val,25,1,-1,115,0,506,480,https://media.asldeafined.com/vocabulary/1468716435.1879.mp4,month_0010_asldeafined_36736.mp4,ok
+11,36737,handspeak,14,0,test,25,1,-1,45,15,248,240,https://www.handspeak.com/word/m/month.mp4,month_0011_handspeak_36737.mp4,failed
+12,36738,signingsavvy,11,0,train,25,1,-1,65,15,205,192,https://www.signingsavvy.com/signs/mp4/8/8978.mp4,month_0012_signingsavvy_36738.mp4,ok
+13,36739,aslu,5,0,train,25,1,-1,163,13,491,360,https://www.youtube.com/watch?v=YLuGuPS6NU8,month_0013_aslu_36739.mp4,skipped_no_ytdlp

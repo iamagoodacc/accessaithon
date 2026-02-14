@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18145,asl5200,9,0,val,25,181,257,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,ear_0000_asl5200_18145.mp4,skipped_no_ytdlp
+1,69306,aslbrick,118,0,train,25,1,-1,296,36,879,720,http://aslbricks.org/New/ASL-Videos/ear.mp4,ear_0001_aslbrick_69306.mp4,ok
+2,18160,aslpro,24,0,train,25,1,-1,17,11,221,240,http://www.aslpro.com/main/e/ear.swf,ear_0002_aslpro_18160.mp4,skipped_swf
+3,18161,aslsearch,12,0,train,25,1,-1,165,53,543,400,http://www.aslsearch.com/signs/videos/ear.mp4,ear_0003_aslsearch_18161.mp4,ok
+4,65591,aslsignbank,95,0,train,25,1,-1,169,8,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAR-2752.mp4,ear_0004_aslsignbank_65591.mp4,failed
+5,65590,aslsignbank,94,0,train,25,1,-1,140,20,451,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EA/EAR-479.mp4,ear_0005_aslsignbank_65590.mp4,failed
+6,18154,spreadthesign,35,0,train,25,1,-1,65,3,263,240,https://media.spreadthesign.com/video/mp4/13/399486.mp4,ear_0006_spreadthesign_18154.mp4,ok
+7,67603,asllex,109,0,train,25,1,-1,74,19,365,360,https://youtu.be/VgJDUdKlOmg,ear_0007_asllex_67603.mp4,skipped_no_ytdlp
+8,18155,signschool,31,0,train,25,1,-1,684,79,1387,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ear-u3A_4R1vxVg.mp4,ear_0008_signschool_18155.mp4,ok
+9,18156,asldeafined,21,0,test,25,1,-1,98,15,545,480,https://media.asldeafined.com/vocabulary/1468207206.8095.mp4,ear_0009_asldeafined_18156.mp4,ok
+10,18157,handspeak,20,0,train,25,1,-1,55,0,307,240,https://www.handspeak.com/word/e/ear.mp4,ear_0010_handspeak_18157.mp4,failed
+11,18158,signingsavvy,11,0,test,25,1,-1,60,16,224,192,https://www.signingsavvy.com/signs/mp4/7/7045.mp4,ear_0011_signingsavvy_18158.mp4,ok
+12,18159,aslu,5,0,val,25,1,-1,262,51,914,720,https://www.youtube.com/watch?v=Eqq_OZk1Eh4,ear_0012_aslu_18159.mp4,skipped_no_ytdlp

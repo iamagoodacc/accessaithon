@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58676,asl5200,9,0,train,25,3286,3338,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,today_0000_asl5200_58676.mp4,skipped_no_ytdlp
+1,69512,aslbrick,118,0,train,25,1,-1,285,41,957,720,http://aslbricks.org/New/ASL-Videos/today.mp4,today_0001_aslbrick_69512.mp4,ok
+2,70346,northtexas,121,0,train,25,4151,4254,185,51,447,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,today_0002_northtexas_70346.mp4,skipped_no_ytdlp
+3,58684,signingsavvy,11,0,val,25,1,-1,64,12,213,192,https://www.signingsavvy.com/signs/mp4/9/9785.mp4,today_0003_signingsavvy_58684.mp4,ok
+4,58685,aslu,5,0,train,25,1,-1,154,17,514,360,https://www.youtube.com/watch?v=IlLRJ6jw4lY,today_0004_aslu_58685.mp4,skipped_no_ytdlp
+5,58686,aslpro,24,0,train,25,1,-1,15,21,201,240,http://www.aslpro.com/main/t/today.swf,today_0005_aslpro_58686.mp4,skipped_swf
+6,58687,aslsearch,12,0,train,25,1,-1,182,57,554,400,http://www.aslsearch.com/signs/videos/current.mp4,today_0006_aslsearch_58687.mp4,ok
+7,58677,spreadthesign,28,0,train,25,1,-1,54,0,277,240,https://media.spreadthesign.com/video/mp4/13/485657.mp4,today_0007_spreadthesign_58677.mp4,ok
+8,58678,startasl,38,0,train,25,1,-1,373,44,797,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/today.mp4,today_0008_startasl_58678.mp4,ok
+9,58679,asldeafined,13,0,test,25,1,-1,121,0,568,480,https://media.asldeafined.com/vocabulary/1468945745.3876.mp4,today_0009_asldeafined_58679.mp4,ok
+10,58680,handspeak,14,0,val,25,1,-1,87,5,485,360,https://www.handspeak.com/word/t/today.mp4,today_0010_handspeak_58680.mp4,failed
+11,58681,signingsavvy,11,0,test,25,1,-1,45,12,229,192,https://www.signingsavvy.com/signs/mp4/6/6999.mp4,today_0011_signingsavvy_58681.mp4,ok
+12,58682,signingsavvy,11,0,train,25,1,-1,78,20,219,192,https://www.signingsavvy.com/signs/mp4/7/7687.mp4,today_0012_signingsavvy_58682.mp4,ok
+13,58683,signingsavvy,11,0,train,25,1,-1,86,19,231,192,https://www.signingsavvy.com/signs/mp4/7/7688.mp4,today_0013_signingsavvy_58683.mp4,ok

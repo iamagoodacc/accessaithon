@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,11252,startasl,38,0,val,25,1,-1,366,57,842,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/close.mp4,close_0000_startasl_11252.mp4,ok
+2,68654,lillybauer,112,0,train,25,1,38,328,29,939,720,https://www.youtube.com/watch?v=leMbYTAgd1Q,close_0002_lillybauer_68654.mp4,skipped_no_ytdlp
+3,11254,asldeafined,59,0,train,25,1,-1,100,26,600,480,https://media.asldeafined.com/vocabulary/1466899244.7710.mp4,close_0003_asldeafined_11254.mp4,ok
+4,11255,handspeak,14,0,val,25,1,-1,69,18,271,240,https://www.handspeak.com/word/c/close-door.mp4,close_0004_handspeak_11255.mp4,failed
+5,11256,handspeak,20,0,train,25,1,-1,67,9,261,240,https://www.handspeak.com/word/c/close-emotion.mp4,close_0005_handspeak_11256.mp4,failed
+6,11257,handspeak,14,0,train,25,1,-1,70,17,263,240,https://www.handspeak.com/word/c/close-hour2.mp4,close_0006_handspeak_11257.mp4,failed
+8,11259,handspeak,20,0,train,25,1,-1,69,9,258,240,https://www.handspeak.com/word/c/close-near.mp4,close_0008_handspeak_11259.mp4,failed
+9,11260,signingsavvy,11,0,train,25,1,-1,67,13,207,192,https://www.signingsavvy.com/signs/mp4/14/14713.mp4,close_0009_signingsavvy_11260.mp4,ok
+10,11261,signingsavvy,11,0,train,25,1,-1,70,17,239,192,https://www.signingsavvy.com/signs/mp4/7/7816.mp4,close_0010_signingsavvy_11261.mp4,ok
+11,11262,signingsavvy,11,0,test,25,1,-1,61,11,210,192,https://www.signingsavvy.com/signs/mp4/9/9543.mp4,close_0011_signingsavvy_11262.mp4,ok
+13,11264,aslpro,16,0,val,25,1,-1,10,20,238,240,http://www.aslpro.com/main/c/close_door.swf,close_0013_aslpro_11264.mp4,skipped_swf
+14,11265,aslpro,30,0,test,25,1,-1,5,18,226,240,http://www.aslpro.com/main/c/close_near.swf,close_0014_aslpro_11265.mp4,skipped_swf
+16,11267,aslsearch,12,0,train,25,1,-1,167,55,559,400,http://www.aslsearch.com/signs/videos/close3.mp4,close_0016_aslsearch_11267.mp4,ok
+17,11268,aslsearch,12,0,train,25,1,-1,175,53,568,400,http://www.aslsearch.com/signs/videos/close4.mp4,close_0017_aslsearch_11268.mp4,ok
+19,11253,signschool,6,0,train,25,1,-1,524,77,1533,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Close-NMPc6CDj-PY.mp4,close_0019_signschool_11253.mp4,ok

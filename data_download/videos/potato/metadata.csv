@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43922,asl5200,9,0,train,25,3850,3896,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,potato_0000_asl5200_43922.mp4,skipped_no_ytdlp
+1,70061,northtexas,121,0,train,25,880,981,67,31,515,480,https://www.youtube.com/watch?v=jDCw7stJaM4,potato_0001_northtexas_70061.mp4,skipped_no_ytdlp
+2,43936,aslu,5,0,train,25,1,-1,281,60,1027,720,https://www.youtube.com/watch?v=NFKgXNb9_ic,potato_0002_aslu_43936.mp4,skipped_no_ytdlp
+3,43937,aslpro,30,0,val,25,1,-1,0,12,236,240,http://www.aslpro.com/main/p/potato.swf,potato_0003_aslpro_43937.mp4,skipped_swf
+4,43938,aslsearch,12,0,train,25,1,-1,187,54,551,400,http://www.aslsearch.com/signs/videos/potato.mp4,potato_0004_aslsearch_43938.mp4,ok
+5,66318,aslsignbank,101,0,train,25,1,-1,214,5,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POTATO-922.mp4,potato_0005_aslsignbank_66318.mp4,failed
+6,43929,spreadthesign,28,0,train,25,1,-1,48,0,257,240,https://media.spreadthesign.com/video/mp4/13/485648.mp4,potato_0006_spreadthesign_43929.mp4,ok
+7,67093,asllex,109,0,train,25,1,-1,135,20,435,360,https://youtu.be/CHo8_-LB51A,potato_0007_asllex_67093.mp4,skipped_no_ytdlp
+8,43930,startasl,38,0,train,25,1,-1,426,64,808,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/potato.mp4,potato_0008_startasl_43930.mp4,ok
+9,43931,signschool,31,0,test,25,1,-1,635,127,1496,1068,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Potato-bMnw7FVrglA.mp4,potato_0009_signschool_43931.mp4,ok
+10,43932,signschool,52,0,val,25,1,-1,316,15,815,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Potato-wbgrLPR3DX4.mp4,potato_0010_signschool_43932.mp4,ok
+11,43933,asldeafined,13,0,test,25,1,-1,105,0,583,480,https://media.asldeafined.com/vocabulary/1468754996.9439.mp4,potato_0011_asldeafined_43933.mp4,ok
+12,43934,handspeak,14,0,train,25,1,-1,28,0,530,480,https://www.handspeak.com/word/p/potato.mp4,potato_0012_handspeak_43934.mp4,failed
+13,43935,signingsavvy,10,0,train,25,1,-1,64,24,214,192,https://www.signingsavvy.com/signs/mp4/23/23006.mp4,potato_0013_signingsavvy_43935.mp4,ok

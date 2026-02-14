@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18485,asl5200,9,0,train,25,776,808,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,egg_0000_asl5200_18485.mp4,skipped_no_ytdlp
+1,70065,northtexas,121,0,train,25,1668,1779,128,28,494,480,https://www.youtube.com/watch?v=jDCw7stJaM4,egg_0001_northtexas_70065.mp4,skipped_no_ytdlp
+2,18489,handspeak,14,0,train,25,1,-1,187,0,580,360,https://www.handspeak.com/word/e/egg2.mp4,egg_0002_handspeak_18489.mp4,failed
+4,18491,handspeak,14,0,val,25,1,-1,58,15,273,240,https://www.handspeak.com/word/e/egg.mp4,egg_0004_handspeak_18491.mp4,failed
+7,18494,signingsavvy,10,0,train,25,1,-1,72,22,207,192,https://www.signingsavvy.com/signs/mp4/22/22789.mp4,egg_0007_signingsavvy_18494.mp4,ok
+8,65607,aslsignbank,90,0,train,25,1,-1,177,15,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EG/EGG-447.mp4,egg_0008_aslsignbank_65607.mp4,failed
+9,67612,asllex,109,0,train,25,1,-1,125,17,396,360,https://youtu.be/wSzoQOr4R9w,egg_0009_asllex_67612.mp4,skipped_no_ytdlp
+10,18495,signingsavvy,10,0,train,25,1,-1,72,21,204,192,https://www.signingsavvy.com/signs/mp4/22/22790.mp4,egg_0010_signingsavvy_18495.mp4,ok
+11,18496,aslu,5,0,train,25,1,-1,347,67,962,720,https://www.youtube.com/watch?v=ZVd4gO8bUiw,egg_0011_aslu_18496.mp4,skipped_no_ytdlp
+12,18497,aslpro,16,0,test,25,1,-1,16,4,230,240,http://www.aslpro.com/main/e/egg.swf,egg_0012_aslpro_18497.mp4,skipped_swf
+13,18498,aslsearch,12,0,val,25,1,-1,176,53,542,400,http://www.aslsearch.com/signs/videos/egg.mp4,egg_0013_aslsearch_18498.mp4,ok
+14,18486,elementalasl,19,0,test,25,1,-1,74,10,252,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/egg.mov,egg_0014_elementalasl_18486.mp4,ok
+15,18487,spreadthesign,2,0,train,25,1,-1,58,14,257,240,https://media.spreadthesign.com/video/mp4/13/153296.mp4,egg_0015_spreadthesign_18487.mp4,ok
+16,18488,asldeafined,21,0,train,25,1,-1,78,14,596,480,https://media.asldeafined.com/vocabulary/1468348272.3675.mp4,egg_0016_asldeafined_18488.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36645,asl5200,9,0,train,25,1727,1776,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,money_0000_asl5200_36645.mp4,skipped_no_ytdlp
+1,70075,northtexas,121,0,train,25,4845,4978,134,24,488,480,https://www.youtube.com/watch?v=jDCw7stJaM4,money_0001_northtexas_70075.mp4,skipped_no_ytdlp
+2,68628,lillybauer,115,0,train,25,1,57,337,15,922,720,https://www.youtube.com/watch?v=KkaxA2qevPM,money_0002_lillybauer_68628.mp4,skipped_no_ytdlp
+3,36651,signschool,32,0,val,25,1,-1,422,45,1084,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Finance%252C%20Money.mp4,money_0003_signschool_36651.mp4,ok
+4,36652,asldeafined,13,0,train,25,1,-1,74,0,501,480,https://media.asldeafined.com/vocabulary/1468716235.9039.mp4,money_0004_asldeafined_36652.mp4,ok
+5,36653,handspeak,20,0,train,25,1,-1,88,0,522,480,https://www.handspeak.com/word/m/money.mp4,money_0005_handspeak_36653.mp4,failed
+6,36654,signingsavvy,11,0,train,25,1,-1,76,17,213,192,https://www.signingsavvy.com/signs/mp4/6/6398.mp4,money_0006_signingsavvy_36654.mp4,ok
+9,36657,aslu,5,0,train,25,1,-1,338,30,957,720,https://www.youtube.com/watch?v=WH16jn3fKd8,money_0009_aslu_36657.mp4,skipped_no_ytdlp
+11,66138,aslsignbank,90,0,train,25,1,-1,202,12,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MONEY-670.mp4,money_0011_aslsignbank_66138.mp4,failed
+12,36648,spreadthesign,56,0,test,25,1,-1,50,0,272,240,https://media.spreadthesign.com/video/mp4/13/48596.mp4,money_0012_spreadthesign_36648.mp4,ok
+13,67901,asllex,109,0,val,25,1,-1,95,28,392,360,https://youtu.be/kuO_0XkfoZQ,money_0013_asllex_67901.mp4,skipped_no_ytdlp
+14,36658,aslu,5,0,test,25,1,-1,66,13,425,360,https://www.youtube.com/watch?v=zYBErcvmFFM,money_0014_aslu_36658.mp4,skipped_no_ytdlp
+15,36659,aslpro,25,0,train,25,1,-1,6,10,240,240,http://www.aslpro.com/main/m/money.swf,money_0015_aslpro_36659.mp4,skipped_swf
+16,36660,aslsearch,12,0,train,25,1,-1,178,50,542,400,http://www.aslsearch.com/signs/videos/fund2.mp4,money_0016_aslsearch_36660.mp4,ok

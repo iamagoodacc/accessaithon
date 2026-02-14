@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31147,asl5200,9,0,val,25,487,529,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,join_0000_asl5200_31147.mp4,skipped_no_ytdlp
+1,69006,lillybauer,113,0,train,25,1,149,256,32,1022,720,https://www.youtube.com/watch?v=WPVk8I02I6M,join_0001_lillybauer_69006.mp4,skipped_no_ytdlp
+3,31151,signschool,4,0,train,25,1,-1,606,52,1634,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Join-bRvT6MHyXR0.mp4,join_0003_signschool_31151.mp4,ok
+4,31152,asldeafined,21,0,val,25,1,-1,95,17,553,480,https://media.asldeafined.com/vocabulary/1468669403.193.mp4,join_0004_asldeafined_31152.mp4,ok
+5,31153,handspeak,20,0,train,25,1,-1,46,9,276,240,https://www.handspeak.com/word/j/join-me.mp4,join_0005_handspeak_31153.mp4,failed
+6,31154,handspeak,14,0,train,25,1,-1,38,2,275,240,https://www.handspeak.com/word/j/join.mp4,join_0006_handspeak_31154.mp4,failed
+7,31155,signingsavvy,11,0,train,25,1,-1,67,12,212,192,https://www.signingsavvy.com/signs/mp4/14/14439.mp4,join_0007_signingsavvy_31155.mp4,ok
+9,31157,signingsavvy,10,0,train,25,1,-1,79,16,197,192,https://www.signingsavvy.com/signs/mp4/24/24012.mp4,join_0009_signingsavvy_31157.mp4,ok
+10,31158,signingsavvy,10,0,train,25,1,-1,72,18,208,192,https://www.signingsavvy.com/signs/mp4/24/24013.mp4,join_0010_signingsavvy_31158.mp4,ok
+11,65981,aslsignbank,96,0,test,25,1,-1,199,32,528,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/JO/JOIN-1705.mp4,join_0011_aslsignbank_65981.mp4,failed
+12,31149,spreadthesign,2,0,val,25,1,-1,48,0,262,240,https://media.spreadthesign.com/video/mp4/13/399731.mp4,join_0012_spreadthesign_31149.mp4,ok
+13,31159,aslu,5,0,test,25,1,-1,306,23,900,720,https://www.youtube.com/watch?v=_6zNbCmnPyo,join_0013_aslu_31159.mp4,skipped_no_ytdlp
+15,31161,aslu,5,0,train,25,1,-1,320,59,897,720,https://www.youtube.com/watch?v=D3mLq8Gchvs,join_0015_aslu_31161.mp4,skipped_no_ytdlp
+17,31163,aslpro,87,0,train,25,1,-1,0,16,208,240,http://www.aslpro.com/main/j/join.swf,join_0017_aslpro_31163.mp4,skipped_swf
+19,31165,aslsearch,41,0,train,25,1,-1,245,51,519,400,http://www.aslsearch.com/signs/videos/join.mp4,join_0019_aslsearch_31165.mp4,ok

@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36774,asl5200,9,0,train,25,1990,2039,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,moon_0000_asl5200_36774.mp4,skipped_no_ytdlp
+1,36783,asldeafined,13,0,train,25,1,-1,28,0,507,480,https://media.asldeafined.com/vocabulary/1468716507.3613.mp4,moon_0001_asldeafined_36783.mp4,ok
+3,36785,handspeak,14,0,train,25,1,-1,57,13,269,240,https://www.handspeak.com/word/m/moon.mp4,moon_0003_handspeak_36785.mp4,failed
+5,36787,aslu,5,0,val,25,1,-1,156,0,991,720,https://www.youtube.com/watch?v=vtl8Wc8XCbk,moon_0005_aslu_36787.mp4,skipped_no_ytdlp
+6,36788,aslpro,49,0,train,25,1,-1,0,3,228,240,http://www.aslpro.com/main/m/moon_crescent.swf,moon_0006_aslpro_36788.mp4,skipped_swf
+7,66142,aslsignbank,97,0,train,25,1,-1,155,19,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/MO/MOON-1594.mp4,moon_0007_aslsignbank_66142.mp4,failed
+8,36779,elementalasl,19,0,train,25,1,-1,68,1,249,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/moon.mov,moon_0008_elementalasl_36779.mp4,ok
+9,67903,asllex,109,0,train,25,1,-1,69,15,383,360,https://youtu.be/nh42A8ejejU,moon_0009_asllex_67903.mp4,skipped_no_ytdlp
+10,36789,aslpro,72,0,train,25,1,-1,0,3,243,240,http://www.aslpro.com/main/m/moon_full.swf,moon_0010_aslpro_36789.mp4,skipped_swf
+11,36790,aslpro,72,0,test,25,1,-1,0,4,231,240,http://www.aslpro.com/main/m/moon.swf,moon_0011_aslpro_36790.mp4,skipped_swf
+12,36791,aslsearch,12,0,val,25,1,-1,152,52,537,400,http://www.aslsearch.com/signs/videos/moon.mp4,moon_0012_aslsearch_36791.mp4,ok
+13,36780,spreadthesign,56,0,test,25,1,-1,19,0,265,240,https://media.spreadthesign.com/video/mp4/13/48600.mp4,moon_0013_spreadthesign_36780.mp4,ok
+14,36781,startasl,38,0,train,25,1,-1,307,56,813,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/moon.mp4,moon_0014_startasl_36781.mp4,ok
+15,36782,signschool,31,0,train,25,1,-1,704,120,1567,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Moon-dIr6Hdbibc8.mp4,moon_0015_signschool_36782.mp4,ok

@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33537,asl5200,9,0,test,25,2065,2097,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,live_0000_asl5200_33537.mp4,skipped_no_ytdlp
+1,70019,northtexas,121,0,val,25,5097,5200,136,40,434,360,https://www.youtube.com/watch?v=25ymRY7hbjs,live_0001_northtexas_70019.mp4,skipped_no_ytdlp
+2,68574,lillybauer,115,1,val,25,1,43,368,14,961,720,https://www.youtube.com/watch?v=_iunoEUacUk,live_0002_lillybauer_68574.mp4,skipped_no_ytdlp
+3,33543,aslu,5,0,train,25,1,-1,151,11,511,360,https://www.youtube.com/watch?v=8V7JlOPOFfk,live_0003_aslu_33543.mp4,skipped_no_ytdlp
+4,33544,aslpro,30,0,train,25,1,-1,0,12,232,240,http://www.aslpro.com/main/l/live.swf,live_0004_aslpro_33544.mp4,skipped_swf
+5,33545,aslsearch,41,1,test,25,1,-1,233,40,519,400,http://www.aslsearch.com/signs/videos/live.mp4,live_0005_aslsearch_33545.mp4,ok
+6,66078,aslsignbank,103,0,train,25,1,-1,154,31,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIVE-1641.mp4,live_0006_aslsignbank_66078.mp4,failed
+7,66079,aslsignbank,103,1,train,25,1,-1,143,30,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIVE-1642.mp4,live_0007_aslsignbank_66079.mp4,failed
+8,67853,asllex,109,1,train,25,1,-1,75,8,414,360,https://youtu.be/0ZsmE7YX6ME,live_0008_asllex_67853.mp4,skipped_no_ytdlp
+9,67851,asllex,109,0,train,25,1,-1,52,9,431,360,https://youtu.be/F4X9rEJgKpk,live_0009_asllex_67851.mp4,skipped_no_ytdlp
+10,33538,spreadthesign,2,1,train,25,1,-1,72,17,264,240,https://media.spreadthesign.com/video/mp4/13/308001.mp4,live_0010_spreadthesign_33538.mp4,ok
+11,33539,asldeafined,13,1,val,25,1,-1,130,0,568,480,https://media.asldeafined.com/vocabulary/1468712192.945.mp4,live_0011_asldeafined_33539.mp4,ok
+12,33540,handspeak,20,0,train,25,1,-1,103,0,583,480,https://www.handspeak.com/word/l/live2.mp4,live_0012_handspeak_33540.mp4,failed
+13,33541,handspeak,20,1,train,25,1,-1,79,0,589,480,https://www.handspeak.com/word/l/live.mp4,live_0013_handspeak_33541.mp4,failed
+14,33542,signingsavvy,11,1,train,25,1,-1,63,11,234,192,https://www.signingsavvy.com/signs/mp4/6/6491.mp4,live_0014_signingsavvy_33542.mp4,ok

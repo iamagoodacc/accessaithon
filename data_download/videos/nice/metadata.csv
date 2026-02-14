@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38281,asl5200,9,0,train,25,1128,1164,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,nice_0000_asl5200_38281.mp4,skipped_no_ytdlp
+1,70021,northtexas,121,0,train,25,5522,5613,153,41,418,360,https://www.youtube.com/watch?v=25ymRY7hbjs,nice_0001_northtexas_70021.mp4,skipped_no_ytdlp
+2,70050,northtexas,121,0,train,25,7507,7588,134,22,494,480,https://www.youtube.com/watch?v=sErq0TJMKEo,nice_0002_northtexas_70050.mp4,skipped_no_ytdlp
+3,69036,lillybauer,115,0,val,25,1,34,361,13,922,720,https://www.youtube.com/watch?v=XUHIW7bxAIo,nice_0003_lillybauer_69036.mp4,skipped_no_ytdlp
+4,38288,scott,47,0,train,25,1,-1,253,18,924,720,https://www.youtube.com/watch?v=3aXS3keR8oY,nice_0004_scott_38288.mp4,skipped_no_ytdlp
+5,38289,nabboud,69,0,train,25,1,-1,335,53,858,720,https://www.youtube.com/watch?v=dOvLoArLzcw,nice_0005_nabboud_38289.mp4,skipped_no_ytdlp
+8,38292,aslpro,25,0,train,25,1,-1,0,5,251,240,http://www.aslpro.com/main/n/nice.swf,nice_0008_aslpro_38292.mp4,skipped_swf
+9,38293,aslsearch,41,0,train,25,1,-1,225,50,492,400,http://www.aslsearch.com/signs/videos/kind2.mp4,nice_0009_aslsearch_38293.mp4,ok
+10,38282,spreadthesign,2,0,train,25,1,-1,49,0,248,240,https://media.spreadthesign.com/video/mp4/13/111066.mp4,nice_0010_spreadthesign_38282.mp4,ok
+11,38283,startasl,38,0,test,25,1,-1,380,56,803,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/nice.mp4,nice_0011_startasl_38283.mp4,ok
+12,38284,signschool,3,0,val,25,1,-1,653,21,1700,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Nice-WHPAZyGhilQ.mp4,nice_0012_signschool_38284.mp4,ok
+13,38285,asldeafined,13,0,test,25,1,-1,131,0,547,480,https://media.asldeafined.com/vocabulary/1468718991.3483.mp4,nice_0013_asldeafined_38285.mp4,ok
+14,38286,handspeak,20,0,train,25,1,-1,105,0,555,480,https://www.handspeak.com/word/n/nice.mp4,nice_0014_handspeak_38286.mp4,failed
+15,38287,signingsavvy,11,0,train,25,1,-1,64,15,218,192,https://www.signingsavvy.com/signs/mp4/7/7443.mp4,nice_0015_signingsavvy_38287.mp4,ok

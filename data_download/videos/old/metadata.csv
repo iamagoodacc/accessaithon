@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39604,asl5200,9,0,test,25,618,680,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,old_0000_asl5200_39604.mp4,skipped_no_ytdlp
+1,69419,aslbrick,118,0,test,25,1,-1,369,40,878,720,http://aslbricks.org/New/ASL-Videos/old.mp4,old_0001_aslbrick_69419.mp4,ok
+2,39629,handspeak,14,0,train,25,1,-1,78,0,570,480,https://www.handspeak.com/word/o/older.mp4,old_0002_handspeak_39629.mp4,failed
+3,39633,aslu,5,0,train,25,1,-1,350,43,937,720,https://www.youtube.com/watch?v=wmJfQSUsnQ8,old_0003_aslu_39633.mp4,skipped_no_ytdlp
+4,69040,lillybauer,112,0,train,25,1,37,342,26,904,720,https://www.youtube.com/watch?v=XuVeMWG5xMs,old_0004_lillybauer_69040.mp4,skipped_no_ytdlp
+5,39624,spreadthesign,56,0,val,25,1,-1,46,0,260,240,https://media.spreadthesign.com/video/mp4/13/49163.mp4,old_0005_spreadthesign_39624.mp4,ok
+6,39630,handspeak,14,0,train,25,1,-1,35,6,275,240,https://www.handspeak.com/word/o/old-notnew.mp4,old_0006_handspeak_39630.mp4,failed
+7,39631,handspeak,86,0,val,25,1,-1,62,0,301,240,https://www.handspeak.com/word/o/old-very.mp4,old_0007_handspeak_39631.mp4,failed
+8,67944,asllex,109,0,train,25,1,-1,103,16,363,360,https://youtu.be/IhZacj3-_a4,old_0008_asllex_67944.mp4,skipped_no_ytdlp
+9,39632,signingsavvy,11,0,train,25,1,-1,74,16,213,192,https://www.signingsavvy.com/signs/mp4/6/6337.mp4,old_0009_signingsavvy_39632.mp4,ok
+10,39634,aslpro,25,0,train,25,1,-1,0,5,231,240,http://www.aslpro.com/main/o/old.swf,old_0010_aslpro_39634.mp4,skipped_swf
+11,39635,aslsearch,12,0,train,25,1,-1,204,53,557,400,http://www.aslsearch.com/signs/videos/stale.mp4,old_0011_aslsearch_39635.mp4,ok
+12,39625,startasl,36,0,val,25,1,-1,228,17,526,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/old.mp4,old_0012_startasl_39625.mp4,ok
+13,39626,signschool,27,0,train,25,1,-1,862,63,1737,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Old-PYeMIH_-Kog.mp4,old_0013_signschool_39626.mp4,ok
+14,39627,asldeafined,13,0,train,25,1,-1,125,0,502,480,https://media.asldeafined.com/vocabulary/1468721358.1844.mp4,old_0014_asldeafined_39627.mp4,ok
+15,39628,handspeak,20,0,train,25,1,-1,70,0,294,240,https://www.handspeak.com/word/o/old-age.mp4,old_0015_handspeak_39628.mp4,failed

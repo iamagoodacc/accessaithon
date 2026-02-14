@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,03434,asl5200,9,0,val,25,3873,3919,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,arrive_0000_asl5200_03434.mp4,skipped_no_ytdlp
+1,70124,northtexas,121,0,train,25,5265,5398,155,13,502,480,https://www.youtube.com/watch?v=lvqGMGFmuV4,arrive_0001_northtexas_70124.mp4,skipped_no_ytdlp
+2,03440,handspeak,20,0,train,25,1,-1,98,21,493,480,https://www.handspeak.com/word/a/arrive.mp4,arrive_0002_handspeak_03440.mp4,failed
+3,03441,signingsavvy,11,0,val,25,1,-1,68,12,205,192,https://www.signingsavvy.com/signs/mp4/14/14210.mp4,arrive_0003_signingsavvy_03441.mp4,ok
+4,03442,aslu,5,0,train,25,1,-1,71,7,519,360,https://www.youtube.com/watch?v=at6KPysyHg0,arrive_0004_aslu_03442.mp4,skipped_no_ytdlp
+5,03443,aslu,5,0,train,25,1,-1,292,37,949,720,https://www.youtube.com/watch?v=y8pdn_zfFzU,arrive_0005_aslu_03443.mp4,skipped_no_ytdlp
+6,65096,aslsignbank,90,0,train,25,1,-1,191,22,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AR/ARRIVE-774.mp4,arrive_0006_aslsignbank_65096.mp4,failed
+7,67371,asllex,109,0,train,25,1,-1,94,17,383,360,https://youtu.be/5Yztl5YcS0I,arrive_0007_asllex_67371.mp4,skipped_no_ytdlp
+8,03444,aslpro,16,0,train,25,1,-1,0,19,214,240,http://www.aslpro.com/main/a/arrive.swf,arrive_0008_aslpro_03444.mp4,skipped_swf
+9,03445,aslsearch,41,0,test,25,1,-1,209,35,518,400,http://www.aslsearch.com/signs/videos/arrive.mp4,arrive_0009_aslsearch_03445.mp4,ok
+10,03435,spreadthesign,57,0,val,25,1,-1,42,0,273,240,https://media.spreadthesign.com/video/mp4/13/62284.mp4,arrive_0010_spreadthesign_03435.mp4,ok
+11,03436,startasl,38,0,test,25,1,-1,414,51,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/arrive.mp4,arrive_0011_startasl_03436.mp4,ok
+12,03437,signschool,6,0,train,25,1,-1,742,61,1532,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive%202-xX6zndXcjHQ.mp4,arrive_0012_signschool_03437.mp4,ok
+13,03438,signschool,6,0,train,25,1,-1,644,54,1505,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive-BQv62tldXjk.mp4,arrive_0013_signschool_03438.mp4,ok
+14,03439,asldeafined,13,0,train,25,1,-1,124,18,525,480,https://media.asldeafined.com/vocabulary/1466645152.5647.mp4,arrive_0014_asldeafined_03439.mp4,ok

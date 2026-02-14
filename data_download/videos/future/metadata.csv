@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23945,asl5200,9,0,val,25,3516,3558,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,future_0000_asl5200_23945.mp4,skipped_no_ytdlp
+1,69060,lillybauer,112,0,train,25,1,42,347,0,943,720,https://www.youtube.com/watch?v=yiS9IHo_g_M,future_0001_lillybauer_69060.mp4,skipped_no_ytdlp
+3,23951,signingsavvy,11,0,train,25,1,-1,68,7,220,192,https://www.signingsavvy.com/signs/mp4/14/14736.mp4,future_0003_signingsavvy_23951.mp4,ok
+4,23952,signingsavvy,11,0,val,25,1,-1,68,0,220,192,https://www.signingsavvy.com/signs/mp4/14/14737.mp4,future_0004_signingsavvy_23952.mp4,ok
+5,23953,signingsavvy,11,0,train,25,1,-1,63,0,223,192,https://www.signingsavvy.com/signs/mp4/14/14738.mp4,future_0005_signingsavvy_23953.mp4,ok
+6,23954,aslu,5,0,train,25,1,-1,279,0,960,720,https://www.youtube.com/watch?v=RMUZFdu6VtI,future_0006_aslu_23954.mp4,skipped_no_ytdlp
+7,65798,aslsignbank,106,0,train,25,1,-1,130,34,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FU/FUTURE-1508.mp4,future_0007_aslsignbank_65798.mp4,failed
+8,65797,aslsignbank,101,0,train,25,1,-1,137,16,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FU/FUTURE-320.mp4,future_0008_aslsignbank_65797.mp4,failed
+9,67700,asllex,109,0,train,25,1,-1,104,21,367,360,https://youtu.be/TylnbSUHUmU,future_0009_asllex_67700.mp4,skipped_no_ytdlp
+10,23955,aslpro,83,0,test,25,1,-1,0,18,210,240,http://www.aslpro.com/main/f/future.swf,future_0010_aslpro_23955.mp4,skipped_swf
+11,23956,aslsearch,12,0,val,25,1,-1,173,53,536,400,http://www.aslsearch.com/signs/videos/future.mp4,future_0011_aslsearch_23956.mp4,ok
+12,23946,spreadthesign,2,0,test,25,1,-1,61,18,238,240,https://media.spreadthesign.com/video/mp4/13/91425.mp4,future_0012_spreadthesign_23946.mp4,ok
+13,23947,startasl,38,0,train,25,1,-1,316,44,810,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/future.mp4,future_0013_startasl_23947.mp4,ok
+14,23948,asldeafined,21,0,train,25,1,-1,103,11,538,480,https://media.asldeafined.com/vocabulary/1468514811.7956.mp4,future_0014_asldeafined_23948.mp4,ok
+15,23949,handspeak,20,0,train,25,1,-1,64,0,592,480,https://www.handspeak.com/word/f/future.mp4,future_0015_handspeak_23949.mp4,failed

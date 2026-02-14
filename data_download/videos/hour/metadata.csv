@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28134,asl5200,9,0,train,25,2286,2328,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hour_0000_asl5200_28134.mp4,skipped_no_ytdlp
+1,70303,northtexas,121,0,train,25,397,508,99,22,286,240,https://www.youtube.com/watch?v=pc0-gVEETVg,hour_0001_northtexas_70303.mp4,skipped_no_ytdlp
+2,28140,asldeafined,21,0,train,25,1,-1,80,11,534,480,https://media.asldeafined.com/vocabulary/1468638699.1547.mp4,hour_0002_asldeafined_28140.mp4,ok
+3,28141,handspeak,14,0,val,25,1,-1,61,10,265,240,https://www.handspeak.com/word/h/hour2.mp4,hour_0003_handspeak_28141.mp4,failed
+4,28142,handspeak,14,0,train,25,1,-1,62,10,265,240,https://www.handspeak.com/word/h/hour.mp4,hour_0004_handspeak_28142.mp4,failed
+5,28143,signingsavvy,11,0,train,25,1,-1,77,17,214,192,https://www.signingsavvy.com/signs/mp4/7/7634.mp4,hour_0005_signingsavvy_28143.mp4,ok
+6,28144,signingsavvy,11,0,train,25,1,-1,77,18,215,192,https://www.signingsavvy.com/signs/mp4/7/7644.mp4,hour_0006_signingsavvy_28144.mp4,ok
+7,28145,signingsavvy,11,0,train,25,1,-1,63,10,196,192,https://www.signingsavvy.com/signs/mp4/9/9634.mp4,hour_0007_signingsavvy_28145.mp4,ok
+8,28146,aslu,5,0,train,25,1,-1,165,9,498,360,https://www.youtube.com/watch?v=DQ5bJNz2Vyg,hour_0008_aslu_28146.mp4,skipped_no_ytdlp
+13,28148,aslu,5,0,test,25,1,-1,320,18,964,720,https://www.youtube.com/watch?v=IO0cNQ8OO-4,hour_0013_aslu_28148.mp4,skipped_no_ytdlp
+14,28149,aslpro,25,0,val,25,1,-1,0,7,253,240,http://www.aslpro.com/main/h/hour.swf,hour_0014_aslpro_28149.mp4,skipped_swf
+15,28150,aslsearch,12,0,test,25,1,-1,190,55,548,400,http://www.aslsearch.com/signs/videos/hour.mp4,hour_0015_aslsearch_28150.mp4,ok
+16,28138,startasl,36,0,train,25,1,-1,231,17,540,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/hour.mp4,hour_0016_startasl_28138.mp4,ok
+17,28139,signschool,3,0,train,25,1,-1,527,1,1381,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hour-X1xl_EXNYuE.mp4,hour_0017_signschool_28139.mp4,ok

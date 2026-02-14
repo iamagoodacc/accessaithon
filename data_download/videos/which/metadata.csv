@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63102,asl5200,9,0,train,25,1941,1997,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,which_0000_asl5200_63102.mp4,skipped_no_ytdlp
+1,68382,lillybauer,115,0,train,25,1,84,343,21,1049,720,https://www.youtube.com/watch?v=CMRuI-NDZ68,which_0001_lillybauer_68382.mp4,skipped_no_ytdlp
+2,63111,aslu,5,0,train,25,1,-1,299,22,1031,720,https://www.youtube.com/watch?v=T83OCDixkYQ,which_0002_aslu_63111.mp4,skipped_no_ytdlp
+3,63112,aslpro,83,0,val,25,1,-1,0,14,230,240,http://www.aslpro.com/main/w/which.swf,which_0003_aslpro_63112.mp4,skipped_swf
+4,63113,aslsearch,12,0,train,25,1,-1,181,64,596,400,http://www.aslsearch.com/signs/videos/which.mp4,which_0004_aslsearch_63113.mp4,ok
+5,66775,aslsignbank,88,0,train,25,1,-1,167,6,494,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHICH-1428.mp4,which_0005_aslsignbank_66775.mp4,failed
+6,63104,spreadthesign,42,0,train,25,1,-1,26,0,297,240,https://media.spreadthesign.com/video/mp4/13/50905.mp4,which_0006_spreadthesign_63104.mp4,ok
+7,67062,asllex,109,0,train,25,1,-1,96,19,385,360,https://youtu.be/XgicaQCG8BU,which_0007_asllex_67062.mp4,skipped_no_ytdlp
+8,63105,signschool,6,0,train,25,1,-1,727,75,1657,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Which%20question-ivWficO0urg.mp4,which_0008_signschool_63105.mp4,ok
+9,63106,asldeafined,13,0,test,25,1,-1,118,5,533,480,https://media.asldeafined.com/vocabulary/1468928044.3290.mp4,which_0009_asldeafined_63106.mp4,ok
+10,63107,handspeak,14,0,val,25,1,-1,107,0,541,480,https://www.handspeak.com/word/w/which.mp4,which_0010_handspeak_63107.mp4,failed
+11,63108,signingsavvy,11,0,test,25,1,-1,75,14,215,192,https://www.signingsavvy.com/signs/mp4/6/6439.mp4,which_0011_signingsavvy_63108.mp4,ok
+12,63109,aslu,5,0,train,25,1,-1,273,0,938,720,https://www.youtube.com/watch?v=DlMZXBngGKM,which_0012_aslu_63109.mp4,skipped_no_ytdlp
+13,63110,nabboud,80,0,train,25,1,-1,366,123,842,720,https://www.youtube.com/watch?v=Gbm4V-Dg44c,which_0013_nabboud_63110.mp4,skipped_no_ytdlp

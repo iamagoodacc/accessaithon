@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04183,asl5200,9,0,val,25,5008,5067,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,australia_0000_asl5200_04183.mp4,skipped_no_ytdlp
+1,04186,startasl,38,0,train,25,1,-1,392,55,841,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/australia.mp4,australia_0001_startasl_04186.mp4,ok
+2,04187,signschool,45,0,train,25,1,-1,514,102,1668,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia%202-TPHeMqSGgCM.mp4,australia_0002_signschool_04187.mp4,ok
+3,04188,signschool,6,0,train,25,1,-1,558,51,1540,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-jrfLziRGVAU.mp4,australia_0003_signschool_04188.mp4,ok
+4,04189,signschool,45,0,train,25,1,-1,538,106,1621,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Australia-WhRLSPxDkJw.mp4,australia_0004_signschool_04189.mp4,ok
+5,04190,asldeafined,13,0,train,25,1,-1,82,17,608,480,https://media.asldeafined.com/vocabulary/1466646970.4368.mp4,australia_0005_asldeafined_04190.mp4,ok
+6,04191,handspeak,20,0,train,25,1,-1,70,26,552,480,https://www.handspeak.com/word/a/australia2.mp4,australia_0006_handspeak_04191.mp4,failed
+8,65111,aslsignbank,88,0,train,25,1,-1,190,0,509,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AU/AUSTRALIA-824.mp4,australia_0008_aslsignbank_65111.mp4,failed
+9,04193,signingsavvy,11,0,train,25,1,-1,75,0,228,192,https://www.signingsavvy.com/signs/mp4/5/5754.mp4,australia_0009_signingsavvy_04193.mp4,ok
+11,04195,aslu,5,0,test,25,1,-1,319,48,1015,720,https://www.youtube.com/watch?v=Qkec7A7_o8c,australia_0011_aslu_04195.mp4,skipped_no_ytdlp
+12,04196,aslpro,16,0,train,25,1,-1,14,20,227,240,http://www.aslpro.com/main/a/australia_1.swf,australia_0012_aslpro_04196.mp4,skipped_swf
+14,04198,aslsearch,12,0,test,25,1,-1,173,49,561,400,http://www.aslsearch.com/signs/videos/australia.mp4,australia_0014_aslsearch_04198.mp4,ok
+15,04184,spreadthesign,37,0,val,25,1,-1,64,1,257,240,https://media.spreadthesign.com/video/mp4/13/455286.mp4,australia_0015_spreadthesign_04184.mp4,ok

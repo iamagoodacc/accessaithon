@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07593,asl5200,9,0,val,25,4569,4618,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bread_0000_asl5200_07593.mp4,skipped_no_ytdlp
+1,70063,northtexas,121,0,train,25,1363,1413,101,32,505,480,https://www.youtube.com/watch?v=jDCw7stJaM4,bread_0001_northtexas_70063.mp4,skipped_no_ytdlp
+2,07603,aslpro,16,0,train,25,1,-1,7,19,230,240,http://www.aslpro.com/main/b/bread.swf,bread_0002_aslpro_07603.mp4,skipped_swf
+3,07604,aslsearch,12,0,train,25,1,-1,171,52,533,400,http://www.aslsearch.com/signs/videos/bread.mp4,bread_0003_aslsearch_07604.mp4,ok
+4,07595,spreadthesign,0,0,train,25,1,-1,54,1,264,240,https://media.spreadthesign.com/video/mp4/13/74891.mp4,bread_0004_spreadthesign_07595.mp4,ok
+5,67439,asllex,109,0,train,25,1,-1,94,19,408,360,https://youtu.be/Whwbh77dGpU,bread_0005_asllex_67439.mp4,skipped_no_ytdlp
+6,07596,startasl,36,0,train,25,1,-1,209,14,535,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bread.mp4,bread_0006_startasl_07596.mp4,ok
+7,07597,signschool,32,0,train,25,1,-1,458,43,1101,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Bread.mp4,bread_0007_signschool_07597.mp4,ok
+8,07598,asldeafined,59,0,train,25,1,-1,67,23,557,480,https://media.asldeafined.com/vocabulary/1466723620.5444.mp4,bread_0008_asldeafined_07598.mp4,ok
+9,07599,handspeak,14,0,test,25,1,-1,45,15,249,240,https://www.handspeak.com/word/b/bread.mp4,bread_0009_handspeak_07599.mp4,failed
+10,07600,signingsavvy,11,0,train,25,1,-1,66,11,236,192,https://www.signingsavvy.com/signs/mp4/7/7902.mp4,bread_0010_signingsavvy_07600.mp4,ok
+11,07601,signingsavvy,11,0,test,25,1,-1,79,15,235,192,https://www.signingsavvy.com/signs/mp4/8/8391.mp4,bread_0011_signingsavvy_07601.mp4,ok
+12,07602,aslu,5,0,val,25,1,-1,268,64,1000,720,https://www.youtube.com/watch?v=uLTW-N6UY8E,bread_0012_aslu_07602.mp4,skipped_no_ytdlp

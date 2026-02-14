@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39454,asl5200,9,0,train,25,478,527,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,office_0000_asl5200_39454.mp4,skipped_no_ytdlp
+1,68826,lillybauer,115,1,test,25,1,54,382,20,1003,720,https://www.youtube.com/watch?v=QaDFIVUzgHA,office_0001_lillybauer_68826.mp4,skipped_no_ytdlp
+2,39460,asldeafined,13,0,train,25,1,-1,95,0,543,480,https://media.asldeafined.com/vocabulary/1468721107.3632.mp4,office_0002_asldeafined_39460.mp4,ok
+3,39461,handspeak,14,0,train,25,1,-1,35,6,258,240,https://www.handspeak.com/word/o/office.mp4,office_0003_handspeak_39461.mp4,failed
+4,39462,signingsavvy,10,0,train,25,1,-1,71,16,218,192,https://www.signingsavvy.com/signs/mp4/24/24017.mp4,office_0004_signingsavvy_39462.mp4,ok
+5,39463,signingsavvy,10,1,train,25,1,-1,75,16,224,192,https://www.signingsavvy.com/signs/mp4/24/24018.mp4,office_0005_signingsavvy_39463.mp4,ok
+7,39465,aslu,5,0,val,25,1,-1,347,47,991,720,https://www.youtube.com/watch?v=U9VrfCdyVGw,office_0007_aslu_39465.mp4,skipped_no_ytdlp
+8,66224,aslsignbank,97,0,val,25,1,-1,177,29,459,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/OF/OFFICE-1549.mp4,office_0008_aslsignbank_66224.mp4,failed
+9,39456,spreadthesign,0,1,train,25,1,-1,53,1,254,240,https://media.spreadthesign.com/video/mp4/13/63553.mp4,office_0009_spreadthesign_39456.mp4,ok
+10,67943,asllex,109,0,train,25,1,-1,110,0,408,360,https://youtu.be/MbOXIeK-SPo,office_0010_asllex_67943.mp4,skipped_no_ytdlp
+12,39467,aslpro,25,1,train,25,1,-1,0,8,244,240,http://www.aslpro.com/main/o/office.swf,office_0012_aslpro_39467.mp4,skipped_swf
+13,39468,aslsearch,12,1,train,25,1,-1,206,57,555,400,http://www.aslsearch.com/signs/videos/office.mp4,office_0013_aslsearch_39468.mp4,ok
+14,39457,startasl,36,0,test,25,1,-1,129,15,584,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/office.mp4,office_0014_startasl_39457.mp4,ok
+15,39458,signschool,4,1,val,25,1,-1,447,52,1665,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Office%20opposite-mKds_4EoIUI.mp4,office_0015_signschool_39458.mp4,ok
+16,39459,signschool,4,0,train,25,1,-1,285,28,1125,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Office.mp4,office_0016_signschool_39459.mp4,ok

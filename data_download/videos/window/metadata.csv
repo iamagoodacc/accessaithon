@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63415,asl5200,9,0,test,25,2611,2657,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,window_0000_asl5200_63415.mp4,skipped_no_ytdlp
+1,68184,valencia-asl,110,0,test,25,1,-1,185,0,683,480,https://www.youtube.com/watch?v=87N4zXrhmi0,window_0001_valencia-asl_68184.mp4,skipped_no_ytdlp
+2,70265,northtexas,121,0,train,25,3416,3537,128,38,409,360,https://www.youtube.com/watch?v=WGfiiDgrq1I,window_0002_northtexas_70265.mp4,skipped_no_ytdlp
+3,63423,nabboud,65,0,train,25,1,-1,320,68,878,720,https://www.youtube.com/watch?v=2ZxbvQ2OuTo,window_0003_nabboud_63423.mp4,skipped_no_ytdlp
+4,63424,aslu,5,0,train,25,1,-1,276,29,963,720,https://www.youtube.com/watch?v=nd7QatseVtg,window_0004_aslu_63424.mp4,skipped_no_ytdlp
+5,63425,aslu,5,0,val,25,1,-1,331,43,975,720,https://www.youtube.com/watch?v=VqFX50Z9Y60,window_0005_aslu_63425.mp4,skipped_no_ytdlp
+6,63426,aslpro,87,0,train,25,1,-1,0,5,230,240,http://www.aslpro.com/main/w/window.swf,window_0006_aslpro_63426.mp4,skipped_swf
+7,66791,aslsignbank,88,0,val,25,1,-1,144,5,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WI/WINDOW-322.mp4,window_0007_aslsignbank_66791.mp4,failed
+8,63417,spreadthesign,26,0,train,25,1,-1,34,15,248,240,https://media.spreadthesign.com/video/mp4/13/308793.mp4,window_0008_spreadthesign_63417.mp4,ok
+9,67069,asllex,109,0,train,25,1,-1,45,18,416,360,https://youtu.be/Ho2Pu4DGEOE,window_0009_asllex_67069.mp4,skipped_no_ytdlp
+10,63427,aslsearch,12,0,train,25,1,-1,205,53,576,400,http://www.aslsearch.com/signs/videos/window.mp4,window_0010_aslsearch_63427.mp4,ok
+11,63418,startasl,38,0,train,25,1,-1,348,50,803,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/window.mp4,window_0011_startasl_63418.mp4,ok
+12,63419,asldeafined,13,0,val,25,1,-1,77,0,523,480,https://media.asldeafined.com/vocabulary/1468928683.6158.mp4,window_0012_asldeafined_63419.mp4,ok
+13,63420,handspeak,20,0,train,25,1,-1,25,0,299,240,https://www.handspeak.com/word/w/window.mp4,window_0013_handspeak_63420.mp4,failed
+14,63421,handspeak,14,0,train,25,1,-1,17,1,305,240,https://www.handspeak.com/word/w/window-open.mp4,window_0014_handspeak_63421.mp4,failed
+15,63422,signingsavvy,11,0,train,25,1,-1,59,11,220,192,https://www.signingsavvy.com/signs/mp4/14/14704.mp4,window_0015_signingsavvy_63422.mp4,ok

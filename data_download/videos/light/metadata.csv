@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66069,aslsignbank,90,0,val,25,1,-1,204,14,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIGHT-497.mp4,light_0000_aslsignbank_66069.mp4,failed
+1,68090,valencia-asl,110,0,test,25,1,-1,249,3,656,480,https://www.youtube.com/watch?v=1Gric8iOWxI,light_0001_valencia-asl_68090.mp4,skipped_no_ytdlp
+3,33224,aslu,5,0,train,25,1,-1,80,0,552,360,https://www.youtube.com/watch?v=IcF-D_eJhi0,light_0003_aslu_33224.mp4,skipped_no_ytdlp
+4,33206,signschool,4,1,test,25,1,-1,472,5,1798,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Light%20copy-_avAtcE6T_o.mp4,light_0004_signschool_33206.mp4,ok
+9,33229,aslsearch,12,1,val,25,1,-1,144,54,585,400,http://www.aslsearch.com/signs/videos/light4.mp4,light_0009_aslsearch_33229.mp4,ok
+11,33231,aslsearch,12,0,train,25,1,-1,192,56,541,400,http://www.aslsearch.com/signs/videos/light.mp4,light_0011_aslsearch_33231.mp4,ok
+12,33205,startasl,36,0,train,25,1,-1,229,14,513,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/light.mp4,light_0012_startasl_33205.mp4,ok
+16,33210,handspeak,20,0,val,25,1,-1,129,0,575,480,https://www.handspeak.com/word/l/light.mp4,light_0016_handspeak_33210.mp4,failed
+17,33211,handspeak,20,1,train,25,1,-1,22,0,307,240,https://www.handspeak.com/word/l/light-weight2.mp4,light_0017_handspeak_33211.mp4,failed
+18,33212,handspeak,20,1,train,25,1,-1,16,0,320,240,https://www.handspeak.com/word/l/light-weight.mp4,light_0018_handspeak_33212.mp4,failed
+20,33214,signingsavvy,11,1,train,25,1,-1,75,10,221,192,https://www.signingsavvy.com/signs/mp4/14/14780.mp4,light_0020_signingsavvy_33214.mp4,ok
+23,33217,signingsavvy,11,0,train,25,1,-1,74,17,211,192,https://www.signingsavvy.com/signs/mp4/6/6824.mp4,light_0023_signingsavvy_33217.mp4,ok
+24,33218,signingsavvy,11,1,train,25,1,-1,55,12,230,192,https://www.signingsavvy.com/signs/mp4/7/7500.mp4,light_0024_signingsavvy_33218.mp4,ok
+26,33220,aslu,5,1,train,25,1,-1,131,3,511,360,https://www.youtube.com/watch?v=1GVBKQPRwTE,light_0026_aslu_33220.mp4,skipped_no_ytdlp
+27,33221,aslu,5,0,train,25,1,-1,353,29,978,720,https://www.youtube.com/watch?v=aCIocBQ6ylU,light_0027_aslu_33221.mp4,skipped_no_ytdlp

@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41819,asl5200,9,0,val,25,1154,1213,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pencil_0000_asl5200_41819.mp4,skipped_no_ytdlp
+1,70210,northtexas,121,0,train,25,1853,1961,107,24,279,240,https://www.youtube.com/watch?v=hjS0dQDgbjo,pencil_0001_northtexas_70210.mp4,skipped_no_ytdlp
+2,70267,northtexas,121,0,train,25,3896,4010,139,37,391,360,https://www.youtube.com/watch?v=WGfiiDgrq1I,pencil_0002_northtexas_70267.mp4,skipped_no_ytdlp
+3,41828,aslu,5,0,val,25,1,-1,375,43,965,720,https://www.youtube.com/watch?v=LjktDSbRaVM,pencil_0003_aslu_41828.mp4,skipped_no_ytdlp
+4,41829,aslu,5,0,train,25,1,-1,379,39,967,720,https://www.youtube.com/watch?v=urbpSEi0u-0,pencil_0004_aslu_41829.mp4,skipped_no_ytdlp
+5,41830,aslpro,72,0,train,25,1,-1,8,1,230,240,http://www.aslpro.com/main/p/pencil_colored.swf,pencil_0005_aslpro_41830.mp4,skipped_swf
+6,41831,aslpro,72,0,train,25,1,-1,5,2,231,240,http://www.aslpro.com/main/p/pencil_red.swf,pencil_0006_aslpro_41831.mp4,skipped_swf
+7,41822,spreadthesign,37,0,train,25,1,-1,39,0,254,240,https://media.spreadthesign.com/video/mp4/13/457714.mp4,pencil_0007_spreadthesign_41822.mp4,ok
+8,67971,asllex,109,0,train,25,1,-1,111,18,389,360,https://youtu.be/fKcIo2NHs14,pencil_0008_asllex_67971.mp4,skipped_no_ytdlp
+9,41832,aslpro,87,0,test,25,1,-1,19,6,226,240,http://www.aslpro.com/main/p/pencil.swf,pencil_0009_aslpro_41832.mp4,skipped_swf
+10,41833,aslsearch,12,0,val,25,1,-1,168,55,542,400,http://www.aslsearch.com/signs/videos/pencil.mp4,pencil_0010_aslsearch_41833.mp4,ok
+11,41823,asldeafined,13,0,test,25,1,-1,112,0,526,480,https://media.asldeafined.com/vocabulary/1468724738.1474.mp4,pencil_0011_asldeafined_41823.mp4,ok
+12,41824,asldeafined,15,0,train,25,1,-1,133,31,517,480,https://media.asldeafined.com/vocabulary/1522768045.488.mp4,pencil_0012_asldeafined_41824.mp4,ok
+13,41825,handspeak,14,0,train,25,1,-1,49,18,266,240,https://www.handspeak.com/word/p/pencil.mp4,pencil_0013_handspeak_41825.mp4,failed
+14,41826,signingsavvy,11,0,train,25,1,-1,68,15,217,192,https://www.signingsavvy.com/signs/mp4/8/8972.mp4,pencil_0014_signingsavvy_41826.mp4,ok

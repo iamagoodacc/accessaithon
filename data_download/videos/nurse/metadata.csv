@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39087,asl5200,9,0,train,25,1972,2011,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,nurse_0000_asl5200_39087.mp4,skipped_no_ytdlp
+1,39093,signingsavvy,11,0,train,25,1,-1,79,17,210,192,https://www.signingsavvy.com/signs/mp4/6/6403.mp4,nurse_0001_signingsavvy_39093.mp4,ok
+2,39094,aslu,5,0,train,25,1,-1,318,25,1011,720,https://www.youtube.com/watch?v=6Yx7NEqOvHo,nurse_0002_aslu_39094.mp4,skipped_no_ytdlp
+3,39095,aslpro,44,0,val,25,1,-1,0,2,224,240,http://www.aslpro.com/main/n/nurse_dressing_room.swf,nurse_0003_aslpro_39095.mp4,skipped_swf
+4,39096,aslpro,44,0,train,25,1,-1,0,4,248,240,http://www.aslpro.com/main/n/nurse_hat.swf,nurse_0004_aslpro_39096.mp4,skipped_swf
+5,67940,asllex,109,0,train,25,1,-1,95,25,389,360,https://youtu.be/OI_2ZCJlojM,nurse_0005_asllex_67940.mp4,skipped_no_ytdlp
+6,39097,aslpro,44,0,train,25,1,-1,0,4,260,240,http://www.aslpro.com/main/n/nurse_homecare.swf,nurse_0006_aslpro_39097.mp4,skipped_swf
+7,39098,aslpro,44,0,train,25,1,-1,0,6,204,240,http://www.aslpro.com/main/n/nurse.swf,nurse_0007_aslpro_39098.mp4,skipped_swf
+8,39099,aslsearch,12,0,train,25,1,-1,205,57,568,400,http://www.aslsearch.com/signs/videos/nurse.mp4,nurse_0008_aslsearch_39099.mp4,ok
+9,39088,spreadthesign,56,0,test,25,1,-1,52,0,267,240,https://media.spreadthesign.com/video/mp4/13/49008.mp4,nurse_0009_spreadthesign_39088.mp4,ok
+10,39089,startasl,36,0,val,25,1,-1,231,18,527,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/nurse.mp4,nurse_0010_startasl_39089.mp4,ok
+11,39090,signschool,60,0,test,25,1,-1,354,18,753,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Nurse-9PdisRY9NCw.mp4,nurse_0011_signschool_39090.mp4,ok
+12,39091,asldeafined,13,0,train,25,1,-1,83,0,515,480,https://media.asldeafined.com/vocabulary/1468720349.7460.mp4,nurse_0012_asldeafined_39091.mp4,ok
+13,39092,handspeak,14,0,train,25,1,-1,120,0,587,480,https://www.handspeak.com/word/n/nurse.mp4,nurse_0013_handspeak_39092.mp4,failed

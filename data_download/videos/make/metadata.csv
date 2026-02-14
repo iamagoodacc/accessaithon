@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,34558,asl5200,9,0,val,25,261,297,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,make_0000_asl5200_34558.mp4,skipped_no_ytdlp
+1,68226,lillybauer,113,0,train,25,1,105,163,33,999,720,https://www.youtube.com/watch?v=2vE7aBuVV28,make_0001_lillybauer_68226.mp4,skipped_no_ytdlp
+2,70082,northtexas,121,0,train,25,7156,7269,95,18,489,480,https://www.youtube.com/watch?v=jDCw7stJaM4,make_0002_northtexas_70082.mp4,skipped_no_ytdlp
+3,34581,asldeafined,13,0,val,25,1,-1,87,0,512,480,https://media.asldeafined.com/vocabulary/1468713374.2074.mp4,make_0003_asldeafined_34581.mp4,ok
+4,34582,handspeak,20,0,train,25,1,-1,91,0,525,480,https://www.handspeak.com/word/m/make.mp4,make_0004_handspeak_34582.mp4,failed
+5,34583,signingsavvy,10,0,train,25,1,-1,73,24,215,192,https://www.signingsavvy.com/signs/mp4/22/22337.mp4,make_0005_signingsavvy_34583.mp4,ok
+6,34584,signingsavvy,10,0,train,25,1,-1,81,23,217,192,https://www.signingsavvy.com/signs/mp4/22/22338.mp4,make_0006_signingsavvy_34584.mp4,ok
+7,34575,spreadthesign,37,0,train,25,1,-1,67,0,254,240,https://media.spreadthesign.com/video/mp4/13/456657.mp4,make_0007_spreadthesign_34575.mp4,ok
+8,67871,asllex,109,0,train,25,1,-1,102,15,387,360,https://youtu.be/NokkIJtHjAs,make_0008_asllex_67871.mp4,skipped_no_ytdlp
+9,34585,aslpro,87,0,test,25,1,-1,11,5,230,240,http://www.aslpro.com/main/m/make.swf,make_0009_aslpro_34585.mp4,skipped_swf
+10,34586,aslsearch,12,0,val,25,1,-1,178,50,542,400,http://www.aslsearch.com/signs/videos/fix.mp4,make_0010_aslsearch_34586.mp4,ok
+12,34577,signschool,4,0,test,25,1,-1,715,71,1640,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Make%20aspect%202-cluc2HL2fcI.mp4,make_0012_signschool_34577.mp4,ok
+13,34578,signschool,4,0,train,25,1,-1,709,72,1635,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Make%20aspect-iAySYwNEWoY.mp4,make_0013_signschool_34578.mp4,ok
+14,34579,signschool,4,0,train,25,1,-1,548,63,1617,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Make%20opposite-niihcD0oYjQ.mp4,make_0014_signschool_34579.mp4,ok
+15,34580,signschool,4,0,train,25,1,-1,716,69,1635,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Make-RGxUemQEoi0.mp4,make_0015_signschool_34580.mp4,ok

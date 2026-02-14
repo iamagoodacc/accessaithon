@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57954,asl5200,9,0,train,25,2230,2276,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,think_0000_asl5200_57954.mp4,skipped_no_ytdlp
+1,69505,aslbrick,115,0,train,25,1,-1,317,48,937,720,http://aslbricks.org/New/ASL-Videos/think.mp4,think_0001_aslbrick_69505.mp4,ok
+2,57980,aslu,5,0,train,25,1,-1,60,24,443,360,https://www.youtube.com/watch?v=Y5q-PccHNHo,think_0002_aslu_57980.mp4,skipped_no_ytdlp
+3,57981,aslpro,87,0,val,25,1,-1,19,7,225,240,http://www.aslpro.com/main/t/think.swf,think_0003_aslpro_57981.mp4,skipped_swf
+4,57982,aslsearch,12,0,train,25,1,-1,174,52,525,400,http://www.aslsearch.com/signs/videos/think.mp4,think_0004_aslsearch_57982.mp4,ok
+5,66609,aslsignbank,93,0,train,25,1,-1,160,35,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THINK-398.mp4,think_0005_aslsignbank_66609.mp4,failed
+6,57973,spreadthesign,56,0,train,25,1,-1,43,0,271,240,https://media.spreadthesign.com/video/mp4/13/50886.mp4,think_0006_spreadthesign_57973.mp4,ok
+7,67300,asllex,109,0,train,25,1,-1,103,19,346,360,https://youtu.be/cn8LVfKb9LU,think_0007_asllex_67300.mp4,skipped_no_ytdlp
+8,57974,signschool,31,0,train,25,1,-1,677,75,1489,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Brain%2C%20Mind%2C%20Think-Pn0CrQ-Jm8o.mp4,think_0008_signschool_57974.mp4,ok
+9,57975,asldeafined,13,0,test,25,1,-1,110,0,541,480,https://media.asldeafined.com/vocabulary/1468944760.6188.mp4,think_0009_asldeafined_57975.mp4,ok
+10,57976,handspeak,14,0,val,25,1,-1,135,0,546,480,https://www.handspeak.com/word/t/think.mp4,think_0010_handspeak_57976.mp4,failed
+11,57977,signingsavvy,11,0,test,25,1,-1,72,15,242,192,https://www.signingsavvy.com/signs/mp4/8/8382.mp4,think_0011_signingsavvy_57977.mp4,ok
+12,57978,aslu,5,0,train,25,1,-1,336,31,930,720,https://www.youtube.com/watch?v=gfwJCBpvc9w,think_0012_aslu_57978.mp4,skipped_no_ytdlp
+13,57979,aslu,5,0,train,25,1,-1,289,26,938,720,https://www.youtube.com/watch?v=NdTKb3Kig88,think_0013_aslu_57979.mp4,skipped_no_ytdlp

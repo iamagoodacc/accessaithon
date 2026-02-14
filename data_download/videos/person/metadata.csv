@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42196,asl5200,9,0,test,25,1558,1600,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,person_0000_asl5200_42196.mp4,skipped_no_ytdlp
+1,68646,lillybauer,115,0,test,25,1,60,355,17,922,720,https://www.youtube.com/watch?v=LawiJaK2Jw0,person_0001_lillybauer_68646.mp4,skipped_no_ytdlp
+2,68129,valencia-asl,111,0,train,25,1,-1,196,7,643,480,https://www.youtube.com/watch?v=rcZE9yHR0bQ,person_0002_valencia-asl_68129.mp4,skipped_no_ytdlp
+3,42227,asldeafined,13,0,train,25,1,-1,149,0,549,480,https://media.asldeafined.com/vocabulary/1468725222.7589.mp4,person_0003_asldeafined_42227.mp4,ok
+4,42228,handspeak,14,0,train,25,1,-1,89,0,518,480,https://www.handspeak.com/word/p/person.mp4,person_0004_handspeak_42228.mp4,failed
+7,42231,signingsavvy,10,0,val,25,1,-1,87,22,205,192,https://www.signingsavvy.com/signs/mp4/22/22125.mp4,person_0007_signingsavvy_42231.mp4,ok
+8,42232,signingsavvy,10,0,train,25,1,-1,87,22,205,192,https://www.signingsavvy.com/signs/mp4/22/22125.mp4,person_0008_signingsavvy_42232.mp4,ok
+10,42234,aslu,5,0,val,25,1,-1,351,47,970,720,https://www.youtube.com/watch?v=ONuBnrzVXQw,person_0010_aslu_42234.mp4,skipped_no_ytdlp
+11,66280,aslsignbank,101,0,train,25,1,-1,194,7,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PERSON-888.mp4,person_0011_aslsignbank_66280.mp4,failed
+12,42225,spreadthesign,37,0,train,25,1,-1,67,0,258,240,https://media.spreadthesign.com/video/mp4/13/457738.mp4,person_0012_spreadthesign_42225.mp4,ok
+13,67981,asllex,109,0,train,25,1,-1,100,11,385,360,https://youtu.be/owpU6xgfONs,person_0013_asllex_67981.mp4,skipped_no_ytdlp
+15,42236,aslu,5,0,train,25,1,-1,355,38,961,720,https://www.youtube.com/watch?v=RXX7T4-saPs,person_0015_aslu_42236.mp4,skipped_no_ytdlp
+16,42237,aslpro,87,0,val,25,1,-1,25,18,221,240,http://www.aslpro.com/main/p/person_marker.swf,person_0016_aslpro_42237.mp4,skipped_swf
+17,42238,aslpro,25,0,train,25,1,-1,3,13,251,240,http://www.aslpro.com/main/p/person.swf,person_0017_aslpro_42238.mp4,skipped_swf
+18,42239,aslsearch,12,0,train,25,1,-1,197,56,562,400,http://www.aslsearch.com/signs/videos/person.mp4,person_0018_aslsearch_42239.mp4,ok
+19,42226,signschool,31,0,train,25,1,-1,752,58,1668,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Person-JuPDRv_OWWQ.mp4,person_0019_signschool_42226.mp4,ok

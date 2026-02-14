@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48898,asl5200,9,0,train,25,4300,4366,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,russia_0000_asl5200_48898.mp4,skipped_no_ytdlp
+1,48901,signschool,45,0,train,25,1,-1,500,101,1414,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%202-74OAafnvKs0.mp4,russia_0001_signschool_48901.mp4,ok
+2,48902,signschool,45,0,train,25,1,-1,631,97,1428,1064,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia%203-6S4H3Nl14Dw.mp4,russia_0002_signschool_48902.mp4,ok
+3,48903,signschool,45,1,train,25,1,-1,617,38,1616,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Russia-xJKc-LqcgFA.mp4,russia_0003_signschool_48903.mp4,ok
+4,48904,asldeafined,15,0,val,25,1,-1,87,24,538,480,https://media.asldeafined.com/vocabulary/1512918340.9089.mp4,russia_0004_asldeafined_48904.mp4,ok
+5,48905,handspeak,14,1,test,25,1,-1,35,13,549,480,https://www.handspeak.com/word/r/russia.mp4,russia_0005_handspeak_48905.mp4,failed
+6,48907,signingsavvy,11,1,val,25,1,-1,67,13,254,192,https://www.signingsavvy.com/signs/mp4/7/7790.mp4,russia_0006_signingsavvy_48907.mp4,ok
+7,67154,asllex,109,0,train,25,1,-1,90,15,366,360,https://youtu.be/Qk47GZjGbZY,russia_0007_asllex_67154.mp4,skipped_no_ytdlp
+8,48908,signingsavvy,11,0,val,25,1,-1,70,14,230,192,https://www.signingsavvy.com/signs/mp4/7/7791.mp4,russia_0008_signingsavvy_48908.mp4,ok
+9,48909,aslu,5,1,train,25,1,-1,299,44,1036,720,https://www.youtube.com/watch?v=-4OKviVsO7s,russia_0009_aslu_48909.mp4,skipped_no_ytdlp
+10,48910,aslu,5,1,train,25,1,-1,294,22,1013,720,https://www.youtube.com/watch?v=GCAlZ4gijEc,russia_0010_aslu_48910.mp4,skipped_no_ytdlp
+11,48911,aslu,5,0,train,25,1,-1,324,48,950,720,https://www.youtube.com/watch?v=YSAX7AP-JW4,russia_0011_aslu_48911.mp4,skipped_no_ytdlp
+12,48912,aslpro,30,0,train,25,1,-1,0,15,228,240,http://www.aslpro.com/main/r/russia.swf,russia_0012_aslpro_48912.mp4,skipped_swf
+13,48913,aslsearch,12,0,test,25,1,-1,148,53,545,400,http://www.aslsearch.com/signs/videos/russia.mp4,russia_0013_aslsearch_48913.mp4,ok
+14,48899,spreadthesign,37,0,train,25,1,-1,65,0,231,240,https://media.spreadthesign.com/video/mp4/13/455370.mp4,russia_0014_spreadthesign_48899.mp4,ok

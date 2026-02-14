@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13542,asl5200,9,0,val,25,6614,6656,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,country_0000_asl5200_13542.mp4,skipped_no_ytdlp
+1,13546,asldeafined,59,0,train,25,1,-1,140,17,593,480,https://media.asldeafined.com/vocabulary/1466904058.6403.mp4,country_0001_asldeafined_13546.mp4,ok
+2,13547,handspeak,20,0,train,25,1,-1,99,4,519,480,https://www.handspeak.com/word/c/country2.mp4,country_0002_handspeak_13547.mp4,failed
+3,13548,handspeak,20,0,val,25,1,-1,96,0,512,480,https://www.handspeak.com/word/c/country.mp4,country_0003_handspeak_13548.mp4,failed
+4,13549,signingsavvy,10,0,train,25,1,-1,89,22,221,192,https://www.signingsavvy.com/signs/mp4/23/23151.mp4,country_0004_signingsavvy_13549.mp4,ok
+5,13550,signingsavvy,10,0,train,25,1,-1,89,22,215,192,https://www.signingsavvy.com/signs/mp4/23/23277.mp4,country_0005_signingsavvy_13550.mp4,ok
+7,65414,aslsignbank,99,0,train,25,1,-1,64,5,231,180,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNTRY-2558.mp4,country_0007_aslsignbank_65414.mp4,failed
+8,67534,asllex,109,0,train,25,1,-1,95,17,389,360,https://youtu.be/LDho1My2rLE,country_0008_asllex_67534.mp4,skipped_no_ytdlp
+9,13552,aslu,5,0,train,25,1,-1,320,44,1047,720,https://www.youtube.com/watch?v=YgCmE5kljQw,country_0009_aslu_13552.mp4,skipped_no_ytdlp
+10,13553,aslpro,25,0,test,25,1,-1,0,10,255,240,http://www.aslpro.com/main/c/country.swf,country_0010_aslpro_13553.mp4,skipped_swf
+11,13554,aslsearch,12,0,val,25,1,-1,170,57,532,400,http://www.aslsearch.com/signs/videos/country2.mp4,country_0011_aslsearch_13554.mp4,ok
+12,13555,aslsearch,12,0,test,25,1,-1,184,53,532,400,http://www.aslsearch.com/signs/videos/country.mp4,country_0012_aslsearch_13555.mp4,ok
+13,13543,elementalasl,19,0,train,25,1,-1,90,11,255,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/country.mov,country_0013_elementalasl_13543.mp4,ok
+14,13544,startasl,38,0,train,25,1,-1,408,57,823,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/country.mp4,country_0014_startasl_13544.mp4,ok
+15,13545,signschool,31,0,train,25,1,-1,779,79,1666,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Country-Htom5pC0IUU.mp4,country_0015_signschool_13545.mp4,ok

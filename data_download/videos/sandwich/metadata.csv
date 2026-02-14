@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49244,asl5200,9,0,val,25,327,406,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sandwich_0000_asl5200_49244.mp4,skipped_no_ytdlp
+1,49249,handspeak,14,0,train,25,1,-1,88,5,259,240,https://www.handspeak.com/word/s/sandwich.mp4,sandwich_0001_handspeak_49249.mp4,failed
+2,49250,signingsavvy,11,0,train,25,1,-1,53,8,206,192,https://www.signingsavvy.com/signs/mp4/14/14116.mp4,sandwich_0002_signingsavvy_49250.mp4,ok
+3,49251,signingsavvy,11,0,val,25,1,-1,101,16,217,192,https://www.signingsavvy.com/signs/mp4/7/7885.mp4,sandwich_0003_signingsavvy_49251.mp4,ok
+4,49252,signingsavvy,11,0,train,25,1,-1,88,18,201,192,https://www.signingsavvy.com/signs/mp4/9/9082.mp4,sandwich_0004_signingsavvy_49252.mp4,ok
+5,49253,aslu,5,0,train,25,1,-1,357,8,970,720,https://www.youtube.com/watch?v=gjrBJVFTFDA,sandwich_0005_aslu_49253.mp4,skipped_no_ytdlp
+6,66423,aslsignbank,103,0,train,25,1,-1,167,31,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SA/SANDWICH-993.mp4,sandwich_0006_aslsignbank_66423.mp4,failed
+7,66424,aslsignbank,103,0,train,25,1,-1,163,30,494,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SA/SANDWICH-994.mp4,sandwich_0007_aslsignbank_66424.mp4,failed
+8,67162,asllex,109,0,train,25,1,-1,133,19,380,360,https://youtu.be/7lsya6lXi5Q,sandwich_0008_asllex_67162.mp4,skipped_no_ytdlp
+9,49254,aslpro,24,0,test,25,1,-1,20,15,204,240,http://www.aslpro.com/main/s/sandwich.swf,sandwich_0009_aslpro_49254.mp4,skipped_swf
+10,49255,aslsearch,12,0,val,25,1,-1,194,46,549,400,http://www.aslsearch.com/signs/videos/sandwich.mp4,sandwich_0010_aslsearch_49255.mp4,ok
+11,49245,spreadthesign,28,0,test,25,1,-1,47,1,256,240,https://media.spreadthesign.com/video/mp4/13/485651.mp4,sandwich_0011_spreadthesign_49245.mp4,ok
+12,49246,startasl,36,0,train,25,1,-1,234,17,534,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sandwich.mp4,sandwich_0012_startasl_49246.mp4,ok
+13,49247,signschool,31,0,train,25,1,-1,436,61,977,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Sandwich.mp4,sandwich_0013_signschool_49247.mp4,ok
+14,49248,asldeafined,13,0,train,25,1,-1,146,0,523,480,https://media.asldeafined.com/vocabulary/1468762862.7837.mp4,sandwich_0014_asldeafined_49248.mp4,ok

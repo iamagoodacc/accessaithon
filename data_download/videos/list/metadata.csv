@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33450,asl5200,9,0,test,25,1895,1951,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,list_0000_asl5200_33450.mp4,skipped_no_ytdlp
+1,33475,signschool,31,0,test,25,1,-1,626,60,1408,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20List-UOfIIfQ2XZc.mp4,list_0001_signschool_33475.mp4,ok
+3,33477,asldeafined,13,0,train,25,1,-1,141,0,515,480,https://media.asldeafined.com/vocabulary/1468712054.3568.mp4,list_0003_asldeafined_33477.mp4,ok
+4,33478,handspeak,20,0,train,25,1,-1,140,0,548,480,https://www.handspeak.com/word/l/list.mp4,list_0004_handspeak_33478.mp4,failed
+5,33479,signingsavvy,10,0,train,25,1,-1,102,19,221,192,https://www.signingsavvy.com/signs/mp4/23/23283.mp4,list_0005_signingsavvy_33479.mp4,ok
+6,33480,signingsavvy,10,0,val,25,1,-1,106,20,217,192,https://www.signingsavvy.com/signs/mp4/23/23285.mp4,list_0006_signingsavvy_33480.mp4,ok
+7,33481,aslu,5,0,train,25,1,-1,350,19,1020,720,https://www.youtube.com/watch?v=6tmwqlYiflI,list_0007_aslu_33481.mp4,skipped_no_ytdlp
+8,66075,aslsignbank,103,0,val,25,1,-1,155,29,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LI/LIST-1644.mp4,list_0008_aslsignbank_66075.mp4,failed
+9,33472,elementalasl,19,0,train,25,1,-1,83,3,235,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/list.mov,list_0009_elementalasl_33472.mp4,ok
+10,67852,asllex,109,0,train,25,1,-1,93,17,365,360,https://youtu.be/8vNp_xyNxws,list_0010_asllex_67852.mp4,skipped_no_ytdlp
+11,33482,aslu,5,0,train,25,1,-1,350,16,982,720,https://www.youtube.com/watch?v=d87UogAsyxg,list_0011_aslu_33482.mp4,skipped_no_ytdlp
+12,33484,aslu,5,0,train,25,1,-1,294,0,935,720,https://www.youtube.com/watch?v=LFubvvh2-sE,list_0012_aslu_33484.mp4,skipped_no_ytdlp
+13,33485,aslpro,24,0,val,25,1,-1,23,18,229,240,http://www.aslpro.com/main/l/list.swf,list_0013_aslpro_33485.mp4,skipped_swf
+14,33486,aslsearch,41,0,train,25,1,-1,239,45,496,400,http://www.aslsearch.com/signs/videos/list.mp4,list_0014_aslsearch_33486.mp4,ok
+15,33473,spreadthesign,0,0,train,25,1,-1,58,9,258,240,https://media.spreadthesign.com/video/mp4/13/75021.mp4,list_0015_spreadthesign_33473.mp4,ok
+16,33474,signschool,31,0,train,25,1,-1,651,62,1416,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lesson%2C%20List%2C%20Recipe-8d-XUOnzYFE.mp4,list_0016_signschool_33474.mp4,ok

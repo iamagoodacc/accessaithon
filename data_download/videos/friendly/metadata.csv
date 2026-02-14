@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23579,asl5200,9,0,train,25,3143,3192,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,friendly_0000_asl5200_23579.mp4,skipped_no_ytdlp
+1,70257,northtexas,121,0,train,25,4801,4911,166,43,432,360,https://www.youtube.com/watch?v=WprUBqi3iBc,friendly_0001_northtexas_70257.mp4,skipped_no_ytdlp
+2,23586,nabboud,69,0,train,25,1,-1,331,57,885,720,https://www.youtube.com/watch?v=Beg6VJST5pc,friendly_0002_nabboud_23586.mp4,skipped_no_ytdlp
+3,23587,nabboud,69,0,val,25,1,-1,328,54,883,720,https://www.youtube.com/watch?v=FK2MbvNTgGs,friendly_0003_nabboud_23587.mp4,skipped_no_ytdlp
+4,23588,aslu,5,0,train,25,1,-1,156,36,1072,720,https://www.youtube.com/watch?v=y2vzVSDM00k,friendly_0004_aslu_23588.mp4,skipped_no_ytdlp
+5,65783,aslsignbank,96,0,train,25,1,-1,194,38,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FR/FRIENDLY-2162.mp4,friendly_0005_aslsignbank_65783.mp4,failed
+6,67692,asllex,109,0,train,25,1,-1,106,38,406,360,https://youtu.be/XU-Td6ZVTJ8,friendly_0006_asllex_67692.mp4,skipped_no_ytdlp
+7,23589,aslsearch,12,0,train,25,1,-1,186,50,545,400,http://www.aslsearch.com/signs/videos/friendly.mp4,friendly_0007_aslsearch_23589.mp4,ok
+8,23580,spreadthesign,53,0,train,25,1,-1,24,0,291,240,https://media.spreadthesign.com/video/mp4/13/51578.mp4,friendly_0008_spreadthesign_23580.mp4,ok
+9,23581,startasl,38,0,test,25,1,-1,392,56,844,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/friendly.mp4,friendly_0009_startasl_23581.mp4,ok
+10,23582,signschool,45,0,val,25,1,-1,624,88,1522,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Friendly-93dX17O8vYY.mp4,friendly_0010_signschool_23582.mp4,ok
+11,23583,asldeafined,21,0,test,25,1,-1,74,18,591,480,https://media.asldeafined.com/vocabulary/1468514247.3353.mp4,friendly_0011_asldeafined_23583.mp4,ok
+12,23584,handspeak,20,0,train,25,1,-1,71,1,581,480,https://www.handspeak.com/word/f/friendly.mp4,friendly_0012_handspeak_23584.mp4,failed
+13,23585,signingsavvy,11,0,train,25,1,-1,38,0,234,192,https://www.signingsavvy.com/signs/mp4/5/5858.mp4,friendly_0013_signingsavvy_23585.mp4,ok

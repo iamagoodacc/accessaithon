@@ -1,0 +1,15 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42242,asl5200,9,0,train,25,1654,1723,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,perspective_0000_asl5200_42242.mp4,skipped_no_ytdlp
+1,42246,signschool,45,0,train,25,1,-1,676,134,1457,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Perspective-JokfTNsMNoU.mp4,perspective_0001_signschool_42246.mp4,ok
+2,42247,signschool,31,0,train,25,1,-1,683,71,1509,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Point%20of%20View%2C%20Perspective%2C%20Paradigm%20Shift-NZwY21cyXEk.mp4,perspective_0002_signschool_42247.mp4,ok
+3,42248,asldeafined,15,0,val,25,1,-1,124,36,575,480,https://media.asldeafined.com/vocabulary/1499870482.2044.mp4,perspective_0003_asldeafined_42248.mp4,ok
+5,42250,handspeak,20,0,train,25,1,-1,84,0,488,480,https://www.handspeak.com/word/p/perspective.mp4,perspective_0005_handspeak_42250.mp4,failed
+6,42251,signingsavvy,11,0,train,25,1,-1,56,14,199,192,https://www.signingsavvy.com/signs/mp4/14/14270.mp4,perspective_0006_signingsavvy_42251.mp4,ok
+7,66281,aslsignbank,101,0,train,25,1,-1,201,9,473,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PERSPECTIVE-889.mp4,perspective_0007_aslsignbank_66281.mp4,failed
+8,42252,signingsavvy,11,0,train,25,1,-1,54,11,215,192,https://www.signingsavvy.com/signs/mp4/14/14332.mp4,perspective_0008_signingsavvy_42252.mp4,ok
+9,42253,signingsavvy,11,0,train,25,1,-1,49,11,205,192,https://www.signingsavvy.com/signs/mp4/14/14333.mp4,perspective_0009_signingsavvy_42253.mp4,ok
+10,42254,aslu,5,0,test,25,1,-1,285,31,997,720,https://www.youtube.com/watch?v=j2CsP8qVI74,perspective_0010_aslu_42254.mp4,skipped_no_ytdlp
+11,42255,aslpro,30,0,val,25,1,-1,0,10,219,240,http://www.aslpro.com/main/p/perspective.swf,perspective_0011_aslpro_42255.mp4,skipped_swf
+12,42256,aslsearch,12,0,test,25,1,-1,187,54,557,400,http://www.aslsearch.com/signs/videos/perception.mp4,perspective_0012_aslsearch_42256.mp4,ok
+13,42243,elementalasl,19,0,train,25,1,-1,77,7,231,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/perspective.mov,perspective_0013_elementalasl_42243.mp4,ok
+15,42245,spreadthesign,0,0,train,25,1,-1,56,4,259,240,https://media.spreadthesign.com/video/mp4/13/62881.mp4,perspective_0015_spreadthesign_42245.mp4,ok

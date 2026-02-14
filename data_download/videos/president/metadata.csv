@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44364,asl5200,9,0,val,25,4887,4963,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,president_0000_asl5200_44364.mp4,skipped_no_ytdlp
+1,44372,handspeak,14,0,train,25,1,-1,0,15,310,240,https://www.handspeak.com/word/p/president.mp4,president_0001_handspeak_44372.mp4,failed
+2,44373,signingsavvy,10,0,train,25,1,-1,42,14,240,192,https://www.signingsavvy.com/signs/mp4/22/22288.mp4,president_0002_signingsavvy_44373.mp4,ok
+3,44374,signingsavvy,10,0,val,25,1,-1,44,13,245,192,https://www.signingsavvy.com/signs/mp4/22/22289.mp4,president_0003_signingsavvy_44374.mp4,ok
+4,44375,aslu,5,0,train,25,1,-1,257,30,1019,720,https://www.youtube.com/watch?v=fuFTBiGGlD8,president_0004_aslu_44375.mp4,skipped_no_ytdlp
+5,44376,aslu,5,0,train,25,1,-1,243,19,1056,720,https://www.youtube.com/watch?v=XuNvPyMBB4M,president_0005_aslu_44376.mp4,skipped_no_ytdlp
+6,66326,aslsignbank,101,0,train,25,1,-1,184,1,556,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PRESIDENT-926.mp4,president_0006_aslsignbank_66326.mp4,failed
+7,44367,elementalasl,19,0,train,25,1,-1,38,2,295,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/president.mov,president_0007_elementalasl_44367.mp4,ok
+8,67097,asllex,109,0,train,25,1,-1,63,11,418,360,https://youtu.be/W9DXGEIITLE,president_0008_asllex_67097.mp4,skipped_no_ytdlp
+9,44377,aslpro,87,0,test,25,1,-1,1,13,231,240,http://www.aslpro.com/main/p/president.swf,president_0009_aslpro_44377.mp4,skipped_swf
+10,44378,aslsearch,12,0,val,25,1,-1,178,53,587,400,http://www.aslsearch.com/signs/videos/president.mp4,president_0010_aslsearch_44378.mp4,ok
+11,44368,spreadthesign,28,0,test,25,1,-1,16,0,293,240,https://media.spreadthesign.com/video/mp4/13/485649.mp4,president_0011_spreadthesign_44368.mp4,ok
+12,44369,startasl,38,0,train,25,1,-1,296,54,911,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/president.mp4,president_0012_startasl_44369.mp4,ok
+13,44370,signschool,6,0,train,25,1,-1,510,45,1657,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20President-IKq3CCMS0YI.mp4,president_0013_signschool_44370.mp4,ok
+14,44371,asldeafined,13,0,train,25,1,-1,87,0,624,480,https://media.asldeafined.com/vocabulary/1468755502.8846.mp4,president_0014_asldeafined_44371.mp4,ok

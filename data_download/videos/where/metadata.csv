@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,63079,asl5200,9,0,val,25,1881,1940,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,where_0000_asl5200_63079.mp4,skipped_no_ytdlp
+1,68181,valencia-asl,110,0,train,25,1,-1,231,4,626,480,https://www.youtube.com/watch?v=1IJ6oVm6x-w,where_0001_valencia-asl_68181.mp4,skipped_no_ytdlp
+2,68998,lillybauer,115,0,train,25,1,52,346,28,918,720,https://www.youtube.com/watch?v=WlHOl9zIUpE,where_0002_lillybauer_68998.mp4,skipped_no_ytdlp
+3,63087,signingsavvy,11,0,val,25,1,-1,82,8,220,192,https://www.signingsavvy.com/signs/mp4/14/14587.mp4,where_0003_signingsavvy_63087.mp4,ok
+4,63088,aslu,64,0,train,25,1,-1,131,35,419,351,https://www.youtube.com/watch?v=p476xgjJAZE,where_0004_aslu_63088.mp4,skipped_no_ytdlp
+5,63089,aslu,5,0,train,25,1,-1,333,39,937,720,https://www.youtube.com/watch?v=p476xgjJAZE,where_0005_aslu_63089.mp4,skipped_no_ytdlp
+6,63090,aslpro,87,0,train,25,1,-1,15,9,218,240,http://www.aslpro.com/main/w/where.swf,where_0006_aslpro_63090.mp4,skipped_swf
+7,66774,aslsignbank,88,0,train,25,1,-1,161,6,478,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHERE-1427.mp4,where_0007_aslsignbank_66774.mp4,failed
+8,63081,spreadthesign,42,0,train,25,1,-1,23,0,295,240,https://media.spreadthesign.com/video/mp4/13/51067.mp4,where_0008_spreadthesign_63081.mp4,ok
+9,67061,asllex,109,0,test,25,1,-1,94,14,370,360,https://youtu.be/Mrb2M9RV_KM,where_0009_asllex_67061.mp4,skipped_no_ytdlp
+10,63091,aslsearch,12,0,val,25,1,-1,207,53,573,400,http://www.aslsearch.com/signs/videos/where.mp4,where_0010_aslsearch_63091.mp4,ok
+11,63082,startasl,36,0,test,25,1,-1,239,13,529,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/where.mp4,where_0011_startasl_63082.mp4,ok
+12,63083,signschool,70,0,train,25,1,-1,351,13,799,479,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20where-LSM0sp4VCz4.mp4,where_0012_signschool_63083.mp4,ok
+13,63084,asldeafined,13,0,train,25,1,-1,92,7,514,480,https://media.asldeafined.com/vocabulary/1468928023.2600.mp4,where_0013_asldeafined_63084.mp4,ok
+14,63085,handspeak,14,0,train,25,1,-1,180,0,498,360,https://www.handspeak.com/word/w/where2.mp4,where_0014_handspeak_63085.mp4,failed

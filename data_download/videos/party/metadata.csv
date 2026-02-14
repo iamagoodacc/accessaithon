@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41306,asl5200,9,0,train,25,627,679,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,party_0000_asl5200_41306.mp4,skipped_no_ytdlp
+3,41315,signschool,4,0,train,25,1,-1,388,43,1899,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Party-OZ1Ap6C6tVk.mp4,party_0003_signschool_41315.mp4,ok
+4,41316,signschool,52,1,test,25,1,-1,240,10,626,360,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Play-TvZ8pfNOX2U.mp4,party_0004_signschool_41316.mp4,ok
+5,41317,asldeafined,13,1,train,25,1,-1,124,0,556,480,https://media.asldeafined.com/vocabulary/1468724131.6734.mp4,party_0005_asldeafined_41317.mp4,ok
+6,41318,handspeak,14,0,train,25,1,-1,65,9,514,360,https://www.handspeak.com/word/p/party2.mp4,party_0006_handspeak_41318.mp4,failed
+8,41320,handspeak,14,1,train,25,1,-1,73,0,582,480,https://www.handspeak.com/word/p/party.mp4,party_0008_handspeak_41320.mp4,failed
+9,66265,aslsignbank,101,0,train,25,1,-1,159,10,486,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-874.mp4,party_0009_aslsignbank_66265.mp4,failed
+10,66266,aslsignbank,101,1,train,25,1,-1,160,11,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARTY-875.mp4,party_0010_aslsignbank_66266.mp4,failed
+11,41311,spreadthesign,37,1,train,25,1,-1,68,2,262,240,https://media.spreadthesign.com/video/mp4/13/457609.mp4,party_0011_spreadthesign_41311.mp4,ok
+12,41321,signingsavvy,11,1,val,25,1,-1,51,12,237,192,https://www.signingsavvy.com/signs/mp4/6/6693.mp4,party_0012_signingsavvy_41321.mp4,ok
+13,41322,signingsavvy,11,0,val,25,1,-1,46,11,239,192,https://www.signingsavvy.com/signs/mp4/6/6694.mp4,party_0013_signingsavvy_41322.mp4,ok
+14,41323,aslu,5,0,val,25,1,-1,171,6,1010,720,https://www.youtube.com/watch?v=FGiQuEgK2s0,party_0014_aslu_41323.mp4,skipped_no_ytdlp
+15,41324,aslpro,54,0,train,25,1,-1,0,6,253,240,http://www.aslpro.com/main/p/party.swf,party_0015_aslpro_41324.mp4,skipped_swf
+16,41325,aslsearch,41,0,test,25,1,-1,173,38,556,400,http://www.aslsearch.com/signs/videos/party.mp4,party_0016_aslsearch_41325.mp4,ok
+17,41312,startasl,36,0,train,25,1,-1,216,16,533,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/party.mp4,party_0017_startasl_41312.mp4,ok

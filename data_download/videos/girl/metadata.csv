@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24590,asl5200,9,0,val,25,720,776,0,0,360,240,https://www.youtube.com/watch?v=YdHKN_wHZqo,girl_0000_asl5200_24590.mp4,skipped_no_ytdlp
+1,69342,aslbrick,118,0,train,25,1,-1,337,38,876,720,http://aslbricks.org/New/ASL-Videos/girl.mp4,girl_0001_aslbrick_69342.mp4,ok
+2,68840,lillybauer,115,0,train,25,1,32,354,24,906,720,https://www.youtube.com/watch?v=qom1zfdv0fM,girl_0002_lillybauer_68840.mp4,skipped_no_ytdlp
+3,24612,aslu,5,0,val,25,1,-1,244,0,920,720,https://www.youtube.com/watch?v=pwh3cOdoiG4,girl_0003_aslu_24612.mp4,skipped_no_ytdlp
+4,24613,aslpro,16,0,train,25,1,-1,6,6,214,240,http://www.aslpro.com/main/g/girl.swf,girl_0004_aslpro_24613.mp4,skipped_swf
+5,24614,aslsearch,12,0,train,25,1,-1,174,64,541,400,http://www.aslsearch.com/signs/videos/girl.mp4,girl_0005_aslsearch_24614.mp4,ok
+6,65817,aslsignbank,94,0,train,25,1,-1,144,19,452,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GI/GIRL-465.mp4,girl_0006_aslsignbank_65817.mp4,failed
+7,24605,spreadthesign,37,0,train,25,1,-1,69,0,241,240,https://media.spreadthesign.com/video/mp4/13/456446.mp4,girl_0007_spreadthesign_24605.mp4,ok
+8,67709,asllex,109,0,train,25,1,-1,102,23,380,360,https://youtu.be/BplLBwbCc_0,girl_0008_asllex_67709.mp4,skipped_no_ytdlp
+9,24606,startasl,36,0,test,25,1,-1,230,16,519,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/girl.mp4,girl_0009_startasl_24606.mp4,ok
+10,24607,signschool,27,0,val,25,1,-1,814,70,1748,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Girl-au4SAlovob8.mp4,girl_0010_signschool_24607.mp4,ok
+11,24608,signschool,32,0,test,25,1,-1,758,80,1487,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Girl-v3qw7pEsoEw.mp4,girl_0011_signschool_24608.mp4,ok
+12,24609,asldeafined,21,0,train,25,1,-1,83,10,531,480,https://media.asldeafined.com/vocabulary/1468548923.2582.mp4,girl_0012_asldeafined_24609.mp4,ok
+13,24610,handspeak,20,0,train,25,1,-1,111,0,553,480,https://www.handspeak.com/word/g/girl.mp4,girl_0013_handspeak_24610.mp4,failed
+14,24611,signingsavvy,11,0,train,25,1,-1,74,12,229,192,https://www.signingsavvy.com/signs/mp4/7/7076.mp4,girl_0014_signingsavvy_24611.mp4,ok

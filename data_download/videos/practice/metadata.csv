@@ -1,0 +1,16 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44080,asl5200,9,0,val,25,4024,4080,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,practice_0000_asl5200_44080.mp4,skipped_no_ytdlp
+1,68706,lillybauer,113,0,train,25,1,125,238,30,975,720,https://www.youtube.com/watch?v=MphRuIWLyxA,practice_0001_lillybauer_68706.mp4,skipped_no_ytdlp
+2,68738,lillybauer,115,0,train,25,1,69,314,22,949,720,https://www.youtube.com/watch?v=nkJSsM-_EEg,practice_0002_lillybauer_68738.mp4,skipped_no_ytdlp
+3,44087,signingsavvy,11,0,val,25,1,-1,62,18,207,192,https://www.signingsavvy.com/signs/mp4/8/8953.mp4,practice_0003_signingsavvy_44087.mp4,ok
+4,44088,signingsavvy,11,0,train,25,1,-1,71,12,212,192,https://www.signingsavvy.com/signs/mp4/9/9822.mp4,practice_0004_signingsavvy_44088.mp4,ok
+5,44089,aslu,5,0,train,25,1,-1,257,30,986,720,https://www.youtube.com/watch?v=kjl2RGCNX3k,practice_0005_aslu_44089.mp4,skipped_no_ytdlp
+6,66320,aslsignbank,93,0,train,25,1,-1,165,26,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PR/PRACTICE-839.mp4,practice_0006_aslsignbank_66320.mp4,failed
+7,44090,aslpro,87,0,train,25,1,-1,9,3,224,240,http://www.aslpro.com/main/p/practice.swf,practice_0007_aslpro_44090.mp4,skipped_swf
+8,44091,aslsearch,12,0,train,25,1,-1,189,56,559,400,http://www.aslsearch.com/signs/videos/practice.mp4,practice_0008_aslsearch_44091.mp4,ok
+9,44081,signschool,4,0,test,25,1,-1,275,53,1711,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Practice-R0c75LRKKQ8.mp4,practice_0009_signschool_44081.mp4,ok
+10,44082,asldeafined,13,0,val,25,1,-1,109,3,556,480,https://media.asldeafined.com/vocabulary/1468755145.5671.mp4,practice_0010_asldeafined_44082.mp4,ok
+11,44083,asldeafined,15,0,test,25,1,-1,147,33,526,480,https://media.asldeafined.com/vocabulary/1522769215.9095.mp4,practice_0011_asldeafined_44083.mp4,ok
+12,44084,handspeak,14,0,train,25,1,-1,130,6,495,360,https://www.handspeak.com/word/p/practice.mp4,practice_0012_handspeak_44084.mp4,failed
+13,44085,signingsavvy,10,0,train,25,1,-1,59,24,215,192,https://www.signingsavvy.com/signs/mp4/23/23172.mp4,practice_0013_signingsavvy_44085.mp4,ok
+14,44086,signingsavvy,10,0,train,25,1,-1,59,24,216,192,https://www.signingsavvy.com/signs/mp4/23/23173.mp4,practice_0014_signingsavvy_44086.mp4,ok
