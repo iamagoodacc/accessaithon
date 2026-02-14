@@ -2,13 +2,21 @@ import asyncio
 import json
 import numpy as np
 import torch
-from model import RecognitionModel
+from core.model import RecognitionModel
 from collections import deque
 import time
 import os
 import sys
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor
+
+try:
+    import websockets
+    from websockets.asyncio.server import serve
+except ImportError:
+    print("ERROR: websockets package not installed!")
+    print("Run: pip install websockets")
+    sys.exit(1)
 
 # Load environment variables
 load_dotenv()
@@ -64,10 +72,10 @@ print(f"Configuration: SEQUENCE_LENGTH={SEQUENCE_LENGTH}, PREDICTION_STRIDE={PRE
 
 class GestureRecognitionSession:
     """Handles gesture recognition state for a single client connection"""
-    
-    def __init__(self, session_id, writer):
+
+    def __init__(self, session_id, websocket):
         self.session_id = session_id
-        self.writer = writer
+        self.websocket = websocket
         self.frame_queue = deque(maxlen=SEQUENCE_LENGTH + PREDICTION_STRIDE)
         self.text_sequence = []
         self.last_prediction = None
@@ -75,13 +83,12 @@ class GestureRecognitionSession:
         self.frame_count = 0
         self.frames_since_last_prediction = 0
         self.lock = asyncio.Lock()
-    
+
     def predict_sync(self, sequence):
         """Synchronous prediction (runs in thread pool)"""
         if len(sequence) < SEQUENCE_LENGTH:
             return None, 0.0
 
-        # Take first SEQUENCE_LENGTH frames for prediction
         seq = list(sequence)[:SEQUENCE_LENGTH]
 
         x = torch.tensor(np.array(seq), dtype=torch.float32)
@@ -96,107 +103,81 @@ class GestureRecognitionSession:
             return None, conf.item()
 
         return SIGNS[predicted.item()], conf.item()
-    
+
     async def predict(self, sequence):
         """Async wrapper for prediction"""
         loop = asyncio.get_event_loop()
         return await loop.run_in_executor(executor, self.predict_sync, sequence)
-    
+
+    async def send(self, message):
+        """Send a JSON message to the client"""
+        try:
+            await self.websocket.send(json.dumps(message))
+        except Exception as e:
+            print(f"[Session {self.session_id}] Error sending: {e}")
+
     async def send_prediction(self, prediction, confidence, frame_count):
         """Send prediction result to client"""
-        try:
-            message = {
-                'type': 'prediction',
-                'prediction': prediction,
-                'confidence': confidence,
-                'frame_count': frame_count,
-                'text_sequence': self.text_sequence.copy(),
-                'queue_size': len(self.frame_queue)
-            }
-            await send_message(self.writer, message)
-        except Exception as e:
-            print(f"[Session {self.session_id}] Error sending prediction: {e}")
-    
+        await self.send({
+            'type': 'prediction',
+            'prediction': prediction,
+            'confidence': confidence,
+            'frame_count': frame_count,
+            'text_sequence': self.text_sequence.copy(),
+            'queue_size': len(self.frame_queue)
+        })
+
     async def send_status(self, status_type, message_text):
         """Send status message to client"""
-        try:
-            message = {
-                'type': 'status',
-                'status': status_type,
-                'message': message_text,
-                'frame_count': self.frame_count,
-                'queue_size': len(self.frame_queue)
-            }
-            await send_message(self.writer, message)
-        except Exception as e:
-            print(f"[Session {self.session_id}] Error sending status: {e}")
-    
+        await self.send({
+            'type': 'status',
+            'status': status_type,
+            'message': message_text,
+            'frame_count': self.frame_count,
+            'queue_size': len(self.frame_queue)
+        })
+
     async def add_frame(self, frame_data):
         """Add a frame to the queue and check if prediction should be triggered"""
         async with self.lock:
             self.frame_queue.append(frame_data)
             self.frame_count += 1
             self.frames_since_last_prediction += 1
-            
+
             queue_size = len(self.frame_queue)
             should_predict = False
-            
-            # Check if we should trigger a prediction
+
             if queue_size >= SEQUENCE_LENGTH + PREDICTION_STRIDE:
                 if self.frames_since_last_prediction >= PREDICTION_STRIDE:
                     should_predict = True
-                    # Copy queue for prediction
                     queue_copy = list(self.frame_queue)
-        
-        # Run prediction outside the lock if needed
+
         if should_predict:
-            # Run prediction on the first SEQUENCE_LENGTH frames
             prediction, confidence = await self.predict(queue_copy)
-            
-            # Update state
+
             async with self.lock:
                 if prediction is not None:
                     current_time = time.time()
                     time_since_last = current_time - self.last_prediction_time
 
-                    # Debouncing: only add if different gesture or enough time has passed
                     if (self.last_prediction != prediction or time_since_last > DEBOUNCE_TIME):
                         self.text_sequence.append(prediction)
                         self.last_prediction = prediction
                         self.last_prediction_time = current_time
 
-                        # Limit text length
                         if len(self.text_sequence) > MAX_TEXT_LENGTH:
                             self.text_sequence.pop(0)
 
-                        print(f"[Session {self.session_id}] ✓ Detected: {prediction} ({confidence:.1%}) at frame {self.frame_count}")
-            
-            # Send prediction to client
+                        print(f"[Session {self.session_id}] Detected: {prediction} ({confidence:.1%}) at frame {self.frame_count}")
+
             await self.send_prediction(prediction, confidence, self.frame_count)
-            
-            # Remove oldest PREDICTION_STRIDE frames to slide the window
+
             async with self.lock:
                 for _ in range(PREDICTION_STRIDE):
                     if len(self.frame_queue) > 0:
                         self.frame_queue.popleft()
-                
-                # Reset the counter
                 self.frames_since_last_prediction = 0
-        
-        async with self.lock:
-            return {
-                'frame_added': self.frame_count,
-                'queue_size': len(self.frame_queue)
-            }
-    
-    async def start(self):
-        """Initialize session"""
-        await self.send_status('connected', 'Session started, ready to receive frames')
-    
-    async def stop(self):
-        """Cleanup session"""
-        pass  # No worker to stop
-    
+
     async def reset_buffer(self):
         """Reset the frame buffer"""
         async with self.lock:
@@ -204,14 +185,14 @@ class GestureRecognitionSession:
             self.frame_count = 0
             self.frames_since_last_prediction = 0
         await self.send_status('reset', 'Buffer reset')
-    
+
     async def clear_text(self):
         """Clear accumulated text"""
         async with self.lock:
             self.text_sequence = []
             self.last_prediction = None
         await self.send_status('cleared', 'Text sequence cleared')
-    
+
     async def get_status(self):
         """Get current status"""
         async with self.lock:
@@ -225,32 +206,28 @@ class GestureRecognitionSession:
 
 class ConnectionPool:
     """Manages active connections with limits"""
-    
+
     def __init__(self, max_connections):
         self.max_connections = max_connections
         self.active_connections = 0
         self.session_counter = 0
         self.lock = asyncio.Lock()
-    
+
     async def can_accept(self):
-        """Check if we can accept a new connection"""
         async with self.lock:
             return self.active_connections < self.max_connections
-    
+
     async def add_connection(self):
-        """Add a new connection"""
         async with self.lock:
             self.active_connections += 1
             self.session_counter += 1
             return self.session_counter
-    
+
     async def remove_connection(self):
-        """Remove a connection"""
         async with self.lock:
             self.active_connections = max(0, self.active_connections - 1)
-    
+
     async def get_stats(self):
-        """Get connection statistics"""
         async with self.lock:
             return {
                 "active": self.active_connections,
@@ -263,167 +240,93 @@ class ConnectionPool:
 connection_pool = ConnectionPool(MAX_CONNECTIONS)
 
 
-async def receive_message(reader):
-    """Receive a length-prefixed JSON message"""
-    # Receive length (4 bytes)
-    length_bytes = await reader.readexactly(4)
-    if not length_bytes:
-        return None
-    
-    msg_length = int.from_bytes(length_bytes, byteorder='big')
-    
-    # Receive message
-    data = await reader.readexactly(msg_length)
-    return json.loads(data.decode('utf-8'))
+async def handle_client(websocket):
+    """Handle a single WebSocket client connection"""
+    addr = websocket.remote_address
 
-
-async def send_message(writer, message_dict):
-    """Send a length-prefixed JSON message"""
-    message_json = json.dumps(message_dict)
-    message_bytes = message_json.encode('utf-8')
-    message_length = len(message_bytes).to_bytes(4, byteorder='big')
-    
-    writer.write(message_length + message_bytes)
-    await writer.drain()
-
-
-async def handle_client(reader, writer):
-    """Handle a single client connection asynchronously"""
-    addr = writer.get_extra_info('peername')
-    
-    # Check if we can accept this connection
     if not await connection_pool.can_accept():
         print(f"[REJECTED] {addr} - Server at capacity")
-        await send_message(writer, {
+        await websocket.send(json.dumps({
             'type': 'error',
             'message': 'Server at maximum capacity'
-        })
-        writer.close()
-        await writer.wait_closed()
+        }))
         return
-    
+
     session_id = await connection_pool.add_connection()
     print(f"[NEW CONNECTION] Session {session_id} from {addr}")
-    
-    session = GestureRecognitionSession(session_id, writer)
-    await session.start()  # Start the prediction worker
-    
+
+    session = GestureRecognitionSession(session_id, websocket)
+    await session.send_status('connected', 'Session started, ready to receive frames')
+
     try:
-        while True:
+        async for raw_message in websocket:
             try:
-                # Receive message with timeout
-                message = await asyncio.wait_for(receive_message(reader), timeout=300.0)
-                
-                if message is None:
-                    break
-                
+                message = json.loads(raw_message)
                 command = message.get('command', 'frame')
-                
+
                 if command == 'frame':
-                    # Add frame data to queue
                     frame_data = np.array(message['data'])
-                    result = await session.add_frame(frame_data)
-                    
-                    # Send acknowledgment (optional, can be removed for performance)
-                    await send_message(writer, {
-                        'type': 'ack',
-                        'frame_added': result['frame_added'],
-                        'queue_size': result['queue_size']
-                    })
-                    
+                    await session.add_frame(frame_data)
+
                 elif command == 'reset':
-                    # Reset buffer
                     await session.reset_buffer()
-                    
+
                 elif command == 'clear':
-                    # Clear text sequence
                     await session.clear_text()
-                    
+
                 elif command == 'status':
-                    # Get current status
                     status = await session.get_status()
-                    await send_message(writer, {
+                    await session.send({
                         'type': 'status',
                         **status
                     })
-                    
+
                 elif command == 'server_stats':
-                    # Get server statistics
                     stats = await connection_pool.get_stats()
-                    await send_message(writer, {
+                    await session.send({
                         'type': 'stats',
                         'stats': stats
                     })
-                    
+
                 else:
-                    await send_message(writer, {
+                    await session.send({
                         'type': 'error',
                         'message': f'Unknown command: {command}'
                     })
-                    
-            except asyncio.TimeoutError:
-                print(f"[TIMEOUT] Session {session_id} - No activity for 5 minutes")
-                await send_message(writer, {
-                    'type': 'error',
-                    'message': 'Connection timeout'
-                })
-                break
-                
+
             except json.JSONDecodeError as e:
-                await send_message(writer, {
+                await session.send({
                     'type': 'error',
                     'message': f'Invalid JSON: {str(e)}'
                 })
-                
             except Exception as e:
                 print(f"[ERROR] Session {session_id}: {e}")
-                await send_message(writer, {
+                await session.send({
                     'type': 'error',
                     'message': str(e)
                 })
-    
-    except asyncio.IncompleteReadError:
-        print(f"[DISCONNECTED] Session {session_id} - Connection closed by client")
+
+    except websockets.ConnectionClosed:
+        print(f"[DISCONNECTED] Session {session_id} - Connection closed")
     except Exception as e:
         print(f"[ERROR] Session {session_id}: {e}")
-    
     finally:
-        await session.stop()  # Stop the prediction worker
         await connection_pool.remove_connection()
-        writer.close()
-        await writer.wait_closed()
         print(f"[DISCONNECTED] Session {session_id} from {addr}")
 
 
 async def start_server():
-    """Start the async TCP server"""
-    server = await asyncio.start_server(
-        handle_client, 
-        HOST, 
-        PORT
-    )
-    
-    addr = server.sockets[0].getsockname()
-    print(f"[STARTING] Gesture Recognition API Server (Async Push Model)")
-    print(f"[LISTENING] on {addr[0]}:{addr[1]}")
+    """Start the WebSocket server"""
+    print(f"[STARTING] Gesture Recognition API Server (WebSocket)")
+    print(f"[LISTENING] on ws://{HOST}:{PORT}")
     print(f"[MODEL] Loaded with {len(SIGNS)} signs: {SIGNS}")
     print(f"[POOL] Max connections: {MAX_CONNECTIONS}")
     print(f"[WORKERS] Thread pool size: {WORKER_THREADS}")
     print(f"[CONFIG] Sequence length: {SEQUENCE_LENGTH}, Prediction stride: {PREDICTION_STRIDE}")
     print(f"[READY] Waiting for connections...")
-    print("\nProtocol:")
-    print("  - Client posts frames continuously")
-    print("  - Server pushes predictions when ready (every 15 frames after 30 frames)")
-    print("  - Commands: 'frame', 'reset', 'clear', 'status', 'server_stats'")
-    print("  - Frame format: {'command': 'frame', 'data': [list of floats]}")
-    print("\nMessage Types from Server:")
-    print("  - 'prediction': Gesture detected")
-    print("  - 'status': Status updates")
-    print("  - 'ack': Frame acknowledgment")
-    print("  - 'error': Error messages")
     print("\nPress Ctrl+C to stop the server\n")
-    
-    async with server:
+
+    async with serve(handle_client, HOST, PORT) as server:
         await server.serve_forever()
 
 
