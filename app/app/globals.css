@@ -1,8 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0f0f13;
+  --foreground: #ededed;
+  --accent: #6c5ce7;
+  --accent-light: #a29bfe;
+  --surface: #1a1a24;
+  --surface-light: #24243a;
+  --border: #2d2d44;
+  --text-muted: #8888aa;
 }
 
 @theme inline {
@@ -12,15 +18,242 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+/* App layout */
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.app-header {
+  text-align: center;
+}
+
+.app-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+  background: linear-gradient(135deg, var(--accent-light), var(--accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.app-header .subtitle {
+  color: var(--text-muted);
+  margin: 0.25rem 0 0;
+  font-size: 0.95rem;
+}
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Camera */
+.camera-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.camera-container {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.camera-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+}
+
+.camera-wrapper video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.camera-wrapper canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.camera-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.camera-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+/* Connection status */
+.connection-status {
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.connection-status.connected {
+  color: #00c853;
+}
+
+.connection-status.disconnected {
+  color: #ff5252;
+}
+
+/* Prediction banner */
+.prediction-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+}
+
+.prediction-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.prediction-value {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent-light);
+}
+
+.prediction-confidence {
+  margin-left: auto;
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* Translation box */
+.translation-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.translation-section label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.translation-box {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  resize: vertical;
+  outline: none;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.translation-box:focus {
+  border-color: var(--accent);
+}
+
+.translation-box::placeholder {
+  color: var(--text-muted);
+  opacity: 0.6;
+}
+
+.translation-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.hint {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Buttons */
+.btn {
+  padding: 0.55rem 1.25rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: inherit;
+}
+
+.btn-active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.btn-active:hover {
+  background: var(--accent-light);
+  border-color: var(--accent-light);
+}
+
+.btn-inactive {
+  background: var(--surface);
+  color: var(--foreground);
+}
+
+.btn-inactive:hover {
+  background: var(--surface-light);
+}
+
+.btn-secondary {
+  background: var(--surface);
+  color: var(--foreground);
+}
+
+.btn-secondary:hover {
+  background: var(--surface-light);
 }
