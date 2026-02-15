@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45927,asl5200,9,0,test,25,180,232,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,rage_0000_asl5200_45927.mp4,failed
+1,45928,spreadthesign,2,0,val,25,1,-1,12,0,314,240,https://media.spreadthesign.com/video/mp4/13/116464.mp4,rage_0001_spreadthesign_45928.mp4,ok
+2,45929,asldeafined,13,0,train,25,1,-1,109,0,591,480,https://media.asldeafined.com/vocabulary/1468758039.9086.mp4,rage_0002_asldeafined_45929.mp4,ok
+3,45930,handspeak,14,0,train,25,1,-1,50,9,287,240,https://www.handspeak.com/word/r/rage-anger.mp4,rage_0003_handspeak_45930.mp4,failed
+5,45932,signingsavvy,11,0,train,25,1,-1,71,11,237,192,https://www.signingsavvy.com/signs/mp4/7/7166.mp4,rage_0005_signingsavvy_45932.mp4,ok
+8,45935,aslpro,25,0,train,25,1,-1,0,6,255,240,http://www.aslpro.com/main/r/rage.swf,rage_0008_aslpro_45935.mp4,skipped_swf
+9,45936,aslsearch,12,0,train,25,1,-1,172,47,571,400,http://www.aslsearch.com/signs/videos/anger.mp4,rage_0009_aslsearch_45936.mp4,ok

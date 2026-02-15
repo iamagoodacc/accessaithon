@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59348,asl5200,9,0,val,25,4819,4895,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tranquil_0000_asl5200_59348.mp4,failed
+1,59349,spreadthesign,26,0,test,25,1,-1,67,15,264,240,https://media.spreadthesign.com/video/mp4/13/307903.mp4,tranquil_0001_spreadthesign_59349.mp4,ok
+2,59350,asldeafined,59,0,train,25,1,-1,64,17,586,480,https://media.asldeafined.com/vocabulary/1466726142.3586.mp4,tranquil_0002_asldeafined_59350.mp4,ok
+3,59351,handspeak,14,0,train,25,1,-1,47,7,262,240,https://www.handspeak.com/word/t/tranquil.mp4,tranquil_0003_handspeak_59351.mp4,failed
+4,59352,signingsavvy,10,0,train,25,1,-1,81,22,230,192,https://www.signingsavvy.com/signs/mp4/23/23512.mp4,tranquil_0004_signingsavvy_59352.mp4,ok
+5,59353,signingsavvy,11,0,val,25,1,-1,42,11,252,192,https://www.signingsavvy.com/signs/mp4/5/5611.mp4,tranquil_0005_signingsavvy_59353.mp4,ok
+6,59354,signingsavvy,11,0,train,25,1,-1,57,13,230,192,https://www.signingsavvy.com/signs/mp4/6/6699.mp4,tranquil_0006_signingsavvy_59354.mp4,ok
+7,59355,aslpro,25,0,train,25,1,-1,0,8,233,240,http://www.aslpro.com/main/t/tranquil.swf,tranquil_0007_aslpro_59355.mp4,skipped_swf

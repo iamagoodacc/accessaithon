@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47802,asl5200,9,0,test,25,2988,3030,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,retreat_0000_asl5200_47802.mp4,failed
+1,47803,spreadthesign,2,0,val,25,1,-1,18,14,277,240,https://media.spreadthesign.com/video/mp4/13/244835.mp4,retreat_0001_spreadthesign_47803.mp4,ok
+2,47804,signschool,4,0,train,25,1,-1,686,45,1663,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Escape%202-kMcamniHFlw.mp4,retreat_0002_signschool_47804.mp4,ok
+4,47806,asldeafined,21,0,train,25,1,-1,80,6,615,480,https://media.asldeafined.com/vocabulary/1468377010.5698.mp4,retreat_0004_asldeafined_47806.mp4,ok
+6,47808,handspeak,14,0,train,25,1,-1,29,13,282,240,https://www.handspeak.com/word/r/retreat.mp4,retreat_0006_handspeak_47808.mp4,failed
+7,47809,signingsavvy,11,0,train,25,1,-1,74,13,210,192,https://www.signingsavvy.com/signs/mp4/8/8697.mp4,retreat_0007_signingsavvy_47809.mp4,ok
+8,47810,aslpro,87,0,train,25,1,-1,0,18,230,240,http://www.aslpro.com/main/r/retreat.swf,retreat_0008_aslpro_47810.mp4,skipped_swf

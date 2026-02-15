@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16634,asl5200,9,0,val,25,3372,3438,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,disgust_0000_asl5200_16634.mp4,failed
+1,16640,spreadthesign,75,0,test,25,1,-1,49,16,240,240,https://media.spreadthesign.com/video/mp4/13/96238.mp4,disgust_0001_spreadthesign_16640.mp4,ok
+2,16641,signschool,4,0,train,25,1,-1,795,70,1612,1061,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Grossed%20Out-E9NRP1nCaKA.mp4,disgust_0002_signschool_16641.mp4,ok
+3,16642,signschool,6,0,train,25,1,-1,738,46,1542,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Repulsed-oPk51j1g3NI.mp4,disgust_0003_signschool_16642.mp4,ok
+4,16643,asldeafined,21,0,train,25,1,-1,54,12,514,480,https://media.asldeafined.com/vocabulary/1467771007.624.mp4,disgust_0004_asldeafined_16643.mp4,ok
+5,16644,signingsavvy,10,0,val,25,1,-1,60,20,208,192,https://www.signingsavvy.com/signs/mp4/22/22407.mp4,disgust_0005_signingsavvy_16644.mp4,ok
+6,16645,aslpro,30,0,train,25,1,-1,1,15,220,240,http://www.aslpro.com/main/d/disgust.swf,disgust_0006_aslpro_16645.mp4,skipped_swf
+7,16646,aslsearch,12,0,train,25,1,-1,184,64,560,400,http://www.aslsearch.com/signs/videos/disgust.mp4,disgust_0007_aslsearch_16646.mp4,ok

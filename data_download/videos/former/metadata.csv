@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23029,asl5200,9,0,test,25,2656,2722,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,former_0000_asl5200_23029.mp4,failed
+1,23038,aslsearch,12,0,val,25,1,-1,161,50,527,400,http://www.aslsearch.com/signs/videos/former.mp4,former_0001_aslsearch_23038.mp4,ok
+2,65764,aslsignbank,106,0,train,25,1,-1,141,28,499,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FO/FORMER-1496.mp4,former_0002_aslsignbank_65764.mp4,failed
+3,23030,spreadthesign,33,0,train,25,1,-1,50,12,263,240,https://media.spreadthesign.com/video/mp4/13/96391.mp4,former_0003_spreadthesign_23030.mp4,ok
+4,23031,asldeafined,21,0,train,25,1,-1,62,11,551,480,https://media.asldeafined.com/vocabulary/1468513642.1469.mp4,former_0004_asldeafined_23031.mp4,ok
+7,23034,handspeak,20,0,train,25,1,-1,166,0,526,360,https://www.handspeak.com/word/f/former-past.mp4,former_0007_handspeak_23034.mp4,failed
+8,23035,signingsavvy,11,0,train,25,1,-1,38,6,228,192,https://www.signingsavvy.com/signs/mp4/1/1588.mp4,former_0008_signingsavvy_23035.mp4,ok

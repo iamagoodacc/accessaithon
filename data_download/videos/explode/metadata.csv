@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20455,asl5200,9,0,test,25,3510,3549,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,explode_0000_asl5200_20455.mp4,failed
+1,65662,aslsignbank,90,0,val,25,1,-1,165,14,501,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EX/EXPLODE-736.mp4,explode_0001_aslsignbank_65662.mp4,failed
+2,20456,spreadthesign,0,0,train,25,1,-1,32,9,275,240,https://media.spreadthesign.com/video/mp4/13/69337.mp4,explode_0002_spreadthesign_20456.mp4,ok
+3,20457,asldeafined,59,0,train,25,1,-1,51,19,602,480,https://media.asldeafined.com/vocabulary/1466683549.5527.mp4,explode_0003_asldeafined_20457.mp4,ok
+4,20458,handspeak,14,0,train,25,1,-1,50,9,269,240,https://www.handspeak.com/word/e/explode.mp4,explode_0004_handspeak_20458.mp4,failed
+5,20459,signingsavvy,11,0,train,25,1,-1,25,0,262,192,https://www.signingsavvy.com/signs/mp4/9/9940.mp4,explode_0005_signingsavvy_20459.mp4,ok
+6,20460,aslpro,25,0,train,25,1,-1,0,7,259,240,http://www.aslpro.com/main/e/explode.swf,explode_0006_aslpro_20460.mp4,skipped_swf

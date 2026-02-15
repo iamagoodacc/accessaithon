@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65037,aslsignbank,89,0,test,25,1,-1,200,39,513,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AG/AGREEMENT-2056.mp4,agreement_0000_aslsignbank_65037.mp4,failed
+1,01583,spreadthesign,26,0,val,25,1,-1,35,0,280,240,https://media.spreadthesign.com/video/mp4/13/118369.mp4,agreement_0001_spreadthesign_01583.mp4,ok
+2,67353,asllex,109,0,train,25,1,-1,93,17,394,360,https://youtu.be/ng3kpuTdX6g,agreement_0002_asllex_67353.mp4,failed
+3,01584,signschool,4,0,train,25,1,-1,556,80,1542,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Agree%2C%20Agreement-twWwDKv5vq4.mp4,agreement_0003_signschool_01584.mp4,ok
+4,01585,asldeafined,13,0,train,25,1,-1,133,0,582,480,https://media.asldeafined.com/vocabulary/1468946987.8516.mp4,agreement_0004_asldeafined_01585.mp4,ok
+5,01586,signingsavvy,11,0,train,25,1,-1,58,19,218,192,https://www.signingsavvy.com/signs/mp4/8/8508.mp4,agreement_0005_signingsavvy_01586.mp4,ok
+6,01587,aslsearch,12,0,train,25,1,-1,163,49,564,400,http://www.aslsearch.com/signs/videos/agree.mp4,agreement_0006_aslsearch_01587.mp4,ok

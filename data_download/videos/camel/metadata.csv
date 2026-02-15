@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,08772,spreadthesign,2,0,test,25,1,-1,23,0,242,240,https://media.spreadthesign.com/video/mp4/13/125720.mp4,camel_0000_spreadthesign_08772.mp4,ok
+1,08773,signschool,45,0,val,25,1,-1,312,100,1437,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hills%2C%20Camel-Ex-mYL_ZGfU.mp4,camel_0001_signschool_08773.mp4,ok
+2,08774,asldeafined,59,0,train,25,1,-1,95,21,534,480,https://media.asldeafined.com/vocabulary/1466726193.7293.mp4,camel_0002_asldeafined_08774.mp4,ok
+4,08776,handspeak,14,0,train,25,1,-1,39,0,312,240,https://www.handspeak.com/word/c/camel.mp4,camel_0004_handspeak_08776.mp4,failed
+6,08778,nabboud,67,0,train,25,1,-1,289,47,907,720,https://www.youtube.com/watch?v=eAqZAjgHXVY,camel_0006_nabboud_08778.mp4,failed
+7,08779,aslpro,24,0,train,25,1,-1,0,18,231,240,http://www.aslpro.com/main/c/camel.swf,camel_0007_aslpro_08779.mp4,skipped_swf
+8,08780,aslsearch,12,0,train,25,1,-1,162,54,531,400,http://www.aslsearch.com/signs/videos/camel.mp4,camel_0008_aslsearch_08780.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,49884,asl5200,9,0,test,25,1451,1557,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sculpture_0000_asl5200_49884.mp4,failed
+1,49885,spreadthesign,2,0,val,25,1,-1,69,12,281,240,https://media.spreadthesign.com/video/mp4/13/158137.mp4,sculpture_0001_spreadthesign_49885.mp4,ok
+2,49886,spreadthesign,0,0,train,25,1,-1,44,3,264,240,https://media.spreadthesign.com/video/mp4/13/65765.mp4,sculpture_0002_spreadthesign_49886.mp4,ok
+3,49887,signschool,32,0,train,25,1,-1,631,87,1519,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sculpture-ln4MmfZvCDE.mp4,sculpture_0003_signschool_49887.mp4,ok
+4,49888,asldeafined,21,0,train,25,1,-1,137,38,548,480,https://media.asldeafined.com/vocabulary/1520783974.7934.mp4,sculpture_0004_asldeafined_49888.mp4,ok
+5,49889,signingsavvy,11,0,train,25,1,-1,63,5,229,192,https://www.signingsavvy.com/signs/mp4/6/6058.mp4,sculpture_0005_signingsavvy_49889.mp4,ok
+6,49890,aslsearch,12,0,train,25,1,-1,200,46,568,400,http://www.aslsearch.com/signs/videos/sculpture.mp4,sculpture_0006_aslsearch_49890.mp4,ok

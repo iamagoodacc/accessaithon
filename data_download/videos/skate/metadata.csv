@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52053,asl5200,9,0,val,25,4688,4750,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,skate_0000_asl5200_52053.mp4,failed
+1,69476,aslbrick,115,0,test,25,1,-1,192,37,1014,720,http://aslbricks.org/New/ASL-Videos/skate.mp4,skate_0001_aslbrick_69476.mp4,ok
+3,67208,asllex,109,0,train,25,1,-1,99,27,397,360,https://youtu.be/OMTuFqjyfDg,skate_0003_asllex_67208.mp4,failed
+4,52072,signingsavvy,10,0,train,25,1,-1,95,20,210,192,https://www.signingsavvy.com/signs/mp4/22/22147.mp4,skate_0004_signingsavvy_52072.mp4,ok
+5,52073,signingsavvy,10,0,train,25,1,-1,87,21,227,192,https://www.signingsavvy.com/signs/mp4/23/23059.mp4,skate_0005_signingsavvy_52073.mp4,ok
+6,52074,nabboud,51,0,val,25,1,-1,276,66,963,720,https://www.youtube.com/watch?v=3l7x9IrdoJ8,skate_0006_nabboud_52074.mp4,failed
+7,52075,aslpro,24,0,train,25,1,-1,11,12,246,240,http://www.aslpro.com/main/s/skate.swf,skate_0007_aslpro_52075.mp4,skipped_swf
+8,52076,aslsearch,12,0,train,25,1,-1,208,51,565,400,http://www.aslsearch.com/signs/videos/skate.mp4,skate_0008_aslsearch_52076.mp4,ok

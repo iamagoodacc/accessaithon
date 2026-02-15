@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,60701,asl5200,9,0,test,25,300,366,0,0,360,240,https://www.youtube.com/watch?v=aCRQIlk5kh0,unique_0000_asl5200_60701.mp4,failed
+1,60702,elementalasl,19,0,val,25,1,-1,90,9,239,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/unique.mov,unique_0001_elementalasl_60702.mp4,ok
+2,60703,spreadthesign,33,0,train,25,1,-1,44,17,248,240,https://media.spreadthesign.com/video/mp4/13/96975.mp4,unique_0002_spreadthesign_60703.mp4,ok
+3,60704,signschool,4,0,train,25,1,-1,649,7,1758,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Unique-NZP0texXNFo.mp4,unique_0003_signschool_60704.mp4,ok
+4,60705,asldeafined,13,0,train,25,1,-1,112,0,518,480,https://media.asldeafined.com/vocabulary/1468925140.9181.mp4,unique_0004_asldeafined_60705.mp4,ok
+7,60708,signingsavvy,11,0,train,25,1,-1,72,14,211,192,https://www.signingsavvy.com/signs/mp4/9/9108.mp4,unique_0007_signingsavvy_60708.mp4,ok
+8,60709,aslsearch,12,0,train,25,1,-1,164,48,525,400,http://www.aslsearch.com/signs/videos/unique.mp4,unique_0008_aslsearch_60709.mp4,ok

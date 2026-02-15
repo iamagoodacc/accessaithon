@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31441,asl5200,9,0,val,25,24,76,0,0,360,240,https://www.youtube.com/watch?v=D2Vg3lKjX78,kangaroo_0000_asl5200_31441.mp4,failed
+1,65986,aslsignbank,96,0,test,25,1,-1,192,36,513,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KA/KANGAROO-1701.mp4,kangaroo_0001_aslsignbank_65986.mp4,failed
+2,67811,asllex,109,0,train,25,1,-1,106,18,376,360,https://youtu.be/VWn-ms10pfM,kangaroo_0002_asllex_67811.mp4,failed
+3,31442,spreadthesign,37,0,train,25,1,-1,65,0,236,240,https://media.spreadthesign.com/video/mp4/13/457452.mp4,kangaroo_0003_spreadthesign_31442.mp4,ok
+5,31444,handspeak,20,0,train,25,1,-1,93,0,545,480,https://www.handspeak.com/word/k/kangaroo.mp4,kangaroo_0005_handspeak_31444.mp4,failed
+6,31445,signingsavvy,11,0,val,25,1,-1,71,14,219,192,https://www.signingsavvy.com/signs/mp4/7/7444.mp4,kangaroo_0006_signingsavvy_31445.mp4,ok
+7,31446,nabboud,67,0,train,25,1,-1,304,64,903,716,https://www.youtube.com/watch?v=PSM2FDcMJQQ,kangaroo_0007_nabboud_31446.mp4,failed
+8,31447,aslpro,25,0,train,25,1,-1,10,0,257,240,http://www.aslpro.com/main/k/kangaroo.swf,kangaroo_0008_aslpro_31447.mp4,skipped_swf

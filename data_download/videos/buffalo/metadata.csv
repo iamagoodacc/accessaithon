@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,08087,spreadthesign,1,0,test,25,1,-1,24,0,267,240,https://media.spreadthesign.com/video/mp4/13/400971.mp4,buffalo_0001_spreadthesign_08087.mp4,ok
+2,08088,signschool,4,0,val,25,1,-1,667,81,1622,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Buffalo-9uEJW5CxQ2Y.mp4,buffalo_0002_signschool_08088.mp4,ok
+3,08089,asldeafined,22,0,train,25,1,-1,82,3,561,480,https://media.asldeafined.com/vocabulary/1476145533.9307.mp4,buffalo_0003_asldeafined_08089.mp4,ok
+5,08091,handspeak,20,0,train,25,1,-1,48,7,276,240,https://www.handspeak.com/word/b/buffalo.mp4,buffalo_0005_handspeak_08091.mp4,failed
+7,08093,signingsavvy,11,0,train,25,1,-1,69,10,222,192,https://www.signingsavvy.com/signs/mp4/7/7323.mp4,buffalo_0007_signingsavvy_08093.mp4,ok
+8,08094,aslpro,25,0,train,25,1,-1,4,11,246,240,http://www.aslpro.com/main/b/buffalo.swf,buffalo_0008_aslpro_08094.mp4,skipped_swf
+9,08095,aslsearch,12,0,train,25,1,-1,172,53,540,400,http://www.aslsearch.com/signs/videos/buffalo.mp4,buffalo_0009_aslsearch_08095.mp4,ok

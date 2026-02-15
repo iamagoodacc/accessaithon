@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,50809,asl5200,9,0,val,25,2888,2927,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,shame_0000_asl5200_50809.mp4,failed
+1,50813,spreadthesign,63,0,test,25,1,-1,48,0,245,240,https://media.spreadthesign.com/video/mp4/13/50789.mp4,shame_0001_spreadthesign_50813.mp4,ok
+3,50814,signschool,6,0,train,25,1,-1,763,63,1525,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Shame%202-SYLEbEOz_y4.mp4,shame_0003_signschool_50814.mp4,ok
+4,50815,asldeafined,13,0,train,25,1,-1,136,0,512,480,https://media.asldeafined.com/vocabulary/1468765686.5236.mp4,shame_0004_asldeafined_50815.mp4,ok
+5,50816,handspeak,14,0,train,25,1,-1,140,0,552,480,https://www.handspeak.com/word/s/shame.mp4,shame_0005_handspeak_50816.mp4,failed
+6,50817,signingsavvy,11,0,val,25,1,-1,73,8,213,192,https://www.signingsavvy.com/signs/mp4/5/5832.mp4,shame_0006_signingsavvy_50817.mp4,ok
+7,50818,aslpro,25,0,train,25,1,-1,0,9,230,240,http://www.aslpro.com/main/s/shame.swf,shame_0007_aslpro_50818.mp4,skipped_swf
+8,50819,aslsearch,41,0,train,25,1,-1,209,39,505,400,http://www.aslsearch.com/signs/videos/shame.mp4,shame_0008_aslsearch_50819.mp4,ok

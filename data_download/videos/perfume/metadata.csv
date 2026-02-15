@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42036,asl5200,9,0,val,25,1441,1510,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,perfume_0000_asl5200_42036.mp4,failed
+1,42039,signschool,4,0,test,25,1,-1,706,61,1548,1059,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Perfume-97-lRdaHDGM.mp4,perfume_0001_signschool_42039.mp4,ok
+2,42040,signschool,31,0,train,25,1,-1,770,144,1522,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Perfume-qiXoulBsg2U.mp4,perfume_0002_signschool_42040.mp4,ok
+3,42041,asldeafined,13,0,train,25,1,-1,149,0,509,480,https://media.asldeafined.com/vocabulary/1468725144.3127.mp4,perfume_0003_asldeafined_42041.mp4,ok
+5,42043,handspeak,14,0,train,25,1,-1,60,9,279,240,https://www.handspeak.com/word/p/perfume-spray.mp4,perfume_0005_handspeak_42043.mp4,failed
+6,42044,signingsavvy,11,0,val,25,1,-1,75,0,217,192,https://www.signingsavvy.com/signs/mp4/14/14912.mp4,perfume_0006_signingsavvy_42044.mp4,ok
+7,42045,signingsavvy,11,0,train,25,1,-1,75,2,217,192,https://www.signingsavvy.com/signs/mp4/14/14913.mp4,perfume_0007_signingsavvy_42045.mp4,ok
+9,67978,asllex,109,0,train,25,1,-1,111,0,397,360,https://youtu.be/FVwcRqB1Io8,perfume_0009_asllex_67978.mp4,failed

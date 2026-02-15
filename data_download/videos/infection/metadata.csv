@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29561,asl5200,9,0,val,25,887,949,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,infection_0000_asl5200_29561.mp4,failed
+1,65938,aslsignbank,96,0,test,25,1,-1,205,30,527,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INFECTION-1734.mp4,infection_0001_aslsignbank_65938.mp4,failed
+2,29562,spreadthesign,2,0,train,25,1,-1,74,43,234,240,https://media.spreadthesign.com/video/mp4/13/91792.mp4,infection_0002_spreadthesign_29562.mp4,ok
+3,29563,signschool,4,0,train,25,1,-1,466,57,1521,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Insurance%2C%20Infection%202-LI0x4ob24uU.mp4,infection_0003_signschool_29563.mp4,ok
+4,29564,signschool,4,0,train,25,1,-1,523,69,1537,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Insurance%2C%20Infection-MTAgnBXKKM0.mp4,infection_0004_signschool_29564.mp4,ok
+5,29565,asldeafined,21,0,val,25,1,-1,69,18,538,480,https://media.asldeafined.com/vocabulary/1468666719.58.mp4,infection_0005_asldeafined_29565.mp4,ok
+6,29566,signingsavvy,10,0,train,25,1,-1,78,15,208,192,https://www.signingsavvy.com/signs/mp4/24/24145.mp4,infection_0006_signingsavvy_29566.mp4,ok
+7,29567,aslu,5,0,train,25,1,-1,347,38,940,720,https://www.youtube.com/watch?v=f9CKzrX8wiA,infection_0007_aslu_29567.mp4,failed

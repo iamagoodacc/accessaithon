@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56770,asl5200,9,0,val,25,124,170,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,take up_0000_asl5200_56770.mp4,failed
+1,68816,lillybauer,113,0,test,25,1,112,98,19,549,358,https://www.youtube.com/watch?v=pygvsiDs8ew,take up_0001_lillybauer_68816.mp4,failed
+2,68164,valencia-asl,109,0,train,25,1,-1,116,0,1251,720,https://www.youtube.com/watch?v=X5yL1wBiFhU,take up_0002_valencia-asl_68164.mp4,failed
+3,56771,signschool,6,0,train,25,1,-1,667,57,1605,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Adopt%2C%20Host-RVhtwm64uyk.mp4,take up_0003_signschool_56771.mp4,ok
+4,56772,signschool,46,0,train,25,1,-1,175,0,1385,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Host-379faVY_wzA.mp4,take up_0004_signschool_56772.mp4,ok
+5,56773,asldeafined,13,0,val,25,1,-1,75,22,584,480,https://media.asldeafined.com/vocabulary/1466170437.4315.mp4,take up_0005_asldeafined_56773.mp4,ok
+6,56774,handspeak,20,0,train,25,1,-1,65,1,292,240,https://www.handspeak.com/word/t/take-up.mp4,take up_0006_handspeak_56774.mp4,failed
+7,56775,signingsavvy,11,0,train,25,1,-1,66,17,220,192,https://www.signingsavvy.com/signs/mp4/9/9094.mp4,take up_0007_signingsavvy_56775.mp4,ok

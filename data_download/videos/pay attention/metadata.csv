@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41579,asl5200,9,0,val,25,790,826,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pay attention_0000_asl5200_41579.mp4,failed
+1,41582,asldeafined,13,0,test,25,1,-1,96,27,565,480,https://media.asldeafined.com/vocabulary/1466646442.976.mp4,pay attention_0001_asldeafined_41582.mp4,ok
+2,68128,valencia-asl,109,0,train,25,1,-1,86,0,1280,720,https://www.youtube.com/watch?v=93HHJfctu8c,pay attention_0002_valencia-asl_68128.mp4,failed
+3,68872,lillybauer,112,0,train,25,1,66,94,9,571,360,https://www.youtube.com/watch?v=rzrvXM7BSsM,pay attention_0003_lillybauer_68872.mp4,failed
+4,41580,spreadthesign,37,0,train,25,1,-1,53,0,258,240,https://media.spreadthesign.com/video/mp4/13/457701.mp4,pay attention_0004_spreadthesign_41580.mp4,ok
+5,41583,handspeak,14,0,val,25,1,-1,53,18,259,240,https://www.handspeak.com/word/p/pay-attention.mp4,pay attention_0005_handspeak_41583.mp4,failed
+6,41584,signingsavvy,10,0,train,25,1,-1,80,22,226,192,https://www.signingsavvy.com/signs/mp4/23/23073.mp4,pay attention_0006_signingsavvy_41584.mp4,ok
+7,41585,aslsearch,12,0,train,25,1,-1,180,55,548,400,http://www.aslsearch.com/signs/videos/pay-attention.mp4,pay attention_0007_aslsearch_41585.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44213,asl5200,9,0,val,25,4514,4573,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,prefer_0000_asl5200_44213.mp4,failed
+1,68490,lillybauer,113,0,test,25,1,69,127,16,514,358,https://www.youtube.com/watch?v=gnTfs53J4SY,prefer_0001_lillybauer_68490.mp4,failed
+2,44221,asldeafined,13,0,train,25,1,-1,193,0,558,480,https://media.asldeafined.com/vocabulary/1468755208.8069.mp4,prefer_0002_asldeafined_44221.mp4,ok
+4,44222,handspeak,85,0,train,25,1,-1,68,0,302,240,https://www.handspeak.com/word/p/prefer.mp4,prefer_0004_handspeak_44222.mp4,failed
+6,44224,signingsavvy,11,0,train,25,1,-1,77,16,211,192,https://www.signingsavvy.com/signs/mp4/9/9023.mp4,prefer_0006_signingsavvy_44224.mp4,ok
+7,44225,aslu,5,0,val,25,1,-1,299,0,924,720,https://www.youtube.com/watch?v=zLzdb5vrdds,prefer_0007_aslu_44225.mp4,failed
+8,44226,aslpro,25,0,train,25,1,-1,0,3,232,240,http://www.aslpro.com/main/p/prefer.swf,prefer_0008_aslpro_44226.mp4,skipped_swf
+9,44227,aslsearch,12,0,train,25,1,-1,193,54,544,400,http://www.aslsearch.com/signs/videos/prefer.mp4,prefer_0009_aslsearch_44227.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+3,45672,aslpro,25,0,test,25,1,-1,0,7,237,240,http://www.aslpro.com/main/q/quarter.swf,quarter_0003_aslpro_45672.mp4,skipped_swf
+5,45663,spreadthesign,2,0,val,25,1,-1,39,13,248,240,https://media.spreadthesign.com/video/mp4/13/399777.mp4,quarter_0005_spreadthesign_45663.mp4,ok
+6,45673,aslsearch,12,0,train,25,1,-1,183,66,566,400,http://www.aslsearch.com/signs/videos/quarter.mp4,quarter_0006_aslsearch_45673.mp4,ok
+7,45664,signschool,31,0,train,25,1,-1,522,92,1084,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Quarter.mp4,quarter_0007_signschool_45664.mp4,ok
+8,45665,asldeafined,13,0,train,25,1,-1,147,0,534,480,https://media.asldeafined.com/vocabulary/1468757629.421.mp4,quarter_0008_asldeafined_45665.mp4,ok
+9,45666,handspeak,14,0,train,25,1,-1,25,10,265,240,https://www.handspeak.com/word/q/quarter-coin.mp4,quarter_0009_handspeak_45666.mp4,failed
+12,45669,signingsavvy,11,0,train,25,1,-1,53,8,219,192,https://www.signingsavvy.com/signs/mp4/14/14391.mp4,quarter_0012_signingsavvy_45669.mp4,ok

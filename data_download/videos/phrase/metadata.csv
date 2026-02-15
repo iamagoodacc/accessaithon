@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,42501,elementalasl,19,0,test,25,1,-1,80,7,228,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/phrase.mov,phrase_0001_elementalasl_42501.mp4,ok
+2,42502,spreadthesign,37,0,val,25,1,-1,64,0,248,240,https://media.spreadthesign.com/video/mp4/13/457757.mp4,phrase_0002_spreadthesign_42502.mp4,ok
+3,42503,signschool,39,0,train,25,1,-1,469,149,1565,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Phrase%2C%20Language-vDKs0r158ig.mp4,phrase_0003_signschool_42503.mp4,ok
+4,42504,signschool,39,0,train,25,1,-1,581,107,1643,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Phrase-WlEx34avkk0.mp4,phrase_0004_signschool_42504.mp4,ok
+5,42505,asldeafined,13,0,train,25,1,-1,60,0,559,480,https://media.asldeafined.com/vocabulary/1468765232.9077.mp4,phrase_0005_asldeafined_42505.mp4,ok
+7,42507,signingsavvy,11,0,train,25,1,-1,50,15,221,192,https://www.signingsavvy.com/signs/mp4/8/8614.mp4,phrase_0007_signingsavvy_42507.mp4,ok
+8,42508,aslpro,25,0,train,25,1,-1,2,10,252,240,http://www.aslpro.com/main/p/phrase.swf,phrase_0008_aslpro_42508.mp4,skipped_swf

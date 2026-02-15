@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,12217,signingsavvy,11,0,test,25,1,-1,71,9,219,192,https://www.signingsavvy.com/signs/mp4/6/6062.mp4,complete_0002_signingsavvy_12217.mp4,ok
+4,12219,aslpro,58,0,train,25,1,-1,19,8,227,240,http://www.aslpro.com//main/c/complete_1.swf,complete_0004_aslpro_12219.mp4,skipped_swf
+6,12221,aslsearch,41,0,train,25,1,-1,211,43,486,400,http://www.aslsearch.com/signs/videos/conclude.mp4,complete_0006_aslsearch_12221.mp4,ok
+7,12210,spreadthesign,2,0,train,25,1,-1,48,12,238,240,https://media.spreadthesign.com/video/mp4/13/93906.mp4,complete_0007_spreadthesign_12210.mp4,ok
+8,12211,signschool,4,0,val,25,1,-1,669,38,1665,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20End%2C%20Complete%2C%20Over%2C%20Finished-Y8kF63nbYEc.mp4,complete_0008_signschool_12211.mp4,ok
+9,12212,asldeafined,59,0,train,25,1,-1,79,25,575,480,https://media.asldeafined.com/vocabulary/1466901120.6929.mp4,complete_0009_asldeafined_12212.mp4,ok
+10,12213,handspeak,20,0,train,25,1,-1,59,6,553,480,https://www.handspeak.com/word/c/complete-done.mp4,complete_0010_handspeak_12213.mp4,failed

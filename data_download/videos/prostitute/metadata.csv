@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45050,asl5200,9,0,val,25,6257,6336,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,prostitute_0000_asl5200_45050.mp4,failed
+1,45051,spreadthesign,56,0,test,25,1,-1,59,0,262,240,https://media.spreadthesign.com/video/mp4/13/49217.mp4,prostitute_0001_spreadthesign_45051.mp4,ok
+2,45052,asldeafined,13,0,train,25,1,-1,194,0,555,480,https://media.asldeafined.com/vocabulary/1468756977.8085.mp4,prostitute_0002_asldeafined_45052.mp4,ok
+3,45053,handspeak,14,0,train,25,1,-1,37,0,551,480,https://www.handspeak.com/word/p/prostitute.mp4,prostitute_0003_handspeak_45053.mp4,failed
+4,45054,signingsavvy,10,0,train,25,1,-1,83,23,205,192,https://www.signingsavvy.com/signs/mp4/22/22381.mp4,prostitute_0004_signingsavvy_45054.mp4,ok
+5,45055,aslu,5,0,val,25,1,-1,321,64,875,720,https://www.youtube.com/watch?v=CTc5q0FhGJA,prostitute_0005_aslu_45055.mp4,failed
+6,45056,aslpro,24,0,train,25,1,-1,11,15,203,240,http://www.aslpro.com/main/p/prostitute.swf,prostitute_0006_aslpro_45056.mp4,skipped_swf
+7,45057,aslsearch,12,0,train,25,1,-1,178,61,542,400,http://www.aslsearch.com/signs/videos/whore.mp4,prostitute_0007_aslsearch_45057.mp4,ok

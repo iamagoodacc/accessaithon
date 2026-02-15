@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,18090,asl5200,9,0,test,25,4984,5036,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dye_0000_asl5200_18090.mp4,failed
+1,18091,spreadthesign,8,0,val,25,1,-1,60,0,262,240,https://media.spreadthesign.com/video/mp4/13/456805.mp4,dye_0001_spreadthesign_18091.mp4,ok
+2,18092,asldeafined,59,0,train,25,1,-1,103,0,575,480,https://media.asldeafined.com/vocabulary/1512916381.6480.mp4,dye_0002_asldeafined_18092.mp4,ok
+3,18093,handspeak,14,0,train,25,1,-1,57,0,314,240,https://www.handspeak.com/word/d/dye-hair.mp4,dye_0003_handspeak_18093.mp4,failed
+4,18094,handspeak,14,0,train,25,1,-1,55,0,297,240,https://www.handspeak.com/word/d/dye.mp4,dye_0004_handspeak_18094.mp4,failed
+5,18095,signingsavvy,11,0,train,25,1,-1,53,15,225,192,https://www.signingsavvy.com/signs/mp4/1/1470.mp4,dye_0005_signingsavvy_18095.mp4,ok
+6,18096,aslsearch,12,0,train,25,1,-1,178,56,574,400,http://www.aslsearch.com/signs/videos/dye.mp4,dye_0006_aslsearch_18096.mp4,ok

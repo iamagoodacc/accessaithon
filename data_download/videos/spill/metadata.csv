@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53848,asl5200,9,0,test,25,7498,7537,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,spill_0000_asl5200_53848.mp4,failed
+1,53850,signschool,4,0,val,25,1,-1,197,45,1676,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Spill-xBrB5fE9S5A.mp4,spill_0001_signschool_53850.mp4,ok
+2,53851,asldeafined,59,0,train,25,1,-1,68,35,640,480,https://media.asldeafined.com/vocabulary/1499871090.8413.mp4,spill_0002_asldeafined_53851.mp4,ok
+4,53853,handspeak,86,0,train,25,1,-1,27,0,296,240,https://www.handspeak.com/word/s/spill.mp4,spill_0004_handspeak_53853.mp4,failed
+5,53854,signingsavvy,10,0,train,25,1,-1,64,24,224,192,https://www.signingsavvy.com/signs/mp4/22/22886.mp4,spill_0005_signingsavvy_53854.mp4,ok
+6,53855,signingsavvy,10,0,train,25,1,-1,24,17,263,192,https://www.signingsavvy.com/signs/mp4/22/22887.mp4,spill_0006_signingsavvy_53855.mp4,ok
+7,53856,aslu,5,0,train,25,1,-1,267,40,1058,720,https://www.youtube.com/watch?v=ahxlH-j2FNw,spill_0007_aslu_53856.mp4,failed

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66417,aslsignbank,103,0,test,25,1,-1,160,29,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RO/ROOMMATE-983.mp4,roommate_0000_aslsignbank_66417.mp4,failed
+1,70344,northtexas,121,0,val,25,3681,3797,198,48,446,360,https://www.youtube.com/watch?v=bq-HmgjGzmw,roommate_0001_northtexas_70344.mp4,failed
+2,48522,startasl,38,0,train,25,1,-1,413,69,852,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/roommate.mp4,roommate_0002_startasl_48522.mp4,ok
+3,48523,asldeafined,59,0,train,25,1,-1,121,33,532,480,https://media.asldeafined.com/vocabulary/1499870770.4980.mp4,roommate_0003_asldeafined_48523.mp4,ok
+4,48524,handspeak,14,0,train,25,1,-1,41,0,276,240,https://www.handspeak.com/word/r/roommate.mp4,roommate_0004_handspeak_48524.mp4,failed
+5,48525,signingsavvy,11,0,train,25,1,-1,51,11,232,192,https://www.signingsavvy.com/signs/mp4/1/1360.mp4,roommate_0005_signingsavvy_48525.mp4,ok
+6,48526,aslsearch,12,0,train,25,1,-1,173,49,518,400,http://www.aslsearch.com/signs/videos/roommate.mp4,roommate_0006_aslsearch_48526.mp4,ok

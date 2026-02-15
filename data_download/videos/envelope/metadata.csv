@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19392,asl5200,9,0,val,25,1969,2021,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,envelope_0000_asl5200_19392.mp4,failed
+1,67627,asllex,109,0,test,25,1,-1,67,18,415,360,https://youtu.be/v2A3qbwbhVk,envelope_0001_asllex_67627.mp4,failed
+2,19393,spreadthesign,37,0,train,25,1,-1,46,0,264,240,https://media.spreadthesign.com/video/mp4/13/456908.mp4,envelope_0002_spreadthesign_19393.mp4,ok
+3,19394,startasl,38,0,train,25,1,-1,379,58,859,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/envelope.mp4,envelope_0003_startasl_19394.mp4,ok
+4,19395,asldeafined,21,0,train,25,1,-1,62,5,610,480,https://media.asldeafined.com/vocabulary/1468376707.110.mp4,envelope_0004_asldeafined_19395.mp4,ok
+5,19396,handspeak,20,0,val,25,1,-1,194,15,586,360,https://www.handspeak.com/word/e/envelope.mp4,envelope_0005_handspeak_19396.mp4,failed
+6,19397,signingsavvy,11,0,train,25,1,-1,42,7,234,192,https://www.signingsavvy.com/signs/mp4/1/1499.mp4,envelope_0006_signingsavvy_19397.mp4,ok
+7,19398,aslu,5,0,train,25,1,-1,302,36,1031,720,https://www.youtube.com/watch?v=LEMPRc6nhVM,envelope_0007_aslu_19398.mp4,failed

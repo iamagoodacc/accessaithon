@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48729,asl5200,9,0,test,25,4147,4189,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,ruin_0000_asl5200_48729.mp4,failed
+1,48731,signschool,31,0,val,25,1,-1,668,142,1425,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ruined%2C%20Spoiled-O4i9US5wwx8.mp4,ruin_0001_signschool_48731.mp4,ok
+2,48732,asldeafined,13,0,train,25,1,-1,135,0,541,480,https://media.asldeafined.com/vocabulary/1468761720.1923.mp4,ruin_0002_asldeafined_48732.mp4,ok
+3,48733,handspeak,14,0,train,25,1,-1,48,16,256,240,https://www.handspeak.com/word/r/ruin.mp4,ruin_0003_handspeak_48733.mp4,failed
+4,48734,signingsavvy,11,0,train,25,1,-1,31,12,223,192,https://www.signingsavvy.com/signs/mp4/2/2645.mp4,ruin_0004_signingsavvy_48734.mp4,ok
+5,48735,aslu,5,0,train,25,1,-1,358,42,939,720,https://www.youtube.com/watch?v=zjDC3cih9iM,ruin_0005_aslu_48735.mp4,failed
+7,48737,aslsearch,12,0,train,25,1,-1,205,54,554,400,http://www.aslsearch.com/signs/videos/spoil.mp4,ruin_0007_aslsearch_48737.mp4,ok

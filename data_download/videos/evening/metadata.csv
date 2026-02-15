@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,19739,asl5200,9,0,val,25,2452,2491,0,0,360,240,https://www.youtube.com/watch?v=2oaCeSdHG-A,evening_0000_asl5200_19739.mp4,failed
+1,19742,spreadthesign,8,0,test,25,1,-1,55,0,256,240,https://media.spreadthesign.com/video/mp4/13/455234.mp4,evening_0001_spreadthesign_19742.mp4,ok
+2,67632,asllex,109,0,train,25,1,-1,93,21,368,360,https://youtu.be/0rL7A-5Ocfo,evening_0002_asllex_67632.mp4,failed
+3,19743,asldeafined,21,0,train,25,1,-1,130,13,612,480,https://media.asldeafined.com/vocabulary/1468377549.1617.mp4,evening_0003_asldeafined_19743.mp4,ok
+4,19744,handspeak,14,0,train,25,1,-1,58,11,245,240,https://www.handspeak.com/word/e/evening.mp4,evening_0004_handspeak_19744.mp4,failed
+6,19746,signingsavvy,11,0,val,25,1,-1,73,15,217,192,https://www.signingsavvy.com/signs/mp4/7/7109.mp4,evening_0006_signingsavvy_19746.mp4,ok
+7,19747,aslu,5,0,train,25,1,-1,403,49,986,720,https://www.youtube.com/watch?v=0PGjWldONlY,evening_0007_aslu_19747.mp4,failed
+8,19748,aslsearch,12,0,train,25,1,-1,197,58,551,400,http://www.aslsearch.com/signs/videos/evening.mp4,evening_0008_aslsearch_19748.mp4,ok

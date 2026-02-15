@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69530,aslbrick,116,0,val,25,1,-1,257,0,1067,720,http://aslbricks.org/New/ASL-Videos/whale.mp4,whale_0000_aslbrick_69530.mp4,ok
+2,62942,aslsearch,12,0,test,25,1,-1,180,55,576,400,http://www.aslsearch.com/signs/videos/whale.mp4,whale_0002_aslsearch_62942.mp4,ok
+3,62933,spreadthesign,42,0,train,25,1,-1,23,0,285,240,https://media.spreadthesign.com/video/mp4/13/51097.mp4,whale_0003_spreadthesign_62933.mp4,ok
+4,62934,signschool,39,0,train,25,1,-1,558,124,1602,1071,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Whale%202-msBH4JVyYes.mp4,whale_0004_signschool_62934.mp4,ok
+6,62936,signschool,39,0,train,25,1,-1,596,117,1592,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Whale-UXLj87WhMmM.mp4,whale_0006_signschool_62936.mp4,ok
+7,62937,asldeafined,15,0,val,25,1,-1,28,32,617,480,https://media.asldeafined.com/vocabulary/1499952882.1300.mp4,whale_0007_asldeafined_62937.mp4,ok
+8,62938,handspeak,14,0,train,25,1,-1,39,1,522,480,https://www.handspeak.com/word/w/whale.mp4,whale_0008_handspeak_62938.mp4,failed
+11,62941,nabboud,67,0,train,25,1,-1,287,46,911,720,https://www.youtube.com/watch?v=y4nmK9ehSd8,whale_0011_nabboud_62941.mp4,failed

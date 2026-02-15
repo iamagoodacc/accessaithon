@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43364,asl5200,9,0,val,25,3106,3185,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pneumonia_0000_asl5200_43364.mp4,failed
+3,43367,signschool,4,0,test,25,1,-1,736,39,1792,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pneumonia-sc98deYK9g0.mp4,pneumonia_0003_signschool_43367.mp4,ok
+4,43368,signschool,45,0,train,25,1,-1,698,132,1855,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pneumonia-yYUwnAb1DGU.mp4,pneumonia_0004_signschool_43368.mp4,ok
+5,43369,asldeafined,21,0,train,25,1,-1,102,39,597,480,https://media.asldeafined.com/vocabulary/1520783429.2372.mp4,pneumonia_0005_asldeafined_43369.mp4,ok
+6,43370,handspeak,14,0,train,25,1,-1,45,0,494,480,https://www.handspeak.com/word/p/pneumonia.mp4,pneumonia_0006_handspeak_43370.mp4,failed
+7,43371,signingsavvy,11,0,val,25,1,-1,37,13,235,192,https://www.signingsavvy.com/signs/mp4/2/2391.mp4,pneumonia_0007_signingsavvy_43371.mp4,ok
+8,43372,aslpro,44,0,train,25,1,-1,0,5,254,240,http://www.aslpro.com/main/p/pneumonia.swf,pneumonia_0008_aslpro_43372.mp4,skipped_swf
+9,43373,aslsearch,12,0,train,25,1,-1,171,52,573,400,http://www.aslsearch.com/signs/videos/pneumonia.mp4,pneumonia_0009_aslsearch_43373.mp4,ok

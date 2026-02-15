@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57321,spreadthesign,2,0,val,25,1,-1,33,16,272,240,https://media.spreadthesign.com/video/mp4/13/90001.mp4,temple_0000_spreadthesign_57321.mp4,ok
+1,70056,northtexas,121,0,test,25,9310,9415,87,22,528,480,https://www.youtube.com/watch?v=sErq0TJMKEo,temple_0001_northtexas_70056.mp4,failed
+2,57322,signschool,4,0,train,25,1,-1,690,60,1670,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Temple%202-2Pva0CLtbug.mp4,temple_0002_signschool_57322.mp4,ok
+3,57323,signschool,4,0,train,25,1,-1,609,48,1650,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Temple%203-B9evXwYC7_s.mp4,temple_0003_signschool_57323.mp4,ok
+4,57324,asldeafined,13,0,train,25,1,-1,143,0,562,480,https://media.asldeafined.com/vocabulary/1468943809.6427.mp4,temple_0004_asldeafined_57324.mp4,ok
+7,57327,signingsavvy,11,0,val,25,1,-1,89,17,225,192,https://www.signingsavvy.com/signs/mp4/6/6950.mp4,temple_0007_signingsavvy_57327.mp4,ok
+8,57328,aslpro,30,0,train,25,1,-1,0,12,225,240,http://www.aslpro.com/main/t/temple.swf,temple_0008_aslpro_57328.mp4,skipped_swf
+9,57329,aslsearch,12,0,train,25,1,-1,170,52,546,400,http://www.aslsearch.com/signs/videos/testament.mp4,temple_0009_aslsearch_57329.mp4,ok

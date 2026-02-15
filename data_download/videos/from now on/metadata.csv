@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,23646,signschool,39,0,test,25,1,-1,711,138,1580,1066,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20From%20Now%20On-4d5kwJmb8sk.mp4,from now on_0000_signschool_23646.mp4,ok
+1,23647,signschool,4,0,val,25,1,-1,419,74,1602,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20From%20Now%20On-Mb5K3HDhgwg.mp4,from now on_0001_signschool_23647.mp4,ok
+2,23648,signschool,32,0,train,25,1,-1,715,74,1628,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20From%20Now%20On-QTxAsxYyP9k.mp4,from now on_0002_signschool_23648.mp4,ok
+3,23649,handspeak,20,0,train,25,1,-1,57,0,625,480,https://www.handspeak.com/word/f/from-now-on.mp4,from now on_0003_handspeak_23649.mp4,failed
+4,23650,signingsavvy,11,0,train,25,1,-1,63,11,211,192,https://www.signingsavvy.com/signs/mp4/9/9722.mp4,from now on_0004_signingsavvy_23650.mp4,ok
+5,23651,aslu,5,0,train,25,1,-1,274,25,936,720,https://www.youtube.com/watch?v=rIE6pSjWh6A,from now on_0005_aslu_23651.mp4,failed
+6,23652,aslsearch,12,0,train,25,1,-1,177,51,563,400,http://www.aslsearch.com/signs/videos/from-now-on.mp4,from now on_0006_aslsearch_23652.mp4,ok

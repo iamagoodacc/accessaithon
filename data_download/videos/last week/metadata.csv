@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32275,asl5200,9,0,test,25,235,287,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,last week_0000_asl5200_32275.mp4,failed
+1,66011,aslsignbank,96,0,val,25,1,-1,201,33,581,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAST-WEEK-1690.mp4,last week_0001_aslsignbank_66011.mp4,failed
+2,32276,spreadthesign,37,0,train,25,1,-1,41,1,240,240,https://media.spreadthesign.com/video/mp4/13/457492.mp4,last week_0002_spreadthesign_32276.mp4,ok
+3,32277,signschool,31,0,train,25,1,-1,692,145,1553,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Last%20Week-3NMWN7wipFI.mp4,last week_0003_signschool_32277.mp4,ok
+4,32278,asldeafined,21,0,train,25,1,-1,189,67,518,480,https://media.asldeafined.com/vocabulary/1520782595.4912.mp4,last week_0004_asldeafined_32278.mp4,ok
+5,32279,handspeak,14,0,train,25,1,-1,30,0,586,480,https://www.handspeak.com/word/l/last-week.mp4,last week_0005_handspeak_32279.mp4,failed
+6,32280,aslsearch,12,0,train,25,1,-1,192,68,559,400,http://www.aslsearch.com/signs/videos/a-week-ago.mp4,last week_0006_aslsearch_32280.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59120,asl5200,9,0,test,25,4442,4491,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,towel_0000_asl5200_59120.mp4,failed
+1,59122,startasl,38,0,val,25,1,-1,313,54,925,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/towel.mp4,towel_0001_startasl_59122.mp4,ok
+2,59123,signschool,52,0,train,25,1,-1,257,14,847,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Towel-1FWEav1X7gA.mp4,towel_0002_signschool_59123.mp4,ok
+3,59124,signschool,32,0,train,25,1,-1,538,69,1738,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Towel-9fPZeB_eOM4.mp4,towel_0003_signschool_59124.mp4,ok
+4,59125,handspeak,14,0,train,25,1,-1,17,0,640,480,https://www.handspeak.com/word/t/towel-bath.mp4,towel_0004_handspeak_59125.mp4,failed
+6,59127,signingsavvy,11,0,train,25,1,-1,30,3,271,192,https://www.signingsavvy.com/signs/mp4/8/8679.mp4,towel_0006_signingsavvy_59127.mp4,ok
+8,59129,aslsearch,12,0,train,25,1,-1,143,51,605,400,http://www.aslsearch.com/signs/videos/towel.mp4,towel_0008_aslsearch_59129.mp4,ok

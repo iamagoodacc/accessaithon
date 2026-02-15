@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,10810,asl5200,9,0,val,25,3429,3488,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,circle_0000_asl5200_10810.mp4,failed
+1,10820,aslsearch,12,0,test,25,1,-1,190,50,574,400,http://www.aslsearch.com/signs/videos/circle.mp4,circle_0001_aslsearch_10820.mp4,ok
+2,65360,aslsignbank,90,0,train,25,1,-1,149,15,461,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CI/CIRCLE-822.mp4,circle_0002_aslsignbank_65360.mp4,failed
+4,10813,signschool,31,0,train,25,1,-1,655,82,1460,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Circle-Jo8y0OxH8-g.mp4,circle_0004_signschool_10813.mp4,ok
+5,10814,asldeafined,59,0,train,25,1,-1,83,12,599,480,https://media.asldeafined.com/vocabulary/1466733691.9648.mp4,circle_0005_asldeafined_10814.mp4,ok
+6,10815,handspeak,20,0,val,25,1,-1,81,0,552,480,https://www.handspeak.com/word/c/circle.mp4,circle_0006_handspeak_10815.mp4,failed
+7,10816,handspeak,14,0,train,25,1,-1,96,7,477,360,https://www.handspeak.com/word/c/circle-ref.mp4,circle_0007_handspeak_10816.mp4,failed
+8,10817,signingsavvy,10,0,train,25,1,-1,69,14,206,192,https://www.signingsavvy.com/signs/mp4/23/23880.mp4,circle_0008_signingsavvy_10817.mp4,ok

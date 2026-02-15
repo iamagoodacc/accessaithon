@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57367,asl5200,9,0,val,25,1013,1085,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tender_0000_asl5200_57367.mp4,failed
+1,57368,spreadthesign,2,0,test,25,1,-1,59,15,257,240,https://media.spreadthesign.com/video/mp4/13/153747.mp4,tender_0001_spreadthesign_57368.mp4,ok
+2,57369,asldeafined,13,0,train,25,1,-1,119,0,528,480,https://media.asldeafined.com/vocabulary/1468943878.5733.mp4,tender_0002_asldeafined_57369.mp4,ok
+3,57370,handspeak,14,0,train,25,1,-1,108,0,499,360,https://www.handspeak.com/word/t/tender-soft.mp4,tender_0003_handspeak_57370.mp4,failed
+4,57371,signingsavvy,10,0,train,25,1,-1,88,21,209,192,https://www.signingsavvy.com/signs/mp4/22/22182.mp4,tender_0004_signingsavvy_57371.mp4,ok
+6,57373,signingsavvy,10,0,val,25,1,-1,90,16,214,192,https://www.signingsavvy.com/signs/mp4/23/23788.mp4,tender_0006_signingsavvy_57373.mp4,ok
+7,57374,aslsearch,41,0,train,25,1,-1,247,39,494,400,http://www.aslsearch.com/signs/videos/soft-hearted.mp4,tender_0007_aslsearch_57374.mp4,ok
+8,57375,aslsearch,41,0,train,25,1,-1,245,39,499,400,http://www.aslsearch.com/signs/videos/soft.mp4,tender_0008_aslsearch_57375.mp4,ok

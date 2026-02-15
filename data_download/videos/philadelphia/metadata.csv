@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42378,asl5200,9,0,val,25,1724,1770,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,philadelphia_0000_asl5200_42378.mp4,failed
+1,70138,northtexas,121,0,test,25,3833,3944,135,24,484,480,https://www.youtube.com/watch?v=VwejDy96MzM,philadelphia_0001_northtexas_70138.mp4,failed
+2,66284,aslsignbank,101,0,train,25,1,-1,211,7,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PH/PHILADELPHIA-892.mp4,philadelphia_0002_aslsignbank_66284.mp4,failed
+3,66285,aslsignbank,101,0,train,25,1,-1,192,10,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PH/PHILADELPHIA-893.mp4,philadelphia_0003_aslsignbank_66285.mp4,failed
+4,42379,asldeafined,13,0,train,25,1,-1,85,1,493,480,https://media.asldeafined.com/vocabulary/1468725418.4438.mp4,philadelphia_0004_asldeafined_42379.mp4,ok
+5,42380,handspeak,14,0,val,25,1,-1,31,15,271,240,https://www.handspeak.com/word/p/philadelphia.mp4,philadelphia_0005_handspeak_42380.mp4,failed
+6,42381,signingsavvy,10,0,train,25,1,-1,88,18,213,192,https://www.signingsavvy.com/signs/mp4/22/22136.mp4,philadelphia_0006_signingsavvy_42381.mp4,ok
+7,42382,aslpro,25,0,train,25,1,-1,2,8,239,240,http://www.aslpro.com/main/p/philadelphia.swf,philadelphia_0007_aslpro_42382.mp4,skipped_swf

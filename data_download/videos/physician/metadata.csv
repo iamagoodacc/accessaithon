@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42540,spreadthesign,37,0,val,25,1,-1,67,1,236,240,https://media.spreadthesign.com/video/mp4/13/457769.mp4,physician_0000_spreadthesign_42540.mp4,ok
+1,42541,signschool,60,0,test,25,1,-1,351,18,756,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Doctor-zl9aTqYRVXQ.mp4,physician_0001_signschool_42541.mp4,ok
+2,42542,asldeafined,21,0,train,25,1,-1,93,12,562,480,https://media.asldeafined.com/vocabulary/1467772429.4932.mp4,physician_0002_asldeafined_42542.mp4,ok
+3,42543,handspeak,14,0,train,25,1,-1,94,0,529,360,https://www.handspeak.com/word/p/physician.mp4,physician_0003_handspeak_42543.mp4,failed
+4,42544,signingsavvy,10,0,train,25,1,-1,93,20,203,192,https://www.signingsavvy.com/signs/mp4/22/22643.mp4,physician_0004_signingsavvy_42544.mp4,ok
+5,42545,signingsavvy,10,0,val,25,1,-1,91,21,201,192,https://www.signingsavvy.com/signs/mp4/22/22644.mp4,physician_0005_signingsavvy_42545.mp4,ok
+6,42546,aslu,5,0,train,25,1,-1,296,53,916,720,https://www.youtube.com/watch?v=lNpWperuhDI,physician_0006_aslu_42546.mp4,failed
+7,42547,aslsearch,12,0,train,25,1,-1,189,63,546,400,http://www.aslsearch.com/signs/videos/doctor.mp4,physician_0007_aslsearch_42547.mp4,ok

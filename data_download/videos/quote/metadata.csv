@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45819,elementalasl,19,0,val,25,1,-1,64,6,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/quote.mov,quote_0000_elementalasl_45819.mp4,ok
+1,45820,spreadthesign,2,0,test,25,1,-1,9,5,272,240,https://media.spreadthesign.com/video/mp4/13/245716.mp4,quote_0001_spreadthesign_45820.mp4,ok
+2,45821,signschool,31,0,train,25,1,-1,353,130,1487,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Quote%20Unquote-Lgm5vateXxI.mp4,quote_0002_signschool_45821.mp4,ok
+3,45822,asldeafined,21,0,train,25,1,-1,118,8,658,540,https://media.asldeafined.com/vocabulary/1546374238.7751.mp4,quote_0003_asldeafined_45822.mp4,ok
+4,45823,handspeak,14,0,train,25,1,-1,55,14,259,240,https://www.handspeak.com/word/q/quote.mp4,quote_0004_handspeak_45823.mp4,failed
+5,45824,signingsavvy,11,0,val,25,1,-1,43,13,235,192,https://www.signingsavvy.com/signs/mp4/8/8613.mp4,quote_0005_signingsavvy_45824.mp4,ok
+6,45825,aslpro,83,0,train,25,1,-1,0,21,233,240,http://www.aslpro.com/main/q/quote.swf,quote_0006_aslpro_45825.mp4,skipped_swf
+7,45826,aslsearch,12,0,train,25,1,-1,179,63,560,400,http://www.aslsearch.com/signs/videos/quote.mp4,quote_0007_aslsearch_45826.mp4,ok

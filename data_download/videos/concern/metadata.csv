@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12411,asl5200,9,0,val,25,5292,5368,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,concern_0000_asl5200_12411.mp4,failed
+1,65393,aslsignbank,102,0,test,25,1,-1,151,18,497,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONCERN-1122.mp4,concern_0001_aslsignbank_65393.mp4,failed
+2,12415,spreadthesign,37,0,train,25,1,-1,63,0,251,240,https://media.spreadthesign.com/video/mp4/13/456000.mp4,concern_0002_spreadthesign_12415.mp4,ok
+3,12416,asldeafined,59,0,train,25,1,-1,105,16,591,480,https://media.asldeafined.com/vocabulary/1466901302.7632.mp4,concern_0003_asldeafined_12416.mp4,ok
+5,12418,signingsavvy,11,0,train,25,1,-1,66,9,231,192,https://www.signingsavvy.com/signs/mp4/6/6548.mp4,concern_0005_signingsavvy_12418.mp4,ok
+6,12419,aslu,5,0,val,25,1,-1,344,38,1038,720,https://www.youtube.com/watch?v=zQ9h9rQ_iU4,concern_0006_aslu_12419.mp4,failed
+7,12420,aslpro,54,0,train,25,1,-1,0,15,242,240,http://www.aslpro.com/main/c/concern.swf,concern_0007_aslpro_12420.mp4,skipped_swf
+8,12421,aslsearch,41,0,train,25,1,-1,227,42,486,400,http://www.aslsearch.com/signs/videos/concern.mp4,concern_0008_aslsearch_12421.mp4,ok

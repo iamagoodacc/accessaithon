@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66718,aslsignbank,100,0,test,25,1,-1,195,30,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/VA/VAMPIRE-1371.mp4,vampire_0000_aslsignbank_66718.mp4,failed
+1,61246,spreadthesign,2,0,val,25,1,-1,75,9,243,240,https://media.spreadthesign.com/video/mp4/13/400252.mp4,vampire_0001_spreadthesign_61246.mp4,ok
+2,61247,asldeafined,13,0,train,25,1,-1,126,0,520,480,https://media.asldeafined.com/vocabulary/1468925869.866.mp4,vampire_0002_asldeafined_61247.mp4,ok
+3,61248,handspeak,14,0,train,25,1,-1,64,21,262,240,https://www.handspeak.com/word/v/vampire.mp4,vampire_0003_handspeak_61248.mp4,failed
+4,61249,signingsavvy,11,0,train,25,1,-1,66,15,219,192,https://www.signingsavvy.com/signs/mp4/3/3113.mp4,vampire_0004_signingsavvy_61249.mp4,ok
+5,61250,aslpro,24,0,train,25,1,-1,22,20,203,240,http://www.aslpro.com/main/v/vampire.swf,vampire_0005_aslpro_61250.mp4,skipped_swf
+6,61251,aslsearch,12,0,train,25,1,-1,171,49,542,400,http://www.aslsearch.com/signs/videos/vampire.mp4,vampire_0006_aslsearch_61251.mp4,ok

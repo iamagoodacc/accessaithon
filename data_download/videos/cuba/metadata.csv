@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14202,spreadthesign,37,0,test,25,1,-1,43,6,240,240,https://media.spreadthesign.com/video/mp4/13/455301.mp4,cuba_0000_spreadthesign_14202.mp4,ok
+1,14203,signschool,45,0,val,25,1,-1,466,108,1423,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cuba%2C%20Australia%2C%20Anthropology-3zmo3ewmtfY.mp4,cuba_0001_signschool_14203.mp4,ok
+2,14204,signschool,45,0,train,25,1,-1,461,34,1443,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cuba%2C%20Firefighter-caqvrVq77P0.mp4,cuba_0002_signschool_14204.mp4,ok
+3,14205,handspeak,14,0,train,25,1,-1,0,16,309,240,https://www.handspeak.com/word/c/cuba.mp4,cuba_0003_handspeak_14205.mp4,failed
+5,14207,aslu,5,0,train,25,1,-1,239,0,941,720,https://www.youtube.com/watch?v=lDmOnxjPNds,cuba_0005_aslu_14207.mp4,failed
+7,14209,aslu,5,0,train,25,1,-1,170,24,902,720,https://www.youtube.com/watch?v=pjD7yBXNJzo,cuba_0007_aslu_14209.mp4,failed
+9,14211,aslu,5,0,train,25,1,-1,221,0,892,720,https://www.youtube.com/watch?v=Xmdv8JMirLg,cuba_0009_aslu_14211.mp4,failed

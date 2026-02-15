@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05986,asl5200,9,0,test,25,2250,2296,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,berry_0000_asl5200_05986.mp4,failed
+1,65176,aslsignbank,91,0,val,25,1,-1,203,30,471,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BERRY-1976.mp4,berry_0001_aslsignbank_65176.mp4,failed
+2,05987,spreadthesign,37,0,train,25,1,-1,4,0,313,240,https://media.spreadthesign.com/video/mp4/13/184828.mp4,berry_0002_spreadthesign_05987.mp4,ok
+3,05988,signschool,32,0,train,25,1,-1,630,76,1636,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Berry-adE3nJntdHw.mp4,berry_0003_signschool_05988.mp4,ok
+4,05989,signingsavvy,11,0,train,25,1,-1,68,4,214,192,https://www.signingsavvy.com/signs/mp4/5/5651.mp4,berry_0004_signingsavvy_05989.mp4,ok
+6,05991,aslpro,30,0,train,25,1,-1,0,19,240,240,http://www.aslpro.com/main/b/berry.swf,berry_0006_aslpro_05991.mp4,skipped_swf
+7,05992,aslsearch,12,0,train,25,1,-1,166,53,548,400,http://www.aslsearch.com/signs/videos/berry.mp4,berry_0007_aslsearch_05992.mp4,ok

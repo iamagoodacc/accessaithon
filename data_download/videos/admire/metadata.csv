@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,65020,aslsignbank,90,0,test,25,1,-1,148,31,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AD/ADMIRE-777.mp4,admire_0001_aslsignbank_65020.mp4,failed
+2,01100,spreadthesign,2,0,val,25,1,-1,52,15,293,240,https://media.spreadthesign.com/video/mp4/13/91349.mp4,admire_0002_spreadthesign_01100.mp4,ok
+3,01101,asldeafined,13,0,train,25,1,-1,136,22,572,480,https://media.asldeafined.com/vocabulary/1466170195.1777.mp4,admire_0003_asldeafined_01101.mp4,ok
+4,01102,handspeak,14,0,train,25,1,-1,57,11,246,240,https://www.handspeak.com/word/a/admire.mp4,admire_0004_handspeak_01102.mp4,failed
+5,01103,signingsavvy,11,0,train,25,1,-1,72,10,208,192,https://www.signingsavvy.com/signs/mp4/14/14541.mp4,admire_0005_signingsavvy_01103.mp4,ok
+8,01106,aslpro,24,0,train,25,1,-1,12,14,206,240,http://www.aslpro.com/main/a/admire.swf,admire_0008_aslpro_01106.mp4,skipped_swf
+9,01107,aslsearch,41,0,train,25,1,-1,236,37,559,400,http://www.aslsearch.com/signs/videos/admire.mp4,admire_0009_aslsearch_01107.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33517,asl5200,9,0,test,25,2002,2064,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,little bit_0000_asl5200_33517.mp4,failed
+1,68094,valencia-asl,109,0,val,25,1,-1,45,0,1110,720,https://www.youtube.com/watch?v=66wIhi4FD9k,little bit_0001_valencia-asl_68094.mp4,failed
+2,68596,lillybauer,115,0,train,25,1,55,98,16,544,357,https://www.youtube.com/watch?v=JHwMPJ4IlKA,little bit_0002_lillybauer_68596.mp4,failed
+3,33518,asldeafined,21,0,train,25,1,-1,176,51,531,480,https://media.asldeafined.com/vocabulary/1513523009.9478.mp4,little bit_0003_asldeafined_33518.mp4,ok
+4,33519,signingsavvy,10,0,train,25,1,-1,85,16,211,192,https://www.signingsavvy.com/signs/mp4/23/23862.mp4,little bit_0004_signingsavvy_33519.mp4,ok
+5,33520,aslu,5,0,train,25,1,-1,320,53,958,720,https://www.youtube.com/watch?v=i92upehho3U,little bit_0005_aslu_33520.mp4,failed
+6,33521,aslsearch,41,0,train,25,1,-1,247,43,505,400,http://www.aslsearch.com/signs/videos/little-bit.mp4,little bit_0006_aslsearch_33521.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,24592,spreadthesign,37,0,val,25,1,-1,54,0,261,240,https://media.spreadthesign.com/video/mp4/13/456447.mp4,girlfriend_0000_spreadthesign_24592.mp4,ok
+1,24596,asldeafined,21,0,test,25,1,-1,50,8,588,480,https://media.asldeafined.com/vocabulary/1468548994.3095.mp4,girlfriend_0001_asldeafined_24596.mp4,ok
+2,24604,aslsearch,12,0,train,25,1,-1,179,63,539,400,http://www.aslsearch.com/signs/videos/girlfriend.mp4,girlfriend_0002_aslsearch_24604.mp4,ok
+4,24597,handspeak,20,0,train,25,1,-1,55,0,597,480,https://www.handspeak.com/word/g/girlfriend.mp4,girlfriend_0004_handspeak_24597.mp4,failed
+5,24594,startasl,36,0,train,25,1,-1,215,18,523,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/girlfriend.mp4,girlfriend_0005_startasl_24594.mp4,ok
+6,24598,signingsavvy,11,0,val,25,1,-1,72,4,222,192,https://www.signingsavvy.com/signs/mp4/5/5864.mp4,girlfriend_0006_signingsavvy_24598.mp4,ok
+7,24599,aslu,5,0,train,25,1,-1,323,38,982,720,https://www.youtube.com/watch?v=4B3VtEF78lM,girlfriend_0007_aslu_24599.mp4,failed
+9,24601,aslu,5,0,train,25,1,-1,58,15,454,360,https://www.youtube.com/watch?v=IhJmZIn2LKY,girlfriend_0009_aslu_24601.mp4,failed

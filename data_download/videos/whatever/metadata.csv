@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62951,asl5200,9,0,val,25,1781,1837,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,whatever_0000_asl5200_62951.mp4,failed
+1,66772,aslsignbank,93,0,test,25,1,-1,166,31,500,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WH/WHATEVER-111.mp4,whatever_0001_aslsignbank_66772.mp4,failed
+2,67060,asllex,109,0,train,25,1,-1,98,13,396,360,https://youtu.be/wMcN9jrFH-c,whatever_0002_asllex_67060.mp4,failed
+3,62952,spreadthesign,26,0,train,25,1,-1,75,21,245,240,https://media.spreadthesign.com/video/mp4/13/307685.mp4,whatever_0003_spreadthesign_62952.mp4,ok
+4,62953,asldeafined,13,0,train,25,1,-1,132,4,521,480,https://media.asldeafined.com/vocabulary/1468927963.380.mp4,whatever_0004_asldeafined_62953.mp4,ok
+5,62954,handspeak,14,0,val,25,1,-1,128,0,526,480,https://www.handspeak.com/word/w/whatever.mp4,whatever_0005_handspeak_62954.mp4,failed
+6,62955,signingsavvy,11,0,train,25,1,-1,61,11,214,192,https://www.signingsavvy.com/signs/mp4/8/8677.mp4,whatever_0006_signingsavvy_62955.mp4,ok
+7,62956,aslu,5,0,train,25,1,-1,56,3,505,360,https://www.youtube.com/watch?v=TTridN6D22I,whatever_0007_aslu_62956.mp4,failed

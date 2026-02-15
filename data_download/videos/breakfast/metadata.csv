@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,07624,startasl,38,0,test,25,1,-1,384,47,815,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/breakfast.mp4,breakfast_0002_startasl_07624.mp4,ok
+3,07625,signschool,52,0,val,25,1,-1,216,17,834,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Breakfast-THwAruhoYd8.mp4,breakfast_0003_signschool_07625.mp4,ok
+4,07626,asldeafined,59,0,train,25,1,-1,122,22,530,480,https://media.asldeafined.com/vocabulary/1466723739.9001.mp4,breakfast_0004_asldeafined_07626.mp4,ok
+5,07627,handspeak,20,0,train,25,1,-1,120,10,527,480,https://www.handspeak.com/word/b/breakfast.mp4,breakfast_0005_handspeak_07627.mp4,failed
+6,07628,signingsavvy,11,0,train,25,1,-1,80,7,229,192,https://www.signingsavvy.com/signs/mp4/6/6080.mp4,breakfast_0006_signingsavvy_07628.mp4,ok
+7,07629,aslpro,25,0,train,25,1,-1,0,0,241,234,http://www.aslpro.com/main/b/breakfast.swf,breakfast_0007_aslpro_07629.mp4,skipped_swf
+8,07630,aslsearch,12,0,train,25,1,-1,165,50,521,400,http://www.aslsearch.com/signs/videos/breakfast2.mp4,breakfast_0008_aslsearch_07630.mp4,ok

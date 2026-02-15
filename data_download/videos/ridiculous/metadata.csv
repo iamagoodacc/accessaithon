@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48072,asl5200,9,0,val,25,3301,3353,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,ridiculous_0000_asl5200_48072.mp4,failed
+1,66407,aslsignbank,103,0,test,25,1,-1,128,32,468,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RI/RIDICULOUS-975.mp4,ridiculous_0001_aslsignbank_66407.mp4,failed
+2,48073,spreadthesign,63,0,train,25,1,-1,55,0,266,240,https://media.spreadthesign.com/video/mp4/13/50762.mp4,ridiculous_0002_spreadthesign_48073.mp4,ok
+3,48074,asldeafined,21,0,train,25,1,-1,169,58,520,480,https://media.asldeafined.com/vocabulary/1513524286.6849.mp4,ridiculous_0003_asldeafined_48074.mp4,ok
+4,48075,handspeak,14,0,train,25,1,-1,82,13,251,240,https://www.handspeak.com/word/r/ridiculous-silly2.mp4,ridiculous_0004_handspeak_48075.mp4,failed
+5,48076,handspeak,14,0,val,25,1,-1,74,16,255,240,https://www.handspeak.com/word/r/ridiculous-silly.mp4,ridiculous_0005_handspeak_48076.mp4,failed
+6,48077,signingsavvy,11,0,train,25,1,-1,77,18,216,192,https://www.signingsavvy.com/signs/mp4/9/9096.mp4,ridiculous_0006_signingsavvy_48077.mp4,ok
+7,48078,aslu,5,0,train,25,1,-1,339,57,930,720,https://www.youtube.com/watch?v=iGHjj_DXzkI,ridiculous_0007_aslu_48078.mp4,failed

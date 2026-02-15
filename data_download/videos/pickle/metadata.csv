@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,42601,asl5200,9,0,test,25,2087,2136,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pickle_0000_asl5200_42601.mp4,failed
+4,42605,asldeafined,13,0,val,25,1,-1,127,0,510,480,https://media.asldeafined.com/vocabulary/1468726019.7783.mp4,pickle_0004_asldeafined_42605.mp4,ok
+6,42607,signingsavvy,11,0,train,25,1,-1,78,18,221,192,https://www.signingsavvy.com/signs/mp4/8/8090.mp4,pickle_0006_signingsavvy_42607.mp4,ok
+7,42608,signingsavvy,11,0,train,25,1,-1,82,17,221,192,https://www.signingsavvy.com/signs/mp4/8/8111.mp4,pickle_0007_signingsavvy_42608.mp4,ok
+8,42609,signingsavvy,11,0,train,25,1,-1,85,15,219,192,https://www.signingsavvy.com/signs/mp4/8/8112.mp4,pickle_0008_signingsavvy_42609.mp4,ok
+9,42610,aslu,5,0,train,25,1,-1,297,22,926,720,https://www.youtube.com/watch?v=QKpzylQ5618,pickle_0009_aslu_42610.mp4,failed
+10,42611,aslpro,72,0,train,25,1,-1,22,5,234,240,http://www.aslpro.com/main/p/pickle.swf,pickle_0010_aslpro_42611.mp4,skipped_swf

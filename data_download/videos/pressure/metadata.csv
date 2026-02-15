@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44394,asl5200,9,0,val,25,4964,5020,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pressure_0000_asl5200_44394.mp4,failed
+1,44396,elementalasl,43,0,test,25,1,-1,70,8,240,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/pressure.mov,pressure_0001_elementalasl_44396.mp4,ok
+2,44397,signschool,39,0,train,25,1,-1,760,53,1737,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pressure-Waays2zP7hI.mp4,pressure_0002_signschool_44397.mp4,ok
+3,44398,asldeafined,13,0,train,25,1,-1,150,0,553,480,https://media.asldeafined.com/vocabulary/1468755613.4882.mp4,pressure_0003_asldeafined_44398.mp4,ok
+4,44399,handspeak,14,0,train,25,1,-1,21,8,266,240,https://www.handspeak.com/word/p/pressure.mp4,pressure_0004_handspeak_44399.mp4,failed
+5,44400,signingsavvy,11,0,val,25,1,-1,58,8,210,192,https://www.signingsavvy.com/signs/mp4/14/14089.mp4,pressure_0005_signingsavvy_44400.mp4,ok
+6,44401,aslu,5,0,train,25,1,-1,288,14,1003,720,https://www.youtube.com/watch?v=PpuAHXAUXAQ,pressure_0006_aslu_44401.mp4,failed
+7,44402,aslsearch,12,0,train,25,1,-1,201,53,572,400,http://www.aslsearch.com/signs/videos/pressure.mp4,pressure_0007_aslsearch_44402.mp4,ok

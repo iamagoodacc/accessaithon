@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13087,spreadthesign,2,0,test,25,1,-1,32,7,267,240,https://media.spreadthesign.com/video/mp4/13/244257.mp4,conversation_0000_spreadthesign_13087.mp4,ok
+2,13089,handspeak,14,0,val,25,1,-1,43,18,267,240,https://www.handspeak.com/word/c/conversation-chat.mp4,conversation_0002_handspeak_13089.mp4,failed
+3,13090,handspeak,20,0,train,25,1,-1,48,17,251,240,https://www.handspeak.com/word/c/conversation-talk.mp4,conversation_0003_handspeak_13090.mp4,failed
+4,13091,signingsavvy,10,0,train,25,1,-1,73,20,214,192,https://www.signingsavvy.com/signs/mp4/22/22576.mp4,conversation_0004_signingsavvy_13091.mp4,ok
+6,13093,signingsavvy,10,0,train,25,1,-1,84,20,199,192,https://www.signingsavvy.com/signs/mp4/22/22578.mp4,conversation_0006_signingsavvy_13093.mp4,ok
+7,13094,signingsavvy,10,0,train,25,1,-1,67,18,225,192,https://www.signingsavvy.com/signs/mp4/22/22579.mp4,conversation_0007_signingsavvy_13094.mp4,ok
+8,13095,signingsavvy,10,0,train,25,1,-1,84,25,209,192,https://www.signingsavvy.com/signs/mp4/22/22897.mp4,conversation_0008_signingsavvy_13095.mp4,ok

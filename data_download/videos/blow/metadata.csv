@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,06787,spreadthesign,2,0,test,25,1,-1,64,13,247,240,https://media.spreadthesign.com/video/mp4/13/91377.mp4,blow_0001_spreadthesign_06787.mp4,ok
+2,06788,signschool,6,0,val,25,1,-1,720,67,1517,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Exhale%20From%20Mouth-nCd8HyOooxY.mp4,blow_0002_signschool_06788.mp4,ok
+3,06789,asldeafined,59,0,train,25,1,-1,121,20,531,480,https://media.asldeafined.com/vocabulary/1466683438.3495.mp4,blow_0003_asldeafined_06789.mp4,ok
+4,06790,handspeak,14,0,train,25,1,-1,41,4,282,240,https://www.handspeak.com/word/b/blow-puff.mp4,blow_0004_handspeak_06790.mp4,failed
+6,06792,signingsavvy,11,0,train,25,1,-1,63,11,219,192,https://www.signingsavvy.com/signs/mp4/1/1239.mp4,blow_0006_signingsavvy_06792.mp4,ok
+7,06793,aslpro,16,0,train,25,1,-1,24,20,211,240,http://www.aslpro.com/main/b/blow.swf,blow_0007_aslpro_06793.mp4,skipped_swf
+8,06794,aslsearch,41,0,train,25,1,-1,228,40,481,400,http://www.aslsearch.com/signs/videos/blow.mp4,blow_0008_aslsearch_06794.mp4,ok

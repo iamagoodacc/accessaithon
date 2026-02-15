@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36487,asl5200,9,0,test,25,1677,1726,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,mock_0000_asl5200_36487.mp4,failed
+1,70202,northtexas,121,0,val,25,6020,6146,145,34,489,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,mock_0001_northtexas_70202.mp4,failed
+2,36489,spreadthesign,2,0,train,25,1,-1,58,7,282,240,https://media.spreadthesign.com/video/mp4/13/244867.mp4,mock_0002_spreadthesign_36489.mp4,ok
+3,67899,asllex,109,0,train,25,1,-1,101,26,390,360,https://youtu.be/_64BqsENPWc,mock_0003_asllex_67899.mp4,failed
+4,36490,asldeafined,13,0,train,25,1,-1,145,0,534,480,https://media.asldeafined.com/vocabulary/1468715977.9938.mp4,mock_0004_asldeafined_36490.mp4,ok
+5,36491,handspeak,14,0,train,25,1,-1,66,11,265,240,https://www.handspeak.com/word/m/mock-ridicule.mp4,mock_0005_handspeak_36491.mp4,failed
+6,36492,signingsavvy,11,0,train,25,1,-1,82,16,209,192,https://www.signingsavvy.com/signs/mp4/6/6252.mp4,mock_0006_signingsavvy_36492.mp4,ok

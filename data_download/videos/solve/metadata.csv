@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53177,asl5200,9,0,test,25,6329,6378,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,solve_0000_asl5200_53177.mp4,failed
+1,53178,spreadthesign,63,0,val,25,1,-1,52,0,250,240,https://media.spreadthesign.com/video/mp4/13/50816.mp4,solve_0001_spreadthesign_53178.mp4,ok
+2,53179,signschool,4,0,train,25,1,-1,335,53,1680,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Dissolve%2C%20Fade-orI_3GyYmRs.mp4,solve_0002_signschool_53179.mp4,ok
+3,53180,asldeafined,21,0,train,25,1,-1,127,31,555,480,https://media.asldeafined.com/vocabulary/1520783879.3951.mp4,solve_0003_asldeafined_53180.mp4,ok
+4,53181,handspeak,14,0,train,25,1,-1,123,0,574,480,https://www.handspeak.com/word/s/solve.mp4,solve_0004_handspeak_53181.mp4,failed
+5,53182,signingsavvy,10,0,train,25,1,-1,58,19,243,192,https://www.signingsavvy.com/signs/mp4/22/22766.mp4,solve_0005_signingsavvy_53182.mp4,ok
+6,53183,aslpro,24,0,train,25,1,-1,15,13,231,240,http://www.aslpro.com/main/s/solve.swf,solve_0006_aslpro_53183.mp4,skipped_swf

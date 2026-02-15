@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57361,asl5200,9,0,test,25,983,1012,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tend_0000_asl5200_57361.mp4,failed
+2,57378,asldeafined,13,0,val,25,1,-1,137,0,514,480,https://media.asldeafined.com/vocabulary/1468943857.2417.mp4,tend_0002_asldeafined_57378.mp4,ok
+3,57379,handspeak,14,0,train,25,1,-1,53,10,280,240,https://www.handspeak.com/word/t/tend.mp4,tend_0003_handspeak_57379.mp4,failed
+4,57380,signingsavvy,11,0,train,25,1,-1,50,12,228,192,https://www.signingsavvy.com/signs/mp4/2/2986.mp4,tend_0004_signingsavvy_57380.mp4,ok
+5,57381,aslu,5,0,train,25,1,-1,320,59,880,720,https://www.youtube.com/watch?v=Ky4WSi_54pY,tend_0005_aslu_57381.mp4,failed
+6,57382,aslu,5,0,train,25,1,-1,90,24,435,360,https://www.youtube.com/watch?v=nMYDl1C11LE,tend_0006_aslu_57382.mp4,failed
+9,57385,aslsearch,41,0,train,25,1,-1,244,44,492,400,http://www.aslsearch.com/signs/videos/intend2.mp4,tend_0009_aslsearch_57385.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48264,asl5200,9,0,val,25,3497,3546,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,road_0000_asl5200_48264.mp4,failed
+1,48273,spreadthesign,37,0,test,25,1,-1,74,0,254,240,https://media.spreadthesign.com/video/mp4/13/457648.mp4,road_0001_spreadthesign_48273.mp4,ok
+2,48274,asldeafined,13,0,train,25,1,-1,133,0,574,480,https://media.asldeafined.com/vocabulary/1468761185.9354.mp4,road_0002_asldeafined_48274.mp4,ok
+3,48275,handspeak,14,0,train,25,1,-1,60,16,262,240,https://www.handspeak.com/word/r/road-car.mp4,road_0003_handspeak_48275.mp4,failed
+4,48276,handspeak,14,0,train,25,1,-1,68,16,256,240,https://www.handspeak.com/word/r/road.mp4,road_0004_handspeak_48276.mp4,failed
+5,48277,signingsavvy,11,0,val,25,1,-1,80,4,232,192,https://www.signingsavvy.com/signs/mp4/5/5951.mp4,road_0005_signingsavvy_48277.mp4,ok
+6,48278,aslpro,87,0,train,25,1,-1,11,2,233,240,http://www.aslpro.com/main/r/road.swf,road_0006_aslpro_48278.mp4,skipped_swf
+7,48279,aslsearch,12,0,train,25,1,-1,201,50,559,400,http://www.aslsearch.com/signs/videos/avenue.mp4,road_0007_aslsearch_48279.mp4,ok

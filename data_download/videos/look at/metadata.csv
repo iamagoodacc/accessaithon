@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33848,asl5200,9,0,test,25,2341,2387,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,look at_0000_asl5200_33848.mp4,failed
+1,33851,spreadthesign,37,0,val,25,1,-1,66,0,236,240,https://media.spreadthesign.com/video/mp4/13/457580.mp4,look at_0001_spreadthesign_33851.mp4,ok
+2,67859,asllex,109,0,train,25,1,-1,101,15,374,360,https://youtu.be/9FtjVGbH9OU,look at_0002_asllex_67859.mp4,failed
+6,33855,handspeak,20,0,train,25,1,-1,17,3,284,240,https://www.handspeak.com/word/l/look-at-me.mp4,look at_0006_handspeak_33855.mp4,failed
+7,33856,handspeak,20,0,train,25,1,-1,89,0,551,470,https://www.handspeak.com/word/l/look-at.mp4,look at_0007_handspeak_33856.mp4,failed
+8,33857,signingsavvy,11,0,train,25,1,-1,64,11,219,192,https://www.signingsavvy.com/signs/mp4/8/8932.mp4,look at_0008_signingsavvy_33857.mp4,ok
+9,33858,aslu,5,0,train,25,1,-1,363,43,974,720,https://www.youtube.com/watch?v=kAYwOdQpzgg,look at_0009_aslu_33858.mp4,failed

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32561,asl5200,9,0,test,25,795,841,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,league_0000_asl5200_32561.mp4,failed
+1,66022,aslsignbank,96,0,val,25,1,-1,196,29,520,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LEAGUE-1684.mp4,league_0001_aslsignbank_66022.mp4,failed
+2,32562,spreadthesign,8,0,train,25,1,-1,72,4,247,240,https://media.spreadthesign.com/video/mp4/13/457508.mp4,league_0002_spreadthesign_32562.mp4,ok
+3,32563,signschool,6,0,train,25,1,-1,699,53,1544,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20League-OxAdQe6YYP0.mp4,league_0003_signschool_32563.mp4,ok
+5,32565,handspeak,85,0,train,25,1,-1,67,5,277,240,https://www.handspeak.com/word/l/league.mp4,league_0005_handspeak_32565.mp4,failed
+6,32566,aslu,5,0,train,25,1,-1,311,44,993,720,https://www.youtube.com/watch?v=Mc3v5tXkiB4,league_0006_aslu_32566.mp4,failed
+7,32567,aslpro,30,0,train,25,1,-1,0,10,224,240,http://www.aslpro.com/main/l/league.swf,league_0007_aslpro_32567.mp4,skipped_swf

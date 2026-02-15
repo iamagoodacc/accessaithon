@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53611,asl5200,9,0,val,25,7138,7200,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,speak_0000_asl5200_53611.mp4,failed
+1,53620,spreadthesign,0,0,test,25,1,-1,56,11,246,240,https://media.spreadthesign.com/video/mp4/13/63583.mp4,speak_0001_spreadthesign_53620.mp4,ok
+2,53621,asldeafined,13,0,train,25,1,-1,153,0,529,480,https://media.asldeafined.com/vocabulary/1468842243.8212.mp4,speak_0002_asldeafined_53621.mp4,ok
+3,53622,signingsavvy,11,0,train,25,1,-1,77,12,219,192,https://www.signingsavvy.com/signs/mp4/14/14613.mp4,speak_0003_signingsavvy_53622.mp4,ok
+4,53623,signingsavvy,11,0,train,25,1,-1,62,17,218,192,https://www.signingsavvy.com/signs/mp4/6/6412.mp4,speak_0004_signingsavvy_53623.mp4,ok
+5,53624,aslu,5,0,val,25,1,-1,375,33,970,720,https://www.youtube.com/watch?v=aPLfEt5n7L0,speak_0005_aslu_53624.mp4,failed
+6,53625,aslpro,87,0,train,25,1,-1,21,8,219,240,http://www.aslpro.com/main/s/speak.swf,speak_0006_aslpro_53625.mp4,skipped_swf
+7,53626,aslsearch,12,0,train,25,1,-1,205,52,546,400,http://www.aslsearch.com/signs/videos/speak.mp4,speak_0007_aslsearch_53626.mp4,ok

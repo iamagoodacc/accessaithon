@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07425,asl5200,9,0,test,25,4160,4232,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,boxing_0000_asl5200_07425.mp4,failed
+1,07430,signschool,6,0,val,25,1,-1,640,86,1577,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Boxing-Qu22D5bn8_A.mp4,boxing_0001_signschool_07430.mp4,ok
+2,07431,asldeafined,59,0,train,25,1,-1,98,34,507,480,https://media.asldeafined.com/vocabulary/1466685129.2384.mp4,boxing_0002_asldeafined_07431.mp4,ok
+3,07432,handspeak,20,0,train,25,1,-1,101,16,536,480,https://www.handspeak.com/word/b/boxing.mp4,boxing_0003_handspeak_07432.mp4,failed
+4,07433,signingsavvy,11,0,train,25,1,-1,68,16,212,192,https://www.signingsavvy.com/signs/mp4/6/6874.mp4,boxing_0004_signingsavvy_07433.mp4,ok
+5,07434,aslpro,44,0,train,25,1,-1,9,1,250,240,http://www.aslpro.com//main/b/boxing.swf,boxing_0005_aslpro_07434.mp4,skipped_swf
+6,07435,aslsearch,41,0,train,25,1,-1,245,43,516,400,http://www.aslsearch.com/signs/videos/boxing.mp4,boxing_0006_aslsearch_07435.mp4,ok

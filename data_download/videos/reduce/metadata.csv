@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,46750,asl5200,9,0,val,25,1170,1219,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,reduce_0000_asl5200_46750.mp4,failed
+2,46759,signingsavvy,11,0,test,25,1,-1,69,11,211,192,https://www.signingsavvy.com/signs/mp4/9/9579.mp4,reduce_0002_signingsavvy_46759.mp4,ok
+4,46761,aslpro,25,0,train,25,1,-1,0,5,238,240,http://www.aslpro.com/main/r/reduce.swf,reduce_0004_aslpro_46761.mp4,skipped_swf
+5,46762,aslsearch,12,0,train,25,1,-1,180,59,541,400,http://www.aslsearch.com/signs/videos/depreciation.mp4,reduce_0005_aslsearch_46762.mp4,ok
+7,46752,signschool,32,0,train,25,1,-1,652,62,1612,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Reduce-CQg2Q50u5ts.mp4,reduce_0007_signschool_46752.mp4,ok
+8,46753,signschool,39,0,val,25,1,-1,748,120,1698,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Reduce--KIAysw871w.mp4,reduce_0008_signschool_46753.mp4,ok
+9,46754,asldeafined,13,0,train,25,1,-1,123,2,530,480,https://media.asldeafined.com/vocabulary/1468758919.1432.mp4,reduce_0009_asldeafined_46754.mp4,ok
+11,46757,handspeak,14,0,train,25,1,-1,106,5,551,480,https://www.handspeak.com/word/r/reduce.mp4,reduce_0011_handspeak_46757.mp4,failed

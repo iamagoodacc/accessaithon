@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15899,spreadthesign,33,0,val,25,1,-1,43,16,268,240,https://media.spreadthesign.com/video/mp4/13/96208.mp4,determine_0000_spreadthesign_15899.mp4,ok
+1,15900,asldeafined,59,0,test,25,1,-1,124,18,613,480,https://media.asldeafined.com/vocabulary/1466909021.4675.mp4,determine_0001_asldeafined_15900.mp4,ok
+2,15901,handspeak,14,0,train,25,1,-1,137,6,517,360,https://www.handspeak.com/word/d/determine-decide.mp4,determine_0002_handspeak_15901.mp4,failed
+3,15902,handspeak,14,0,train,25,1,-1,108,5,516,360,https://www.handspeak.com/word/d/determine-fix.mp4,determine_0003_handspeak_15902.mp4,failed
+5,15904,signingsavvy,11,0,train,25,1,-1,53,15,230,192,https://www.signingsavvy.com/signs/mp4/9/9203.mp4,determine_0005_signingsavvy_15904.mp4,ok
+6,15905,aslu,5,0,val,25,1,-1,285,29,983,720,https://www.youtube.com/watch?v=r8gvnE0liOg,determine_0006_aslu_15905.mp4,failed
+7,15906,aslpro,30,0,train,25,1,-1,0,14,230,240,http://www.aslpro.com/main/d/determine.swf,determine_0007_aslpro_15906.mp4,skipped_swf
+8,15907,aslsearch,12,0,train,25,1,-1,170,61,574,400,http://www.aslsearch.com/signs/videos/determine.mp4,determine_0008_aslsearch_15907.mp4,ok

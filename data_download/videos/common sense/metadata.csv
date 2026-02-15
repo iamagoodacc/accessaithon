@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12022,asl5200,9,0,test,25,4721,4777,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,common sense_0000_asl5200_12022.mp4,failed
+1,12023,elementalasl,19,0,val,25,1,-1,80,12,247,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/common_sense.mov,common sense_0001_elementalasl_12023.mp4,ok
+2,12024,spreadthesign,2,0,train,25,1,-1,53,0,294,240,https://media.spreadthesign.com/video/mp4/13/244215.mp4,common sense_0002_spreadthesign_12024.mp4,ok
+3,12025,asldeafined,21,0,train,25,1,-1,25,0,553,480,https://media.asldeafined.com/vocabulary/1467681384.3135.mp4,common sense_0003_asldeafined_12025.mp4,ok
+4,12026,handspeak,20,0,train,25,1,-1,47,0,561,480,https://www.handspeak.com/word/c/common-sense.mp4,common sense_0004_handspeak_12026.mp4,failed
+5,12027,signingsavvy,10,0,train,25,1,-1,76,19,209,192,https://www.signingsavvy.com/signs/mp4/23/23633.mp4,common sense_0005_signingsavvy_12027.mp4,ok
+6,12028,aslsearch,12,0,train,25,1,-1,165,57,551,400,http://www.aslsearch.com/signs/videos/common-sense.mp4,common sense_0006_aslsearch_12028.mp4,ok

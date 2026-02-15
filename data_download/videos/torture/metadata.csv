@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59000,asl5200,9,0,test,25,4202,4261,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,torture_0000_asl5200_59000.mp4,failed
+1,59001,spreadthesign,2,0,val,25,1,-1,71,23,238,240,https://media.spreadthesign.com/video/mp4/13/90103.mp4,torture_0001_spreadthesign_59001.mp4,ok
+2,59002,signschool,31,0,train,25,1,-1,655,129,1442,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hazing%2C%20Torture-S_jjWm1ndxs.mp4,torture_0002_signschool_59002.mp4,ok
+3,59003,asldeafined,21,0,train,25,1,-1,78,36,575,480,https://media.asldeafined.com/vocabulary/1532963609.3622.mp4,torture_0003_asldeafined_59003.mp4,ok
+4,59004,handspeak,20,0,train,25,1,-1,50,11,269,240,https://www.handspeak.com/word/t/torture.mp4,torture_0004_handspeak_59004.mp4,failed
+5,59005,signingsavvy,11,0,train,25,1,-1,57,12,223,192,https://www.signingsavvy.com/signs/mp4/3/3035.mp4,torture_0005_signingsavvy_59005.mp4,ok
+6,59006,aslpro,30,0,train,25,1,-1,1,16,219,240,http://www.aslpro.com/main/t/torture.swf,torture_0006_aslpro_59006.mp4,skipped_swf

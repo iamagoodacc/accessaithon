@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41093,asl5200,9,0,val,25,470,516,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,parallel_0000_asl5200_41093.mp4,failed
+1,66263,aslsignbank,101,0,test,25,1,-1,181,8,475,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PA/PARALLEL-872.mp4,parallel_0001_aslsignbank_66263.mp4,failed
+2,41094,spreadthesign,2,0,train,25,1,-1,56,9,265,240,https://media.spreadthesign.com/video/mp4/13/116213.mp4,parallel_0002_spreadthesign_41094.mp4,ok
+3,41095,signschool,31,0,train,25,1,-1,614,80,1437,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Parallel-TNwMY8fHbf8.mp4,parallel_0003_signschool_41095.mp4,ok
+4,41096,handspeak,14,0,train,25,1,-1,16,13,279,240,https://www.handspeak.com/word/p/parallel.mp4,parallel_0004_handspeak_41096.mp4,failed
+5,41097,signingsavvy,11,0,val,25,1,-1,64,4,218,192,https://www.signingsavvy.com/signs/mp4/14/14925.mp4,parallel_0005_signingsavvy_41097.mp4,ok
+6,41098,aslpro,25,0,train,25,1,-1,11,7,258,240,http://www.aslpro.com/main/p/parallel.swf,parallel_0006_aslpro_41098.mp4,skipped_swf
+7,41099,aslsearch,41,0,train,25,1,-1,215,35,505,400,http://www.aslsearch.com/signs/videos/parallel.mp4,parallel_0007_aslsearch_41099.mp4,ok

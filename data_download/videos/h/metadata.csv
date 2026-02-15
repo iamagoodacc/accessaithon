@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,26074,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,h_0000_asl5200_26074.mp4,failed
+1,27357,signingsavvy,11,0,val,25,1,-1,85,10,218,192,https://www.signingsavvy.com/signs/mp4/10/10007.mp4,h_0001_signingsavvy_27357.mp4,ok
+2,66046,aslsignbank,96,0,train,25,1,-1,202,35,507,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-H-1669.mp4,h_0002_aslsignbank_66046.mp4,failed
+3,27358,aslpro,30,0,train,25,1,-1,7,11,227,240,http://www.aslpro.com//main/h/h.swf,h_0003_aslpro_27358.mp4,skipped_swf
+4,27355,asldeafined,21,0,train,25,1,-1,114,31,566,480,https://media.asldeafined.com/vocabulary/1528811271.9748.mp4,h_0004_asldeafined_27355.mp4,ok
+5,27359,aslsearch,12,0,train,25,1,-1,173,54,550,400,http://www.aslsearch.com/signs/videos/h.mp4,h_0005_aslsearch_27359.mp4,ok
+6,27356,handspeak,20,0,train,25,1,-1,106,12,459,360,https://www.handspeak.com/word/h/h-abc.mp4,h_0006_handspeak_27356.mp4,failed

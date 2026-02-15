@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16001,asl5200,9,0,val,25,2280,2352,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,diabetes_0000_asl5200_16001.mp4,failed
+1,16002,spreadthesign,2,0,test,25,1,-1,63,10,261,240,https://media.spreadthesign.com/video/mp4/13/158145.mp4,diabetes_0001_spreadthesign_16002.mp4,ok
+3,16004,signschool,4,0,train,25,1,-1,732,50,1609,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Sugar%2C%20Diabetes-d65br6hli5M.mp4,diabetes_0003_signschool_16004.mp4,ok
+4,16005,asldeafined,59,0,train,25,1,-1,134,31,521,480,https://media.asldeafined.com/vocabulary/1466909328.2025.mp4,diabetes_0004_asldeafined_16005.mp4,ok
+5,16006,handspeak,20,0,train,25,1,-1,114,0,455,480,https://www.handspeak.com/word/d/diabetes.mp4,diabetes_0005_handspeak_16006.mp4,failed
+6,16007,signingsavvy,11,0,val,25,1,-1,77,11,216,192,https://www.signingsavvy.com/signs/mp4/9/9305.mp4,diabetes_0006_signingsavvy_16007.mp4,ok
+7,16008,aslpro,30,0,train,25,1,-1,0,17,220,240,http://www.aslpro.com/main/d/diabetes.swf,diabetes_0007_aslpro_16008.mp4,skipped_swf
+8,16009,aslsearch,12,0,train,25,1,-1,202,61,547,400,http://www.aslsearch.com/signs/videos/diabetes.mp4,diabetes_0008_aslsearch_16009.mp4,ok

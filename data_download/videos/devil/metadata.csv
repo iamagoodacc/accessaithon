@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15956,asl5200,9,0,test,25,2223,2279,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,devil_0000_asl5200_15956.mp4,failed
+1,65474,aslsignbank,95,0,val,25,1,-1,144,3,462,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DE/DEVIL-2739.mp4,devil_0001_aslsignbank_65474.mp4,failed
+2,67566,asllex,109,0,train,25,1,-1,103,0,401,360,https://youtu.be/RoTB6AOLlsw,devil_0002_asllex_67566.mp4,failed
+3,15957,signschool,32,0,train,25,1,-1,493,54,1675,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mischief%2C%20Devil-WMntYWP2Pgw.mp4,devil_0003_signschool_15957.mp4,ok
+4,15958,asldeafined,59,0,train,25,1,-1,113,33,518,480,https://media.asldeafined.com/vocabulary/1466909169.8458.mp4,devil_0004_asldeafined_15958.mp4,ok
+7,15961,aslu,5,0,train,25,1,-1,196,12,881,720,https://www.youtube.com/watch?v=lUl04_RS0A0,devil_0007_aslu_15961.mp4,failed
+8,15962,aslpro,30,0,train,25,1,-1,0,17,219,240,http://www.aslpro.com/main/d/devil.swf,devil_0008_aslpro_15962.mp4,skipped_swf

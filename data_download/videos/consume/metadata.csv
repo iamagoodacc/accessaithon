@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65398,aslsignbank,102,0,test,25,1,-1,180,17,491,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONSUME-1133.mp4,consume_0000_aslsignbank_65398.mp4,failed
+1,12863,aslsearch,12,0,val,25,1,-1,198,62,550,400,http://www.aslsearch.com/signs/videos/consume.mp4,consume_0001_aslsearch_12863.mp4,ok
+3,12855,signschool,31,0,train,25,1,-1,737,135,1525,1069,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Consume-AJdq1oglQcY.mp4,consume_0003_signschool_12855.mp4,ok
+5,12857,handspeak,20,0,train,25,1,-1,53,0,295,240,https://www.handspeak.com/word/c/consume2.mp4,consume_0005_handspeak_12857.mp4,failed
+6,12858,handspeak,14,0,train,25,1,-1,35,0,303,240,https://www.handspeak.com/word/c/consume.mp4,consume_0006_handspeak_12858.mp4,failed
+8,12860,signingsavvy,11,0,train,25,1,-1,74,8,215,192,https://www.signingsavvy.com/signs/mp4/6/6105.mp4,consume_0008_signingsavvy_12860.mp4,ok
+9,12861,aslpro,24,0,train,25,1,-1,6,9,200,240,http://www.aslpro.com/main/c/consume.swf,consume_0009_aslpro_12861.mp4,skipped_swf

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56354,spreadthesign,0,0,test,25,1,-1,16,11,290,240,https://media.spreadthesign.com/video/mp4/13/63591.mp4,swimming_0000_spreadthesign_56354.mp4,ok
+1,56355,startasl,38,0,val,25,1,-1,299,58,916,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/swimming.mp4,swimming_0001_startasl_56355.mp4,ok
+2,56356,signschool,4,0,train,25,1,-1,312,58,1765,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Swimming-GdaFWIWJd_U.mp4,swimming_0002_signschool_56356.mp4,ok
+3,56357,asldeafined,13,0,train,25,1,-1,48,0,640,480,https://media.asldeafined.com/vocabulary/1468898720.3226.mp4,swimming_0003_asldeafined_56357.mp4,ok
+4,56358,handspeak,14,0,train,25,1,-1,57,0,617,480,https://www.handspeak.com/word/s/swim.mp4,swimming_0004_handspeak_56358.mp4,failed
+5,56359,signingsavvy,11,0,train,25,1,-1,50,0,238,192,https://www.signingsavvy.com/signs/mp4/14/14888.mp4,swimming_0005_signingsavvy_56359.mp4,ok
+6,56360,aslsearch,41,0,train,25,1,-1,167,38,571,400,http://www.aslsearch.com/signs/videos/swim2.mp4,swimming_0006_aslsearch_56360.mp4,ok

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35922,asl5200,9,0,val,25,1271,1340,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,microphone_0000_asl5200_35922.mp4,failed
+1,35923,spreadthesign,0,0,test,25,1,-1,63,12,246,240,https://media.spreadthesign.com/video/mp4/13/69416.mp4,microphone_0001_spreadthesign_35923.mp4,ok
+2,35924,signschool,32,0,train,25,1,-1,752,81,1612,1065,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Microphone-sNDoe7xKeL4.mp4,microphone_0002_signschool_35924.mp4,ok
+3,35925,asldeafined,15,0,train,25,1,-1,139,7,590,540,https://media.asldeafined.com/vocabulary/1546372136.4796.mp4,microphone_0003_asldeafined_35925.mp4,ok
+6,35928,signingsavvy,11,0,train,25,1,-1,63,12,207,192,https://www.signingsavvy.com/signs/mp4/14/14055.mp4,microphone_0006_signingsavvy_35928.mp4,ok
+7,35929,aslu,5,0,val,25,1,-1,340,19,937,720,https://www.youtube.com/watch?v=WUlS6zlrtCQ,microphone_0007_aslu_35929.mp4,failed
+8,35930,aslpro,30,0,train,25,1,-1,0,11,223,240,http://www.aslpro.com/main/m/microphone.swf,microphone_0008_aslpro_35930.mp4,skipped_swf
+9,35931,aslsearch,12,0,train,25,1,-1,166,51,548,400,http://www.aslsearch.com/signs/videos/microphone.mp4,microphone_0009_aslsearch_35931.mp4,ok

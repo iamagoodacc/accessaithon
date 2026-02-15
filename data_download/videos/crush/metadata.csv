@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14156,asl5200,9,0,val,25,7080,7132,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,crush_0000_asl5200_14156.mp4,failed
+1,69286,aslbrick,117,0,test,25,1,-1,405,41,924,720,http://aslbricks.org/New/ASL-Videos/crush.mp4,crush_0001_aslbrick_69286.mp4,ok
+4,14157,spreadthesign,0,0,train,25,1,-1,60,7,256,240,https://media.spreadthesign.com/video/mp4/13/74956.mp4,crush_0004_spreadthesign_14157.mp4,ok
+5,14158,signschool,4,0,train,25,1,-1,543,59,1714,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Crush--5Zjis-VEWA.mp4,crush_0005_signschool_14158.mp4,ok
+7,14160,handspeak,20,0,train,25,1,-1,67,7,458,360,https://www.handspeak.com/word/c/crush-press2.mp4,crush_0007_handspeak_14160.mp4,failed
+8,14161,handspeak,20,0,val,25,1,-1,67,11,462,360,https://www.handspeak.com/word/c/crush-press.mp4,crush_0008_handspeak_14161.mp4,failed
+9,14162,signingsavvy,10,0,train,25,1,-1,48,25,195,192,https://www.signingsavvy.com/signs/mp4/22/22558.mp4,crush_0009_signingsavvy_14162.mp4,ok
+11,14164,aslpro,16,0,train,25,1,-1,0,4,246,240,http://www.aslpro.com/main/c/crush.swf,crush_0011_aslpro_14164.mp4,skipped_swf

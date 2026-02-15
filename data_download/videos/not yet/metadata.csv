@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38944,signschool,32,0,test,25,1,-1,664,63,1637,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Not%20Yet-2y_Uztw9Wpo.mp4,not yet_0000_signschool_38944.mp4,ok
+1,38948,handspeak,20,0,val,25,1,-1,125,0,549,480,https://www.handspeak.com/word/n/not-yet.mp4,not yet_0001_handspeak_38948.mp4,failed
+2,68530,lillybauer,113,0,train,25,1,74,54,0,1016,720,https://www.youtube.com/watch?v=Hp3VCTN3DSs,not yet_0002_lillybauer_68530.mp4,failed
+3,67936,asllex,109,0,train,25,1,-1,21,23,386,360,https://youtu.be/l669l_X3VIo,not yet_0003_asllex_67936.mp4,failed
+4,38945,signschool,6,0,train,25,1,-1,524,76,1444,1078,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Not%20Yet-U6FNL5QkWYc.mp4,not yet_0004_signschool_38945.mp4,ok
+5,38949,signingsavvy,10,0,train,25,1,-1,44,15,215,192,https://www.signingsavvy.com/signs/mp4/22/22575.mp4,not yet_0005_signingsavvy_38949.mp4,ok
+6,38946,asldeafined,40,0,train,25,1,-1,121,45,640,480,https://media.asldeafined.com/vocabulary/1489406256.4045.mp4,not yet_0006_asldeafined_38946.mp4,ok

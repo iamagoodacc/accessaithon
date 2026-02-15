@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,30820,asl5200,9,0,test,25,1,33,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,j_0000_asl5200_30820.mp4,failed
+1,66048,aslsignbank,96,0,val,25,1,-1,200,33,524,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-J-1668.mp4,j_0001_aslsignbank_66048.mp4,failed
+2,31100,asldeafined,21,0,train,25,1,-1,133,33,574,480,https://media.asldeafined.com/vocabulary/1528811480.114.mp4,j_0002_asldeafined_31100.mp4,ok
+3,31101,handspeak,20,0,train,25,1,-1,121,15,462,360,https://www.handspeak.com/word/j/j-abc.mp4,j_0003_handspeak_31101.mp4,failed
+4,31102,signingsavvy,11,0,train,25,1,-1,83,5,226,192,https://www.signingsavvy.com/signs/mp4/10/10009.mp4,j_0004_signingsavvy_31102.mp4,ok
+5,31103,aslpro,30,0,train,25,1,-1,7,12,229,240,http://www.aslpro.com//main/j/j.swf,j_0005_aslpro_31103.mp4,skipped_swf
+6,31104,aslsearch,12,0,train,25,1,-1,176,62,550,400,http://www.aslsearch.com/signs/videos/j.mp4,j_0006_aslsearch_31104.mp4,ok

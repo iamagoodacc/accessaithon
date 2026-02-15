@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47220,asl5200,9,0,val,25,1826,1898,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,remote control_0000_asl5200_47220.mp4,failed
+1,66389,aslsignbank,103,0,test,25,1,-1,119,34,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/REMOTE-CONTROL-960.mp4,remote control_0001_aslsignbank_66389.mp4,failed
+2,67133,asllex,109,0,train,25,1,-1,102,9,373,360,https://youtu.be/gb5WMoePPwI,remote control_0002_asllex_67133.mp4,failed
+3,47221,spreadthesign,0,0,train,25,1,-1,38,6,244,240,https://media.spreadthesign.com/video/mp4/13/69437.mp4,remote control_0003_spreadthesign_47221.mp4,ok
+4,47222,signschool,4,0,train,25,1,-1,739,67,1544,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Remote%20Controller-_OfbC-sZ3vQ.mp4,remote control_0004_signschool_47222.mp4,ok
+5,47223,handspeak,14,0,val,25,1,-1,102,6,542,480,https://www.handspeak.com/word/r/remote-control.mp4,remote control_0005_handspeak_47223.mp4,failed
+6,47224,signingsavvy,11,0,train,25,1,-1,60,14,220,192,https://www.signingsavvy.com/signs/mp4/2/2570.mp4,remote control_0006_signingsavvy_47224.mp4,ok
+7,47225,aslsearch,41,0,train,25,1,-1,211,42,475,400,http://www.aslsearch.com/signs/videos/remote-control.mp4,remote control_0007_aslsearch_47225.mp4,ok

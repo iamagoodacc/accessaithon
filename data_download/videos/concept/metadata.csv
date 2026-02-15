@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12400,asl5200,9,0,val,25,5225,5291,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,concept_0000_asl5200_12400.mp4,failed
+1,12408,aslsearch,41,0,test,25,1,-1,192,42,483,400,http://www.aslsearch.com/signs/videos/concept.mp4,concept_0001_aslsearch_12408.mp4,ok
+2,65392,aslsignbank,102,0,train,25,1,-1,144,15,490,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONCEPT-1121.mp4,concept_0002_aslsignbank_65392.mp4,failed
+3,67521,asllex,109,0,train,25,1,-1,78,0,436,360,https://youtu.be/RYp8k7OPuog,concept_0003_asllex_67521.mp4,failed
+5,12402,signschool,6,0,train,25,1,-1,659,48,1519,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Concept-ayuYN6voLWo.mp4,concept_0005_signschool_12402.mp4,ok
+6,12403,asldeafined,59,0,val,25,1,-1,127,23,521,480,https://media.asldeafined.com/vocabulary/1466901272.6795.mp4,concept_0006_asldeafined_12403.mp4,ok
+8,12405,handspeak,20,0,train,25,1,-1,66,26,542,480,https://www.handspeak.com/word/c/concept.mp4,concept_0008_handspeak_12405.mp4,failed
+10,12407,aslpro,30,0,train,25,1,-1,0,10,224,240,http://www.aslpro.com/main/c/concept.swf,concept_0010_aslpro_12407.mp4,skipped_swf

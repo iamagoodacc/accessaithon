@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43078,elementalasl,19,0,val,25,1,-1,86,10,235,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/plant.mov,plant_0000_elementalasl_43078.mp4,ok
+3,43087,nabboud,65,0,test,25,1,-1,412,64,870,720,https://www.youtube.com/watch?v=vUakbqo-1uM,plant_0003_nabboud_43087.mp4,failed
+5,43089,aslpro,24,0,train,25,1,-1,25,16,197,240,http://www.aslpro.com/main/p/plant.swf,plant_0005_aslpro_43089.mp4,skipped_swf
+6,43090,aslsearch,41,0,train,25,1,-1,237,41,487,400,http://www.aslsearch.com/signs/videos/grow.mp4,plant_0006_aslsearch_43090.mp4,ok
+7,43079,startasl,38,0,train,25,1,-1,423,54,807,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/plant.mp4,plant_0007_startasl_43079.mp4,ok
+9,43081,asldeafined,13,0,val,25,1,-1,159,2,526,480,https://media.asldeafined.com/vocabulary/1468726500.8864.mp4,plant_0009_asldeafined_43081.mp4,ok
+10,43082,handspeak,14,0,train,25,1,-1,67,18,244,240,https://www.handspeak.com/word/p/plant.mp4,plant_0010_handspeak_43082.mp4,failed
+11,43083,signingsavvy,10,0,train,25,1,-1,98,22,200,192,https://www.signingsavvy.com/signs/mp4/22/22295.mp4,plant_0011_signingsavvy_43083.mp4,ok

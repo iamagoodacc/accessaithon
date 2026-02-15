@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,35188,asl5200,9,0,val,25,628,677,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,mature_0000_asl5200_35188.mp4,failed
+1,35197,aslpro,87,0,test,25,1,-1,21,19,209,240,http://www.aslpro.com/main/m/mature.swf,mature_0001_aslpro_35197.mp4,skipped_swf
+2,35198,aslsearch,12,0,train,25,1,-1,196,51,541,400,http://www.aslsearch.com/signs/videos/mature.mp4,mature_0002_aslsearch_35198.mp4,ok
+3,35189,spreadthesign,2,0,train,25,1,-1,37,0,271,240,https://media.spreadthesign.com/video/mp4/13/246006.mp4,mature_0003_spreadthesign_35189.mp4,ok
+4,35190,signschool,4,0,train,25,1,-1,601,59,1664,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Mature-0EES6sUtXV8.mp4,mature_0004_signschool_35190.mp4,ok
+5,35191,asldeafined,13,0,val,25,1,-1,123,0,520,480,https://media.asldeafined.com/vocabulary/1468714214.6293.mp4,mature_0005_asldeafined_35191.mp4,ok
+6,35192,handspeak,14,0,train,25,1,-1,60,11,253,240,https://www.handspeak.com/word/m/mature.mp4,mature_0006_handspeak_35192.mp4,failed
+10,35196,aslu,5,0,train,25,1,-1,312,27,918,720,https://www.youtube.com/watch?v=lBaY0BnQcfA,mature_0010_aslu_35196.mp4,failed

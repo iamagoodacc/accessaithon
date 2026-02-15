@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,33235,asl5200,9,0,val,25,1541,1590,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lightning_0000_asl5200_33235.mp4,failed
+1,69388,aslbrick,116,0,test,25,1,-1,105,2,507,480,http://aslbricks.org/New/ASL-Videos/lightning.mp4,lightning_0001_aslbrick_69388.mp4,ok
+2,33246,aslsearch,12,0,train,25,1,-1,180,53,570,400,http://www.aslsearch.com/signs/videos/lightning.mp4,lightning_0002_aslsearch_33246.mp4,ok
+3,33238,spreadthesign,8,0,train,25,1,-1,60,4,284,240,https://media.spreadthesign.com/video/mp4/13/457549.mp4,lightning_0003_spreadthesign_33238.mp4,ok
+6,33240,signschool,31,0,train,25,1,-1,596,148,1545,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lightning-i-P-bK_JVVw.mp4,lightning_0006_signschool_33240.mp4,ok
+7,33241,asldeafined,13,0,val,25,1,-1,142,0,595,480,https://media.asldeafined.com/vocabulary/1468711669.2099.mp4,lightning_0007_asldeafined_33241.mp4,ok
+9,33243,signingsavvy,11,0,train,25,1,-1,52,7,256,192,https://www.signingsavvy.com/signs/mp4/14/14595.mp4,lightning_0009_signingsavvy_33243.mp4,ok
+10,33244,nabboud,65,0,train,25,1,-1,293,93,915,720,https://www.youtube.com/watch?v=o7U_zK2T8J4,lightning_0010_nabboud_33244.mp4,failed

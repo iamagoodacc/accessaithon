@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57604,asl5200,9,0,test,25,1388,1424,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,than_0000_asl5200_57604.mp4,failed
+1,66597,aslsignbank,91,0,val,25,1,-1,220,29,501,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TH/THAN-1197.mp4,than_0001_aslsignbank_66597.mp4,failed
+2,57605,spreadthesign,26,0,train,25,1,-1,66,26,246,240,https://media.spreadthesign.com/video/mp4/13/307707.mp4,than_0002_spreadthesign_57605.mp4,ok
+3,57606,asldeafined,13,0,train,25,1,-1,122,0,559,480,https://media.asldeafined.com/vocabulary/1468944185.7935.mp4,than_0003_asldeafined_57606.mp4,ok
+4,57607,handspeak,14,0,train,25,1,-1,41,0,600,480,https://www.handspeak.com/word/t/than.mp4,than_0004_handspeak_57607.mp4,failed
+6,57609,aslu,5,0,train,25,1,-1,286,32,1041,720,https://www.youtube.com/watch?v=BCkC83xh8SA,than_0006_aslu_57609.mp4,failed
+7,57610,aslsearch,12,0,train,25,1,-1,150,53,555,400,http://www.aslsearch.com/signs/videos/than.mp4,than_0007_aslsearch_57610.mp4,ok

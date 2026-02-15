@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01062,asl5200,9,0,test,25,674,739,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,adjective_0000_asl5200_01062.mp4,failed
+2,01064,spreadthesign,2,0,val,25,1,-1,76,14,250,240,https://media.spreadthesign.com/video/mp4/13/118339.mp4,adjective_0002_spreadthesign_01064.mp4,ok
+3,01065,signschool,4,0,train,25,1,-1,709,47,1623,1066,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Adjective%2C%20Adjourn-Eu8W3GPjUz0.mp4,adjective_0003_signschool_01065.mp4,ok
+4,01066,asldeafined,13,0,train,25,1,-1,92,24,517,480,https://media.asldeafined.com/vocabulary/1466170086.8885.mp4,adjective_0004_asldeafined_01066.mp4,ok
+5,01067,handspeak,20,0,train,25,1,-1,110,0,495,360,https://www.handspeak.com/word/a/adjective.mp4,adjective_0005_handspeak_01067.mp4,failed
+6,01068,signingsavvy,11,0,train,25,1,-1,59,18,211,192,https://www.signingsavvy.com/signs/mp4/8/8657.mp4,adjective_0006_signingsavvy_01068.mp4,ok
+7,01069,aslpro,30,0,train,25,1,-1,20,20,201,240,http://www.aslpro.com/main/a/adjective.swf,adjective_0007_aslpro_01069.mp4,skipped_swf

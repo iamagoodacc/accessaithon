@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41902,asldeafined,13,0,test,25,1,-1,126,0,517,480,https://media.asldeafined.com/vocabulary/1468724803.4799.mp4,penny_0000_asldeafined_41902.mp4,ok
+1,67973,asllex,109,0,val,25,1,-1,72,19,373,360,https://youtu.be/N8I5QR_ph5k,penny_0001_asllex_67973.mp4,failed
+2,41903,handspeak,14,0,train,25,1,-1,74,7,286,240,https://www.handspeak.com/word/p/penny2.mp4,penny_0002_handspeak_41903.mp4,failed
+3,41904,handspeak,14,0,train,25,1,-1,75,17,294,240,https://www.handspeak.com/word/p/penny.mp4,penny_0003_handspeak_41904.mp4,failed
+4,41905,signingsavvy,11,0,train,25,1,-1,63,10,214,192,https://www.signingsavvy.com/signs/mp4/6/6753.mp4,penny_0004_signingsavvy_41905.mp4,ok
+5,41906,aslpro,30,0,train,25,1,-1,6,9,231,240,http://www.aslpro.com/main/p/penny.swf,penny_0005_aslpro_41906.mp4,skipped_swf
+6,41907,aslsearch,12,0,train,25,1,-1,196,54,573,400,http://www.aslsearch.com/signs/videos/one-cent.mp4,penny_0006_aslsearch_41907.mp4,ok

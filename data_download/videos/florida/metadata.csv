@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,22509,asl5200,9,0,val,25,2009,2047,0,0,360,240,https://www.youtube.com/watch?v=lWaQxL25Aew,florida_0000_asl5200_22509.mp4,failed
+1,22510,spreadthesign,37,0,test,25,1,-1,38,1,244,240,https://media.spreadthesign.com/video/mp4/13/455508.mp4,florida_0001_spreadthesign_22510.mp4,ok
+2,22511,signschool,39,0,train,25,1,-1,892,59,1721,1068,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Florida-sXM8QeBTErY.mp4,florida_0002_signschool_22511.mp4,ok
+3,22512,asldeafined,34,0,train,25,1,-1,138,70,503,480,https://media.asldeafined.com/vocabulary/1546573628.455.mp4,florida_0003_asldeafined_22512.mp4,ok
+4,22513,handspeak,14,0,train,25,1,-1,54,14,260,240,https://www.handspeak.com/word/f/florida.mp4,florida_0004_handspeak_22513.mp4,failed
+5,22514,signingsavvy,11,0,val,25,1,-1,69,9,209,192,https://www.signingsavvy.com/signs/mp4/9/9436.mp4,florida_0005_signingsavvy_22514.mp4,ok
+6,22515,aslpro,49,0,train,25,1,-1,38,15,213,240,http://www.aslpro.com/main/f/florida_1.swf,florida_0006_aslpro_22515.mp4,skipped_swf
+7,22516,aslpro,49,0,train,25,1,-1,24,14,224,240,http://www.aslpro.com/main/f/florida_2.swf,florida_0007_aslpro_22516.mp4,skipped_swf

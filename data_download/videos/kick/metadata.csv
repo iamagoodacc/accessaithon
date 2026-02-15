@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31588,asl5200,9,0,val,25,260,296,0,0,360,240,https://www.youtube.com/watch?v=D2Vg3lKjX78,kick_0000_asl5200_31588.mp4,failed
+1,65990,aslsignbank,90,0,test,25,1,-1,149,16,494,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/KI/KICK-161.mp4,kick_0001_aslsignbank_65990.mp4,failed
+2,31592,spreadthesign,8,0,train,25,1,-1,13,2,274,240,https://media.spreadthesign.com/video/mp4/13/457457.mp4,kick_0002_spreadthesign_31592.mp4,ok
+4,31594,asldeafined,21,0,train,25,1,-1,52,9,590,480,https://media.asldeafined.com/vocabulary/1468670230.5109.mp4,kick_0004_asldeafined_31594.mp4,ok
+5,31595,handspeak,14,0,train,25,1,-1,36,9,249,240,https://www.handspeak.com/word/k/kick-foot.mp4,kick_0005_handspeak_31595.mp4,failed
+6,31596,signingsavvy,11,0,val,25,1,-1,54,14,217,192,https://www.signingsavvy.com/signs/mp4/6/6418.mp4,kick_0006_signingsavvy_31596.mp4,ok
+7,31599,aslpro,30,0,train,25,1,-1,0,10,222,240,http://www.aslpro.com/main/k/kick.swf,kick_0007_aslpro_31599.mp4,skipped_swf
+8,31600,aslsearch,41,0,train,25,1,-1,212,47,522,400,http://www.aslsearch.com/signs/videos/kick.mp4,kick_0008_aslsearch_31600.mp4,ok

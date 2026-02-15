@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69520,aslbrick,118,0,test,25,1,-1,336,39,880,720,http://aslbricks.org/New/ASL-Videos/tv.mp4,tv_0000_aslbrick_69520.mp4,ok
+1,68518,lillybauer,115,0,val,25,1,43,328,24,949,720,https://www.youtube.com/watch?v=h8g3j_AXpM4,tv_0001_lillybauer_68518.mp4,failed
+2,60072,aslu,5,0,train,25,1,-1,253,24,921,720,https://www.youtube.com/watch?v=O_67KlrLWas,tv_0002_aslu_60072.mp4,failed
+3,67329,asllex,109,0,train,25,1,-1,104,24,369,360,https://youtu.be/SzNmvpgBdmI,tv_0003_asllex_67329.mp4,failed
+4,60073,aslu,5,0,train,25,1,-1,263,29,914,720,https://www.youtube.com/watch?v=XH8-L7NjeNY,tv_0004_aslu_60073.mp4,failed
+5,60074,aslpro,72,0,train,25,1,-1,21,12,221,240,http://www.aslpro.com//main/t/tv.swf,tv_0005_aslpro_60074.mp4,skipped_swf
+6,60075,aslsearch,12,0,train,25,1,-1,173,51,541,398,http://www.aslsearch.com/signs/videos/tv.mp4,tv_0006_aslsearch_60075.mp4,ok

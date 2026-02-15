@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,17557,elementalasl,19,0,test,25,1,-1,34,0,320,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/drama.mov,drama_0000_elementalasl_17557.mp4,ok
+2,17559,startasl,38,0,val,25,1,-1,388,58,870,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/drama.mp4,drama_0002_startasl_17559.mp4,ok
+3,17560,asldeafined,13,0,train,25,1,-1,78,17,593,480,https://media.asldeafined.com/vocabulary/1466168888.1537.mp4,drama_0003_asldeafined_17560.mp4,ok
+4,17561,handspeak,14,0,train,25,1,-1,56,0,298,240,https://www.handspeak.com/word/d/drama.mp4,drama_0004_handspeak_17561.mp4,failed
+5,17562,signingsavvy,11,0,train,25,1,-1,64,11,231,192,https://www.signingsavvy.com/signs/mp4/6/6372.mp4,drama_0005_signingsavvy_17562.mp4,ok
+6,17563,aslpro,72,0,train,25,1,-1,51,1,298,240,http://www.aslpro.com/main/d/drama.swf,drama_0006_aslpro_17563.mp4,skipped_swf
+7,17564,aslsearch,12,0,train,25,1,-1,178,54,536,400,http://www.aslsearch.com/signs/videos/drama.mp4,drama_0007_aslsearch_17564.mp4,ok

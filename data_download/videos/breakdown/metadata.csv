@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,07611,asl5200,9,0,test,25,4652,4691,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,breakdown_0000_asl5200_07611.mp4,failed
+1,07613,asldeafined,21,0,val,25,1,-1,132,74,690,540,https://media.asldeafined.com/vocabulary/1546355704.3953.mp4,breakdown_0001_asldeafined_07613.mp4,ok
+2,07618,signingsavvy,10,0,train,25,1,-1,54,22,229,192,https://www.signingsavvy.com/signs/mp4/22/22615.mp4,breakdown_0002_signingsavvy_07618.mp4,ok
+4,70093,northtexas,121,0,train,25,2711,2822,111,20,533,480,https://www.youtube.com/watch?v=RaTg-FuhCmY,breakdown_0004_northtexas_70093.mp4,failed
+5,67441,asllex,109,0,train,25,1,-1,77,0,418,360,https://youtu.be/SLrW2wRCilg,breakdown_0005_asllex_67441.mp4,failed
+6,65253,aslsignbank,92,0,train,25,1,-1,172,34,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BR/BREAKDOWN-2036.mp4,breakdown_0006_aslsignbank_65253.mp4,failed
+8,07612,spreadthesign,8,0,train,25,1,-1,58,0,258,240,https://media.spreadthesign.com/video/mp4/13/455710.mp4,breakdown_0008_spreadthesign_07612.mp4,ok

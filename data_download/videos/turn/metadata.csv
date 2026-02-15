@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,59969,asl5200,9,0,test,25,5490,5536,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,turn_0000_asl5200_59969.mp4,failed
+1,66684,aslsignbank,93,0,val,25,1,-1,71,35,467,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TU/TURN-308.mp4,turn_0001_aslsignbank_66684.mp4,failed
+2,59989,handspeak,14,0,train,25,1,-1,73,0,561,480,https://www.handspeak.com/word/t/turn.mp4,turn_0002_handspeak_59989.mp4,failed
+4,59991,signingsavvy,10,0,train,25,1,-1,60,25,206,192,https://www.signingsavvy.com/signs/mp4/22/22399.mp4,turn_0004_signingsavvy_59991.mp4,ok
+5,59992,signingsavvy,10,0,train,25,1,-1,64,24,206,192,https://www.signingsavvy.com/signs/mp4/22/22400.mp4,turn_0005_signingsavvy_59992.mp4,ok
+6,59993,aslpro,30,0,train,25,1,-1,0,15,220,240,http://www.aslpro.com/main/t/turn.swf,turn_0006_aslpro_59993.mp4,skipped_swf
+9,59996,aslsearch,12,0,train,25,1,-1,133,53,558,400,http://www.aslsearch.com/signs/videos/turn.mp4,turn_0009_aslsearch_59996.mp4,ok

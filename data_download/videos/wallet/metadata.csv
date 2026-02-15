@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,66745,aslsignbank,93,0,val,25,1,-1,183,33,476,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/WA/WALLET-359.mp4,wallet_0000_aslsignbank_66745.mp4,failed
+1,62189,spreadthesign,0,0,test,25,1,-1,37,9,265,240,https://media.spreadthesign.com/video/mp4/13/65932.mp4,wallet_0001_spreadthesign_62189.mp4,ok
+2,62190,signschool,32,0,train,25,1,-1,755,68,1618,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wallet-TP_rARyOxww.mp4,wallet_0002_signschool_62190.mp4,ok
+3,62191,asldeafined,15,0,train,25,1,-1,175,14,552,480,https://media.asldeafined.com/vocabulary/1527816587.3091.mp4,wallet_0003_asldeafined_62191.mp4,ok
+4,62192,signingsavvy,11,0,train,25,1,-1,63,15,220,192,https://www.signingsavvy.com/signs/mp4/3/3147.mp4,wallet_0004_signingsavvy_62192.mp4,ok
+5,62193,aslpro,72,0,val,25,1,-1,37,7,250,240,http://www.aslpro.com//main/w/wallet_2.swf,wallet_0005_aslpro_62193.mp4,skipped_swf
+6,62194,aslpro,24,0,train,25,1,-1,13,20,217,240,http://www.aslpro.com/main/w/wallet.swf,wallet_0006_aslpro_62194.mp4,skipped_swf
+7,62195,aslsearch,41,0,train,25,1,-1,241,37,506,400,http://www.aslsearch.com/signs/videos/wallet.mp4,wallet_0007_aslsearch_62195.mp4,ok

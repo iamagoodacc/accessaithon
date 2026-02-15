@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41895,asl5200,9,0,test,25,1214,1253,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,pennsylvania_0000_asl5200_41895.mp4,failed
+1,66277,aslsignbank,101,0,val,25,1,-1,201,6,492,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PE/PENNSYLVANIA-885.mp4,pennsylvania_0001_aslsignbank_66277.mp4,failed
+2,41896,signschool,39,0,train,25,1,-1,842,64,1721,1063,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Pennsylvania-M6dJoh6osVI.mp4,pennsylvania_0002_signschool_41896.mp4,ok
+3,41897,asldeafined,13,0,train,25,1,-1,105,0,525,480,https://media.asldeafined.com/vocabulary/1468724783.1897.mp4,pennsylvania_0003_asldeafined_41897.mp4,ok
+4,41899,signingsavvy,11,0,train,25,1,-1,69,12,210,192,https://www.signingsavvy.com/signs/mp4/9/9469.mp4,pennsylvania_0004_signingsavvy_41899.mp4,ok
+5,41900,signingsavvy,11,0,train,25,1,-1,68,12,212,192,https://www.signingsavvy.com/signs/mp4/9/9470.mp4,pennsylvania_0005_signingsavvy_41900.mp4,ok
+6,41901,aslpro,49,0,train,25,1,-1,35,16,215,240,http://www.aslpro.com/main/p/pennsylvania.swf,pennsylvania_0006_aslpro_41901.mp4,skipped_swf

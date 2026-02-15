@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15874,asl5200,9,0,test,25,2137,2179,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,detective_0000_asl5200_15874.mp4,failed
+1,70199,northtexas,121,0,val,25,5330,5446,145,35,452,480,https://www.youtube.com/watch?v=2DblIQ5n6xk,detective_0001_northtexas_70199.mp4,failed
+3,15876,asldeafined,21,0,train,25,1,-1,137,81,571,540,https://media.asldeafined.com/vocabulary/1546362910.2982.mp4,detective_0003_asldeafined_15876.mp4,ok
+4,15877,handspeak,14,0,train,25,1,-1,55,0,290,240,https://www.handspeak.com/word/d/detective.mp4,detective_0004_handspeak_15877.mp4,failed
+5,15878,signingsavvy,11,0,train,25,1,-1,83,13,216,192,https://www.signingsavvy.com/signs/mp4/9/9086.mp4,detective_0005_signingsavvy_15878.mp4,ok
+6,15879,aslpro,72,0,train,25,1,-1,22,7,225,240,http://www.aslpro.com/main/d/detective.swf,detective_0006_aslpro_15879.mp4,skipped_swf
+7,15880,aslsearch,12,0,train,25,1,-1,180,58,536,400,http://www.aslsearch.com/signs/videos/detective.mp4,detective_0007_aslsearch_15880.mp4,ok

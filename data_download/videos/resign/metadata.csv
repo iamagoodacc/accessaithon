@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47552,asl5200,9,0,val,25,2508,2557,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,resign_0000_asl5200_47552.mp4,failed
+1,66394,aslsignbank,103,0,test,25,1,-1,124,28,480,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESIGN-965.mp4,resign_0001_aslsignbank_66394.mp4,failed
+2,47554,spreadthesign,2,0,train,25,1,-1,65,0,259,240,https://media.spreadthesign.com/video/mp4/13/116533.mp4,resign_0002_spreadthesign_47554.mp4,ok
+3,47555,asldeafined,13,0,train,25,1,-1,142,0,548,480,https://media.asldeafined.com/vocabulary/1468760236.2133.mp4,resign_0003_asldeafined_47555.mp4,ok
+4,47556,handspeak,14,0,train,25,1,-1,41,2,548,480,https://www.handspeak.com/word/r/resign.mp4,resign_0004_handspeak_47556.mp4,failed
+5,47557,signingsavvy,11,0,val,25,1,-1,69,15,212,192,https://www.signingsavvy.com/signs/mp4/7/7470.mp4,resign_0005_signingsavvy_47557.mp4,ok
+7,47559,aslu,5,0,train,25,1,-1,314,40,916,720,https://www.youtube.com/watch?v=j7-2qB08VJc,resign_0007_aslu_47559.mp4,failed
+9,47561,aslsearch,12,0,train,25,1,-1,174,48,539,400,http://www.aslsearch.com/signs/videos/back-out.mp4,resign_0009_aslsearch_47561.mp4,ok

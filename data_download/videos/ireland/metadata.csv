@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,30582,asl5200,9,0,test,25,1809,1861,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,ireland_0000_asl5200_30582.mp4,failed
+1,65963,aslsignbank,96,0,val,25,1,-1,204,33,513,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IR/IRELAND-1716.mp4,ireland_0001_aslsignbank_65963.mp4,failed
+3,30584,signschool,45,0,train,25,1,-1,549,107,1485,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ireland-4Vuk5SUToeI.mp4,ireland_0003_signschool_30584.mp4,ok
+4,30585,asldeafined,21,0,train,25,1,-1,56,5,574,480,https://media.asldeafined.com/vocabulary/1468668451.135.mp4,ireland_0004_asldeafined_30585.mp4,ok
+5,30587,signingsavvy,11,0,train,25,1,-1,69,4,212,192,https://www.signingsavvy.com/signs/mp4/5/5762.mp4,ireland_0005_signingsavvy_30587.mp4,ok
+6,30588,aslu,5,0,train,25,1,-1,304,44,1035,720,https://www.youtube.com/watch?v=aDwyyw2t3mU,ireland_0006_aslu_30588.mp4,failed
+7,30589,aslpro,83,0,train,25,1,-1,0,12,221,240,http://www.aslpro.com/main/i/ireland.swf,ireland_0007_aslpro_30589.mp4,skipped_swf

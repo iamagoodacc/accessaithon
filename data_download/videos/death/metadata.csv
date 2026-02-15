@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14952,elementalasl,19,0,test,25,1,-1,86,8,238,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/death.mov,death_0000_elementalasl_14952.mp4,ok
+1,67554,asllex,109,0,val,25,1,-1,103,0,421,360,https://youtu.be/PYp2EXhIQJs,death_0001_asllex_67554.mp4,failed
+2,14953,spreadthesign,0,0,train,25,1,-1,36,0,275,240,https://media.spreadthesign.com/video/mp4/13/58426.mp4,death_0002_spreadthesign_14953.mp4,ok
+3,14954,signschool,4,0,train,25,1,-1,449,60,1739,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Die%2C%20Dead%2C%20Death-asz45VLQwmg.mp4,death_0003_signschool_14954.mp4,ok
+4,14955,signingsavvy,11,0,train,25,1,-1,70,15,213,192,https://www.signingsavvy.com/signs/mp4/6/6306.mp4,death_0004_signingsavvy_14955.mp4,ok
+5,14956,aslpro,44,0,train,25,1,-1,0,5,249,240,http://www.aslpro.com/main/d/death.swf,death_0005_aslpro_14956.mp4,skipped_swf
+6,14957,aslsearch,12,0,train,25,1,-1,195,60,556,400,http://www.aslsearch.com/signs/videos/death.mp4,death_0006_aslsearch_14957.mp4,ok

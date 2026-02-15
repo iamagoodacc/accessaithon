@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+3,17885,aslu,5,0,test,25,1,-1,169,8,506,360,https://www.youtube.com/watch?v=l0QegZp34o0,drug_0003_aslu_17885.mp4,failed
+4,17877,signschool,4,0,val,25,1,-1,310,75,1532,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Drug-oBqEIYcrKNw.mp4,drug_0004_signschool_17877.mp4,ok
+5,17878,asldeafined,21,0,train,25,1,-1,76,14,548,480,https://media.asldeafined.com/vocabulary/1468206680.2087.mp4,drug_0005_asldeafined_17878.mp4,ok
+6,17888,aslpro,30,0,train,25,1,-1,0,16,219,240,http://www.aslpro.com/main/d/drug.swf,drug_0006_aslpro_17888.mp4,skipped_swf
+7,17879,handspeak,14,0,train,25,1,-1,297,0,1060,720,https://www.handspeak.com/word/d/drug-arm.mp4,drug_0007_handspeak_17879.mp4,failed
+8,17889,aslsearch,12,0,train,25,1,-1,179,53,516,400,http://www.aslsearch.com/signs/videos/drug2.mp4,drug_0008_aslsearch_17889.mp4,ok
+13,17883,signingsavvy,11,0,train,25,1,-1,96,16,218,192,https://www.signingsavvy.com/signs/mp4/7/7401.mp4,drug_0013_signingsavvy_17883.mp4,ok

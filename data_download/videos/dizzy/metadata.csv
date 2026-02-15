@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16980,asl5200,9,0,val,25,3713,3819,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,dizzy_0000_asl5200_16980.mp4,failed
+2,65501,aslsignbank,102,0,test,25,1,-1,163,16,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DI/DIZZY-1264.mp4,dizzy_0002_aslsignbank_65501.mp4,failed
+4,16982,startasl,38,0,train,25,1,-1,432,57,814,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/dizzy.mp4,dizzy_0004_startasl_16982.mp4,ok
+6,16984,asldeafined,21,0,train,25,1,-1,75,9,546,480,https://media.asldeafined.com/vocabulary/1467772105.3620.mp4,dizzy_0006_asldeafined_16984.mp4,ok
+7,16985,handspeak,14,0,train,25,1,-1,68,10,271,240,https://www.handspeak.com/word/d/dizzy.mp4,dizzy_0007_handspeak_16985.mp4,failed
+8,16986,signingsavvy,11,0,val,25,1,-1,59,19,221,192,https://www.signingsavvy.com/signs/mp4/0/565.mp4,dizzy_0008_signingsavvy_16986.mp4,ok
+9,16987,aslu,5,0,train,25,1,-1,298,57,887,720,https://www.youtube.com/watch?v=68igHxkWBfw,dizzy_0009_aslu_16987.mp4,failed
+10,16988,aslpro,25,0,train,25,1,-1,0,11,244,240,http://www.aslpro.com/main/d/dizzy.swf,dizzy_0010_aslpro_16988.mp4,skipped_swf

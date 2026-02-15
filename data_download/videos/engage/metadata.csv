@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65633,aslsignbank,98,0,val,25,1,-1,158,29,485,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/EN/ENGAGE-1309.mp4,engage_0000_aslsignbank_65633.mp4,failed
+1,19183,spreadthesign,37,0,test,25,1,-1,50,0,253,240,https://media.spreadthesign.com/video/mp4/13/456890.mp4,engage_0001_spreadthesign_19183.mp4,ok
+2,19184,signschool,4,0,train,25,1,-1,413,38,1087,716,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Engaged.mp4,engage_0002_signschool_19184.mp4,ok
+3,19185,asldeafined,21,0,train,25,1,-1,61,0,601,480,https://media.asldeafined.com/vocabulary/1468376233.8360.mp4,engage_0003_asldeafined_19185.mp4,ok
+4,19186,asldeafined,34,0,train,25,1,-1,112,25,570,480,https://media.asldeafined.com/vocabulary/1546573380.9594.mp4,engage_0004_asldeafined_19186.mp4,ok
+5,19187,handspeak,14,0,val,25,1,-1,50,17,281,240,https://www.handspeak.com/word/e/engage-marry.mp4,engage_0005_handspeak_19187.mp4,failed
+6,19188,aslu,5,0,train,25,1,-1,323,33,1049,720,https://www.youtube.com/watch?v=0VDj46cNBfI,engage_0006_aslu_19188.mp4,failed
+7,19189,aslpro,24,0,train,25,1,-1,0,11,210,240,http://www.aslpro.com/main/e/engage.swf,engage_0007_aslpro_19189.mp4,skipped_swf

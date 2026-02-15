@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48339,asl5200,9,0,val,25,3721,3767,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,robot_0000_asl5200_48339.mp4,failed
+1,48340,spreadthesign,63,0,test,25,1,-1,48,0,264,240,https://media.spreadthesign.com/video/mp4/13/50770.mp4,robot_0001_spreadthesign_48340.mp4,ok
+2,48341,signschool,4,0,train,25,1,-1,565,19,1858,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Robot-W3sUTb_xYq0.mp4,robot_0002_signschool_48341.mp4,ok
+3,48342,handspeak,14,0,train,25,1,-1,62,11,249,240,https://www.handspeak.com/word/r/robot2.mp4,robot_0003_handspeak_48342.mp4,failed
+4,48343,handspeak,14,0,train,25,1,-1,61,12,246,240,https://www.handspeak.com/word/r/robot.mp4,robot_0004_handspeak_48343.mp4,failed
+5,48344,signingsavvy,11,0,val,25,1,-1,40,5,235,192,https://www.signingsavvy.com/signs/mp4/2/2618.mp4,robot_0005_signingsavvy_48344.mp4,ok
+6,48345,aslu,5,0,train,25,1,-1,298,24,983,720,https://www.youtube.com/watch?v=X0YL5QW9hlQ,robot_0006_aslu_48345.mp4,failed
+7,48346,aslsearch,12,0,train,25,1,-1,187,50,543,400,http://www.aslsearch.com/signs/videos/robot.mp4,robot_0007_aslsearch_48346.mp4,ok

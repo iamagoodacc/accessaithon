@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06922,signschool,32,0,test,25,1,-1,697,51,1614,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Brag%2C%20Show%20Off%202-pdtkoeqFY88.mp4,boast_0000_signschool_06922.mp4,ok
+1,06923,asldeafined,59,0,val,25,1,-1,39,14,630,480,https://media.asldeafined.com/vocabulary/1466683899.7448.mp4,boast_0001_asldeafined_06923.mp4,ok
+2,06924,handspeak,14,0,train,25,1,-1,32,11,281,240,https://www.handspeak.com/word/b/boast.mp4,boast_0002_handspeak_06924.mp4,failed
+3,06925,signingsavvy,11,0,train,25,1,-1,48,13,259,192,https://www.signingsavvy.com/signs/mp4/7/7789.mp4,boast_0003_signingsavvy_06925.mp4,ok
+4,06926,aslu,5,0,train,25,1,-1,184,42,1164,720,https://www.youtube.com/watch?v=I7BfXB2oKyQ,boast_0004_aslu_06926.mp4,failed
+5,06927,aslpro,16,0,train,25,1,-1,0,5,254,240,http://www.aslpro.com/main/b/boast.swf,boast_0005_aslpro_06927.mp4,skipped_swf
+6,06928,aslsearch,41,0,train,25,1,-1,197,38,565,400,http://www.aslsearch.com/signs/videos/boast.mp4,boast_0006_aslsearch_06928.mp4,ok

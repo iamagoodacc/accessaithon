@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65962,aslsignbank,96,0,val,25,1,-1,204,33,515,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INVOLVE-1717.mp4,involve_0000_aslsignbank_65962.mp4,failed
+1,30522,spreadthesign,2,0,test,25,1,-1,65,36,239,240,https://media.spreadthesign.com/video/mp4/13/89809.mp4,involve_0001_spreadthesign_30522.mp4,ok
+2,30523,asldeafined,21,0,train,25,1,-1,62,0,573,480,https://media.asldeafined.com/vocabulary/1468668374.8511.mp4,involve_0002_asldeafined_30523.mp4,ok
+3,30524,handspeak,14,0,train,25,1,-1,49,13,277,240,https://www.handspeak.com/word/i/involve.mp4,involve_0003_handspeak_30524.mp4,failed
+4,30525,handspeak,20,0,train,25,1,-1,59,0,273,240,https://www.handspeak.com/word/i/involve-participate.mp4,involve_0004_handspeak_30525.mp4,failed
+5,30526,signingsavvy,10,0,val,25,1,-1,79,19,198,192,https://www.signingsavvy.com/signs/mp4/22/22816.mp4,involve_0005_signingsavvy_30526.mp4,ok
+6,30527,aslpro,30,0,train,25,1,-1,0,11,231,240,http://www.aslpro.com/main/i/involve.swf,involve_0006_aslpro_30527.mp4,skipped_swf
+7,30528,aslsearch,41,0,train,25,1,-1,218,43,489,400,http://www.aslsearch.com/signs/videos/involve.mp4,involve_0007_aslsearch_30528.mp4,ok

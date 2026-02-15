@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69326,aslbrick,118,0,test,25,1,-1,178,39,874,720,http://aslbricks.org/New/ASL-Videos/five.mp4,five_0000_aslbrick_69326.mp4,ok
+1,65734,aslsignbank,105,0,val,25,1,-1,154,0,447,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIVE-459.mp4,five_0001_aslsignbank_65734.mp4,failed
+2,22191,spreadthesign,1,0,train,25,1,-1,55,0,263,240,https://media.spreadthesign.com/video/mp4/13/357176.mp4,five_0002_spreadthesign_22191.mp4,ok
+3,22192,signschool,6,0,train,25,1,-1,639,117,1510,1072,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%205-hcCQFYPXUHk.mp4,five_0003_signschool_22192.mp4,ok
+4,22193,handspeak,14,0,train,25,1,-1,34,0,289,240,https://www.handspeak.com/word/f/five2.mp4,five_0004_handspeak_22193.mp4,failed
+5,22194,signingsavvy,11,0,train,25,1,-1,85,13,217,192,https://www.signingsavvy.com/signs/mp4/11/11005.mp4,five_0005_signingsavvy_22194.mp4,ok
+7,22196,aslu,5,0,train,25,1,-1,164,11,489,360,https://www.youtube.com/watch?v=7rhyjZEpqVw,five_0007_aslu_22196.mp4,failed

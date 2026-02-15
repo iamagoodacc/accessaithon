@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,15447,asl5200,9,0,test,25,1218,1277,0,0,360,240,https://www.youtube.com/watch?v=ChIupJBcxjs,democrat_0000_asl5200_15447.mp4,failed
+1,15448,spreadthesign,33,0,val,25,1,-1,68,15,260,240,https://media.spreadthesign.com/video/mp4/13/96187.mp4,democrat_0001_spreadthesign_15448.mp4,ok
+2,15449,asldeafined,59,0,train,25,1,-1,117,17,521,480,https://media.asldeafined.com/vocabulary/1466907888.4337.mp4,democrat_0002_asldeafined_15449.mp4,ok
+3,15450,signingsavvy,10,0,train,25,1,-1,87,21,208,192,https://www.signingsavvy.com/signs/mp4/23/23638.mp4,democrat_0003_signingsavvy_15450.mp4,ok
+4,15451,aslu,5,0,train,25,1,-1,315,42,930,720,https://www.youtube.com/watch?v=VZgRWrNukss,democrat_0004_aslu_15451.mp4,failed
+5,15452,aslpro,30,0,train,25,1,-1,1,17,233,240,http://www.aslpro.com/main/d/democrat.swf,democrat_0005_aslpro_15452.mp4,skipped_swf
+6,15453,aslsearch,12,0,train,25,1,-1,179,54,535,400,http://www.aslsearch.com/signs/videos/democrat.mp4,democrat_0006_aslsearch_15453.mp4,ok

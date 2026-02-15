@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47565,asl5200,9,0,test,25,2558,2600,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,resist_0000_asl5200_47565.mp4,failed
+1,66395,aslsignbank,103,0,val,25,1,-1,119,31,479,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RESIST-966.mp4,resist_0001_aslsignbank_66395.mp4,failed
+3,47569,asldeafined,13,0,train,25,1,-1,93,1,575,480,https://media.asldeafined.com/vocabulary/1468760297.7659.mp4,resist_0003_asldeafined_47569.mp4,ok
+5,47571,handspeak,14,0,train,25,1,-1,0,0,503,480,https://www.handspeak.com/word/r/resist.mp4,resist_0005_handspeak_47571.mp4,failed
+6,47572,signingsavvy,11,0,train,25,1,-1,47,13,230,192,https://www.signingsavvy.com/signs/mp4/2/2586.mp4,resist_0006_signingsavvy_47572.mp4,ok
+7,47573,aslu,5,0,train,25,1,-1,232,21,939,720,https://www.youtube.com/watch?v=V9VnAdaAsU8,resist_0007_aslu_47573.mp4,failed
+8,47574,aslpro,24,0,train,25,1,-1,0,17,206,240,http://www.aslpro.com/main/r/resist.swf,resist_0008_aslpro_47574.mp4,skipped_swf

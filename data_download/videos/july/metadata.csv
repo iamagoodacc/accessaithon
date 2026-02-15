@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,31297,asl5200,9,0,test,25,640,710,0,0,360,240,https://www.youtube.com/watch?v=8kWVajLqBL4,july_0000_asl5200_31297.mp4,failed
+2,31300,signschool,46,0,val,25,1,-1,154,7,822,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20July.mp4,july_0002_signschool_31300.mp4,ok
+3,31306,aslsearch,12,0,train,25,1,-1,173,64,554,400,http://www.aslsearch.com/signs/videos/july.mp4,july_0003_aslsearch_31306.mp4,ok
+4,31301,asldeafined,21,0,train,25,1,-1,72,5,564,480,https://media.asldeafined.com/vocabulary/1468669802.4225.mp4,july_0004_asldeafined_31301.mp4,ok
+5,31302,handspeak,14,0,train,25,1,-1,34,14,263,240,https://www.handspeak.com/word/j/july.mp4,july_0005_handspeak_31302.mp4,failed
+6,31303,signingsavvy,11,0,train,25,1,-1,76,13,238,192,https://www.signingsavvy.com/signs/mp4/7/7091.mp4,july_0006_signingsavvy_31303.mp4,ok
+7,31304,aslu,5,0,train,25,1,-1,265,8,956,720,https://www.youtube.com/watch?v=WHL8vyAsmeE,july_0007_aslu_31304.mp4,failed

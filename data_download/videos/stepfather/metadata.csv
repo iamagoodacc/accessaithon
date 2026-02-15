@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54661,asl5200,9,0,test,25,8503,8572,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,stepfather_0000_asl5200_54661.mp4,failed
+1,54665,handspeak,14,0,val,25,1,-1,306,8,1010,720,https://www.handspeak.com/word/s/stepfather2.mp4,stepfather_0001_handspeak_54665.mp4,failed
+2,54672,aslsearch,41,0,train,25,1,-1,202,29,487,400,http://www.aslsearch.com/signs/videos/stepfather.mp4,stepfather_0002_aslsearch_54672.mp4,ok
+3,54666,handspeak,14,0,train,25,1,-1,27,0,300,240,https://www.handspeak.com/word/s/step-father.mp4,stepfather_0003_handspeak_54666.mp4,failed
+4,54667,signingsavvy,11,0,train,25,1,-1,61,3,214,192,https://www.signingsavvy.com/signs/mp4/9/9317.mp4,stepfather_0004_signingsavvy_54667.mp4,ok
+5,54668,aslu,5,0,train,25,1,-1,320,30,925,720,https://www.youtube.com/watch?v=kz26sYBeHuo,stepfather_0005_aslu_54668.mp4,failed
+7,54670,aslu,5,0,train,25,1,-1,338,55,922,720,https://www.youtube.com/watch?v=UDQJ9IvC8f8,stepfather_0007_aslu_54670.mp4,failed

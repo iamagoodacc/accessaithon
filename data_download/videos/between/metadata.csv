@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06077,asl5200,9,0,test,25,2463,2535,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,between_0000_asl5200_06077.mp4,failed
+1,65180,aslsignbank,89,0,val,25,1,-1,197,41,489,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BE/BETWEEN-2105.mp4,between_0001_aslsignbank_65180.mp4,failed
+2,06081,spreadthesign,2,0,train,25,1,-1,68,10,277,240,https://media.spreadthesign.com/video/mp4/13/124294.mp4,between_0002_spreadthesign_06081.mp4,ok
+3,06082,signschool,31,0,train,25,1,-1,785,64,1636,1075,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Share-IaO4TjGuEYw.mp4,between_0003_signschool_06082.mp4,ok
+4,06083,asldeafined,59,0,train,25,1,-1,140,4,529,480,https://media.asldeafined.com/vocabulary/1466681869.9080.mp4,between_0004_asldeafined_06083.mp4,ok
+6,06085,signingsavvy,11,0,train,25,1,-1,65,16,214,192,https://www.signingsavvy.com/signs/mp4/1/1218.mp4,between_0006_signingsavvy_06085.mp4,ok
+8,06087,aslsearch,12,0,train,25,1,-1,172,52,540,400,http://www.aslsearch.com/signs/videos/between.mp4,between_0008_aslsearch_06087.mp4,ok

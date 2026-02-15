@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47075,spreadthesign,2,0,test,25,1,-1,53,0,279,240,https://media.spreadthesign.com/video/mp4/13/116517.mp4,release_0000_spreadthesign_47075.mp4,ok
+1,47076,signschool,4,0,val,25,1,-1,590,33,1771,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Log%20Out%2C%20Sign%20Out%202%2C%20Disconnect%2C%20Release-H7Cj6seX9U8.mp4,release_0001_signschool_47076.mp4,ok
+2,47077,asldeafined,13,0,train,25,1,-1,137,0,592,480,https://media.asldeafined.com/vocabulary/1468759431.527.mp4,release_0002_asldeafined_47077.mp4,ok
+4,47079,handspeak,14,0,train,25,1,-1,55,9,276,240,https://www.handspeak.com/word/r/release-loose.mp4,release_0004_handspeak_47079.mp4,failed
+6,47081,signingsavvy,11,0,train,25,1,-1,80,8,228,192,https://www.signingsavvy.com/signs/mp4/14/14499.mp4,release_0006_signingsavvy_47081.mp4,ok
+7,47082,aslpro,25,0,train,25,1,-1,1,5,250,240,http://www.aslpro.com/main/r/release.swf,release_0007_aslpro_47082.mp4,skipped_swf
+8,47083,aslsearch,12,0,train,25,1,-1,201,64,555,400,http://www.aslsearch.com/signs/videos/disengage.mp4,release_0008_aslsearch_47083.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,56113,asl5200,9,0,test,25,10883,10945,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,surrender_0000_asl5200_56113.mp4,failed
+1,56114,spreadthesign,2,0,val,25,1,-1,6,5,285,240,https://media.spreadthesign.com/video/mp4/13/244797.mp4,surrender_0001_spreadthesign_56114.mp4,ok
+2,56115,asldeafined,13,0,train,25,1,-1,75,0,583,480,https://media.asldeafined.com/vocabulary/1468762241.6053.mp4,surrender_0002_asldeafined_56115.mp4,ok
+3,56116,handspeak,20,0,train,25,1,-1,26,13,291,240,https://www.handspeak.com/word/s/surrender.mp4,surrender_0003_handspeak_56116.mp4,failed
+4,56117,signingsavvy,10,0,train,25,1,-1,40,18,234,192,https://www.signingsavvy.com/signs/mp4/22/22279.mp4,surrender_0004_signingsavvy_56117.mp4,ok
+5,56118,aslpro,44,0,train,25,1,-1,0,9,260,240,http://www.aslpro.com/main/s/surrender.swf,surrender_0005_aslpro_56118.mp4,skipped_swf
+6,56119,aslsearch,12,0,train,25,1,-1,157,58,575,400,http://www.aslsearch.com/signs/videos/give-up.mp4,surrender_0006_aslsearch_56119.mp4,ok

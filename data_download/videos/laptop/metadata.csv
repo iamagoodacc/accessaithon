@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32189,asl5200,9,0,val,25,125,187,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,laptop_0000_asl5200_32189.mp4,failed
+1,32197,aslsearch,12,0,test,25,1,-1,169,53,532,400,http://www.aslsearch.com/signs/videos/laptop.mp4,laptop_0001_aslsearch_32197.mp4,ok
+2,66009,aslsignbank,91,0,train,25,1,-1,184,30,498,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LA/LAPTOP-1691.mp4,laptop_0002_aslsignbank_66009.mp4,failed
+3,67825,asllex,109,0,train,25,1,-1,30,24,414,360,https://youtu.be/vxoludbwLGU,laptop_0003_asllex_67825.mp4,failed
+5,32191,startasl,38,0,train,25,1,-1,314,55,841,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/laptop.mp4,laptop_0005_startasl_32191.mp4,ok
+6,32192,signschool,32,0,val,25,1,-1,340,39,1108,720,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Laptop-sR0Vcj7biWc.mp4,laptop_0006_signschool_32192.mp4,ok
+7,32193,asldeafined,13,0,train,25,1,-1,54,0,566,480,https://media.asldeafined.com/vocabulary/1468671317.4335.mp4,laptop_0007_asldeafined_32193.mp4,ok
+9,32195,signingsavvy,11,0,train,25,1,-1,57,9,229,192,https://www.signingsavvy.com/signs/mp4/14/14389.mp4,laptop_0009_signingsavvy_32195.mp4,ok

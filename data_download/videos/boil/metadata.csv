@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,06967,asl5200,9,0,test,25,3587,3659,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,boil_0000_asl5200_06967.mp4,failed
+1,06976,aslsearch,12,0,val,25,1,-1,167,55,544,400,http://www.aslsearch.com/signs/videos/boil2.mp4,boil_0001_aslsearch_06976.mp4,ok
+3,06968,spreadthesign,37,0,train,25,1,-1,69,0,261,240,https://media.spreadthesign.com/video/mp4/13/455702.mp4,boil_0003_spreadthesign_06968.mp4,ok
+4,06969,signschool,6,0,train,25,1,-1,686,94,1523,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Boiling-IHLsBlQdISk.mp4,boil_0004_signschool_06969.mp4,ok
+6,06971,handspeak,20,0,train,25,1,-1,139,26,468,360,https://www.handspeak.com/word/b/boil.mp4,boil_0006_handspeak_06971.mp4,failed
+7,06972,signingsavvy,10,0,train,25,1,-1,83,25,226,192,https://www.signingsavvy.com/signs/mp4/22/22556.mp4,boil_0007_signingsavvy_06972.mp4,ok
+9,06974,aslu,5,0,train,25,1,-1,337,67,1058,720,https://www.youtube.com/watch?v=S-vlWxeOxr4,boil_0009_aslu_06974.mp4,failed

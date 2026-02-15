@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43593,asl5200,9,0,val,25,3409,3468,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,politics_0000_asl5200_43593.mp4,failed
+1,66309,aslsignbank,107,0,test,25,1,-1,308,1,1387,1080,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/PO/POLITICS-2351.mp4,politics_0001_aslsignbank_66309.mp4,failed
+2,43594,spreadthesign,56,0,train,25,1,-1,35,0,265,240,https://media.spreadthesign.com/video/mp4/13/49202.mp4,politics_0002_spreadthesign_43594.mp4,ok
+3,43595,signschool,4,0,train,25,1,-1,509,26,1633,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Politics--jRjqiCwV3c.mp4,politics_0003_signschool_43595.mp4,ok
+4,43596,asldeafined,13,0,train,25,1,-1,91,0,503,480,https://media.asldeafined.com/vocabulary/1468754579.1538.mp4,politics_0004_asldeafined_43596.mp4,ok
+5,43597,handspeak,14,0,val,25,1,-1,46,13,260,240,https://www.handspeak.com/word/p/politics.mp4,politics_0005_handspeak_43597.mp4,failed
+6,43598,signingsavvy,11,0,train,25,1,-1,46,1,224,192,https://www.signingsavvy.com/signs/mp4/8/8712.mp4,politics_0006_signingsavvy_43598.mp4,ok
+7,43599,aslsearch,12,0,train,25,1,-1,160,52,547,400,http://www.aslsearch.com/signs/videos/politics.mp4,politics_0007_aslsearch_43599.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13222,asl5200,9,0,test,25,6048,6090,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,cooperate_0000_asl5200_13222.mp4,failed
+1,13223,spreadthesign,33,0,val,25,1,-1,66,26,248,240,https://media.spreadthesign.com/video/mp4/13/96119.mp4,cooperate_0001_spreadthesign_13223.mp4,ok
+2,13224,signschool,4,0,train,25,1,-1,458,58,1587,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cooperate-gd_POPbEoD4.mp4,cooperate_0002_signschool_13224.mp4,ok
+3,13225,handspeak,20,0,train,25,1,-1,66,0,522,480,https://www.handspeak.com/word/c/cooperate-cir.mp4,cooperate_0003_handspeak_13225.mp4,failed
+4,13226,handspeak,20,0,train,25,1,-1,39,0,531,480,https://www.handspeak.com/word/c/cooperate-dir.mp4,cooperate_0004_handspeak_13226.mp4,failed
+5,13227,aslpro,16,0,train,25,1,-1,12,19,222,240,http://www.aslpro.com/main/c/cooperate.swf,cooperate_0005_aslpro_13227.mp4,skipped_swf
+6,13228,aslsearch,12,0,train,25,1,-1,184,52,526,400,http://www.aslsearch.com/signs/videos/cooperate.mp4,cooperate_0006_aslsearch_13228.mp4,ok

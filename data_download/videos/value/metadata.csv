@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61232,asl5200,9,0,val,25,227,276,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,value_0000_asl5200_61232.mp4,failed
+1,61240,aslu,5,0,test,25,1,-1,386,40,996,720,https://www.youtube.com/watch?v=iMl2vq3f1IA,value_0001_aslu_61240.mp4,failed
+2,61241,aslpro,24,0,train,25,1,-1,11,15,250,240,http://www.aslpro.com/main/v/value.swf,value_0002_aslpro_61241.mp4,skipped_swf
+5,61233,asldeafined,13,0,train,25,1,-1,117,0,537,480,https://media.asldeafined.com/vocabulary/1468925851.8789.mp4,value_0005_asldeafined_61233.mp4,ok
+8,61236,signingsavvy,11,0,train,25,1,-1,75,16,210,192,https://www.signingsavvy.com/signs/mp4/6/6364.mp4,value_0008_signingsavvy_61236.mp4,ok
+9,61237,signingsavvy,11,0,val,25,1,-1,61,14,225,192,https://www.signingsavvy.com/signs/mp4/7/7207.mp4,value_0009_signingsavvy_61237.mp4,ok
+10,61238,aslu,5,0,train,25,1,-1,332,67,901,720,https://www.youtube.com/watch?v=Hvuejr0iZ94,value_0010_aslu_61238.mp4,failed
+11,61239,aslu,5,0,train,25,1,-1,386,40,996,720,https://www.youtube.com/watch?v=iMl2vq3f1IA,value_0011_aslu_61239.mp4,failed

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,47092,asl5200,9,0,test,25,1616,1665,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,relief_0000_asl5200_47092.mp4,failed
+1,66385,aslsignbank,95,0,val,25,1,-1,152,0,547,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/RE/RELIEF-762.mp4,relief_0001_aslsignbank_66385.mp4,failed
+2,47093,signschool,4,0,train,25,1,-1,707,57,1662,1074,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Relief%204-tB_k6scBfds.mp4,relief_0002_signschool_47093.mp4,ok
+3,47094,signschool,4,0,train,25,1,-1,741,79,1783,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Relief-pL-sYCaTlfE.mp4,relief_0003_signschool_47094.mp4,ok
+4,47095,asldeafined,13,0,train,25,1,-1,61,0,615,480,https://media.asldeafined.com/vocabulary/1468759493.8189.mp4,relief_0004_asldeafined_47095.mp4,ok
+5,47096,signingsavvy,11,0,train,25,1,-1,54,11,226,192,https://www.signingsavvy.com/signs/mp4/9/9211.mp4,relief_0005_signingsavvy_47096.mp4,ok
+6,47097,aslsearch,12,0,train,25,1,-1,171,49,561,400,http://www.aslsearch.com/signs/videos/relief.mp4,relief_0006_aslsearch_47097.mp4,ok

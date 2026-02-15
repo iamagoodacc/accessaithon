@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13725,asl5200,9,0,val,25,6804,6853,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,crab_0000_asl5200_13725.mp4,failed
+1,13740,aslsearch,41,0,test,25,1,-1,214,44,519,400,http://www.aslsearch.com/signs/videos/crab.mp4,crab_0001_aslsearch_13740.mp4,ok
+3,13732,signschool,4,0,train,25,1,-1,431,77,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab%202-P9mUuyXXY2s.mp4,crab_0003_signschool_13732.mp4,ok
+4,13733,signschool,4,0,train,25,1,-1,317,79,1596,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab%203-EnQtp2K8NO4.mp4,crab_0004_signschool_13733.mp4,ok
+5,13734,signschool,4,0,train,25,1,-1,474,72,1574,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab%204-jZqYzlbwb48.mp4,crab_0005_signschool_13734.mp4,ok
+6,13735,signschool,4,0,val,25,1,-1,374,72,1638,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Lobster%2C%20Crab-5LU5A-Mmbis.mp4,crab_0006_signschool_13735.mp4,ok
+7,13736,handspeak,14,0,train,25,1,-1,101,2,544,480,https://www.handspeak.com/word/c/crab.mp4,crab_0007_handspeak_13736.mp4,failed
+8,13737,signingsavvy,10,0,train,25,1,-1,80,23,199,192,https://www.signingsavvy.com/signs/mp4/22/22553.mp4,crab_0008_signingsavvy_13737.mp4,ok

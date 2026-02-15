@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45636,asl5200,9,0,test,25,24,76,0,0,360,240,https://www.youtube.com/watch?v=OBwr99xWUws,quality_0000_asl5200_45636.mp4,failed
+1,66360,aslsignbank,101,0,val,25,1,-1,212,6,488,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/QU/QUALITY-995.mp4,quality_0001_aslsignbank_66360.mp4,failed
+2,45637,elementalasl,19,0,train,25,1,-1,73,7,228,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/quality.mov,quality_0002_elementalasl_45637.mp4,ok
+3,45638,spreadthesign,28,0,train,25,1,-1,54,0,265,240,https://media.spreadthesign.com/video/mp4/13/481422.mp4,quality_0003_spreadthesign_45638.mp4,ok
+4,45639,signschool,4,0,train,25,1,-1,356,72,1552,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Quality-zbHnoxU2i_4.mp4,quality_0004_signschool_45639.mp4,ok
+5,45640,asldeafined,13,0,train,25,1,-1,150,0,525,480,https://media.asldeafined.com/vocabulary/1468757611.461.mp4,quality_0005_asldeafined_45640.mp4,ok
+6,45641,handspeak,14,0,train,25,1,-1,18,0,286,240,https://www.handspeak.com/word/q/quality.mp4,quality_0006_handspeak_45641.mp4,failed

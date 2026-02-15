@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,13498,asl5200,9,0,test,25,6427,6489,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,counsel_0000_asl5200_13498.mp4,failed
+1,65412,aslsignbank,102,0,val,25,1,-1,170,15,497,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/COUNSEL-1170.mp4,counsel_0001_aslsignbank_65412.mp4,failed
+2,13499,spreadthesign,0,0,train,25,1,-1,30,2,256,240,https://media.spreadthesign.com/video/mp4/13/58495.mp4,counsel_0002_spreadthesign_13499.mp4,ok
+3,13500,asldeafined,59,0,train,25,1,-1,119,23,574,480,https://media.asldeafined.com/vocabulary/1466903895.1735.mp4,counsel_0003_asldeafined_13500.mp4,ok
+4,13501,signingsavvy,11,0,train,25,1,-1,62,16,211,192,https://www.signingsavvy.com/signs/mp4/8/8589.mp4,counsel_0004_signingsavvy_13501.mp4,ok
+5,13502,aslpro,16,0,train,25,1,-1,20,20,222,240,http://www.aslpro.com/main/c/counsel.swf,counsel_0005_aslpro_13502.mp4,skipped_swf
+6,13503,aslsearch,12,0,train,25,1,-1,181,63,536,400,http://www.aslsearch.com/signs/videos/counsel.mp4,counsel_0006_aslsearch_13503.mp4,ok

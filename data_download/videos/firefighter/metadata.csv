@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,65726,aslsignbank,94,0,test,25,1,-1,155,3,474,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FIREFIGHTER-133.mp4,firefighter_0002_aslsignbank_65726.mp4,failed
+3,21993,spreadthesign,2,0,val,25,1,-1,53,12,235,240,https://media.spreadthesign.com/video/mp4/13/93023.mp4,firefighter_0003_spreadthesign_21993.mp4,ok
+6,21994,signschool,45,0,train,25,1,-1,461,34,1443,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cuba%2C%20Firefighter-caqvrVq77P0.mp4,firefighter_0006_signschool_21994.mp4,ok
+7,21998,handspeak,20,0,train,25,1,-1,51,9,273,240,https://www.handspeak.com/word/f/firefighter.mp4,firefighter_0007_handspeak_21998.mp4,failed
+8,21999,signingsavvy,11,0,train,25,1,-1,39,1,226,192,https://www.signingsavvy.com/signs/mp4/3/3231.mp4,firefighter_0008_signingsavvy_21999.mp4,ok
+9,22000,aslu,5,0,train,25,1,-1,249,0,940,720,https://www.youtube.com/watch?v=KX6sYu6QBl0,firefighter_0009_aslu_22000.mp4,failed
+12,22003,aslsearch,41,0,train,25,1,-1,185,24,496,400,http://www.aslsearch.com/signs/videos/firefighter.mp4,firefighter_0012_aslsearch_22003.mp4,ok

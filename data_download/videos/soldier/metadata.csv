@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,53119,spreadthesign,2,0,test,25,1,-1,51,7,250,240,https://media.spreadthesign.com/video/mp4/13/116948.mp4,soldier_0000_spreadthesign_53119.mp4,ok
+1,53120,signschool,32,0,val,25,1,-1,800,80,1703,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Soldier-y1HqI5VevUI.mp4,soldier_0001_signschool_53120.mp4,ok
+3,53122,handspeak,20,0,train,25,1,-1,50,5,260,240,https://www.handspeak.com/word/s/soldier.mp4,soldier_0003_handspeak_53122.mp4,failed
+4,53123,signingsavvy,11,0,train,25,1,-1,47,6,224,192,https://www.signingsavvy.com/signs/mp4/14/14173.mp4,soldier_0004_signingsavvy_53123.mp4,ok
+5,53124,aslu,5,0,train,25,1,-1,327,20,986,720,https://www.youtube.com/watch?v=BBuubXnY_YY,soldier_0005_aslu_53124.mp4,failed
+6,53125,aslpro,24,0,train,25,1,-1,6,14,218,240,http://www.aslpro.com/main/s/soldier.swf,soldier_0006_aslpro_53125.mp4,skipped_swf
+7,53126,aslsearch,12,0,train,25,1,-1,180,68,589,400,http://www.aslsearch.com/signs/videos/army.mp4,soldier_0007_aslsearch_53126.mp4,ok

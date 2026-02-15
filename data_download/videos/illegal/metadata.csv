@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28811,asl5200,9,0,test,25,338,377,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,illegal_0000_asl5200_28811.mp4,failed
+1,28813,spreadthesign,35,0,val,25,1,-1,34,0,287,240,https://media.spreadthesign.com/video/mp4/13/51710.mp4,illegal_0001_spreadthesign_28813.mp4,ok
+2,28814,signschool,32,0,train,25,1,-1,430,54,1664,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Forbid%2C%20Forbidden%2C%20Ban-0rSy7LgjrBw.mp4,illegal_0002_signschool_28814.mp4,ok
+3,28815,asldeafined,15,0,train,25,1,-1,118,27,530,480,https://media.asldeafined.com/vocabulary/1553867691.8340.mp4,illegal_0003_asldeafined_28815.mp4,ok
+4,28816,handspeak,20,0,train,25,1,-1,64,9,257,240,https://www.handspeak.com/word/i/illegal.mp4,illegal_0004_handspeak_28816.mp4,failed
+5,28817,signingsavvy,10,0,train,25,1,-1,53,23,213,192,https://www.signingsavvy.com/signs/mp4/22/22256.mp4,illegal_0005_signingsavvy_28817.mp4,ok
+6,28818,aslsearch,12,0,train,25,1,-1,161,53,571,400,http://www.aslsearch.com/signs/videos/illegal.mp4,illegal_0006_aslsearch_28818.mp4,ok

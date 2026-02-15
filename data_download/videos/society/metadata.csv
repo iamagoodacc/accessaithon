@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52990,asl5200,9,0,val,25,6053,6099,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,society_0000_asl5200_52990.mp4,failed
+1,52998,aslu,5,0,test,25,1,-1,269,28,1028,720,https://www.youtube.com/watch?v=41s77qLHfiQ,society_0001_aslu_52998.mp4,failed
+3,66526,aslsignbank,108,0,train,25,1,-1,177,41,481,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SOCIETY-1092.mp4,society_0003_aslsignbank_66526.mp4,failed
+4,53000,aslsearch,41,0,train,25,1,-1,231,39,518,400,http://www.aslsearch.com/signs/videos/society.mp4,society_0004_aslsearch_53000.mp4,ok
+6,52992,spreadthesign,2,0,train,25,1,-1,72,35,253,240,https://media.spreadthesign.com/video/mp4/13/91826.mp4,society_0006_spreadthesign_52992.mp4,ok
+7,52993,signschool,4,0,val,25,1,-1,624,25,1729,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Society%2C%20Sociology-CnEPOgxIoWs.mp4,society_0007_signschool_52993.mp4,ok
+9,52995,handspeak,20,0,train,25,1,-1,68,4,267,240,https://www.handspeak.com/word/s/society.mp4,society_0009_handspeak_52995.mp4,failed
+11,52997,signingsavvy,11,0,train,25,1,-1,63,13,210,192,https://www.signingsavvy.com/signs/mp4/9/9328.mp4,society_0011_signingsavvy_52997.mp4,ok

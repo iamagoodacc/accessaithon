@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,20836,spreadthesign,2,0,test,25,1,-1,27,31,276,240,https://media.spreadthesign.com/video/mp4/13/92987.mp4,fairy_0000_spreadthesign_20836.mp4,ok
+1,20837,asldeafined,21,0,val,25,1,-1,60,9,582,480,https://media.asldeafined.com/vocabulary/1468462969.8832.mp4,fairy_0001_asldeafined_20837.mp4,ok
+2,20838,signingsavvy,11,0,train,25,1,-1,47,9,274,192,https://www.signingsavvy.com/signs/mp4/8/8223.mp4,fairy_0002_signingsavvy_20838.mp4,ok
+3,20839,signingsavvy,11,0,train,25,1,-1,40,11,279,192,https://www.signingsavvy.com/signs/mp4/8/8225.mp4,fairy_0003_signingsavvy_20839.mp4,ok
+4,20840,aslu,5,0,train,25,1,-1,137,34,1192,720,https://www.youtube.com/watch?v=jv3O2PnPbHc,fairy_0004_aslu_20840.mp4,failed
+5,20841,aslu,5,0,train,25,1,-1,128,27,1192,720,https://www.youtube.com/watch?v=txiRsc75YRg,fairy_0005_aslu_20841.mp4,failed
+6,20842,aslpro,24,0,train,25,1,-1,1,2,260,240,http://www.aslpro.com/main/f/fairy.swf,fairy_0006_aslpro_20842.mp4,skipped_swf

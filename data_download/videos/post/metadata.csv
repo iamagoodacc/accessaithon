@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,43873,asldeafined,13,0,test,25,1,-1,139,0,573,480,https://media.asldeafined.com/vocabulary/1468754908.7567.mp4,post_0000_asldeafined_43873.mp4,ok
+1,43885,aslsearch,12,0,val,25,1,-1,185,54,562,400,http://www.aslsearch.com/signs/videos/post.mp4,post_0001_aslsearch_43885.mp4,ok
+2,43882,aslu,5,0,train,25,1,-1,241,6,986,720,https://www.youtube.com/watch?v=XpYJGN2qqCI,post_0002_aslu_43882.mp4,failed
+3,43883,aslpro,87,0,train,25,1,-1,2,11,244,240,http://www.aslpro.com/main/p/post.swf,post_0003_aslpro_43883.mp4,skipped_swf
+6,43876,handspeak,20,0,train,25,1,-1,57,0,521,360,https://www.handspeak.com/word/p/post-wall.mp4,post_0006_handspeak_43876.mp4,failed
+10,43880,aslu,5,0,train,25,1,-1,347,59,967,720,https://www.youtube.com/watch?v=DJgbzaEkKmk,post_0010_aslu_43880.mp4,failed
+11,43881,aslu,5,0,train,25,1,-1,304,47,990,720,https://www.youtube.com/watch?v=Vr_huYCjj6M,post_0011_aslu_43881.mp4,failed

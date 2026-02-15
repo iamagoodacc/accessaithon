@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65293,aslsignbank,92,0,val,25,1,-1,188,32,469,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CA/CAMPING-2148.mp4,camping_0000_aslsignbank_65293.mp4,failed
+1,08824,startasl,38,0,test,25,1,-1,417,63,828,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/camping.mp4,camping_0001_startasl_08824.mp4,ok
+2,67464,asllex,109,0,train,25,1,-1,89,16,431,360,https://youtu.be/bhcHE-iWyi4,camping_0002_asllex_67464.mp4,failed
+3,08825,asldeafined,59,0,train,25,1,-1,83,30,528,480,https://media.asldeafined.com/vocabulary/1539180947.562.mp4,camping_0003_asldeafined_08825.mp4,ok
+4,08827,signingsavvy,10,0,train,25,1,-1,64,26,213,192,https://www.signingsavvy.com/signs/mp4/22/22806.mp4,camping_0004_signingsavvy_08827.mp4,ok
+5,08828,aslu,5,0,val,25,1,-1,355,35,945,720,https://www.youtube.com/watch?v=54Lkmk3RLYM,camping_0005_aslu_08828.mp4,failed
+6,08829,aslpro,44,0,train,25,1,-1,5,1,222,240,http://www.aslpro.com/main/c/camping.swf,camping_0006_aslpro_08829.mp4,skipped_swf
+7,08830,aslsearch,12,0,train,25,1,-1,178,50,532,400,http://www.aslsearch.com/signs/videos/camping.mp4,camping_0007_aslsearch_08830.mp4,ok

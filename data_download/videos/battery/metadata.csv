@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65149,aslsignbank,90,0,test,25,1,-1,200,25,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BATTERY-345.mp4,battery_0000_aslsignbank_65149.mp4,failed
+1,70094,northtexas,121,0,val,25,2867,2975,147,21,533,480,https://www.youtube.com/watch?v=RaTg-FuhCmY,battery_0001_northtexas_70094.mp4,failed
+2,05358,spreadthesign,2,0,train,25,1,-1,56,12,271,240,https://media.spreadthesign.com/video/mp4/13/123602.mp4,battery_0002_spreadthesign_05358.mp4,ok
+3,67395,asllex,109,0,train,25,1,-1,95,17,380,360,https://youtu.be/q1H20xjATqo,battery_0003_asllex_67395.mp4,failed
+7,05362,signingsavvy,11,0,train,25,1,-1,77,14,238,192,https://www.signingsavvy.com/signs/mp4/7/7944.mp4,battery_0007_signingsavvy_05362.mp4,ok
+8,05363,aslu,5,0,train,25,1,-1,352,34,1007,720,https://www.youtube.com/watch?v=CGrj8fLk73M,battery_0008_aslu_05363.mp4,failed
+9,05364,aslpro,25,0,train,25,1,-1,0,0,256,234,http://www.aslpro.com/main/b/battery.swf,battery_0009_aslpro_05364.mp4,skipped_swf

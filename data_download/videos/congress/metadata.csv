@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,12648,asl5200,9,0,val,25,5369,5425,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,congress_0000_asl5200_12648.mp4,failed
+1,12649,elementalasl,19,0,test,25,1,-1,78,11,248,180,https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/congress.mov,congress_0001_elementalasl_12649.mp4,ok
+2,12650,spreadthesign,2,0,train,25,1,-1,87,30,234,240,https://media.spreadthesign.com/video/mp4/13/93248.mp4,congress_0002_spreadthesign_12650.mp4,ok
+3,12651,signschool,4,0,train,25,1,-1,692,91,1599,1066,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Congress%2C%20Committee-4NTyvb4gTDM.mp4,congress_0003_signschool_12651.mp4,ok
+4,12652,asldeafined,59,0,train,25,1,-1,98,12,529,480,https://media.asldeafined.com/vocabulary/1466900442.6472.mp4,congress_0004_asldeafined_12652.mp4,ok
+6,12654,signingsavvy,11,0,val,25,1,-1,56,11,222,192,https://www.signingsavvy.com/signs/mp4/1/1369.mp4,congress_0006_signingsavvy_12654.mp4,ok
+7,12655,aslpro,49,0,train,25,1,-1,7,21,204,240,http://www.aslpro.com/main/c/congress.swf,congress_0007_aslpro_12655.mp4,skipped_swf
+8,12656,aslsearch,41,0,train,25,1,-1,235,44,494,400,http://www.aslsearch.com/signs/videos/congress.mp4,congress_0008_aslsearch_12656.mp4,ok

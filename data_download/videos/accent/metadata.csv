@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,00581,asl5200,9,0,test,25,291,343,0,0,360,240,https://www.youtube.com/watch?v=jPn0FQxkdBc,accent_0000_asl5200_00581.mp4,failed
+1,65006,aslsignbank,88,0,val,25,1,-1,155,12,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AC/ACCENT-584.mp4,accent_0001_aslsignbank_65006.mp4,failed
+3,00583,signschool,4,0,train,25,1,-1,602,48,1641,1079,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Accent%202-SaseF7Kb1VE.mp4,accent_0003_signschool_00583.mp4,ok
+4,00584,signschool,4,0,train,25,1,-1,673,54,1668,1073,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Accent%20tap-SJfyDBBgvHw.mp4,accent_0004_signschool_00584.mp4,ok
+5,00585,signschool,4,0,train,25,1,-1,579,47,1666,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Accent-4yL_X6-VnxY.mp4,accent_0005_signschool_00585.mp4,ok
+6,00586,signschool,4,0,train,25,1,-1,708,64,1525,1053,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Neck%2C%20Accent-C_WHcKeM4Uo.mp4,accent_0006_signschool_00586.mp4,ok
+7,00587,handspeak,14,0,train,25,1,-1,12,25,282,240,https://www.handspeak.com/word/a/accent.mp4,accent_0007_handspeak_00587.mp4,failed

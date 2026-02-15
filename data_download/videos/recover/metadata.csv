@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,46656,asl5200,9,0,test,25,1050,1102,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,recover_0000_asl5200_46656.mp4,failed
+1,46658,spreadthesign,26,0,val,25,1,-1,56,18,250,240,https://media.spreadthesign.com/video/mp4/13/306773.mp4,recover_0001_spreadthesign_46658.mp4,ok
+2,46659,startasl,38,0,train,25,1,-1,440,62,846,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/recover.mp4,recover_0002_startasl_46659.mp4,ok
+3,46660,signschool,4,0,train,25,1,-1,559,63,1658,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Brave-SLaYUgpSKEc.mp4,recover_0003_signschool_46660.mp4,ok
+4,46661,asldeafined,13,0,train,25,1,-1,126,0,557,480,https://media.asldeafined.com/vocabulary/1468758778.9804.mp4,recover_0004_asldeafined_46661.mp4,ok
+6,46663,signingsavvy,11,0,train,25,1,-1,66,13,227,192,https://www.signingsavvy.com/signs/mp4/6/6687.mp4,recover_0006_signingsavvy_46663.mp4,ok
+8,46665,aslsearch,12,0,train,25,1,-1,147,49,562,397,http://www.aslsearch.com/signs/videos/brave.mp4,recover_0008_aslsearch_46665.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,59839,signschool,4,0,test,25,1,-1,706,63,1589,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Truth%2C%20Honest-t66Y26z6LK4.mp4,truth_0001_signschool_59839.mp4,ok
+2,59840,asldeafined,13,0,val,25,1,-1,148,0,521,480,https://media.asldeafined.com/vocabulary/1468947547.4028.mp4,truth_0002_asldeafined_59840.mp4,ok
+3,59841,handspeak,14,0,train,25,1,-1,45,0,268,240,https://www.handspeak.com/word/t/truth.mp4,truth_0003_handspeak_59841.mp4,failed
+4,59842,signingsavvy,11,0,train,25,1,-1,65,12,195,192,https://www.signingsavvy.com/signs/mp4/14/14233.mp4,truth_0004_signingsavvy_59842.mp4,ok
+5,59843,signingsavvy,11,0,train,25,1,-1,65,12,199,192,https://www.signingsavvy.com/signs/mp4/14/14234.mp4,truth_0005_signingsavvy_59843.mp4,ok
+7,59845,aslu,5,0,train,25,1,-1,317,47,934,720,https://www.youtube.com/watch?v=MRrSl8ualaI,truth_0007_aslu_59845.mp4,failed
+8,59846,aslsearch,12,0,train,25,1,-1,189,55,547,400,http://www.aslsearch.com/signs/videos/truth.mp4,truth_0008_aslsearch_59846.mp4,ok

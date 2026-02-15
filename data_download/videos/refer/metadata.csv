@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,46773,asl5200,9,0,val,25,1220,1252,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,refer_0000_asl5200_46773.mp4,failed
+1,46791,spreadthesign,2,0,test,25,1,-1,42,0,286,240,https://media.spreadthesign.com/video/mp4/13/116506.mp4,refer_0001_spreadthesign_46791.mp4,ok
+2,46792,signschool,4,0,train,25,1,-1,613,65,1564,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Refer%202-0YrSjNvuEoA.mp4,refer_0002_signschool_46792.mp4,ok
+3,46793,signschool,4,0,train,25,1,-1,556,63,1574,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Refer-9Hw5ai7tUEg.mp4,refer_0003_signschool_46793.mp4,ok
+4,46794,handspeak,86,0,train,25,1,-1,28,0,313,240,https://www.handspeak.com/word/r/refer.mp4,refer_0004_handspeak_46794.mp4,failed
+5,46795,signingsavvy,10,0,val,25,1,-1,70,25,221,192,https://www.signingsavvy.com/signs/mp4/22/22208.mp4,refer_0005_signingsavvy_46795.mp4,ok
+6,46796,aslpro,83,0,train,25,1,-1,0,22,234,240,http://www.aslpro.com/main/r/refer.swf,refer_0006_aslpro_46796.mp4,skipped_swf
+7,46797,aslsearch,12,0,train,25,1,-1,181,51,551,400,http://www.aslsearch.com/signs/videos/refer.mp4,refer_0007_aslsearch_46797.mp4,ok

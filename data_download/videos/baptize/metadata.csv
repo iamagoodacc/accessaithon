@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,05016,asl5200,9,0,test,25,760,822,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,baptize_0000_asl5200_05016.mp4,failed
+1,05017,signschool,4,0,val,25,1,-1,462,94,1668,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Baptize%20copy-wgnf1YMsagc.mp4,baptize_0001_signschool_05017.mp4,ok
+2,05018,signschool,6,0,train,25,1,-1,392,67,1446,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Baptize-WCNl5QMSx-c.mp4,baptize_0002_signschool_05018.mp4,ok
+3,05019,asldeafined,17,0,train,25,1,-1,57,11,577,480,https://media.asldeafined.com/vocabulary/1471142459.5834.mp4,baptize_0003_asldeafined_05019.mp4,ok
+4,05020,signingsavvy,11,0,train,25,1,-1,53,12,223,192,https://www.signingsavvy.com/signs/mp4/1/1177.mp4,baptize_0004_signingsavvy_05020.mp4,ok
+8,05024,aslpro,24,0,train,25,1,-1,20,17,218,240,http://www.aslpro.com/main/b/baptize.swf,baptize_0008_aslpro_05024.mp4,skipped_swf
+9,05025,aslsearch,41,0,train,25,1,-1,214,37,572,400,http://www.aslsearch.com/signs/videos/baptism.mp4,baptize_0009_aslsearch_05025.mp4,ok

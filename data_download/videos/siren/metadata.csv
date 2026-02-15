@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,66487,aslsignbank,108,0,val,25,1,-1,160,43,493,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SIREN-1070.mp4,siren_0001_aslsignbank_66487.mp4,failed
+2,66486,aslsignbank,102,0,test,25,1,-1,127,14,525,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SI/SIREN-405.mp4,siren_0002_aslsignbank_66486.mp4,failed
+3,51871,spreadthesign,2,0,train,25,1,-1,33,2,281,240,https://media.spreadthesign.com/video/mp4/13/116881.mp4,siren_0003_spreadthesign_51871.mp4,ok
+4,51872,signschool,60,0,train,25,1,-1,271,0,804,480,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Ambulance-tiNnpds7sc0.mp4,siren_0004_signschool_51872.mp4,ok
+5,51873,handspeak,14,0,train,25,1,-1,31,0,598,480,https://www.handspeak.com/word/s/siren.mp4,siren_0005_handspeak_51873.mp4,failed
+6,51874,signingsavvy,11,0,val,25,1,-1,52,11,232,192,https://www.signingsavvy.com/signs/mp4/2/2768.mp4,siren_0006_signingsavvy_51874.mp4,ok
+7,51875,aslpro,83,0,train,25,1,-1,0,4,247,240,http://www.aslpro.com/main/s/siren.swf,siren_0007_aslpro_51875.mp4,skipped_swf
+8,51876,aslsearch,12,0,train,25,1,-1,189,50,577,400,http://www.aslsearch.com/signs/videos/siren.mp4,siren_0008_aslsearch_51876.mp4,ok

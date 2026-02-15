@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,32092,asl5200,9,0,test,25,58,97,0,0,360,240,https://www.youtube.com/watch?v=EhkIoTNxwGE,lamp_0000_asl5200_32092.mp4,failed
+2,32096,handspeak,20,0,val,25,1,-1,4,0,290,240,https://www.handspeak.com/word/l/lamp.mp4,lamp_0002_handspeak_32096.mp4,failed
+3,32097,signingsavvy,11,0,train,25,1,-1,64,0,214,192,https://www.signingsavvy.com/signs/mp4/5/5696.mp4,lamp_0003_signingsavvy_32097.mp4,ok
+6,32100,aslu,5,0,train,25,1,-1,261,41,942,720,https://www.youtube.com/watch?v=KOKG7jy8Loo,lamp_0006_aslu_32100.mp4,failed
+8,67824,asllex,109,0,train,25,1,-1,64,22,373,360,https://youtu.be/tUVePolTGZU,lamp_0008_asllex_67824.mp4,failed
+11,32104,aslpro,30,0,train,25,1,-1,0,17,224,240,http://www.aslpro.com/main/l/lamp.swf,lamp_0011_aslpro_32104.mp4,skipped_swf
+16,32094,startasl,38,0,train,25,1,-1,364,54,830,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/lamp.mp4,lamp_0016_startasl_32094.mp4,ok

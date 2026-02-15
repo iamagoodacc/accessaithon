@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14431,asl5200,9,0,test,25,7439,7478,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,customer_0000_asl5200_14431.mp4,failed
+1,14432,spreadthesign,0,0,val,25,1,-1,54,4,270,240,https://media.spreadthesign.com/video/mp4/13/74962.mp4,customer_0001_spreadthesign_14432.mp4,ok
+2,14433,signschool,4,0,train,25,1,-1,458,42,1805,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Client%2C%20Customer-gYINFynVIQ4.mp4,customer_0002_signschool_14433.mp4,ok
+4,14435,handspeak,14,0,train,25,1,-1,56,4,267,240,https://www.handspeak.com/word/c/customer-agent.mp4,customer_0004_handspeak_14435.mp4,failed
+5,14436,handspeak,20,0,train,25,1,-1,138,19,488,360,https://www.handspeak.com/word/c/customer.mp4,customer_0005_handspeak_14436.mp4,failed
+6,14437,signingsavvy,11,0,train,25,1,-1,66,10,224,192,https://www.signingsavvy.com/signs/mp4/8/8742.mp4,customer_0006_signingsavvy_14437.mp4,ok
+7,14438,aslsearch,12,0,train,25,1,-1,178,53,546,400,http://www.aslsearch.com/signs/videos/customer.mp4,customer_0007_aslsearch_14438.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57251,spreadthesign,2,0,test,25,1,-1,38,14,259,240,https://media.spreadthesign.com/video/mp4/13/89999.mp4,telescope_0000_spreadthesign_57251.mp4,ok
+1,57252,signschool,6,0,val,25,1,-1,622,46,1497,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Telescope%2C%20Microscope-Y4qdvlHYbQA.mp4,telescope_0001_signschool_57252.mp4,ok
+2,57253,signschool,6,0,train,25,1,-1,630,80,1547,1076,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Telescope-XWt0uMzFFTo.mp4,telescope_0002_signschool_57253.mp4,ok
+3,57254,handspeak,14,0,train,25,1,-1,74,0,520,480,https://www.handspeak.com/word/t/telescope.mp4,telescope_0003_handspeak_57254.mp4,failed
+4,57255,signingsavvy,11,0,train,25,1,-1,29,0,219,192,https://www.signingsavvy.com/signs/mp4/2/2981.mp4,telescope_0004_signingsavvy_57255.mp4,ok
+5,57256,aslpro,72,0,train,25,1,-1,22,6,232,240,http://www.aslpro.com/main/t/telescope.swf,telescope_0005_aslpro_57256.mp4,skipped_swf
+6,57257,aslsearch,12,0,train,25,1,-1,172,52,557,400,http://www.aslsearch.com/signs/videos/telescope.mp4,telescope_0006_aslsearch_57257.mp4,ok

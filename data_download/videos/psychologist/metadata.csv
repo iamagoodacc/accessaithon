@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45163,asl5200,9,0,test,25,6506,6585,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,psychologist_0000_asl5200_45163.mp4,failed
+1,67112,asllex,109,0,val,25,1,-1,122,18,395,360,https://youtu.be/4fGHvcRZ22U,psychologist_0001_asllex_67112.mp4,failed
+2,45164,spreadthesign,2,0,train,25,1,-1,51,6,251,240,https://media.spreadthesign.com/video/mp4/13/116429.mp4,psychologist_0002_spreadthesign_45164.mp4,ok
+3,45165,handspeak,14,0,train,25,1,-1,68,12,250,240,https://www.handspeak.com/word/p/psychologist.mp4,psychologist_0003_handspeak_45165.mp4,failed
+4,45166,signingsavvy,10,0,train,25,1,-1,73,16,225,192,https://www.signingsavvy.com/signs/mp4/22/22645.mp4,psychologist_0004_signingsavvy_45166.mp4,ok
+5,45167,aslpro,72,0,train,25,1,-1,21,5,206,240,http://www.aslpro.com/main/p/psychologist.swf,psychologist_0005_aslpro_45167.mp4,skipped_swf
+6,45168,aslsearch,41,0,train,25,1,-1,246,37,517,400,http://www.aslsearch.com/signs/videos/psychiatrist.mp4,psychologist_0006_aslsearch_45168.mp4,ok

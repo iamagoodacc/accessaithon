@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,34336,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,m_0000_asl5200_34336.mp4,failed
+1,66051,aslsignbank,96,0,val,25,1,-1,203,32,520,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-M-1665.mp4,m_0001_aslsignbank_66051.mp4,failed
+2,35897,asldeafined,21,0,train,25,1,-1,145,41,587,477,https://media.asldeafined.com/vocabulary/1528811613.4355.mp4,m_0002_asldeafined_35897.mp4,ok
+3,35898,handspeak,20,0,train,25,1,-1,125,13,464,360,https://www.handspeak.com/word/m/m-abc.mp4,m_0003_handspeak_35898.mp4,failed
+4,35899,signingsavvy,11,0,train,25,1,-1,82,6,221,192,https://www.signingsavvy.com/signs/mp4/10/10012.mp4,m_0004_signingsavvy_35899.mp4,ok
+5,35900,aslpro,87,0,train,25,1,-1,9,12,228,240,http://www.aslpro.com//main/m/m.swf,m_0005_aslpro_35900.mp4,skipped_swf
+6,35901,aslsearch,41,0,train,25,1,-1,231,38,486,400,http://www.aslsearch.com/signs/videos/m.mp4,m_0006_aslsearch_35901.mp4,ok

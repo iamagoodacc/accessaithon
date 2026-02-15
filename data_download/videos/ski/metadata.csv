@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,52114,asl5200,9,0,test,25,4858,4904,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,ski_0000_asl5200_52114.mp4,failed
+1,68470,lillybauer,113,0,val,25,1,70,280,26,1019,720,https://www.youtube.com/watch?v=G2Kul3RuMoY,ski_0001_lillybauer_68470.mp4,failed
+2,52122,spreadthesign,26,0,train,25,1,-1,63,11,249,240,https://media.spreadthesign.com/video/mp4/13/310809.mp4,ski_0002_spreadthesign_52122.mp4,ok
+3,67209,asllex,109,0,train,25,1,-1,90,20,371,360,https://youtu.be/Gvdnxav0K1M,ski_0003_asllex_67209.mp4,failed
+6,52125,aslu,5,0,train,25,1,-1,399,42,973,718,https://www.youtube.com/watch?v=kdrMcGYNjPs,ski_0006_aslu_52125.mp4,failed
+8,52127,aslpro,72,0,train,25,1,-1,4,6,237,240,http://www.aslpro.com/main/s/skiis_water.swf,ski_0008_aslpro_52127.mp4,skipped_swf
+9,52128,aslsearch,12,0,train,25,1,-1,211,56,564,400,http://www.aslsearch.com/signs/videos/ski.mp4,ski_0009_aslsearch_52128.mp4,ok

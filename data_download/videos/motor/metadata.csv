@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69403,aslbrick,115,0,val,25,1,-1,341,25,985,720,http://aslbricks.org/New/ASL-Videos/motor.mp4,motor_0000_aslbrick_69403.mp4,ok
+1,37003,spreadthesign,37,0,test,25,1,-1,62,0,248,240,https://media.spreadthesign.com/video/mp4/13/457043.mp4,motor_0001_spreadthesign_37003.mp4,ok
+2,70092,northtexas,121,0,train,25,2574,2667,140,23,516,480,https://www.youtube.com/watch?v=RaTg-FuhCmY,motor_0002_northtexas_70092.mp4,failed
+3,37004,asldeafined,13,0,train,25,1,-1,137,0,542,480,https://media.asldeafined.com/vocabulary/1468716818.6034.mp4,motor_0003_asldeafined_37004.mp4,ok
+4,37005,handspeak,14,0,train,25,1,-1,49,10,276,240,https://www.handspeak.com/word/m/motor-machine.mp4,motor_0004_handspeak_37005.mp4,failed
+5,37006,signingsavvy,10,0,val,25,1,-1,74,22,222,192,https://www.signingsavvy.com/signs/mp4/22/22605.mp4,motor_0005_signingsavvy_37006.mp4,ok
+6,37007,aslpro,25,0,train,25,1,-1,0,5,254,240,http://www.aslpro.com/main/m/motor.swf,motor_0006_aslpro_37007.mp4,skipped_swf
+7,37008,aslsearch,12,0,train,25,1,-1,189,55,547,400,http://www.aslsearch.com/signs/videos/engine.mp4,motor_0007_aslsearch_37008.mp4,ok

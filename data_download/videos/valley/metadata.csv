@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,61219,asl5200,9,0,test,25,167,226,0,0,360,240,https://www.youtube.com/watch?v=cP1FdT_zo7U,valley_0000_asl5200_61219.mp4,failed
+2,61221,signschool,32,0,val,25,1,-1,523,67,1770,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Valley-X141fYb2nVw.mp4,valley_0002_signschool_61221.mp4,ok
+3,61222,asldeafined,13,0,train,25,1,-1,7,0,637,480,https://media.asldeafined.com/vocabulary/1468925836.5497.mp4,valley_0003_asldeafined_61222.mp4,ok
+4,61223,handspeak,20,0,train,25,1,-1,19,16,286,240,https://www.handspeak.com/word/v/valley.mp4,valley_0004_handspeak_61223.mp4,failed
+5,61224,signingsavvy,10,0,train,25,1,-1,37,14,244,192,https://www.signingsavvy.com/signs/mp4/22/22233.mp4,valley_0005_signingsavvy_61224.mp4,ok
+6,61225,aslpro,87,0,train,25,1,-1,0,21,260,240,http://www.aslpro.com/main/v/valley.swf,valley_0006_aslpro_61225.mp4,skipped_swf
+7,61226,aslsearch,12,0,train,25,1,-1,136,41,610,400,http://www.aslsearch.com/signs/videos/valley.mp4,valley_0007_aslsearch_61226.mp4,ok

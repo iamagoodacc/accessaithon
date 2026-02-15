@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,32575,signingsavvy,11,0,test,25,1,-1,59,15,242,192,https://www.signingsavvy.com/signs/mp4/1/1915.mp4,leak_0001_signingsavvy_32575.mp4,ok
+2,32576,aslu,5,0,val,25,1,-1,297,25,1093,720,https://www.youtube.com/watch?v=oMaXlxmkLqs,leak_0002_aslu_32576.mp4,failed
+6,32579,aslsearch,41,0,train,25,1,-1,219,49,521,400,http://www.aslsearch.com/signs/videos/leak.mp4,leak_0006_aslsearch_32579.mp4,ok
+7,32569,spreadthesign,8,0,train,25,1,-1,50,4,267,240,https://media.spreadthesign.com/video/mp4/13/457509.mp4,leak_0007_spreadthesign_32569.mp4,ok
+8,32570,startasl,38,0,train,25,1,-1,367,71,795,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/leak.mp4,leak_0008_startasl_32570.mp4,ok
+9,32571,asldeafined,15,0,train,25,1,-1,109,0,614,540,https://media.asldeafined.com/vocabulary/1546371317.9955.mp4,leak_0009_asldeafined_32571.mp4,ok
+11,32573,handspeak,20,0,train,25,1,-1,26,0,589,480,https://www.handspeak.com/word/l/leak.mp4,leak_0011_handspeak_32573.mp4,failed

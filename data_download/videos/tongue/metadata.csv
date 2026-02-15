@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58819,asl5200,9,0,val,25,3742,3821,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,tongue_0000_asl5200_58819.mp4,failed
+1,66656,aslsignbank,98,0,test,25,1,-1,170,34,456,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/TO/TONGUE-1254.mp4,tongue_0001_aslsignbank_66656.mp4,failed
+2,58822,spreadthesign,2,0,train,25,1,-1,62,14,240,240,https://media.spreadthesign.com/video/mp4/13/90097.mp4,tongue_0002_spreadthesign_58822.mp4,ok
+4,58824,signschool,31,0,train,25,1,-1,664,69,1401,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tongue-v_ifR4F8JVo.mp4,tongue_0004_signschool_58824.mp4,ok
+5,58825,handspeak,20,0,train,25,1,-1,71,12,278,240,https://www.handspeak.com/word/t/tongue.mp4,tongue_0005_handspeak_58825.mp4,failed
+6,58826,signingsavvy,11,0,val,25,1,-1,55,14,220,192,https://www.signingsavvy.com/signs/mp4/3/3026.mp4,tongue_0006_signingsavvy_58826.mp4,ok
+8,58828,aslpro,84,0,train,25,1,-1,10,2,204,240,http://www.aslpro.com/main/t/tongue.swf,tongue_0008_aslpro_58828.mp4,skipped_swf
+9,58829,aslsearch,12,0,train,25,1,-1,181,53,528,400,http://www.aslsearch.com/signs/videos/tongue.mp4,tongue_0009_aslsearch_58829.mp4,ok

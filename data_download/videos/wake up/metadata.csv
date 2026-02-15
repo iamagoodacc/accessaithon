@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62142,asl5200,9,0,val,25,140,186,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,wake up_0000_asl5200_62142.mp4,failed
+1,62145,signschool,32,0,test,25,1,-1,693,78,1634,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Open%20Eyes-L9vezC9vfN8.mp4,wake up_0001_signschool_62145.mp4,ok
+2,62143,spreadthesign,56,0,train,25,1,-1,27,0,286,240,https://media.spreadthesign.com/video/mp4/13/50934.mp4,wake up_0002_spreadthesign_62143.mp4,ok
+3,62146,asldeafined,13,0,train,25,1,-1,131,0,537,480,https://media.asldeafined.com/vocabulary/1468926895.6392.mp4,wake up_0003_asldeafined_62146.mp4,ok
+4,62147,handspeak,14,0,train,25,1,-1,48,20,270,240,https://www.handspeak.com/word/w/wake-up.mp4,wake up_0004_handspeak_62147.mp4,failed
+5,62148,signingsavvy,11,0,val,25,1,-1,47,4,212,192,https://www.signingsavvy.com/signs/mp4/14/14132.mp4,wake up_0005_signingsavvy_62148.mp4,ok
+6,62149,nabboud,65,0,train,25,1,-1,235,33,998,720,https://www.youtube.com/watch?v=ihw5oazxW6o,wake up_0006_nabboud_62149.mp4,failed
+7,62150,aslsearch,12,0,train,25,1,-1,191,47,568,400,http://www.aslsearch.com/signs/videos/awake.mp4,wake up_0007_aslsearch_62150.mp4,ok

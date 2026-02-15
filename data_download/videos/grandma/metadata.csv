@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69349,aslbrick,116,0,val,25,1,-1,143,18,610,479,http://aslbricks.org/New/ASL-Videos/grandma.mp4,grandma_0000_aslbrick_69349.mp4,ok
+1,25422,asldeafined,21,0,test,25,1,-1,102,13,535,480,https://media.asldeafined.com/vocabulary/1468550283.9526.mp4,grandma_0001_asldeafined_25422.mp4,ok
+2,68668,lillybauer,112,0,train,25,1,41,364,19,912,720,https://www.youtube.com/watch?v=lT43fCILJdg,grandma_0002_lillybauer_68668.mp4,failed
+3,25423,signingsavvy,11,0,train,25,1,-1,82,15,218,192,https://www.signingsavvy.com/signs/mp4/6/6640.mp4,grandma_0003_signingsavvy_25423.mp4,ok
+4,25424,aslu,64,0,train,25,1,-1,124,39,399,341,https://www.youtube.com/watch?v=Jna1YBiRse8,grandma_0004_aslu_25424.mp4,failed
+5,25425,aslu,5,0,val,25,1,-1,324,51,996,720,https://www.youtube.com/watch?v=Jna1YBiRse8,grandma_0005_aslu_25425.mp4,failed
+6,25426,aslu,5,0,train,25,1,-1,329,43,959,720,https://www.youtube.com/watch?v=r8yvyGMnrYk,grandma_0006_aslu_25426.mp4,failed
+7,25427,aslsearch,12,0,train,25,1,-1,168,54,515,400,http://www.aslsearch.com/signs/videos/grandma.mp4,grandma_0007_aslsearch_25427.mp4,ok

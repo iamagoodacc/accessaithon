@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,45089,asl5200,9,0,val,25,6370,6412,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,proud_0000_asl5200_45089.mp4,failed
+1,45090,spreadthesign,28,0,test,25,1,-1,48,0,260,240,https://media.spreadthesign.com/video/mp4/13/486576.mp4,proud_0001_spreadthesign_45090.mp4,ok
+2,45091,signschool,4,0,train,25,1,-1,520,48,1516,1067,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Proud-JUCxqQamDTo.mp4,proud_0002_signschool_45091.mp4,ok
+3,45092,asldeafined,13,0,train,25,1,-1,93,0,534,480,https://media.asldeafined.com/vocabulary/1468757103.1397.mp4,proud_0003_asldeafined_45092.mp4,ok
+4,45093,handspeak,20,0,train,25,1,-1,49,0,532,480,https://www.handspeak.com/word/p/proud.mp4,proud_0004_handspeak_45093.mp4,failed
+5,45094,signingsavvy,11,0,val,25,1,-1,70,8,222,192,https://www.signingsavvy.com/signs/mp4/6/6059.mp4,proud_0005_signingsavvy_45094.mp4,ok
+6,45095,aslu,5,0,train,25,1,-1,280,35,939,720,https://www.youtube.com/watch?v=v74BSmAB5Uk,proud_0006_aslu_45095.mp4,failed
+7,45096,aslsearch,12,0,train,25,1,-1,196,49,561,400,http://www.aslsearch.com/signs/videos/pride.mp4,proud_0007_aslsearch_45096.mp4,ok

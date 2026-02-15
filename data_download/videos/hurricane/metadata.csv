@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,28412,asl5200,9,0,val,25,2669,2715,0,0,360,240,https://www.youtube.com/watch?v=SiBub8VD5wo,hurricane_0000_asl5200_28412.mp4,failed
+1,28413,spreadthesign,2,0,test,25,1,-1,23,47,249,240,https://media.spreadthesign.com/video/mp4/13/93154.mp4,hurricane_0001_spreadthesign_28413.mp4,ok
+2,28414,signschool,39,0,train,25,1,-1,649,57,1813,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Hurricane-_3e70rAmSvA.mp4,hurricane_0002_signschool_28414.mp4,ok
+3,28415,asldeafined,21,0,train,25,1,-1,26,3,566,480,https://media.asldeafined.com/vocabulary/1468639293.8375.mp4,hurricane_0003_asldeafined_28415.mp4,ok
+4,28417,signingsavvy,11,0,train,25,1,-1,54,15,223,192,https://www.signingsavvy.com/signs/mp4/8/8535.mp4,hurricane_0004_signingsavvy_28417.mp4,ok
+5,28418,aslu,5,0,val,25,1,-1,184,23,1026,720,https://www.youtube.com/watch?v=pDcdYvUgQIE,hurricane_0005_aslu_28418.mp4,failed
+6,28419,aslpro,72,0,train,25,1,-1,40,1,273,240,http://www.aslpro.com/main/h/hurricane.swf,hurricane_0006_aslpro_28419.mp4,skipped_swf
+7,28420,aslsearch,12,0,train,25,1,-1,163,52,558,400,http://www.aslsearch.com/signs/videos/hurricane.mp4,hurricane_0007_aslsearch_28420.mp4,ok

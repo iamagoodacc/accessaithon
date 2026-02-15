@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65021,aslsignbank,91,0,test,25,1,-1,209,31,463,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AD/ADMIT-1970.mp4,admit_0000_aslsignbank_65021.mp4,failed
+2,01124,aslu,5,0,val,25,1,-1,347,48,932,720,https://www.youtube.com/watch?v=yUbsYC5nE3M,admit_0002_aslu_01124.mp4,failed
+6,01127,aslsearch,41,0,train,25,1,-1,237,38,504,400,http://www.aslsearch.com/signs/videos/admit.mp4,admit_0006_aslsearch_01127.mp4,ok
+8,01118,signschool,4,0,train,25,1,-1,587,42,1641,1070,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Admit%2C%20Confess%203-uXyf25RuSCk.mp4,admit_0008_signschool_01118.mp4,ok
+10,01120,asldeafined,13,0,train,25,1,-1,72,22,502,480,https://media.asldeafined.com/vocabulary/1466170335.8690.mp4,admit_0010_asldeafined_01120.mp4,ok
+11,01121,handspeak,20,0,train,25,1,-1,78,20,540,480,https://www.handspeak.com/word/a/admit.mp4,admit_0011_handspeak_01121.mp4,failed
+12,01122,signingsavvy,11,0,train,25,1,-1,66,9,216,192,https://www.signingsavvy.com/signs/mp4/14/14330.mp4,admit_0012_signingsavvy_01122.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,57542,asl5200,9,0,test,25,1282,1334,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,testify_0000_asl5200_57542.mp4,failed
+1,57551,aslpro,25,0,val,25,1,-1,0,7,249,240,http://www.aslpro.com/main/t/testify.swf,testify_0001_aslpro_57551.mp4,skipped_swf
+2,57552,aslsearch,12,0,train,25,1,-1,139,53,557,400,http://www.aslsearch.com/signs/videos/testify2.mp4,testify_0002_aslsearch_57552.mp4,ok
+3,57543,spreadthesign,2,0,train,25,1,-1,59,17,270,240,https://media.spreadthesign.com/video/mp4/13/90011.mp4,testify_0003_spreadthesign_57543.mp4,ok
+5,57545,signschool,4,0,train,25,1,-1,462,45,1735,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Testify-QQGKLYu0MgI.mp4,testify_0005_signschool_57545.mp4,ok
+6,57546,asldeafined,21,0,train,25,1,-1,89,33,571,480,https://media.asldeafined.com/vocabulary/1528813076.9838.mp4,testify_0006_asldeafined_57546.mp4,ok
+8,57548,signingsavvy,11,0,train,25,1,-1,61,11,226,192,https://www.signingsavvy.com/signs/mp4/14/14143.mp4,testify_0008_signingsavvy_57548.mp4,ok

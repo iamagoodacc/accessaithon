@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,58743,asl5200,9,0,test,25,3452,3531,0,0,360,240,https://www.youtube.com/watch?v=x6CehcknaH8,toilet paper_0000_asl5200_58743.mp4,failed
+1,58745,spreadthesign,56,0,val,25,1,-1,49,0,283,240,https://media.spreadthesign.com/video/mp4/13/50909.mp4,toilet paper_0001_spreadthesign_58745.mp4,ok
+2,58746,asldeafined,13,0,train,25,1,-1,143,0,533,480,https://media.asldeafined.com/vocabulary/1468945833.2937.mp4,toilet paper_0002_asldeafined_58746.mp4,ok
+3,58747,handspeak,20,0,train,25,1,-1,30,0,293,240,https://www.handspeak.com/word/t/toilet-paper.mp4,toilet paper_0003_handspeak_58747.mp4,failed
+4,58748,signingsavvy,11,0,train,25,1,-1,65,15,220,192,https://www.signingsavvy.com/signs/mp4/3/3837.mp4,toilet paper_0004_signingsavvy_58748.mp4,ok
+5,58749,aslpro,87,0,train,25,1,-1,1,2,219,240,http://www.aslpro.com//main/t/toilet_paper.swf,toilet paper_0005_aslpro_58749.mp4,skipped_swf
+6,58750,aslsearch,12,0,train,25,1,-1,131,52,542,400,http://www.aslsearch.com/signs/videos/toilet-paper.mp4,toilet paper_0006_aslsearch_58750.mp4,ok

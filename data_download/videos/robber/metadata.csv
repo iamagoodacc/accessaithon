@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,48305,asl5200,9,0,test,25,3664,3720,0,0,360,240,https://www.youtube.com/watch?v=Qc7Dc_qF5NI,robber_0000_asl5200_48305.mp4,failed
+1,48306,spreadthesign,8,0,val,25,1,-1,76,0,254,240,https://media.spreadthesign.com/video/mp4/13/457647.mp4,robber_0001_spreadthesign_48306.mp4,ok
+2,48307,asldeafined,21,0,train,25,1,-1,64,31,558,480,https://media.asldeafined.com/vocabulary/1532963506.3068.mp4,robber_0002_asldeafined_48307.mp4,ok
+3,48308,signingsavvy,11,0,train,25,1,-1,59,7,231,192,https://www.signingsavvy.com/signs/mp4/14/14779.mp4,robber_0003_signingsavvy_48308.mp4,ok
+6,48311,signingsavvy,11,0,train,25,1,-1,60,7,230,192,https://www.signingsavvy.com/signs/mp4/14/14806.mp4,robber_0006_signingsavvy_48311.mp4,ok
+7,48312,aslu,5,0,train,25,1,-1,32,17,1051,720,https://www.youtube.com/watch?v=JPv1PS9T7Ic,robber_0007_aslu_48312.mp4,failed
+8,48313,aslsearch,12,0,train,25,1,-1,178,69,550,400,http://www.aslsearch.com/signs/videos/thief.mp4,robber_0008_aslsearch_48313.mp4,ok

@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,55626,asl5200,9,0,test,25,9993,10039,0,0,360,240,https://www.youtube.com/watch?v=XB3Q6IX6CBo,sue_0000_asl5200_55626.mp4,failed
+1,70160,northtexas,121,0,val,25,3290,3409,180,14,507,480,https://www.youtube.com/watch?v=F5Wef1_PtLk,sue_0001_northtexas_70160.mp4,failed
+2,55627,spreadthesign,2,0,train,25,1,-1,66,10,268,240,https://media.spreadthesign.com/video/mp4/13/155648.mp4,sue_0002_spreadthesign_55627.mp4,ok
+3,55628,signschool,32,0,train,25,1,-1,720,72,1657,1077,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Against%2C%20Sue-l7JT1v0G-xw.mp4,sue_0003_signschool_55628.mp4,ok
+5,55630,handspeak,14,0,train,25,1,-1,101,0,623,480,https://www.handspeak.com/word/s/sue-lawsuit.mp4,sue_0005_handspeak_55630.mp4,failed
+6,55631,signingsavvy,11,0,train,25,1,-1,68,12,209,192,https://www.signingsavvy.com/signs/mp4/14/14310.mp4,sue_0006_signingsavvy_55631.mp4,ok
+7,55632,aslsearch,12,0,train,25,1,-1,181,54,540,400,http://www.aslsearch.com/signs/videos/sue.mp4,sue_0007_aslsearch_55632.mp4,ok

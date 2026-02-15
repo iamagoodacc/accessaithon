@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,38700,asl5200,9,0,test,25,1584,1640,0,0,360,240,https://www.youtube.com/watch?v=1_jXxjd0lKE,northwest_0000_asl5200_38700.mp4,failed
+1,38701,spreadthesign,77,0,val,25,1,-1,35,0,235,240,https://media.spreadthesign.com/video/mp4/13/457123.mp4,northwest_0001_spreadthesign_38701.mp4,ok
+2,38702,signschool,4,0,train,25,1,-1,543,59,1554,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Northwest-ZLLE8-gg8VY.mp4,northwest_0002_signschool_38702.mp4,ok
+3,38703,handspeak,14,0,train,25,1,-1,73,9,264,240,https://www.handspeak.com/word/n/northwest.mp4,northwest_0003_handspeak_38703.mp4,failed
+4,38704,signingsavvy,10,0,train,25,1,-1,87,20,207,192,https://www.signingsavvy.com/signs/mp4/22/22225.mp4,northwest_0004_signingsavvy_38704.mp4,ok
+5,38705,aslu,5,0,train,25,1,-1,300,35,923,720,https://www.youtube.com/watch?v=5tfGoxsMeh0,northwest_0005_aslu_38705.mp4,failed
+6,38706,aslsearch,41,0,train,25,1,-1,220,34,517,400,http://www.aslsearch.com/signs/videos/northwest.mp4,northwest_0006_aslsearch_38706.mp4,ok

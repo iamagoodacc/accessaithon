@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,39147,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=K1VPkuTMpP0,o_0000_asl5200_39147.mp4,failed
+1,66053,aslsignbank,96,0,val,25,1,-1,202,34,512,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-O-1663.mp4,o_0001_aslsignbank_66053.mp4,failed
+2,39553,asldeafined,21,0,train,25,1,-1,174,41,582,478,https://media.asldeafined.com/vocabulary/1528811854.2948.mp4,o_0002_asldeafined_39553.mp4,ok
+3,39554,handspeak,14,0,train,25,1,-1,124,15,462,360,https://www.handspeak.com/word/o/o-abc.mp4,o_0003_handspeak_39554.mp4,failed
+4,39555,signingsavvy,11,0,train,25,1,-1,83,6,220,192,https://www.signingsavvy.com/signs/mp4/10/10014.mp4,o_0004_signingsavvy_39555.mp4,ok
+5,39556,aslpro,30,0,train,25,1,-1,8,11,229,240,http://www.aslpro.com//main/o/o.swf,o_0005_aslpro_39556.mp4,skipped_swf
+6,39557,aslsearch,12,0,train,25,1,-1,180,54,557,400,http://www.aslsearch.com/signs/videos/o.mp4,o_0006_aslsearch_39557.mp4,ok

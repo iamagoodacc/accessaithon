@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,65804,aslsignbank,106,0,test,25,1,-1,155,39,470,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/GA/GAY-1511.mp4,gay_0000_aslsignbank_65804.mp4,failed
+3,24199,aslu,5,0,val,25,1,-1,348,50,903,720,https://www.youtube.com/watch?v=OtKDD4sDj-4,gay_0003_aslu_24199.mp4,failed
+6,67704,asllex,109,0,train,25,1,-1,89,20,366,360,https://youtu.be/IZGrX2xbdac,gay_0006_asllex_67704.mp4,failed
+7,24201,aslpro,72,0,train,25,1,-1,16,9,213,240,http://www.aslpro.com//main/g/gay_homosexual.swf,gay_0007_aslpro_24201.mp4,skipped_swf
+9,24203,aslsearch,41,0,train,25,1,-1,232,41,481,400,http://www.aslsearch.com/signs/videos/gay2.mp4,gay_0009_aslsearch_24203.mp4,ok
+11,24194,signingsavvy,11,0,train,25,1,-1,83,11,221,192,https://www.signingsavvy.com/signs/mp4/14/14762.mp4,gay_0011_signingsavvy_24194.mp4,ok
+12,24195,signingsavvy,11,0,train,25,1,-1,84,9,221,192,https://www.signingsavvy.com/signs/mp4/14/14764.mp4,gay_0012_signingsavvy_24195.mp4,ok

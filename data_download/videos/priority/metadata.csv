@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44582,asl5200,9,0,val,25,5497,5536,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,priority_0000_asl5200_44582.mp4,failed
+1,44588,asldeafined,13,0,test,25,1,-1,118,0,573,480,https://media.asldeafined.com/vocabulary/1468756037.2440.mp4,priority_0001_asldeafined_44588.mp4,ok
+2,44589,handspeak,20,0,train,25,1,-1,8,0,538,480,https://www.handspeak.com/word/p/priority.mp4,priority_0002_handspeak_44589.mp4,failed
+6,44592,aslu,5,0,train,25,1,-1,330,56,960,720,https://www.youtube.com/watch?v=bZ0QgNRDa_k,priority_0006_aslu_44592.mp4,failed
+7,44593,aslpro,25,0,train,25,1,-1,10,4,247,240,http://www.aslpro.com/main/p/priority.swf,priority_0007_aslpro_44593.mp4,skipped_swf
+10,44584,signschool,4,0,val,25,1,-1,521,67,1678,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Priority%202-dk6Y5yE8JwU.mp4,priority_0010_signschool_44584.mp4,ok
+12,44586,signschool,4,0,train,25,1,-1,409,64,1675,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Priority%204-U-_9dSa_fm4.mp4,priority_0012_signschool_44586.mp4,ok
+13,44587,signschool,4,0,train,25,1,-1,289,52,1644,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Priority-Y0mrl2vYTtI.mp4,priority_0013_signschool_44587.mp4,ok

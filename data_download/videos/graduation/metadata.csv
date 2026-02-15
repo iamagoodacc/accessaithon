@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,25350,spreadthesign,0,0,test,25,1,-1,53,3,254,240,https://media.spreadthesign.com/video/mp4/13/58511.mp4,graduation_0000_spreadthesign_25350.mp4,ok
+1,25351,signschool,4,0,val,25,1,-1,405,23,1159,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Graduation.mp4,graduation_0001_signschool_25351.mp4,ok
+2,25352,handspeak,14,0,train,25,1,-1,57,0,267,240,https://www.handspeak.com/word/g/graduation.mp4,graduation_0002_handspeak_25352.mp4,failed
+3,25353,signingsavvy,11,0,train,25,1,-1,74,15,214,192,https://www.signingsavvy.com/signs/mp4/6/6256.mp4,graduation_0003_signingsavvy_25353.mp4,ok
+4,25354,signingsavvy,11,0,train,25,1,-1,63,11,212,192,https://www.signingsavvy.com/signs/mp4/8/8864.mp4,graduation_0004_signingsavvy_25354.mp4,ok
+5,25355,aslpro,72,0,train,25,1,-1,73,1,275,240,http://www.aslpro.com/main/g/graduation.swf,graduation_0005_aslpro_25355.mp4,skipped_swf
+6,25356,aslsearch,12,0,train,25,1,-1,175,60,532,400,http://www.aslsearch.com/signs/videos/graduate.mp4,graduation_0006_aslsearch_25356.mp4,ok

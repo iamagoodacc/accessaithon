@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,36036,asl5200,9,0,test,25,1414,1453,0,0,360,240,https://www.youtube.com/watch?v=IxO7unGawfk,military_0000_asl5200_36036.mp4,failed
+1,36037,spreadthesign,37,0,val,25,1,-1,10,0,257,240,https://media.spreadthesign.com/video/mp4/13/456999.mp4,military_0001_spreadthesign_36037.mp4,ok
+2,36038,asldeafined,13,0,train,25,1,-1,98,0,520,480,https://media.asldeafined.com/vocabulary/1468715442.640.mp4,military_0002_asldeafined_36038.mp4,ok
+3,36039,handspeak,20,0,train,25,1,-1,60,0,519,480,https://www.handspeak.com/word/m/military.mp4,military_0003_handspeak_36039.mp4,failed
+4,36040,signingsavvy,11,0,train,25,1,-1,47,16,207,192,https://www.signingsavvy.com/signs/mp4/8/8536.mp4,military_0004_signingsavvy_36040.mp4,ok
+5,36041,aslu,5,0,train,25,1,-1,143,0,532,360,https://www.youtube.com/watch?v=in5ZG2pHLdc,military_0005_aslu_36041.mp4,failed
+6,36042,aslpro,25,0,train,25,1,-1,0,6,258,240,http://www.aslpro.com/main/m/military.swf,military_0006_aslpro_36042.mp4,skipped_swf

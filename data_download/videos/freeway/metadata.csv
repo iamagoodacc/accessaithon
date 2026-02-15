@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+1,23432,aslu,5,0,test,25,1,-1,351,31,977,720,https://www.youtube.com/watch?v=gcuunXUlY3U,freeway_0001_aslu_23432.mp4,failed
+4,23434,aslsearch,12,0,val,25,1,-1,175,51,549,400,http://www.aslsearch.com/signs/videos/freeway.mp4,freeway_0004_aslsearch_23434.mp4,ok
+5,23425,asldeafined,21,0,train,25,1,-1,78,10,538,480,https://media.asldeafined.com/vocabulary/1468580990.8981.mp4,freeway_0005_asldeafined_23425.mp4,ok
+6,23426,handspeak,14,0,train,25,1,-1,37,11,273,240,https://www.handspeak.com/word/f/freeway.mp4,freeway_0006_handspeak_23426.mp4,failed
+7,23427,signingsavvy,11,0,train,25,1,-1,73,10,208,192,https://www.signingsavvy.com/signs/mp4/5/5952.mp4,freeway_0007_signingsavvy_23427.mp4,ok
+8,23428,signingsavvy,11,0,train,25,1,-1,69,6,202,192,https://www.signingsavvy.com/signs/mp4/5/5954.mp4,freeway_0008_signingsavvy_23428.mp4,ok
+11,23431,aslu,5,0,train,25,1,-1,331,30,944,720,https://www.youtube.com/watch?v=7Fe_qG-QZF0,freeway_0011_aslu_23431.mp4,failed

@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,29961,asl5200,9,0,val,25,1190,1242,0,0,360,240,https://www.youtube.com/watch?v=K1YuKDdDp_k,instead_0000_asl5200_29961.mp4,failed
+1,65945,aslsignbank,96,0,test,25,1,-1,175,33,505,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/IN/INSTEAD-1730.mp4,instead_0001_aslsignbank_65945.mp4,failed
+2,29962,spreadthesign,2,0,train,25,1,-1,49,40,247,240,https://media.spreadthesign.com/video/mp4/13/93175.mp4,instead_0002_spreadthesign_29962.mp4,ok
+3,29963,asldeafined,22,0,train,25,1,-1,61,9,574,480,https://media.asldeafined.com/vocabulary/1476145325.3850.mp4,instead_0003_asldeafined_29963.mp4,ok
+4,29964,handspeak,20,0,train,25,1,-1,81,0,562,480,https://www.handspeak.com/word/i/instead-of.mp4,instead_0004_handspeak_29964.mp4,failed
+5,29965,signingsavvy,11,0,val,25,1,-1,60,17,229,192,https://www.signingsavvy.com/signs/mp4/1/1794.mp4,instead_0005_signingsavvy_29965.mp4,ok
+6,29966,aslpro,30,0,train,25,1,-1,0,10,229,240,http://www.aslpro.com/main/i/instead.swf,instead_0006_aslpro_29966.mp4,skipped_swf
+7,29967,aslsearch,12,0,train,25,1,-1,187,53,538,400,http://www.aslsearch.com/signs/videos/instead.mp4,instead_0007_aslsearch_29967.mp4,ok

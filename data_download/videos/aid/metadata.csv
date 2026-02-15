@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,01621,spreadthesign,2,0,test,25,1,-1,71,9,240,240,https://media.spreadthesign.com/video/mp4/13/118372.mp4,aid_0000_spreadthesign_01621.mp4,ok
+1,01622,spreadthesign,23,0,val,25,1,-1,69,0,258,240,https://media.spreadthesign.com/video/mp4/13/188300.mp4,aid_0001_spreadthesign_01622.mp4,ok
+3,01624,asldeafined,13,0,train,25,1,-1,122,20,517,480,https://media.asldeafined.com/vocabulary/1466171807.3148.mp4,aid_0003_asldeafined_01624.mp4,ok
+4,01625,handspeak,14,0,train,25,1,-1,170,0,515,360,https://www.handspeak.com/word/a/aid.mp4,aid_0004_handspeak_01625.mp4,failed
+5,01626,signingsavvy,10,0,train,25,1,-1,92,24,202,192,https://www.signingsavvy.com/signs/mp4/23/23431.mp4,aid_0005_signingsavvy_01626.mp4,ok
+6,01627,signingsavvy,11,0,train,25,1,-1,72,14,217,192,https://www.signingsavvy.com/signs/mp4/6/6389.mp4,aid_0006_signingsavvy_01627.mp4,ok
+7,01628,aslu,5,0,train,25,1,-1,330,18,980,720,https://www.youtube.com/watch?v=r9JzT9nM6aw,aid_0007_aslu_01628.mp4,failed

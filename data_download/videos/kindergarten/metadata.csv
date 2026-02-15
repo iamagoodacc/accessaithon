@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+2,31687,spreadthesign,33,0,test,25,1,-1,70,19,297,240,https://media.spreadthesign.com/video/mp4/13/96648.mp4,kindergarten_0002_spreadthesign_31687.mp4,ok
+3,31688,signschool,6,0,val,25,1,-1,441,50,1066,720,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Kindergarten.mp4,kindergarten_0003_signschool_31688.mp4,ok
+4,31689,asldeafined,21,0,train,25,1,-1,83,7,609,480,https://media.asldeafined.com/vocabulary/1468670387.4228.mp4,kindergarten_0004_asldeafined_31689.mp4,ok
+5,31690,handspeak,20,0,train,25,1,-1,194,12,528,360,https://www.handspeak.com/word/k/kindergarten.mp4,kindergarten_0005_handspeak_31690.mp4,failed
+6,31691,signingsavvy,11,0,train,25,1,-1,73,19,222,192,https://www.signingsavvy.com/signs/mp4/8/8523.mp4,kindergarten_0006_signingsavvy_31691.mp4,ok
+7,31692,aslpro,72,0,train,25,1,-1,21,3,229,240,http://www.aslpro.com/main/k/kindergarten.swf,kindergarten_0007_aslpro_31692.mp4,skipped_swf
+8,31693,aslsearch,41,0,train,25,1,-1,204,43,515,400,http://www.aslsearch.com/signs/videos/kindergarten.mp4,kindergarten_0008_aslsearch_31693.mp4,ok

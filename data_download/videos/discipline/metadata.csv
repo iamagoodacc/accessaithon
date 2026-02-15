@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,16502,spreadthesign,2,0,test,25,1,-1,27,13,236,240,https://media.spreadthesign.com/video/mp4/13/93938.mp4,discipline_0000_spreadthesign_16502.mp4,ok
+1,16503,signschool,4,0,val,25,1,-1,318,59,1633,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Discipline-nzEDrnPlMp8.mp4,discipline_0001_signschool_16503.mp4,ok
+2,16504,asldeafined,21,0,train,25,1,-1,61,14,562,480,https://media.asldeafined.com/vocabulary/1467770694.417.mp4,discipline_0002_asldeafined_16504.mp4,ok
+3,16505,handspeak,14,0,train,25,1,-1,57,3,289,240,https://www.handspeak.com/word/d/discipline.mp4,discipline_0003_handspeak_16505.mp4,failed
+4,16506,signingsavvy,11,0,train,25,1,-1,76,15,205,192,https://www.signingsavvy.com/signs/mp4/14/14433.mp4,discipline_0004_signingsavvy_16506.mp4,ok
+8,16510,aslu,5,0,train,25,1,-1,274,52,1020,720,https://www.youtube.com/watch?v=PbJtP57iUYg,discipline_0008_aslu_16510.mp4,failed
+9,16511,aslsearch,41,0,train,25,1,-1,232,48,498,400,http://www.aslsearch.com/signs/videos/discipline.mp4,discipline_0009_aslsearch_16511.mp4,ok

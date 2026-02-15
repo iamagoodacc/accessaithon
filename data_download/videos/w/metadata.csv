@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,62032,asl5200,9,0,test,25,1,23,0,0,360,240,https://www.youtube.com/watch?v=A5dihMAjeTE,w_0000_asl5200_62032.mp4,failed
+1,66061,aslsignbank,96,0,val,25,1,-1,201,27,511,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/LE/LETTER-W-1655.mp4,w_0001_aslsignbank_66061.mp4,failed
+2,63274,asldeafined,21,0,train,25,1,-1,129,39,581,478,https://media.asldeafined.com/vocabulary/1528812930.671.mp4,w_0002_asldeafined_63274.mp4,ok
+3,63275,handspeak,14,0,train,25,1,-1,126,13,460,360,https://www.handspeak.com/word/w/w-abc.mp4,w_0003_handspeak_63275.mp4,failed
+4,63276,signingsavvy,11,0,train,25,1,-1,84,9,220,192,https://www.signingsavvy.com/signs/mp4/10/10022.mp4,w_0004_signingsavvy_63276.mp4,ok
+5,63277,aslpro,87,0,train,25,1,-1,4,10,228,240,http://www.aslpro.com//main/w/w.swf,w_0005_aslpro_63277.mp4,skipped_swf
+6,63278,aslsearch,41,0,train,25,1,-1,228,34,485,400,http://www.aslsearch.com/signs/videos/w.mp4,w_0006_aslsearch_63278.mp4,ok

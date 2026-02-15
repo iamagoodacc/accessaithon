@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,14101,asl5200,9,0,test,25,6964,7036,0,0,360,240,https://www.youtube.com/watch?v=PPmQd2zWdP0,crown_0000_asl5200_14101.mp4,failed
+1,14102,signschool,32,0,val,25,1,-1,565,64,1681,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Put%20On%20A%20Hat-MzrWxH4N4-0.mp4,crown_0001_signschool_14102.mp4,ok
+2,14103,asldeafined,21,0,train,25,1,-1,105,14,597,480,https://media.asldeafined.com/vocabulary/1520781790.8060.mp4,crown_0002_asldeafined_14103.mp4,ok
+3,14104,handspeak,14,0,train,25,1,-1,28,13,310,240,https://www.handspeak.com/word/c/crown-royal.mp4,crown_0003_handspeak_14104.mp4,failed
+4,14105,signingsavvy,11,0,train,25,1,-1,41,0,252,192,https://www.signingsavvy.com/signs/mp4/14/14876.mp4,crown_0004_signingsavvy_14105.mp4,ok
+5,14106,aslpro,25,0,train,25,1,-1,1,14,257,240,http://www.aslpro.com/main/c/crown.swf,crown_0005_aslpro_14106.mp4,skipped_swf
+6,14107,aslsearch,12,0,train,25,1,-1,120,44,570,400,http://www.aslsearch.com/signs/videos/crown.mp4,crown_0006_aslsearch_14107.mp4,ok

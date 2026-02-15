@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,41644,spreadthesign,37,0,test,25,1,-1,30,0,270,240,https://media.spreadthesign.com/video/mp4/13/457708.mp4,peaceful_0000_spreadthesign_41644.mp4,ok
+1,41645,signschool,4,0,val,25,1,-1,630,32,1841,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Peace%202-DluAZ0E4_9E.mp4,peaceful_0001_signschool_41645.mp4,ok
+2,41646,signschool,4,0,train,25,1,-1,549,35,1885,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Peace%203-wL1DvLSQ6QI.mp4,peaceful_0002_signschool_41646.mp4,ok
+3,41647,signschool,4,0,train,25,1,-1,679,45,1804,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Peace-5buZJB4Fjz0.mp4,peaceful_0003_signschool_41647.mp4,ok
+4,41648,asldeafined,59,0,train,25,1,-1,64,17,586,480,https://media.asldeafined.com/vocabulary/1466726142.3586.mp4,peaceful_0004_asldeafined_41648.mp4,ok
+5,41649,signingsavvy,11,0,train,25,1,-1,57,13,230,192,https://www.signingsavvy.com/signs/mp4/6/6699.mp4,peaceful_0005_signingsavvy_41649.mp4,ok
+6,41650,aslsearch,12,0,train,25,1,-1,170,53,556,400,http://www.aslsearch.com/signs/videos/peace.mp4,peaceful_0006_aslsearch_41650.mp4,ok

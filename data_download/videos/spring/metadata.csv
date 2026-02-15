@@ -1,0 +1,9 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,54116,spreadthesign,63,0,val,25,1,-1,49,0,252,240,https://media.spreadthesign.com/video/mp4/13/50820.mp4,spring_0000_spreadthesign_54116.mp4,ok
+1,54117,startasl,38,0,test,25,1,-1,433,59,806,720,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/spring.mp4,spring_0001_startasl_54117.mp4,ok
+2,54118,signschool,4,0,train,25,1,-1,473,42,1678,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Plant%2C%20Spring%2C%20Volcano-WpF9NXrdLGQ.mp4,spring_0002_signschool_54118.mp4,ok
+3,54119,asldeafined,13,0,train,25,1,-1,147,0,544,480,https://media.asldeafined.com/vocabulary/1468842764.4059.mp4,spring_0003_asldeafined_54119.mp4,ok
+4,54120,handspeak,14,0,train,25,1,-1,68,11,241,240,https://www.handspeak.com/word/s/spring-season.mp4,spring_0004_handspeak_54120.mp4,failed
+5,54121,signingsavvy,10,0,val,25,1,-1,92,23,200,192,https://www.signingsavvy.com/signs/mp4/22/22294.mp4,spring_0005_signingsavvy_54121.mp4,ok
+7,54123,aslpro,72,0,train,25,1,-1,12,3,228,240,http://www.aslpro.com/main/s/spring_season.swf,spring_0007_aslpro_54123.mp4,skipped_swf
+8,54124,aslsearch,12,0,train,25,1,-1,201,54,550,400,http://www.aslsearch.com/signs/videos/spring.mp4,spring_0008_aslsearch_54124.mp4,ok

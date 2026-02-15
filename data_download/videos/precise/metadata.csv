@@ -1,0 +1,8 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,44183,asl5200,9,0,test,25,4411,4453,0,0,360,240,https://www.youtube.com/watch?v=zHd4YEFzpwE,precise_0000_asl5200_44183.mp4,failed
+1,44184,spreadthesign,2,0,val,25,1,-1,79,6,270,240,https://media.spreadthesign.com/video/mp4/13/116388.mp4,precise_0001_spreadthesign_44184.mp4,ok
+2,44185,signschool,4,0,train,25,1,-1,606,77,1550,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Exact%2C%20Precise%2C%20Specific-SfsTP2s2NfY.mp4,precise_0002_signschool_44185.mp4,ok
+3,44186,asldeafined,13,0,train,25,1,-1,148,0,539,480,https://media.asldeafined.com/vocabulary/1468842317.9240.mp4,precise_0003_asldeafined_44186.mp4,ok
+4,44187,handspeak,86,0,train,25,1,-1,60,12,241,240,https://www.handspeak.com/word/p/precise.mp4,precise_0004_handspeak_44187.mp4,failed
+5,44188,signingsavvy,10,0,train,25,1,-1,79,17,198,192,https://www.signingsavvy.com/signs/mp4/24/24084.mp4,precise_0005_signingsavvy_44188.mp4,ok
+6,44189,aslpro,16,0,train,25,1,-1,25,19,221,240,http://www.aslpro.com/main/p/precise.swf,precise_0006_aslpro_44189.mp4,skipped_swf
