@@ -1,3 +1,4 @@
 tasks/*.task
 __*
 .env
+.venv/
