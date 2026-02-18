@@ -1,0 +1,17 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,04694,asl5200,9,0,test,25,347,393,0,0,360,240,https://www.youtube.com/watch?v=pDqITge_TGs,bad_0000_asl5200_04694.mp4,skipped_no_ytdlp
+1,69219,aslbrick,118,0,test,25,1,-1,327,41,877,720,http://aslbricks.org/New/ASL-Videos/bad.mp4,bad_0001_aslbrick_69219.mp4,ok
+2,04709,startasl,36,0,train,25,1,-1,212,16,522,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bad.mp4,bad_0002_startasl_04709.mp4,ok
+5,04712,signschool,4,0,train,25,1,-1,739,67,1637,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Bad-2099RpCyLwU.mp4,bad_0005_signschool_04712.mp4,ok
+6,04713,signschool,52,0,train,25,1,-1,231,7,579,360,https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20bad5.mp4,bad_0006_signschool_04713.mp4,ok
+8,04715,asldeafined,13,0,val,25,1,-1,128,31,538,480,https://media.asldeafined.com/vocabulary/1466648215.3053.mp4,bad_0008_asldeafined_04715.mp4,ok
+9,04716,handspeak,20,0,train,25,1,-1,104,0,514,480,https://www.handspeak.com/word/b/bad.mp4,bad_0009_handspeak_04716.mp4,failed
+10,04717,signingsavvy,11,0,val,25,1,-1,61,16,211,192,https://www.signingsavvy.com/signs/mp4/6/6529.mp4,bad_0010_signingsavvy_04717.mp4,ok
+11,65125,aslsignbank,88,0,train,25,1,-1,166,4,477,370,https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BAD-29.mp4,bad_0011_aslsignbank_65125.mp4,failed
+12,04708,spreadthesign,2,0,train,25,1,-1,65,11,258,240,https://media.spreadthesign.com/video/mp4/13/123148.mp4,bad_0012_spreadthesign_04708.mp4,ok
+13,67381,asllex,109,0,train,25,1,-1,100,8,375,360,https://youtu.be/-kgTBeOw95A,bad_0013_asllex_67381.mp4,skipped_no_ytdlp
+14,04718,signingsavvy,11,0,train,25,1,-1,75,15,238,192,https://www.signingsavvy.com/signs/mp4/6/6944.mp4,bad_0014_signingsavvy_04718.mp4,ok
+16,04720,aslu,5,0,val,25,1,-1,158,6,493,360,https://www.youtube.com/watch?v=BUhCGlNOqRA,bad_0016_aslu_04720.mp4,skipped_no_ytdlp
+17,04721,aslu,5,0,train,25,1,-1,334,39,923,720,https://www.youtube.com/watch?v=prwtXZ1o2As,bad_0017_aslu_04721.mp4,skipped_no_ytdlp
+18,04722,aslpro,16,0,train,25,1,-1,27,9,229,240,http://www.aslpro.com/main/b/bad.swf,bad_0018_aslpro_04722.mp4,skipped_swf
+19,04723,aslsearch,12,0,train,25,1,-1,164,49,523,400,http://www.aslsearch.com/signs/videos/bad.mp4,bad_0019_aslsearch_04723.mp4,ok

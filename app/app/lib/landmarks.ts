@@ -43,6 +43,11 @@ export function extractLandmarks(
     return null;
   }
 
+  // Need at least one hand detected — without hands the model can't distinguish signs
+  if (!handResult.landmarks || handResult.landmarks.length === 0) {
+    return null;
+  }
+
   const poseLandmarks = poseResult.landmarks[0];
 
   // Extract used pose landmarks as [x, y, z]

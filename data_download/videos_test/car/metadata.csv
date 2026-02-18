@@ -1,0 +1,14 @@
+instance_id,video_id,source,signer_id,variation_id,split,fps,frame_start,frame_end,bbox_x1,bbox_y1,bbox_x2,bbox_y2,url,filename,status
+0,69258,aslbrick,118,0,val,25,1,-1,327,35,951,720,http://aslbricks.org/New/ASL-Videos/car.mp4,car_0000_aslbrick_69258.mp4,ok
+1,09234,spreadthesign,2,0,train,25,1,-1,48,0,280,240,https://media.spreadthesign.com/video/mp4/13/125780.mp4,car_0001_spreadthesign_09234.mp4,ok
+2,70268,northtexas,121,0,train,25,4054,4158,128,36,414,360,https://www.youtube.com/watch?v=WGfiiDgrq1I,car_0002_northtexas_70268.mp4,skipped_no_ytdlp
+3,69078,lillybauer,115,0,train,25,1,47,360,75,1008,720,https://www.youtube.com/watch?v=Za4dlDNuOgA,car_0003_lillybauer_69078.mp4,skipped_no_ytdlp
+4,09237,signschool,32,0,train,25,1,-1,728,88,1639,1080,https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Car-iBQ1MrZe2mc.mp4,car_0004_signschool_09237.mp4,ok
+5,09238,asldeafined,59,0,train,25,1,-1,105,20,519,480,https://media.asldeafined.com/vocabulary/1466727183.485.mp4,car_0005_asldeafined_09238.mp4,ok
+7,09240,handspeak,20,0,train,25,1,-1,64,0,545,480,https://www.handspeak.com/word/c/car2.mp4,car_0007_handspeak_09240.mp4,failed
+11,67473,asllex,109,0,train,25,1,-1,87,17,390,360,https://youtu.be/bpaD9jjVXuk,car_0011_asllex_67473.mp4,skipped_no_ytdlp
+12,09244,signingsavvy,11,0,train,25,1,-1,64,5,222,192,https://www.signingsavvy.com/signs/mp4/5/5672.mp4,car_0012_signingsavvy_09244.mp4,ok
+13,09245,aslu,5,0,test,25,1,-1,323,32,938,720,https://www.youtube.com/watch?v=KnZRyc5aYO0,car_0013_aslu_09245.mp4,skipped_no_ytdlp
+14,09246,aslu,5,0,train,25,1,-1,171,12,501,360,https://www.youtube.com/watch?v=-NTyYtAyUPI,car_0014_aslu_09246.mp4,skipped_no_ytdlp
+17,09249,aslsearch,12,0,test,25,1,-1,185,55,579,400,http://www.aslsearch.com/signs/videos/car.mp4,car_0017_aslsearch_09249.mp4,ok
+18,09235,startasl,36,0,val,25,1,-1,217,16,545,414,https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/car.mp4,car_0018_startasl_09235.mp4,ok

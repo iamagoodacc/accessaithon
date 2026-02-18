@@ -36,6 +36,10 @@ def collect_handle(
     if not pose_landmarks.pose_landmarks or len(pose_landmarks.pose_landmarks) == 0:
         raise ValueError("No pose landmarks detected")
 
+    # Need at least one hand — without hands the model can't distinguish signs
+    if not hand_landmarks.hand_landmarks or len(hand_landmarks.hand_landmarks) == 0:
+        raise ValueError("No hand landmarks detected")
+
     used_pose_landmarks = list(map(lambda landmark: [landmark.x, landmark.y, landmark.z], map(lambda idx: pose_landmarks.pose_landmarks[0][idx], POSE_LANDMARKS_IDX_LIST)))
     # all relative to this location
     base_position = used_pose_landmarks[0]

@@ -29,6 +29,7 @@ Usage:
 import os
 import sys
 import argparse
+import json
 import numpy as np
 import cv2
 import torch
@@ -36,8 +37,15 @@ import mediapipe as mp
 import urllib.request
 
 # ──────────────────────────────────────────────
-#  Import the project's existing modules
+#  Resolve paths — hand_tracking/ contains the core modules
 # ──────────────────────────────────────────────
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+HAND_TRACKING_DIR = os.path.join(PROJECT_ROOT, "hand_tracking")
+
+# Add hand_tracking/ to sys.path so we can import core.*
+sys.path.insert(0, HAND_TRACKING_DIR)
+
 from core.data import collect_handle
 from core.model import RecognitionModel, train
 
@@ -247,6 +255,44 @@ def save_data(all_data, data_dir="data"):
 # ──────────────────────────────────────────────
 #  Train model
 # ──────────────────────────────────────────────
+def augment_sequence(seq, num_augmented=10):
+    """
+    Generate augmented copies of a landmark sequence to improve generalization.
+    seq: shape (frames, features) — one sample
+    Returns: list of augmented sequences
+    """
+    augmented = []
+    frames, features = seq.shape
+
+    for _ in range(num_augmented):
+        aug = seq.copy()
+
+        # 1. Gaussian noise — simulates slight hand position differences
+        noise_scale = np.random.uniform(0.005, 0.02)
+        aug += np.random.normal(0, noise_scale, aug.shape)
+
+        # 2. Temporal jitter — randomly drop & duplicate frames to simulate speed variation
+        if frames > 5 and np.random.random() < 0.5:
+            n_drop = np.random.randint(1, max(2, frames // 6))
+            drop_indices = np.random.choice(frames, n_drop, replace=False)
+            keep = np.delete(np.arange(frames), drop_indices)
+            # Resample back to original frame count
+            resample_indices = np.linspace(0, len(keep) - 1, frames, dtype=int)
+            aug = aug[keep][resample_indices]
+
+        # 3. Spatial scaling — simulates different hand sizes / distances from camera
+        scale = np.random.uniform(0.85, 1.15)
+        aug *= scale
+
+        # 4. Small random translation (shift all landmarks)
+        shift = np.random.normal(0, 0.01, features)
+        aug += shift
+
+        augmented.append(aug)
+
+    return augmented
+
+
 def train_model(signs, data_dir="data", epochs=100, lr=0.001, hidden_size=128, num_layers=2, dropout=0.2):
     """Load .npy data and train the LSTM model."""
     x_data = []
@@ -259,9 +305,17 @@ def train_model(signs, data_dir="data", epochs=100, lr=0.001, hidden_size=128, n
             continue
 
         data = np.load(filepath)
+        original_count = len(data)
+
+        # Augment each sample to create more training variety
+        augmented_samples = list(data)  # keep originals
+        for sample in data:
+            augmented_samples.extend(augment_sequence(sample, num_augmented=10))
+
+        data = np.array(augmented_samples)
         x_data.append(data)
         y_data.extend([label_idx] * len(data))
-        print(f"  Loaded '{sign}': {data.shape[0]} samples")
+        print(f"  Loaded '{sign}': {original_count} original -> {len(data)} samples (with augmentation)")
 
     if not x_data:
         print("ERROR: No training data to load!")
@@ -302,9 +356,15 @@ def train_model(signs, data_dir="data", epochs=100, lr=0.001, hidden_size=128, n
         y_train=y_train
     )
 
-    model_path = "recognition_model.pth"
+    model_path = os.path.join(HAND_TRACKING_DIR, "recognition_model.pth")
     torch.save(model.state_dict(), model_path)
     print(f"\n  Model saved to {model_path}")
+
+    # Save signs list so api.py and main.py can load it dynamically
+    signs_path = os.path.join(HAND_TRACKING_DIR, "signs.json")
+    with open(signs_path, "w") as f:
+        json.dump(signs, f)
+    print(f"  Signs list saved to {signs_path}")
 
     return model
 
@@ -318,7 +378,12 @@ def update_signs_in_files(signs):
     so they stay in sync with the trained model.
     """
     signs_str = repr(signs)
-    target_files = ["main.py", "training.py", "collect_data.py", "api.py"]
+    target_files = [
+        os.path.join(HAND_TRACKING_DIR, "main.py"),
+        os.path.join(HAND_TRACKING_DIR, "training", "training.py"),
+        os.path.join(HAND_TRACKING_DIR, "training", "collect_data.py"),
+        os.path.join(HAND_TRACKING_DIR, "api.py"),
+    ]
 
     for filename in target_files:
         if not os.path.exists(filename):
@@ -367,8 +432,9 @@ Each subfolder = one sign. Each video = one sample of that gesture.
 More videos per sign = better accuracy. Aim for 15-30+ videos per sign.
         """
     )
+    default_data_dir = os.path.join(HAND_TRACKING_DIR, "data")
     parser.add_argument("--video_dir", default="videos", help="Path to video folder (default: ./videos)")
-    parser.add_argument("--data_dir", default="data", help="Where to save .npy files (default: ./data)")
+    parser.add_argument("--data_dir", default=default_data_dir, help=f"Where to save .npy files (default: {default_data_dir})")
     parser.add_argument("--frames", type=int, default=30, help="Frames per sequence (default: 30)")
     parser.add_argument("--epochs", type=int, default=100, help="Training epochs (default: 100)")
     parser.add_argument("--lr", type=float, default=0.001, help="Learning rate (default: 0.001)")
@@ -441,11 +507,10 @@ More videos per sign = better accuracy. Aim for 15-30+ videos per sign.
     print("=" * 60)
     print(f"\nSigns trained: {signs}")
     if not args.skip_train:
-        print(f"Model saved to: recognition_model.pth")
-    print(f"\nTo run live detection:  python main.py")
-    if not args.update_signs:
-        print(f"\nRemember to update SIGNS in main.py, api.py, etc. to match: {signs}")
-        print(f"Or re-run with --update_signs to do it automatically.")
+        print(f"Model saved to: {os.path.join(HAND_TRACKING_DIR, 'recognition_model.pth')}")
+        print(f"Signs list saved to: {os.path.join(HAND_TRACKING_DIR, 'signs.json')}")
+    print(f"Data saved to: {args.data_dir}")
+    print(f"\nTo run live detection:  cd {HAND_TRACKING_DIR} && python main.py")
 
 
 if __name__ == "__main__":
