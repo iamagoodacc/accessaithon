@@ -60,7 +60,7 @@ import torch
 import torch.nn as nn
 import math
 
-class PositionalEncoding(nn.Module):
+class PositionalEncoder(nn.Module):
     """
     This is not an NN model it adds timestamp to each frame
     """
@@ -99,16 +99,93 @@ class PositionalEncoding(nn.Module):
         return self.dropout(x)
 
 class CtcRecognitionModel(nn.Module):
-    def __init__(self, d_model: int, nhead: int, input_size: int, num_words: int) -> None:
+    """This is used to train on entire sentences"""
+    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int) -> None:
+        """
+        nhead needs to be a factor of 512
+        """
+
         super().__init__()
 
-        assert d_model % nhead == 0, f"d_model ({d_model}) must be divisible by nhead ({nhead})"
+        self.d_model = 512
         
-        self.input_projection = nn.Linear(in_features=input_size, out_features=d_model)
-        self.transformer_encoder = nn.TransformerEncoderLayer(d_model=d_model, nhead=nhead, batch_first=True)
-        self.ctc_mapper = nn.Linear(in_features=d_model, out_features=num_words + 1)
+        # this makes sure that the features are separately mapped so they don't get mixed up
+        self.lhand_extractor = nn.Linear(in_features=lhand_size, out_features=128)
+        self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=128)
+        self.pose_extractor = nn.Linear(in_features=pose_size, out_features=256)
 
-    def forward(self, x):
-        projected = self.input_projection(x)
-        w_output = self.transformer_encoder(projected)
+        self.pose_encoder = PositionalEncoder(d_model=self.d_model)
+
+        transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
+
+        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers)
+
+        self.ctc_mapper = nn.Linear(in_features=self.d_model, out_features=num_words + 1)
+
+    def forward(self, lhand_x, rhand_x, pose_x, padding_mask=None):
+        """Padding mask has shape [batch_size, frame_count], basically if this frame should be considered, mainly for training videos of different lengths"""
+
+        lhand = self.lhand_extractor(lhand_x)
+        rhand = self.rhand_extractor(rhand_x)
+        pose = self.pose_extractor(pose_x)
+
+        # eventually the goal is to have a 512 sized matrix
+        # we will have tensors with shape (batch, frames, features), so if we set dimension to -1, we stack on features
+        x = torch.cat([lhand, rhand, pose], dim=-1)
+        x = self.pose_encoder(x)
+
+        w_output = self.transformer_encoder(x, src_key_padding_mask=padding_mask)
         return self.ctc_mapper(w_output)
+
+class BertRecognitionModel(nn.Module):
+    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int):
+        super().__init__()
+
+        # This one just adds a frame as a weighted data
+        # nn.Parameter() means that loss.backward() will affect it
+        self.cls_token = nn.Parameter(torch.randn(1, 1, 512))
+
+        self.d_model = 512
+        
+        # this makes sure that the features are separately mapped so they don't get mixed up
+        # If we just straight up converts them into a 512 tensor that might be consufing
+        self.lhand_extractor = nn.Linear(in_features=lhand_size, out_features=128)
+        self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=128)
+        self.pose_extractor = nn.Linear(in_features=pose_size, out_features=256)
+
+        self.pose_encoder = PositionalEncoder(d_model=self.d_model)
+
+        transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
+
+        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers)
+
+        self.mapper = nn.Linear(in_features=self.d_model, out_features=num_words + 1)
+
+
+    def forward(self, lhand_x, rhand_x, pose_x, padding_mask=None):
+        lhand = self.lhand_extractor(lhand_x)
+        rhand = self.rhand_extractor(rhand_x)
+        pose = self.pose_extractor(pose_x)
+        
+        x = torch.cat([lhand, rhand, pose], dim=-1)
+ 
+        # this gets the batch size because the structure of a tensor here is (batch, frame_count, len)
+        batch_size = x.size(0)
+
+        cls_tokens = self.cls_token.expand(batch_size, -1, -1)
+        
+        # adds the cls tokens to the frame_count one
+        x = torch.cat([cls_tokens, x], dim=1)
+
+        # the cls tokens need a pose encoder asw
+        x = self.pose_encoder(x)
+
+        padding_mask_with_cls = None
+        if padding_mask is not None:
+            cls_mask = torch.zeros(batch_size, 1, dtype=torch.bool, device=x.device)
+            padding_mask_with_cls = torch.cat([cls_mask, padding_mask], dim=1)
+
+        w_output = self.transformer_encoder(x, src_key_padding_mask=padding_mask_with_cls)
+
+        return self.mapper(w_output[:, 0, :])
+
