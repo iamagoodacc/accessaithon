@@ -56,9 +56,75 @@ we get to use pytorch's CTC decoder to decode this
 Then we send it to CTC loss and pytorch will do the magic during training
 """
 
+from typing import List, TypedDict
 import torch
+from torch import Tensor
 import torch.nn as nn
 import math
+
+from torch.utils.data import DataLoader
+
+class FrameData(TypedDict):
+    nframes: int
+    lhand_features: Tensor  # shape: (nframes, lhand_features_count)
+    rhand_features: Tensor  # shape: (nframes, rhand_features_count)
+    pose_features: Tensor   # shape: (nframes, pose_features_count)
+    labels: Tensor          # shape: (num_signs,) — sequence of word indices e.g. [1, 3, 2]
+                            # indices must start from 1, since 0 is reserved for CTC blank
+
+class SignLangDataset(torch.utils.data.Dataset):
+    def __init__(self, file_paths: list[str]):
+        """
+        @param file_paths: list of paths to .pt files
+        """
+        super().__init__()
+        self.file_paths = file_paths
+
+    def __len__(self):
+        return len(self.file_paths)
+
+    def __getitem__(self, index) -> FrameData:
+        # Load the dictionary from the disk
+        # map_location='cpu' ensures we don't accidentally flood the GPU memory
+        data: FrameData = torch.load(self.file_paths[index], map_location='cpu', weights_only=True)
+        return data
+
+def collate_fn(batch: List[FrameData]):
+    lhand_list = [data["lhand_features"] for data in batch]
+    rhand_list = [data["rhand_features"] for data in batch]
+    pose_list = [data["pose_features"] for data in batch]
+    
+    # shape of (batch_size)
+    lengths = torch.tensor([d['nframes'] for d in batch], dtype=torch.long)
+
+    lhand_padded = torch.nn.utils.rnn.pad_sequence(lhand_list, batch_first=True)
+    rhand_padded = torch.nn.utils.rnn.pad_sequence(rhand_list, batch_first=True)
+    pose_padded  = torch.nn.utils.rnn.pad_sequence(pose_list, batch_first=True)
+
+    max_len = lhand_padded.size(1)
+
+    # first get (max_len), and then expand that into (batch_size, max_len)
+    # then length.unsqueeze(1) to turn it into (batch_size, 1)
+    # >= will use broadcasting to turn (batch_sizee, 1) to (batch_size, max_len) and return a bool tensor of (batch_size, max_len) where the bool is for the comparison between each element
+    mask = torch.arange(max_len).expand(len(lengths), max_len) >= lengths.unsqueeze(1)
+
+    labels = torch.cat([data["labels"] for data in batch], dim=0)
+    target_lengths = torch.tensor([data["labels"].size(0) for data in batch], dtype=torch.long)
+    
+    # this is what we will get for each batch
+    return {
+        'lhand': lhand_padded,   # (batch, max_frames, lhand_features)
+        'rhand': rhand_padded,   # (batch, max_frames, rhand_features)
+        'pose': pose_padded,    # (batch, max_frames, pose_features)
+        'mask': mask,           # (batch, max_frames) — True means ignore
+        'lengths': lengths,        # (batch,) — real frame count per sample
+        'labels': labels,  # (total_labels,) — all labels concatenated
+        'target_lengths': target_lengths  # (batch,) — how many labels each sample has
+    }
+
+def get_dataloader(dataset: SignLangDataset):
+    loader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)
+    return loader
 
 class PositionalEncoder(nn.Module):
     """
@@ -100,7 +166,7 @@ class PositionalEncoder(nn.Module):
 
 class CtcRecognitionModel(nn.Module):
     """This is used to train on entire sentences"""
-    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int) -> None:
+    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int):
         """
         nhead needs to be a factor of 512
         """
@@ -114,7 +180,7 @@ class CtcRecognitionModel(nn.Module):
         self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=128)
         self.pose_extractor = nn.Linear(in_features=pose_size, out_features=256)
 
-        self.pose_encoder = PositionalEncoder(d_model=self.d_model)
+        self.positional_encoder = PositionalEncoder(d_model=self.d_model)
 
         transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
 
@@ -132,10 +198,38 @@ class CtcRecognitionModel(nn.Module):
         # eventually the goal is to have a 512 sized matrix
         # we will have tensors with shape (batch, frames, features), so if we set dimension to -1, we stack on features
         x = torch.cat([lhand, rhand, pose], dim=-1)
-        x = self.pose_encoder(x)
+        x = self.positional_encoder(x)
 
         w_output = self.transformer_encoder(x, src_key_padding_mask=padding_mask)
         return self.ctc_mapper(w_output)
+
+def train_ctc(model: CtcRecognitionModel, lr: float, num_epochs: int, dataset: SignLangDataset):
+    # 0 as CTC blank and make infinities 0
+    criterion = nn.CTCLoss(zero_infinity=True, blank=0)
+    optimizer = torch.optim.Adam(model.parameters(), lr=lr)
+
+    loader = get_dataloader(dataset)
+
+    for epoch in range(num_epochs):
+        model.train()
+        total_loss = 0.0
+
+        for batch in loader:
+            logits = model(batch['lhand'], batch['rhand'], batch['pose'], batch['mask'])
+            log_probs = torch.nn.functional.log_softmax(logits, dim=-1)
+
+            log_probs = log_probs.permute(1, 0, 2)
+
+            optimizer.zero_grad()
+
+            loss = criterion(log_probs, batch['labels'], batch['lengths'], batch['target_lengths'])
+            total_loss += loss.item()
+            loss.backward()
+
+            optimizer.step()
+
+        avg_loss = total_loss / len(loader)
+        print(f"Epoch [{epoch + 1}/{num_epochs}] Loss: {avg_loss:.4f}")
 
 class BertRecognitionModel(nn.Module):
     def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int):
@@ -153,7 +247,7 @@ class BertRecognitionModel(nn.Module):
         self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=128)
         self.pose_extractor = nn.Linear(in_features=pose_size, out_features=256)
 
-        self.pose_encoder = PositionalEncoder(d_model=self.d_model)
+        self.positional_encoder = PositionalEncoder(d_model=self.d_model)
 
         transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
 
@@ -178,7 +272,7 @@ class BertRecognitionModel(nn.Module):
         x = torch.cat([cls_tokens, x], dim=1)
 
         # the cls tokens need a pose encoder asw
-        x = self.pose_encoder(x)
+        x = self.positional_encoder(x)
 
         padding_mask_with_cls = None
         if padding_mask is not None:
@@ -188,4 +282,3 @@ class BertRecognitionModel(nn.Module):
         w_output = self.transformer_encoder(x, src_key_padding_mask=padding_mask_with_cls)
 
         return self.mapper(w_output[:, 0, :])
-
