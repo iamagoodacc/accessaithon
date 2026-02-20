@@ -5,21 +5,11 @@ If the model can't overfit its own training data, something is wrong with the co
 import os
 import glob
 import torch
-from core.transformer import CtcRecognitionModel, SignLangDataset, collate_fn
+from core.transformer import CtcRecognitionModel, SignLangDataset, collate_fn, VOCABULARY
 from torch.utils.data import DataLoader
 
 MODEL_PATH = "model.pt"
 DATA_DIR   = "training/data"
-
-VOCABULARY = {
-    0: "blank",
-    1: "Hello",
-    2: "I",
-    3: "You",
-    4: "Want",
-    5: "Apple",
-}
-
 
 def decode(log_probs: torch.Tensor) -> list[str]:
     """

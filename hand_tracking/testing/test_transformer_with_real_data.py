@@ -15,20 +15,11 @@ os.environ["GLOG_minloglevel"] = "2"
 from mediapipe.tasks.python import BaseOptions
 from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarker, HandLandmarkerOptions
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarker, PoseLandmarkerOptions
-from core.transformer import CtcRecognitionModel
+from core.transformer import CtcRecognitionModel, VOCABULARY
 from core.data import collect_handle, NUM_LANDMARKS_IN_HAND, POSE_LANDMARKS_IDX_LIST, DIMENSIONS
 from training.transformer_data import draw_landmarks, download_models
 
 MODEL_PATH = "model.pt"
-
-VOCABULARY = {
-    0: "blank",
-    1: "Hello",
-    2: "I",
-    3: "You",
-    4: "Want",
-    5: "Apple",
-}
 
 LHAND_FEATURES = NUM_LANDMARKS_IN_HAND * DIMENSIONS
 RHAND_FEATURES = NUM_LANDMARKS_IN_HAND * DIMENSIONS

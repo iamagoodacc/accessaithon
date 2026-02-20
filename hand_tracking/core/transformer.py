@@ -64,6 +64,15 @@ import math
 
 from torch.utils.data import DataLoader
 
+VOCABULARY = {
+    0: "blank",
+    1: "Hello",
+    2: "I",
+    3: "You",
+    4: "Want",
+    5: "Apple",
+}
+
 class FrameData(TypedDict):
     nframes: int
     lhand_features: Tensor  # shape: (nframes, lhand_features_count)

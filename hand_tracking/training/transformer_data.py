@@ -8,11 +8,11 @@ import urllib.request
 import torch
 import cv2
 import mediapipe as mp
-from mediapipe.tasks.python import vision, BaseOptions
+from mediapipe.tasks.python import BaseOptions
 from mediapipe.tasks.python.vision.hand_landmarker import HandLandmarker, HandLandmarkerOptions
 from mediapipe.tasks.python.vision.pose_landmarker import PoseLandmarker, PoseLandmarkerOptions
 from core.data import collect_handle, NUM_LANDMARKS_IN_HAND, POSE_LANDMARKS_IDX_LIST, DIMENSIONS
-import sys
+
 def draw_landmarks(frame, hand_result, pose_result):
     """Draw hand and pose landmarks onto the frame using OpenCV directly."""
     h, w = frame.shape[:2]
