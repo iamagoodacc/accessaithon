@@ -166,25 +166,25 @@ class PositionalEncoder(nn.Module):
 
 class CtcRecognitionModel(nn.Module):
     """This is used to train on entire sentences"""
-    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int):
+    def __init__(self, nhead: int, lhand_size: int, rhand_size: int, pose_size: int, num_words: int, num_layers: int, d_model: int):
         """
-        nhead needs to be a factor of 512
+        nhead needs to be a factor of 128 
         """
 
         super().__init__()
 
-        self.d_model = 512
+        self.d_model = d_model
         
         # this makes sure that the features are separately mapped so they don't get mixed up
-        self.lhand_extractor = nn.Linear(in_features=lhand_size, out_features=128)
-        self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=128)
-        self.pose_extractor = nn.Linear(in_features=pose_size, out_features=256)
+        self.lhand_extractor = nn.Linear(in_features=lhand_size, out_features=d_model // 4)
+        self.rhand_extractor = nn.Linear(in_features=rhand_size, out_features=d_model // 4)
+        self.pose_extractor = nn.Linear(in_features=pose_size, out_features=d_model // 2)
 
         self.positional_encoder = PositionalEncoder(d_model=self.d_model)
 
         transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
 
-        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers)
+        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers, enable_nested_tensor=False)
 
         self.ctc_mapper = nn.Linear(in_features=self.d_model, out_features=num_words + 1)
 
@@ -225,6 +225,7 @@ def train_ctc(model: CtcRecognitionModel, lr: float, num_epochs: int, dataset: S
             loss = criterion(log_probs, batch['labels'], batch['lengths'], batch['target_lengths'])
             total_loss += loss.item()
             loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
             optimizer.step()
 
@@ -251,7 +252,7 @@ class BertRecognitionModel(nn.Module):
 
         transformer_encoder_layer = nn.TransformerEncoderLayer(d_model=self.d_model, nhead=nhead, batch_first=True)
 
-        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers)
+        self.transformer_encoder = nn.TransformerEncoder(transformer_encoder_layer, num_layers=num_layers, enable_nested_tensor=False)
 
         self.mapper = nn.Linear(in_features=self.d_model, out_features=num_words + 1)
 
